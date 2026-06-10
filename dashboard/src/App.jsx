@@ -12,6 +12,43 @@ const MODELOS = {
 };
 const GRUPOS = 'ABCDEFGHIJKL'.split('');
 
+const REDES = {
+  instagram: 'https://www.instagram.com/zoc_labs/',
+  tiktok: 'https://www.tiktok.com/@zoclabs5',
+  youtube: 'https://www.youtube.com/@ZocLabs',
+};
+
+const ICONES = {
+  instagram: (
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" strokeWidth="2">
+      <rect x="2" y="2" width="20" height="20" rx="5" /><circle cx="12" cy="12" r="4.5" />
+      <circle cx="17.6" cy="6.4" r="1.2" fill="currentColor" stroke="none" />
+    </svg>
+  ),
+  tiktok: (
+    <svg viewBox="0 0 24 24" width="21" height="21" fill="currentColor">
+      <path d="M16.5 3c.3 2.1 1.5 3.4 3.5 3.6V9c-1.3.1-2.5-.3-3.5-1v6.8c0 3.3-2.7 5.7-5.8 5.2-2.6-.4-4.4-2.9-3.9-5.6.4-2.3 2.5-3.9 4.9-3.6v2.5c-.4-.1-.8-.1-1.2 0-1 .3-1.6 1.3-1.3 2.3.3 1 1.4 1.6 2.4 1.2.8-.3 1.2-1 1.2-1.9V3z" />
+    </svg>
+  ),
+  youtube: (
+    <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+      <path d="M23 7.5a3 3 0 0 0-2.1-2.1C19 4.8 12 4.8 12 4.8s-7 0-8.9.6A3 3 0 0 0 1 7.5 31 31 0 0 0 .5 12 31 31 0 0 0 1 16.5a3 3 0 0 0 2.1 2.1c1.9.6 8.9.6 8.9.6s7 0 8.9-.6A3 3 0 0 0 23 16.5 31 31 0 0 0 23.5 12 31 31 0 0 0 23 7.5zM9.8 15.3V8.7l5.7 3.3z" />
+    </svg>
+  ),
+};
+
+function Redes() {
+  return (
+    <div className="socials">
+      {Object.entries(REDES).map(([rede, url]) => (
+        <a key={rede} href={url} target="_blank" rel="noopener noreferrer" aria-label={rede} title={`ZocLabs no ${rede}`}>
+          {ICONES[rede]}
+        </a>
+      ))}
+    </div>
+  );
+}
+
 export default function App() {
   const [aba, setAba] = useState('placar');
   const [dados, setDados] = useState(null);
@@ -43,7 +80,10 @@ export default function App() {
       <header>
         <div className="logo-line">
           <span className="logo">Zoc<span className="t">Labs</span> 🧪</span>
-          <span className="serie">SÉRIE ESPECIAL · COPA 2026</span>
+          <div className="topright">
+            <span className="serie">SÉRIE ESPECIAL · COPA 2026</span>
+            <Redes />
+          </div>
         </div>
         <h1>Inteligência <span className="am">Artilheira</span> <span className="ball">⚽🤖</span></h1>
         <p className="sub">
@@ -67,8 +107,8 @@ export default function App() {
       {aba === 'sobre' && <Sobre />}
 
       <footer>
-        <b>ZocLabs</b> — Tecnologia na prática. · Palpites registrados em git <i>antes</i> de cada rodada ·
-        Regra de pontos: 3 placar exato · 2 vencedor+saldo · 1 vencedor · 0 errou
+        <div className="footer-redes"><b>ZocLabs</b> — Tecnologia na prática. <Redes /></div>
+        <div className="footer-regra">Palpites registrados em git <i>antes</i> de cada rodada · Regra de pontos: 3 placar exato · 2 vencedor+saldo · 1 vencedor · 0 errou</div>
       </footer>
     </div>
   );
@@ -158,15 +198,24 @@ function Grupos({ dados, nomes }) {
 
 function Jogos({ dados, nomes }) {
   const [rodada, setRodada] = useState(1);
-  const jogos = dados.partidas.filter((p) => p.fase === 'grupos' && p.rodada === rodada);
+  const [grupo, setGrupo] = useState('todos');
+  const jogos = dados.partidas.filter(
+    (p) => p.fase === 'grupos' && p.rodada === rodada && (grupo === 'todos' || p.grupo === grupo)
+  );
   const palpite = (pid, m) => dados.palpites.find((x) => x.partida_id === pid && x.modelo === m);
 
   return (
     <section>
       <div className="chips centro">{[1, 2, 3].map((r) => <button key={r} className={r === rodada ? 'on' : ''} onClick={() => setRodada(r)}>Rodada {r}</button>)}</div>
+      <div className="chips centro grupos-filtro">
+        <button className={grupo === 'todos' ? 'on' : ''} onClick={() => setGrupo('todos')}>Todos</button>
+        {GRUPOS.map((g) => <button key={g} className={grupo === g ? 'on' : ''} onClick={() => setGrupo(g)}>{g}</button>)}
+      </div>
+      {!jogos.length && <div className="vazio">Nenhum jogo nesse recorte. 🍿</div>}
       <div className="jogos">
         {jogos.map((j) => (
           <div key={j.id} className="jogo">
+            <div className="grupo-tag">Grupo {j.grupo}</div>
             <div className="confronto">
               <span className="time">{nomes[j.casa] || j.casa}</span>
               <span className="placar-real">{j.status === 'encerrada' ? `${j.gols_casa} × ${j.gols_fora}` : new Date(j.data_jogo + 'T12:00:00').toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' })}</span>
@@ -219,7 +268,39 @@ function Sobre() {
       <p>Contra elas, um controle: o <b>Palpiteiro Cego</b>, que sempre aposta no favorito do ranking FIFA ganhando de 1×0. Se a IA não bate isso, pra que serve? 😅</p>
       <p>🔒 <b>Anti-trapaça:</b> todos os palpites são commitados em git <i>antes</i> dos jogos — o timestamp é público e auditável.</p>
       <p>📈 Pontuação: <b>3</b> placar exato · <b>2</b> vencedor + saldo · <b>1</b> vencedor · <b>0</b> errou.</p>
+
+      <details className="prompt-toggle">
+        <summary>🔍 Ver o prompt exato enviado às duas IAs</summary>
+        <p className="prompt-intro">Este é o mesmo texto, palavra por palavra, dado ao Claude Code e ao Codex em toda rodada. Transparência total — audite você mesmo.</p>
+        <pre className="prompt-box">{PROMPT_MASTER}</pre>
+      </details>
+
       <p className="cta">Acompanhe a série no canal <b>ZocLabs</b> — tecnologia na prática. 🧪</p>
     </section>
   );
 }
+
+const PROMPT_MASTER = `Você é um analista de futebol orientado a dados, participando de um experimento controlado de previsão da Copa do Mundo 2026.
+
+## Suas fontes de informação (as ÚNICAS permitidas)
+1. selecoes/grupo_*/<pais>/PERFIL.md — histórico, elenco, técnico, estilo, ranking
+2. selecoes/grupo_*/<pais>/NOTICIAS.md — notícias datadas (lesões, escalações, contexto recente)
+3. rodadas/rodada_*/resultados_reais.csv — o que já aconteceu na Copa até aqui
+4. infra/calendario.csv — tabela de jogos (ids, datas, confrontos)
+
+## Regras invioláveis
+- PROIBIDO buscar na internet ou usar qualquer fonte externa às pastas listadas.
+- PROIBIDO usar conhecimento sobre jogos que ainda não aconteceram.
+- Leia os arquivos das seleções envolvidas ANTES de palpitar.
+- Analise: força do elenco, momento/forma, contexto tático, lesões, retrospecto, fator casa.
+- As probabilidades de cada jogo devem somar 100.
+- confianca = sua confiança no resultado, de 0 a 100.
+- justificativa = máximo 140 caracteres, objetiva.
+
+## Quando o usuário pedir "resultados da rodada X"
+1. Identifique no calendario.csv os jogos da rodada solicitada.
+2. Leia os arquivos das seleções envolvidas.
+3. Responda SOMENTE com um bloco CSV — nenhuma palavra antes ou depois:
+   partida_id,casa,fora,gols_casa,gols_fora,prob_casa,prob_empate,prob_fora,confianca,justificativa
+4. Em mata-mata, não pode empate: indique o classificado pelo placar.
+5. Salve o mesmo conteúdo em rodadas/rodada_XX/<modelo>.csv.`;
