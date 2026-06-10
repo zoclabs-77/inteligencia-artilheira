@@ -1,0 +1,11 @@
+import pg from 'pg';
+const PASS = encodeURIComponent('Zocateli#2026');
+const c = new pg.Client({ connectionString: `postgresql://postgres:${PASS}@db.epiudtrblgeljjmogaho.supabase.co:5432/postgres`, ssl: { rejectUnauthorized: false } });
+await c.connect();
+const q = async (s) => (await c.query(s)).rows;
+console.log('selecoes:', (await q('select count(*) n from copa.selecoes'))[0].n);
+console.log('partidas:', (await q('select count(*) n from copa.partidas'))[0].n);
+console.log('rodada1:', (await q("select count(*) n from copa.partidas where rodada=1"))[0].n);
+console.log('views:', (await q("select table_name from information_schema.views where table_schema='copa' order by 1")).map(r=>r.table_name).join(', '));
+console.log('RLS:', (await q("select relname, relrowsecurity from pg_class c join pg_namespace n on n.oid=c.relnamespace where n.nspname='copa' and relkind='r'")).map(r=>`${r.relname}=${r.relrowsecurity}`).join(', '));
+await c.end();

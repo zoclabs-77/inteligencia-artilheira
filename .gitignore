@@ -1,0 +1,15 @@
+# credenciais — NUNCA commitar
+*.env
+*.env.*
+env.Supabase*
+.env*
+
+# node / build
+node_modules/
+dist/
+.vercel/
+
+# sistema
+.DS_Store
+Thumbs.db
+node_modules/

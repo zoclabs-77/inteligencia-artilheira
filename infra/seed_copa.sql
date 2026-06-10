@@ -1,0 +1,146 @@
+-- ============================================================
+-- SEED — seleções (48) e partidas da fase de grupos (72)
+-- ranking_fifa: aproximado (fim de 2025) — usado só pelo baseline;
+-- a routine pode atualizar depois.
+-- ============================================================
+
+insert into copa.selecoes (slug, nome, grupo, ranking_fifa) values
+-- Grupo A
+('mexico','México','A',14),
+('africa-do-sul','África do Sul','A',60),
+('coreia-do-sul','Coreia do Sul','A',22),
+('tchequia','Tchéquia','A',44),
+-- Grupo B
+('canada','Canadá','B',27),
+('bosnia','Bósnia e Herzegovina','B',70),
+('catar','Catar','B',53),
+('suica','Suíça','B',17),
+-- Grupo C
+('brasil','Brasil','C',5),
+('marrocos','Marrocos','C',11),
+('haiti','Haiti','C',84),
+('escocia','Escócia','C',38),
+-- Grupo D
+('eua','Estados Unidos','D',15),
+('paraguai','Paraguai','D',39),
+('australia','Austrália','D',25),
+('turquia','Turquia','D',26),
+-- Grupo E
+('alemanha','Alemanha','E',9),
+('curacao','Curaçao','E',82),
+('costa-do-marfim','Costa do Marfim','E',42),
+('equador','Equador','E',23),
+-- Grupo F
+('holanda','Holanda','F',7),
+('japao','Japão','F',18),
+('suecia','Suécia','F',40),
+('tunisia','Tunísia','F',41),
+-- Grupo G
+('belgica','Bélgica','G',8),
+('egito','Egito','G',33),
+('ira','Irã','G',20),
+('nova-zelandia','Nova Zelândia','G',86),
+-- Grupo H
+('espanha','Espanha','H',1),
+('cabo-verde','Cabo Verde','H',68),
+('arabia-saudita','Arábia Saudita','H',59),
+('uruguai','Uruguai','H',16),
+-- Grupo I
+('franca','França','I',3),
+('senegal','Senegal','I',19),
+('iraque','Iraque','I',58),
+('noruega','Noruega','I',29),
+-- Grupo J
+('argentina','Argentina','J',2),
+('argelia','Argélia','J',35),
+('austria','Áustria','J',24),
+('jordania','Jordânia','J',64),
+-- Grupo K
+('portugal','Portugal','K',6),
+('rd-congo','RD Congo','K',56),
+('uzbequistao','Uzbequistão','K',55),
+('colombia','Colômbia','K',13),
+-- Grupo L
+('inglaterra','Inglaterra','L',4),
+('croacia','Croácia','L',10),
+('gana','Gana','L',73),
+('panama','Panamá','L',30)
+on conflict (slug) do update set nome = excluded.nome, grupo = excluded.grupo, ranking_fifa = excluded.ranking_fifa;
+
+insert into copa.partidas (id, fase, rodada, grupo, data_jogo, casa, fora, obs) values
+-- Rodada 1
+(1,'grupos',1,'A','2026-06-11','mexico','africa-do-sul','abertura'),
+(2,'grupos',1,'A','2026-06-11','coreia-do-sul','tchequia',null),
+(3,'grupos',1,'B','2026-06-12','canada','bosnia',null),
+(4,'grupos',1,'D','2026-06-12','eua','paraguai',null),
+(5,'grupos',1,'B','2026-06-13','catar','suica',null),
+(6,'grupos',1,'C','2026-06-13','brasil','marrocos','estreia do Brasil'),
+(7,'grupos',1,'C','2026-06-13','haiti','escocia',null),
+(8,'grupos',1,'D','2026-06-14','australia','turquia',null),
+(9,'grupos',1,'E','2026-06-14','alemanha','curacao',null),
+(10,'grupos',1,'F','2026-06-14','holanda','japao',null),
+(11,'grupos',1,'E','2026-06-14','costa-do-marfim','equador',null),
+(12,'grupos',1,'F','2026-06-14','suecia','tunisia',null),
+(13,'grupos',1,'H','2026-06-15','espanha','cabo-verde',null),
+(14,'grupos',1,'G','2026-06-15','belgica','egito',null),
+(15,'grupos',1,'H','2026-06-15','arabia-saudita','uruguai',null),
+(16,'grupos',1,'G','2026-06-15','ira','nova-zelandia',null),
+(17,'grupos',1,'I','2026-06-16','franca','senegal',null),
+(18,'grupos',1,'I','2026-06-16','iraque','noruega',null),
+(19,'grupos',1,'J','2026-06-16','argentina','argelia',null),
+(20,'grupos',1,'J','2026-06-17','austria','jordania',null),
+(21,'grupos',1,'K','2026-06-17','portugal','rd-congo',null),
+(22,'grupos',1,'L','2026-06-17','inglaterra','croacia',null),
+(23,'grupos',1,'L','2026-06-17','gana','panama',null),
+(24,'grupos',1,'K','2026-06-17','uzbequistao','colombia',null),
+-- Rodada 2
+(25,'grupos',2,'A','2026-06-18','tchequia','africa-do-sul',null),
+(26,'grupos',2,'B','2026-06-18','suica','bosnia',null),
+(27,'grupos',2,'B','2026-06-18','canada','catar',null),
+(28,'grupos',2,'A','2026-06-18','mexico','coreia-do-sul',null),
+(29,'grupos',2,'D','2026-06-19','eua','australia',null),
+(30,'grupos',2,'C','2026-06-19','escocia','marrocos',null),
+(31,'grupos',2,'C','2026-06-19','brasil','haiti',null),
+(32,'grupos',2,'D','2026-06-20','turquia','paraguai',null),
+(33,'grupos',2,'F','2026-06-20','holanda','suecia',null),
+(34,'grupos',2,'E','2026-06-20','alemanha','costa-do-marfim',null),
+(35,'grupos',2,'E','2026-06-20','equador','curacao',null),
+(36,'grupos',2,'F','2026-06-21','tunisia','japao',null),
+(37,'grupos',2,'H','2026-06-21','espanha','arabia-saudita',null),
+(38,'grupos',2,'G','2026-06-21','belgica','ira',null),
+(39,'grupos',2,'H','2026-06-21','uruguai','cabo-verde',null),
+(40,'grupos',2,'G','2026-06-21','nova-zelandia','egito',null),
+(41,'grupos',2,'J','2026-06-22','argentina','austria',null),
+(42,'grupos',2,'I','2026-06-22','franca','iraque',null),
+(43,'grupos',2,'I','2026-06-22','noruega','senegal',null),
+(44,'grupos',2,'J','2026-06-23','jordania','argelia',null),
+(45,'grupos',2,'K','2026-06-23','portugal','uzbequistao',null),
+(46,'grupos',2,'L','2026-06-23','inglaterra','gana',null),
+(47,'grupos',2,'L','2026-06-23','panama','croacia',null),
+(48,'grupos',2,'K','2026-06-23','colombia','rd-congo',null),
+-- Rodada 3
+(49,'grupos',3,'B','2026-06-24','suica','canada',null),
+(50,'grupos',3,'B','2026-06-24','bosnia','catar',null),
+(51,'grupos',3,'C','2026-06-24','marrocos','haiti',null),
+(52,'grupos',3,'C','2026-06-24','escocia','brasil',null),
+(53,'grupos',3,'A','2026-06-24','africa-do-sul','coreia-do-sul',null),
+(54,'grupos',3,'A','2026-06-24','tchequia','mexico',null),
+(55,'grupos',3,'E','2026-06-25','curacao','costa-do-marfim',null),
+(56,'grupos',3,'E','2026-06-25','equador','alemanha',null),
+(57,'grupos',3,'F','2026-06-25','tunisia','holanda',null),
+(58,'grupos',3,'F','2026-06-25','japao','suecia',null),
+(59,'grupos',3,'D','2026-06-25','turquia','eua',null),
+(60,'grupos',3,'D','2026-06-25','paraguai','australia',null),
+(61,'grupos',3,'I','2026-06-26','noruega','franca',null),
+(62,'grupos',3,'I','2026-06-26','senegal','iraque',null),
+(63,'grupos',3,'H','2026-06-26','cabo-verde','arabia-saudita',null),
+(64,'grupos',3,'H','2026-06-26','uruguai','espanha',null),
+(65,'grupos',3,'G','2026-06-27','nova-zelandia','belgica',null),
+(66,'grupos',3,'G','2026-06-27','egito','ira',null),
+(67,'grupos',3,'L','2026-06-27','panama','inglaterra',null),
+(68,'grupos',3,'L','2026-06-27','croacia','gana',null),
+(69,'grupos',3,'J','2026-06-27','argentina','jordania','confronto deduzido; data a confirmar'),
+(70,'grupos',3,'J','2026-06-27','austria','argelia','confronto deduzido; data a confirmar'),
+(71,'grupos',3,'K','2026-06-27','portugal','colombia','confronto deduzido; data a confirmar'),
+(72,'grupos',3,'K','2026-06-27','rd-congo','uzbequistao','confronto deduzido; data a confirmar')
+on conflict (id) do nothing;
