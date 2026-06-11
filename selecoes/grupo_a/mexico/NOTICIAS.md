@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-11
+- Hoje é o jogo de abertura da Copa do Mundo 2026: México x África do Sul, às 16h (Brasília), no Estádio Azteca, Cidade do México (fonte: https://www.correio24horas.com.br/esportes/mexico-x-africa-do-sul-veja-horario-escalacoes-e-onde-assistir-ao-jogo-de-abertura-da-copa-do-mundo-0626)
+- Escalação confirmada (4-3-3): Raúl Rangel; Jorge Sánchez, César Montes, Johan Vásquez e Jesús Gallardo; Erik Lira, Roberto Alvarado e Álvaro Fidalgo; Brian Gutiérrez, Julián Quiñones e Raúl Jiménez (fonte: https://www.365scores.com/pt-br/news/magazine/mexico-x-africa-do-sul-escalacoes-analise-copa/)
+- México (15º no ranking FIFA) chega para o jogo inaugural com fator casa: estádio lotado com cerca de 87 mil torcedores e altitude de 2.200m a seu favor (fonte: https://www.correio24horas.com.br/esportes/mexico-x-africa-do-sul-veja-horario-escalacoes-e-onde-assistir-ao-jogo-de-abertura-da-copa-do-mundo-0626)
+- **Próximo jogo:** África do Sul, hoje (11/06), 16h, no Estádio Azteca — México como anfitrião e favorito na partida que abre oficialmente o Mundial
+
 ## 📅 2026-06-10
 - Capitão Edson Alvarez retornou aos treinos após cirurgia no tornozelo (fevereiro) e jogou os 3 amistosos pré-Copa, mas terá carga monitorada (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/mexico/team-news)
 - Goleiro titular Luis Ángel Malagón rompeu o ligamento cruzado em março e foi substituído por Raúl Rangel na meta (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/mexico/team-news)

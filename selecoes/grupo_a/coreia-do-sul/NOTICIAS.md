@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-11
+- Hoje é dia de estreia: Coreia do Sul x Tchéquia, às 23h (Brasília), no Estádio Akron, em Zapopan (Guadalajara) (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/coreia-do-sul-convocacao-copa-do-mundo)
+- Convocados confirmados por setor: goleiros Kim Seunggyu, Song Bumkeun e Jo Hyeonwoo; defesa com Kim Min-jae, Kim Taehyeon e Lee Kihyuk; meio com Lee Kang-in, Hwang Inbeom e Hwang Hee-chan; ataque liderado por Son Heung-min, Oh Hyeongyu e Cho Gue-sung (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/coreia-do-sul-convocacao-copa-do-mundo)
+- **Próximo jogo:** Tchéquia, hoje (11/06), 23h, em Zapopan — confronto direto entre estreantes/retornantes do Grupo A, com Son Heung-min como principal referência ofensiva sul-coreana
+
 ## 📅 2026-06-10
 - Técnico Hong Myung-bo divulgou os 26 convocados: 3 goleiros, 10 defensores, 9 meio-campistas e 4 atacantes (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/korea-republic/team-news)
 - Son Heung-min lidera o grupo, ao lado de Lee Kang-in, Kim Min-jae e Hwang Hee-chan (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/korea-republic/team-news)

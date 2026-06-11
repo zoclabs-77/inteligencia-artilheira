@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-11
+- Julio Enciso (Strasbourg), principal jogador do elenco, sofreu lesão na coxa direita em amistoso e está fora da estreia contra os EUA; tendência é que volte a ser relacionado apenas no 2º jogo, contra a Turquia (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/estrela-do-paraguai-esta-fora-da-estreia-da-copa-do-mundo-contra-os-estados-unidos,79e7cee9da4432ced09647fdc06233ab8tz9d890.html)
+- Provável escalação para amanhã (4-3-3): Roberto Fernández; Cáceres, Gustavo Gómez, Alderete e Alonso; Diego Gómez, Ojeda e Cubas; Almirón, Sanabria e Mauricio (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-estados-unidos-x-paraguai-12-06-2026.html)
+- **Próximo jogo:** Estados Unidos, 12/06, 22h, no SoFi Stadium (Inglewood) — Paraguai desfalcado de Enciso vai à estreia contando com Almirón e Sanabria no ataque
+
 ## 📅 2026-06-10
 - Técnico argentino Gustavo Alfaro convocou 26 jogadores, incluindo o trio do Palmeiras (Gustavo Gómez, Maurício, Ramón Sosa) e o são-paulino Damian Bobadilla; ao todo, 7 atletas vêm do Brasileirão (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/paraguai-anuncia-a-convocacao-para-copa-do-mundo-com-trio-do-palmeiras-e-jogador-do-sao-paulo,0e8ae67f81c7b9470c87d4e6493ddb01jmgejshv.html)
 - Outros nomes: atacante Isidro Pitta (Red Bull Bragantino) e zagueiros Fabián Balbuena (Grêmio) e Júnior Alonso (Atlético-MG) (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/paraguai-anuncia-a-convocacao-para-copa-do-mundo-com-trio-do-palmeiras-e-jogador-do-sao-paulo,0e8ae67f81c7b9470c87d4e6493ddb01jmgejshv.html)

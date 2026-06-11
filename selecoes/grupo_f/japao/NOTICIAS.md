@@ -3,3 +3,8 @@
 > Alimentado diariamente pela routine `copa-contexto`. Entradas mais recentes no topo, sempre com data e fonte.
 
 ---
+
+## 📅 2026-06-11
+- Técnico Hajime Moriyasu divulgou os 26 convocados (3 goleiros, 11 defensores, 8 meio-campistas e 6 atacantes); principal ausência é o atacante Kaoru Mitoma (Brighton), cortado por lesão muscular (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/japao-anuncia-lista-de-convocados-para-copa-sem-destaque-da-premier-league/)
+- Calendário do Grupo F: estreia contra a Holanda em 14/06 (17h, Dallas), depois Tunísia em 21/06 (1h, Monterrey) e Suécia em 25/06 (20h, Dallas) (fonte: https://revistaforum.com.br/esporte/convocacao-do-japao/)
+- **Próximo jogo:** Holanda, 14/06, 17h, em Dallas — Japão estreia desfalcado de Mitoma diante de uma das favoritas do grupo
