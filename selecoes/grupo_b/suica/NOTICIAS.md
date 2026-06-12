@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-12
+- Murat Yakin apostou na experiência: 17 dos 26 convocados já disputaram a Copa de 2022 (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/suica-aposta-em-experiencia-e-divulga-lista-para-a-copa-do-mundo-de-2026/)
+- Capitão Granit Xhaka (144 jogos) e o lateral Ricardo Rodríguez (136 jogos) disputam a quarta Copa consecutiva
+- Escalação prevista: Kobel; Widmer, Elvedi, Akanji, Rodríguez; Freuler, Xhaka, Ndoye, Manzambi, Aebischer; Embolo
+- **Próximo jogo:** Catar, 13/06, em Santa Clara — estreia do Grupo B
+
 ## 📅 2026-06-11
 - Lista de 26 inclui goleiros Marvin Keller, Gregor Kobel e Yvon Mvogo, defensores Manuel Akanji, Nico Elvedi e Ricardo Rodriguez, e ataque com Breel Embolo e Dan Ndoye, além do meio-campo de Granit Xhaka e Remo Freuler (fonte: https://www.365scores.com/pt-br/news/magazine/catar-convocados-copa-do-mundo/)
 - Confirmado: estreia da Suíça contra o Catar em 13/06, às 16h (Brasília), no Levi's Stadium, em Santa Clara — depois enfrenta a Bósnia em 18/06 (Los Angeles) e fecha o grupo contra o Canadá em 24/06 (Vancouver) (fonte: https://www.365scores.com/pt-br/news/magazine/suica-26-convocados-copa-do-mundo-lista/)

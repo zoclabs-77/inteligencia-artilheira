@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-12
+- Mauricio Pochettino define escalação para a estreia contra o Paraguai, comandando o que é descrito como o elenco mais talentoso da história do USMNT (fonte: https://www.nbcsports.com/soccer/news/usmnt-lineup-versus-paraguay-who-will-pochettino-choose-for-usa-in-world-cup-opener)
+- Johnny Cardoso e Patrick Agyemang estão fora da Copa por lesão; o zagueiro Chris Richards lida com lesão no tornozelo mas se declarou pronto para jogar
+- Gio Reyna foi convocado mesmo com pouco tempo de jogo no clube, sinal de aposta de Pochettino em talento natural
+- **Próximo jogo:** Paraguai, 12/06, em Los Angeles — abertura do Grupo D como anfitrião
+
 ## 📅 2026-06-11
 - Provável escalação para a estreia de amanhã (12/06, 22h, SoFi Stadium): formação 3-4-2-1 com Freese; Ream, Richards, Freeman; Deet, Adams, McKennie e Robinson; Pulisic e Tillman; Balogun (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-estados-unidos-x-paraguai-12-06-2026.html)
 - Paraguai chega à estreia desfalcado de Julio Enciso (lesão na coxa direita), seu principal jogador, que deve ser preservado para o 2º jogo (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/estrela-do-paraguai-esta-fora-da-estreia-da-copa-do-mundo-contra-os-estados-unidos,79e7cee9da4432ced09647fdc06233ab8tz9d890.html)

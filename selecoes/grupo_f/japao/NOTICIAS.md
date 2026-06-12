@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-12
+- Hajime Moriyasu convocou 26 jogadores, liderados pelo capitão Wataru Endo (Liverpool) e por Takefusa Kubo (Real Sociedad) (fonte: https://www.lance.com.br/copa-do-mundo/sem-mitoma-e-minamino-japao-divulga-lista-de-convocados-para-a-copa-do-mundo.html)
+- Kaoru Mitoma (Brighton) está fora por lesão muscular na coxa; Takumi Minamino também desfalca por ruptura de ligamento do joelho desde dezembro
+- **Próximo jogo:** Holanda, 14/06, 17h, em Dallas — estreia do Grupo F
+
 ## 📅 2026-06-11
 - Técnico Hajime Moriyasu divulgou os 26 convocados (3 goleiros, 11 defensores, 8 meio-campistas e 6 atacantes); principal ausência é o atacante Kaoru Mitoma (Brighton), cortado por lesão muscular (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/japao-anuncia-lista-de-convocados-para-copa-sem-destaque-da-premier-league/)
 - Calendário do Grupo F: estreia contra a Holanda em 14/06 (17h, Dallas), depois Tunísia em 21/06 (1h, Monterrey) e Suécia em 25/06 (20h, Dallas) (fonte: https://revistaforum.com.br/esporte/convocacao-do-japao/)

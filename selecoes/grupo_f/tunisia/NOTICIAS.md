@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-12
+- Sabri Lamouchi convocou 26 jogadores para a sétima participação da Tunísia em Copas (terceira consecutiva), com destaque para Elias Saäd, Khalil Ayari e Elias Achouri (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tunisia-anuncia-lista-de-convocados-para-a-copa-do-mundo-de-2026/)
+- Objetivo declarado é superar a fase de grupos pela primeira vez na história
+- **Próximo jogo:** Suécia, 14/06, 23h, em Dallas — estreia do Grupo F
+
 ## 📅 2026-06-11
 - Técnico Sabri Lamouchi divulgou os 26 convocados em 15/05; principais nomes são o meia Hannibal Mejbri (Burnley), o volante Ellyes Skhiri (Eintracht Frankfurt) e o atacante Elias Achouri (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tunisia-anuncia-lista-de-convocados-para-a-copa-do-mundo-de-2026/)
 - Será a 7ª participação da Tunísia em Copas e a 3ª consecutiva; equipe chega embalada após eliminatórias africanas concluídas sem sofrer gols, buscando feito inédito de avançar à fase mata-mata (fonte: https://line7.com.br/2026/06/03/tunisia-na-copa-do-mundo-convocados-como-chega-jogos-e-destaques-para-o-mundial/)

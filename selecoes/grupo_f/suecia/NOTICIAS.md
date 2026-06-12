@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-12
+- Suécia trocou de técnico durante o ciclo: Jon Dahl Tomasson foi demitido após derrota para o Kosovo e Graham Potter assumiu, conduzindo o time aos playoffs com vitórias sobre Ucrânia e Polônia (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/suecia-divulga-lista-de-convocados-para-a-copa-do-mundo-de-2026/)
+- Alexander Isak e Viktor Gyökeres são os principais nomes do ataque; Gyökeres marcou 4 dos 6 gols da Suécia na repescagem
+- **Próximo jogo:** Tunísia, 14/06, 23h, em Dallas — estreia do Grupo F
+
 ## 📅 2026-06-11
 - Técnico Graham Potter convocou 26 jogadores, com trio ofensivo de destaque: Alexander Isak, Viktor Gyökeres e Anthony Elanga (fonte: https://x.com/geglobo/status/2054210149464612904)
 - Suécia volta à Copa após ficar de fora em 2022, garantindo vaga via repescagem europeia diante da Polônia (fonte: https://esportesmais.com.br/guia-da-copa-do-mundo-2026-suecia/)

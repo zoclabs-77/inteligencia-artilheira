@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-12
+- Edin Dzeko, maior artilheiro da história da seleção, ainda se recupera de lesão no ombro direito e deve começar no banco contra o Canadá (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/lesoes-mudam-planos-de-canada-e-bosnia-para-estreia-na-copa-veja-provaveis-escalacoes/)
+- Haris Tabakovic está fora da estreia por fratura no metatarso; Ermedin Demirovic assume o protagonismo ofensivo
+- Provável escalação: Vasilj; Dedic, Katic, Muharemovic, Kolasinac; Bajraktarevic, Basic, Tahirovic, Alajbegovic; Lukic e Demirovic
+- **Próximo jogo:** Canadá, 12/06, no BMO Field (Toronto) — segunda participação da Bósnia em Copas como nação independente
+
 ## 📅 2026-06-11
 - Provável escalação para a estreia (12/06): Nikola Vasilj; Amar Dedic, Nikola Katic, Tarik Muharemovic e Sead Kolasinac; Esmir Bajraktarevic, Ivan Basic, Benjamin Tahirovic e Kerim Alajbegovic; Jovo Lukic e Ermedin Demirovic (fonte: https://www.365scores.com/pt-br/news/magazine/canada-x-bosnia-e-herzegovina-escalacoes-analise-copa/)
 - Edin Džeko, maior artilheiro da história da seleção (73 gols), é a principal dúvida: sofreu lesão no ombro direito em amistoso contra a Itália em março e chega em recuperação para a estreia (fonte: https://www.365scores.com/pt-br/news/magazine/canada-x-bosnia-e-herzegovina-escalacoes-analise-copa/)

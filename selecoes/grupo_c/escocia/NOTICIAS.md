@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-12
+- Escócia retorna a uma Copa do Mundo após 28 anos, classificada com vitória por 4x2 sobre a Dinamarca (fonte: https://www.terra.com.br/amp/esportes/futebol/copa-2026/escocia-chega-a-copa-com-duvida-no-gol-entre-veterano-e-concorrente-mais-jovem,a172c77ac58de62a6c0e8edb5759db9esocpb06p.html)
+- Billy Gilmour está fora da Copa após lesão no joelho
+- Steve Clarke ainda não definiu o goleiro titular: disputa entre Craig Gordon (43 anos, o mais velho do Mundial) e Angus Gunn
+- Escalação prevista (4-2-3-1): Gordon/Gunn; Hickey, Hanley, McKenna, Robertson; Ferguson, McGinn; Christie, McTominay, Gannon-Doak; Dykes
+- **Próximo jogo:** Haiti, 13/06, em Boston — estreia do Grupo C
+
 ## 📅 2026-06-11
 - Confirmado o calendário da Escócia no Grupo C: estreia contra o Haiti em 13/06 (Boston), depois Marrocos em 19/06 (Boston) e fecha contra o Brasil em 24/06 (Miami) (fonte: https://www.lance.com.br/copa-do-mundo/escocia-anuncia-convocados-para-copa-do-mundo-de-2026-veja-lista.html)
 - Convocação final trouxe o retorno de Ross Stewart após 4 anos fora da seleção; Billy Gilmour foi cortado e Tyler Fletcher entrou em seu lugar (fonte: https://www.lance.com.br/copa-do-mundo/escocia-anuncia-convocados-para-copa-do-mundo-de-2026-veja-lista.html)

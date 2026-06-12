@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-12
+- Julian Nagelsmann convocou 26 jogadores em 21/05, com retorno surpresa de Manuel Neuer como goleiro titular (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-convocacao-alemanha-volta-neuer)
+- Serge Gnabry ficou fora por lesão; formação-base é o 4-2-3-1, com Kimmich e Goretzka reproduzindo papéis do Bayern
+- Jamal Musiala e Florian Wirtz são os principais nomes ofensivos esperados
+- **Próximo jogo:** Curaçao, 14/06, em Houston — estreia do Grupo E
+
 ## 📅 2026-06-11
 - Principal novidade da convocação foi o retorno do goleiro Manuel Neuer, que havia se aposentado da seleção (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-convocacao-alemanha-volta-neuer)
 - Provável escalação (4-2-3-1): Manuel Neuer; Joshua Kimmich, Jonathan Tah, Nico Schlotterbeck e Nathaniel Brown; Aleksandar Pavlović e Leon Goretzka; Florian Wirtz, Jamal Musiala e Leroy Sané; Kai Havertz (fonte: https://trivela.com.br/copa-do-mundo/grupo-e-2026-alemanha-curacao-costa-marfim-equador/)

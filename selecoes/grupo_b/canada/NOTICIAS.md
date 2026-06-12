@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-12
+- Capitão Alphonso Davies (Bayern de Munique) ainda se recupera de lesão muscular na coxa sofrida em maio; Stephen Eustáquio assume a braçadeira de capitão na estreia (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/lesoes-mudam-planos-de-canada-e-bosnia-para-estreia-na-copa-veja-provaveis-escalacoes/)
+- Jonathan David (Juventus) segue como principal referência ofensiva da equipe de Jesse Marsch
+- **Próximo jogo:** Bósnia e Herzegovina, 12/06, no BMO Field (Toronto) — estreia do Canadá como anfitrião do Grupo B
+
 ## 📅 2026-06-11
 - Provável escalação para a estreia (12/06): Maxime Crepeau; Alistair Johnston, Derek Cornelius, Luc de Fougerolles e Richie Laryea; Tajon Buchanan, Ismael Kone, Stephen Eustáquio e Liam Millar; Cyle Larin e Jonathan David (fonte: https://www.365scores.com/pt-br/news/magazine/canada-x-bosnia-e-herzegovina-escalacoes-analise-copa/)
 - Jonathan David chega como maior artilheiro da história da seleção canadense (39 gols em 77 jogos) e é a principal referência ofensiva do Grupo B (fonte: https://www.365scores.com/pt-br/news/magazine/canada-x-bosnia-e-herzegovina-escalacoes-analise-copa/)

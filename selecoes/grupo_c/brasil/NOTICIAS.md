@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-12
+- Ancelotti praticamente definiu a escalação para a estreia contra Marrocos: Alisson; Danilo, Marquinhos, Gabriel Magalhães, Alex Sandro; Casemiro, Bruno Guimarães, Paquetá; Raphinha, Matheus Cunha, Vini Jr (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/ancelotti-da-indicios-sobre-escalacao-do-brasil-em-estreia-na-copa-do-mundo/)
+- Alex Sandro foi escolhido na lateral para neutralizar Achraf Hakimi, principal ameaça ofensiva de Marrocos pelos lados
+- Ancelotti elogiou a dupla Raphinha-Vini Jr após vitória sobre o Egito em amistoso e confirmou ter o 11 inicial definido
+- **Próximo jogo:** Marrocos, 13/06, 19h, no MetLife Stadium (Nova Jersey) — estreia do Grupo C
+
 ## 📅 2026-06-11
 - Ancelotti reafirmou, após o amistoso de vitória sobre o Egito (06/06), que já tem o time titular definido para a estreia contra Marrocos e voltou a elogiar a dupla Raphinha-Vini Jr. (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/ancelotti-da-indicios-sobre-escalacao-do-brasil-em-estreia-na-copa-do-mundo/)
 - Provável escalação: Alisson; Danilo, Marquinhos, Gabriel Magalhães e Alex Sandro; Casemiro, Bruno Guimarães e Lucas Paquetá; Raphinha, Vini Júnior e Matheus Cunha (fonte: https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-esboca-possivel-escalacao-da-selecao-para-estreia-na-copa-veja/)

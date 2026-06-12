@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-12
+- Mohamed Ouahbi assumiu a seleção em março, substituindo Walid Regragui; é o técnico que conquistou o título mundial sub-20 em 2025 (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/rival-da-selecao-na-estreia-da-copa-marrocos-divulga-convocacao-final/)
+- Achraf Hakimi (PSG, bicampeão da Champions e 6º colocado no Bola de Ouro 2025) assume a capitania
+- Novidade na convocação: o meia-atacante Brahim Díaz (Real Madrid) optou por defender Marrocos
+- **Próximo jogo:** Brasil, 13/06, 19h, no MetLife Stadium (Nova Jersey) — estreia do Grupo C
+
 ## 📅 2026-06-11
 - Achraf Hakimi foi confirmado como capitão da seleção para o Mundial (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/rival-da-selecao-na-estreia-da-copa-marrocos-divulga-convocacao-final/)
 - Mohamed Ouahbi assumiu o comando técnico em março, após a saída de Walid Regragui, e fará sua estreia em Copa do Mundo já contra o Brasil (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/rival-da-selecao-na-estreia-da-copa-marrocos-divulga-convocacao-final/)

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-12
+- Haiti está de volta a uma Copa do Mundo após 52 anos, com classificação heróica sobre a Nicarágua na rodada final das Eliminatórias (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/adversario-do-brasil-haiti-divulga-convocados-para-a-copa-do-mundo-de-2026/)
+- Técnico Sebastien Migne tem em Duckens Nazon, maior artilheiro da história da seleção, o principal nome do ataque
+- Escalação para a estreia: Placide; Arcus, Adé, Delcroix, Experience; Deedson, Jacques, Bellegarde, Providence; Pierrot e Isidor
+- **Próximo jogo:** Escócia, 13/06, em Boston — estreia do Grupo C
+
 ## 📅 2026-06-11
 - Haiti goleou a Nova Zelândia por 4x0 no último amistoso de preparação (terça-feira, 02/06), reforçando o otimismo para a estreia (fonte: https://www.terra.com.br/noticias/mundo/america-latina/haiti-vive-onda-de-orgulho-e-enfrenta-ruptura-de-estoque-de-camisas-da-selecao-para-a-copa-2026,0463228993ed361590a20ed1017f42a586o6x5yi.html)
 - Forte onda de orgulho nacional em Port-au-Prince às vésperas da estreia: as camisas oficiais dos "Grenadiers" esgotaram no site da fornecedora Saeta (fonte: https://www.terra.com.br/noticias/mundo/america-latina/haiti-vive-onda-de-orgulho-e-enfrenta-ruptura-de-estoque-de-camisas-da-selecao-para-a-copa-2026,0463228993ed361590a20ed1017f42a586o6x5yi.html)

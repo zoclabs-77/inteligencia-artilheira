@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-12
+- Paraguai retorna a uma Copa do Mundo após 16 anos, sob comando de Gustavo Alfaro, classificado em 6º lugar nas Eliminatórias Sul-Americanas (fonte: https://www.fifa.com/pt/articles/paraguai-convocacao-copa-do-mundo-2026)
+- Convocação tem sete jogadores do futebol brasileiro: Gustavo Gómez e os irmãos Sosa (Palmeiras), Fabián Balbuena (Grêmio), Damián Bobadilla (São Paulo), Junior Alonso (Atlético-MG) e Isidro Pitta (Bragantino)
+- **Próximo jogo:** Estados Unidos, 12/06, em Los Angeles — estreia do Grupo D
+
 ## 📅 2026-06-11
 - Julio Enciso (Strasbourg), principal jogador do elenco, sofreu lesão na coxa direita em amistoso e está fora da estreia contra os EUA; tendência é que volte a ser relacionado apenas no 2º jogo, contra a Turquia (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/estrela-do-paraguai-esta-fora-da-estreia-da-copa-do-mundo-contra-os-estados-unidos,79e7cee9da4432ced09647fdc06233ab8tz9d890.html)
 - Provável escalação para amanhã (4-3-3): Roberto Fernández; Cáceres, Gustavo Gómez, Alderete e Alonso; Diego Gómez, Ojeda e Cubas; Almirón, Sanabria e Mauricio (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-estados-unidos-x-paraguai-12-06-2026.html)
