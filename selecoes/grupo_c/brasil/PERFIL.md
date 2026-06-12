@@ -10,7 +10,7 @@
 Eliminatórias sul-americanas turbulentas: 3 técnicos no ciclo, derrotas históricas (incluindo 1ª derrota para a Argentina no Maracanã pelas eliminatórias e goleada sofrida em 2025). Ancelotti assumiu em meados de 2025 e estabilizou: classificou sem brilho, mas reorganizou a defesa.
 
 ## Estilo & peças-chave
-Ancelotti pragmático: bloco médio, defesa sólida, liberdade pros pontas decidirem. Vinícius Jr. e Rodrygo (seus pupilos do Real) são o coração; Raphinha vive auge; Alisson e Marquinhos dão a espinha experiente; Bruno Guimarães comanda o meio.
+Ancelotti pragmático: bloco médio, defesa sólida, liberdade pros pontas decidirem. Vinícius Jr. Raphinha vive auge; Alisson e Marquinhos dão a espinha experiente; Bruno Guimarães comanda o meio.
 
 ## Leitura fria
 Talento ofensivo de elite + técnico multicampeão = candidato sempre. Mas: meio-campo sem criador clássico, lateral-esquerda problema crônico, e histórico recente de travar contra bloco baixo europeu. Favorito absoluto no grupo C; a dúvida começa no mata-mata.
