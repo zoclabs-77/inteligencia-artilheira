@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-13
+- Provável escalação 4-3-3: Bart Verbruggen; Denzel Dumfries, Jan Paul van Hecke, Virgil van Dijk, Micky van de Ven; Frenkie de Jong, Ryan Gravenberch, Tijjani Reijnders; Donyell Malen, Memphis Depay, Cody Gakpo (fonte: https://www.ogol.com.br/jogo/2026-06-14-paises-baixos-japao/11832334)
+- Estreia no domingo (14/06), no AT&T Stadium (Arlington, Texas), contra o Japão, pela 1ª rodada do Grupo F
+- **Próximo jogo:** Japão, 14/06, no AT&T Stadium (Arlington) — estreia do Grupo F
+
 ## 📅 2026-06-12
 - Ronald Koeman convocou 26 jogadores, com Van Dijk, Frenkie de Jong e Gakpo entre os destaques (fonte: https://revistaforum.com.br/esporte/copa-do-mundo/holanda-divulga-convocacao/)
 - Memphis Depay (Corinthians), maior artilheiro histórico da seleção (55 gols em 108 jogos), foi convocado mesmo atuando no Brasil

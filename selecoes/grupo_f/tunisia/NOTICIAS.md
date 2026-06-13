@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-13
+- Provável escalação: Chamakh; Yan Valery, Montassar Talbi, Omar Rekik, Ali Abdi; Rani Khedira, Ellyes Skhiri, Anis Slimane; Hannibal Mejbri, Ismaël Gharbi; Firas Chaouat (fonte: https://tips.gg/pt/article/sweden-tunisia-predicted-lineups-story/)
+- Aposta na defesa que passou invicta pelas Eliminatórias para tentar surpreender a favorita Suécia e somar pontos importantes na estreia
+- Estreia no domingo (14/06), às 22h (de Brasília), contra a Suécia, pela 1ª rodada do Grupo F
+- **Próximo jogo:** Suécia, 14/06, 22h — estreia do Grupo F
+
 ## 📅 2026-06-12
 - Sabri Lamouchi convocou 26 jogadores para a sétima participação da Tunísia em Copas (terceira consecutiva), com destaque para Elias Saäd, Khalil Ayari e Elias Achouri (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tunisia-anuncia-lista-de-convocados-para-a-copa-do-mundo-de-2026/)
 - Objetivo declarado é superar a fase de grupos pela primeira vez na história

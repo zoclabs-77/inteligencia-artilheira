@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-13
+- Provável escalação: Mert Günok; Zeki Çelik, Çağlar Söyüncü, Abdülkerim Bardakçı, Ferdi Kadıoğlu; Salih Özcan, Hakan Çalhanoğlu, Arda Güler, Orkun Kökçü; Kenan Yıldız, Barış Alper Yılmaz (fonte: https://www.ogol.com.br/noticias/australia-x-turquia-horario-escalacoes-e-estatisticas-copa-do-mundo-14-06/1144353)
+- Estreia será na madrugada de domingo (14/06), à 1h (de Brasília), no BC Place, em Vancouver, contra a Austrália, pela 1ª rodada do Grupo D
+- Time aposta na dupla criativa Arda Güler-Kenan Yıldız, ambos vindos de temporadas de destaque no Real Madrid e na Juventus
+- **Próximo jogo:** Austrália, 14/06, 1h (Brasília), no BC Place (Vancouver) — estreia do Grupo D
+
 ## 📅 2026-06-12
 - Vincenzo Montella divulgou a lista final de 26 convocados, com destaque para Arda Güler (Real Madrid, eleito melhor jovem da Champions 2025/26) e Kenan Yildiz (Juventus) (fonte: https://jornalismojunior.com.br/copa-do-mundo-turquia/)
 - Turquia chegou via repescagem, com vitórias sobre Kosovo e Romênia, após não conseguir vaga direta no grupo da Espanha

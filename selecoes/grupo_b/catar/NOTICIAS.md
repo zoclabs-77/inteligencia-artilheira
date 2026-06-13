@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-13
+- Provável escalação 4-2-3-1: Mahmud Abunada; Ayoub Al-Oui, Pedro Miguel, Boualem Khoukhi, Homam Ahmed; Karim Boudiaf, Jassem Gaber; Edmilson Junior, Ahmed Fathy, Akram Afif; Almoez Ali (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)
+- Catar chega como time da casa simbólico (sediou 2022), mas é amplo azarão diante da Suíça, 19ª do ranking FIFA e invicta nas Eliminatórias europeias
+- **Próximo jogo:** Suíça, 13/06, no Levi's Stadium (Santa Clara) — estreia do Grupo B
+
 ## 📅 2026-06-12
 - Catar disputa sua segunda Copa do Mundo, sob comando de Julen Lopetegui, mantendo a espinha dorsal do time já usada pelo treinador (fonte: https://www.nsctotal.com.br/noticias/catar-na-copa-do-mundo-2026-veja-convocados-historico-e-datas-dos-jogos)
 - Provável escalação (4-2-3-1): Abunada; Al-Oui, Pedro Miguel, Khoukhi, Ahmed; Boudiaf, Gaber; Edmilson Junior, Fathy, Afif; Almoez Ali

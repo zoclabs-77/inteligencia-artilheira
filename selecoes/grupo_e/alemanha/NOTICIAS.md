@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-13
+- Provável escalação 4-2-3-1: Baumann; D. Raum, N. Schlotterbeck, J. Tah, J. Kimmich; A. Pavlović, L. Goretzka; F. Wirtz, J. Musiala, L. Sané; N. Woltemade (fonte: https://www.365scores.com/pt-br/news/magazine/alemanha-curacao-escalacoes-analise/)
+- Estreia no domingo (14/06) contra o Curaçao, time que faz sua primeira Copa da história, na 1ª rodada do Grupo E
+- Manuel Neuer, aos 40 anos, retornou à aposentadoria para disputar mais um Mundial ao lado de nomes como Florian Wirtz e Joshua Kimmich (fonte: https://www.segundabase.com.br/apostas/alemanha-anunciou-a-escalacao-oficial-para-a-copa-do-mundo-de-2026/291196/)
+- **Próximo jogo:** Curaçao, 14/06 — estreia do Grupo E
+
 ## 📅 2026-06-12
 - Julian Nagelsmann convocou 26 jogadores em 21/05, com retorno surpresa de Manuel Neuer como goleiro titular (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-convocacao-alemanha-volta-neuer)
 - Serge Gnabry ficou fora por lesão; formação-base é o 4-2-3-1, com Kimmich e Goretzka reproduzindo papéis do Bayern

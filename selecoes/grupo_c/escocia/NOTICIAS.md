@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-13
+- Dia do jogo: Escócia faz sua estreia hoje contra o Haiti, às 22h (de Brasília), no Gillette Stadium (Boston), última partida da 1ª rodada do Grupo C (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/haiti-x-escocia-provaveis-escalacoes-para-a-estreia-das-selecoes-na-copa-do-mundo/)
+- É a 9ª participação da Escócia em Copas, marcando o fim de um jejum de 28 anos sem disputar o torneio
+- Capitão Andy Robertson segue como principal liderança do elenco, com Scott McTominay chegando como um dos jogadores em melhor fase do time (fonte: https://trivela.com.br/copa-do-mundo/haiti-escocia-pre-jogo/)
+- **Próximo jogo:** Haiti, 13/06, 22h, no Gillette Stadium (Boston) — estreia do Grupo C, precisa evitar o empate
+
 ## 📅 2026-06-12
 - Escócia retorna a uma Copa do Mundo após 28 anos, classificada com vitória por 4x2 sobre a Dinamarca (fonte: https://www.terra.com.br/amp/esportes/futebol/copa-2026/escocia-chega-a-copa-com-duvida-no-gol-entre-veterano-e-concorrente-mais-jovem,a172c77ac58de62a6c0e8edb5759db9esocpb06p.html)
 - Billy Gilmour está fora da Copa após lesão no joelho

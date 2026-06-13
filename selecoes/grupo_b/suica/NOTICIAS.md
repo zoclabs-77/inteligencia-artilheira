@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-13
+- Provável escalação 4-2-3-1: Gregor Kobel; Silvan Widmer, Manuel Akanji, Nico Elvedi, Ricardo Rodríguez; Remo Freuler, Granit Xhaka; Michel Aebischer, Johan Manzambi, Dan Ndoye; Breel Embolo (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)
+- Alternativa no ataque: Rubén Vargas e Fabian Rieder pelos lados, com Zeki Amdouni como referência ofensiva (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)
+- Suíça chega como franca favorita na estreia, 19ª no ranking FIFA e invicta nas Eliminatórias Europeias
+- **Próximo jogo:** Catar, 13/06, no Levi's Stadium (Santa Clara) — estreia do Grupo B
+
 ## 📅 2026-06-12
 - Murat Yakin apostou na experiência: 17 dos 26 convocados já disputaram a Copa de 2022 (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/suica-aposta-em-experiencia-e-divulga-lista-para-a-copa-do-mundo-de-2026/)
 - Capitão Granit Xhaka (144 jogos) e o lateral Ricardo Rodríguez (136 jogos) disputam a quarta Copa consecutiva

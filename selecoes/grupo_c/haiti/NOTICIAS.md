@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-13
+- Dia do jogo: Haiti faz sua estreia hoje contra a Escócia, às 22h (de Brasília), no Gillette Stadium (Boston), última partida da 1ª rodada do Grupo C (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/haiti-x-escocia-provaveis-escalacoes-para-a-estreia-das-selecoes-na-copa-do-mundo/)
+- É a volta do país a uma Copa após 52 anos de ausência, conquista atribuída em parte ao trabalho do técnico francês Sébastien Migné (fonte: https://trivela.com.br/copa-do-mundo/haiti-escocia-pre-jogo/)
+- Principal referência ofensiva é o atacante Wilson Isidor, artilheiro e jogador mais decisivo da equipe na campanha de classificação
+- **Próximo jogo:** Escócia, 13/06, 22h, no Gillette Stadium (Boston) — estreia do Grupo C, precisa evitar o empate
+
 ## 📅 2026-06-12
 - Haiti está de volta a uma Copa do Mundo após 52 anos, com classificação heróica sobre a Nicarágua na rodada final das Eliminatórias (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/adversario-do-brasil-haiti-divulga-convocados-para-a-copa-do-mundo-de-2026/)
 - Técnico Sebastien Migne tem em Duckens Nazon, maior artilheiro da história da seleção, o principal nome do ataque

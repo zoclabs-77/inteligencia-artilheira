@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-13
+- Dia do jogo: Brasil estreia hoje contra Marrocos, às 19h (de Brasília), no MetLife Stadium (Nova Jersey), pela 1ª rodada do Grupo C (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-marrocos-escalacoes-horario-assistir)
+- Escalação confirmada por Ancelotti: Alisson; Danilo, Marquinhos, Gabriel Magalhães e Alex Sandro; Casemiro, Bruno Guimarães e Lucas Paquetá; Raphinha, Matheus Cunha e Vini Jr (fonte: https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-x-marrocos-veja-as-provaveis-escalacoes-da-estreia-na-copa-do-mundo/)
+- Corte de Wesley (lesão muscular) selou a escolha de Danilo como titular na lateral-direita; Lucas Paquetá ganhou espaço no meio-campo na reta final da preparação (fonte: https://www.lance.com.br/selecao-brasileira/escalacao-ancelotti-mantem-misterio-nas-laterais-para-brasil-x-marrocos.html)
+- Ancelotti destacou Marrocos como "principal adversário" do Brasil no grupo (fonte: https://br.soccerway.com/noticias/futebol-copa-do-mundo-ancelotti-avalia-rivais-do-brasil-na-copa-2026-e-destaca-marrocos-principal-adversario/jgktA3DG)
+- **Próximo jogo:** Marrocos, 13/06, 19h, no MetLife Stadium (Nova Jersey) — estreia do Grupo C
+
 ## 📅 2026-06-12
 - Ancelotti praticamente definiu a escalação para a estreia contra Marrocos: Alisson; Danilo, Marquinhos, Gabriel Magalhães, Alex Sandro; Casemiro, Bruno Guimarães, Paquetá; Raphinha, Matheus Cunha, Vini Jr (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/ancelotti-da-indicios-sobre-escalacao-do-brasil-em-estreia-na-copa-do-mundo/)
 - Alex Sandro foi escolhido na lateral para neutralizar Achraf Hakimi, principal ameaça ofensiva de Marrocos pelos lados

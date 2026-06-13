@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-13
+- Principal baixa confirmada é o zagueiro Evan Ndicka (Roma), que sofreu lesão de 2º grau no tendão da coxa direita no fim da temporada e não se recuperou a tempo da estreia (fonte: https://www.365scores.com/pt-br/news/magazine/costa-do-marfim-x-equador-escalacoes-analise/)
+- Time chega à Copa com campanha quase perfeita nas Eliminatórias Africanas (8 vitórias e 2 empates)
+- Estreia no domingo (14/06), às 20h (de Brasília), no Lincoln Financial Field (Filadélfia), contra o Equador, pela 1ª rodada do Grupo E
+- **Próximo jogo:** Equador, 14/06, 20h, no Lincoln Financial Field (Filadélfia) — estreia do Grupo E, sem o zagueiro Ndicka
+
 ## 📅 2026-06-12
 - Costa do Marfim retorna a uma Copa depois de ficar fora em 2018 e 2022 (última participação em 2014), com convocados como Kessié, Amad Diallo, Pépé e Seko Fofana (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/costa-do-marfim-divulga-convocados-para-a-copa-do-mundo-de-2026/)
 - Defesa liderada por Evan Ndicka terminou as Eliminatórias sem sofrer gols em 10 jogos (8 vitórias, 2 empates), com 25 gols marcados

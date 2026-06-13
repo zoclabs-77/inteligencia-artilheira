@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-13
+- Provável escalação: Zion Suzuki; Takehiro Tomiyasu, Maya Yoshida, Ko Itakura, Wataru Endo; Ao Tanaka, Ritsu Doan; Keito Nakamura, Junya Ito, Takefusa Kubo; Ayase Ueda (fonte: https://www.ogol.com.br/jogo/2026-06-14-paises-baixos-japao/11832334)
+- Estreia no domingo (14/06), no AT&T Stadium (Arlington, Texas), contra a Holanda, pela 1ª rodada do Grupo F
+- **Próximo jogo:** Holanda, 14/06, no AT&T Stadium (Arlington) — estreia do Grupo F
+
 ## 📅 2026-06-12
 - Hajime Moriyasu convocou 26 jogadores, liderados pelo capitão Wataru Endo (Liverpool) e por Takefusa Kubo (Real Sociedad) (fonte: https://www.lance.com.br/copa-do-mundo/sem-mitoma-e-minamino-japao-divulga-lista-de-convocados-para-a-copa-do-mundo.html)
 - Kaoru Mitoma (Brighton) está fora por lesão muscular na coxa; Takumi Minamino também desfalca por ruptura de ligamento do joelho desde dezembro

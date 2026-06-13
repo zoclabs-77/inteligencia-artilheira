@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-13
+- Provável escalação: Room; D. Fonville, A. Obispo, R. Bazoer, J. Gaari, S. Floranus; J. Bacuna, L. Comenencia, L. Bacuna, T. Chong; J. Locadia (fonte: https://www.365scores.com/pt-br/news/magazine/alemanha-curacao-escalacoes-analise/)
+- Estreia histórica no domingo (14/06) contra a Alemanha, na 1ª rodada do Grupo E — primeira vez da menor nação já classificada para uma Copa em ação
+- **Próximo jogo:** Alemanha, 14/06 — estreia histórica no Grupo E
+
 ## 📅 2026-06-12
 - Curaçao faz sua primeira Copa do Mundo na história, sendo a menor nação (população ~150 mil) a se classificar, superando Islândia e Cabo Verde (fonte: https://tmc.com.br/esporte/curacao-divulga-lista-de-26-atletas-para-estreia-historica-no-mundial/)
 - Técnico Dick Advocaat convocou 26 jogadores, com Leandro Bacuna como principal referência, além de Tahith Chong e Jurgen Locadia

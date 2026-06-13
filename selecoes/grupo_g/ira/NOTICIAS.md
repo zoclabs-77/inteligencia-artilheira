@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-13
+- Provável escalação (4-2-3-1): Iranvand; Rezaeian, Kanaanizadegan, Hajsafi, Mohammadi; Ezatolahi, Cheshmi; Jahanbakhsh (capitão), Ghayedi, Ghoddos; Taremi (fonte: https://www.meutimao.com.br/apostas/palpites/ira-x-nova-zelandia-copa-do-mundo-15062026)
+- Irã e Nova Zelândia são apontados como as duas equipes mais frágeis do Grupo G, que também tem Bélgica e Egito
+- Estreia marcada para 15/06 contra a Nova Zelândia
+- **Próximo jogo:** Nova Zelândia, 15/06 — estreia do Grupo G
+
 ## 📅 2026-06-12
 - Amir Ghalenoei, em sua segunda passagem como técnico, venceu 7 dos 10 jogos das Eliminatórias para classificar o Irã direto ao Mundial (fonte: https://www.goal.com/en-us/lists/iran-squad-world-cup-2026/blt67c2d5d938254c59)
 - Sardar Azmoun foi excluído da lista final após relatos de deslealdade ao governo; ataque ficará concentrado em Mehdi Taremi (Olympiacos), Dennis Eckert, Moghanlou, Alipour e Hosseinzadeh
