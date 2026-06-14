@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-14
+- Nova Zelândia estreia contra o Irã em 15/06, às 22h (Brasília), no SoFi Stadium, Los Angeles, pelo Grupo G (fonte: https://www.365scores.com/pt-br/news/magazine/ira-x-nova-zelandia-escalacoes-onde-assistir/)
+- Escalação prevista: Max Crocombe; Tommy Smith, Boxall, Bindon, Cacace; Bell, Stamenic, Just; Sarpreet Singh, Wood (c), Ben Velho (fonte: https://www.goal.com/en-us/news/iran-new-zealand-world-cup-preview/bltf4f1b599c87b9982)
+- Equipe deposita esperanças no veterano centroavante Chris Wood, ídolo do Nottingham Forest, de 34 anos (fonte: https://www.goal.com/en-us/news/iran-new-zealand-world-cup-preview/bltf4f1b599c87b9982)
+- **Repercussão / Próximo jogo:** Estreia absoluta no Mundial contra o Irã em 15/06 tem Chris Wood como principal referência ofensiva.
+
 ## 📅 2026-06-13
 - Provável escalação (4-3-3): Max Crocombe; Tommy Smith, Michael Boxall, Tyler Bindon, Liberato Cacace; Joe Bell, Marko Stamenic, Elijah Just; Sarpreet Singh, Chris Wood (capitão), Ben Velho (fonte: https://www.meutimao.com.br/apostas/palpites/ira-x-nova-zelandia-copa-do-mundo-15062026)
 - Nova Zelândia e Irã são apontados como as duas equipes mais frágeis do Grupo G, que também tem Bélgica e Egito

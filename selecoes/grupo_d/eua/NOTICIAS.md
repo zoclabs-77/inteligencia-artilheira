@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-14
+- Estados Unidos goleou o Paraguai por 4x1 na estreia do Grupo D: gol contra de Bobadilla e dois gols de Folarin Balogun no 1º tempo, mais gol de Reyna no 2º tempo (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/eua-estreia-na-copa-do-mundo-com-goleada-sobre-o-paraguai-4x1)
+- Domínio total no primeiro tempo (3 gols), com atuação destacada de Pulisic na criação das jogadas (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-gols-brasileiros-estados-unidos-goleia-paraguai-em-estreia-na-copa/)
+- **Repercussão / Próximo jogo:** Goleada na abertura como anfitrião coloca os EUA na liderança do Grupo D, ao lado da Austrália, e cria forte expectativa para a sequência do torneio em casa.
+
 ## 📅 2026-06-12
 - Mauricio Pochettino define escalação para a estreia contra o Paraguai, comandando o que é descrito como o elenco mais talentoso da história do USMNT (fonte: https://www.nbcsports.com/soccer/news/usmnt-lineup-versus-paraguay-who-will-pochettino-choose-for-usa-in-world-cup-opener)
 - Johnny Cardoso e Patrick Agyemang estão fora da Copa por lesão; o zagueiro Chris Richards lida com lesão no tornozelo mas se declarou pronto para jogar

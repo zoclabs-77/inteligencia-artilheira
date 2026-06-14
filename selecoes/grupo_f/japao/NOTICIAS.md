@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-14
+- Japão estreia hoje contra a Holanda, às 17h (Brasília), no AT&T Stadium em Dallas, pelo Grupo F (fonte: https://www.correio24horas.com.br/copa-do-mundo/holanda-x-japao-na-copa-do-mundo-2026-onde-assistir-escalacoes-e-tudo-sobre-a-estreia-das-duas-selecoes-0626)
+- Escalação prevista (3-4-2-1): Zion Suzuki; Ito, Tomiyasu e Itakura; Doan, Kamada, Tanaka e Nakamura; Junya Ito e Kubo; Ueda (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/holanda-x-japao-onde-assistir-horario-e-escalacoes-pela-copa-do-mundo,5eede808309b28594cbcac094314ab045av2lsve.html)
+- Capitão Wataru Endo foi cortado por lesão e anunciou aposentadoria da seleção antes da Copa (fonte: https://www.correio24horas.com.br/copa-do-mundo/holanda-x-japao-na-copa-do-mundo-2026-onde-assistir-escalacoes-e-tudo-sobre-a-estreia-das-duas-selecoes-0626)
+- **Repercussão / Próximo jogo:** Japão chega embalado por boa campanha nas eliminatórias (54 gols, 3 sofridos) e vitórias recentes sobre Inglaterra e Brasil em amistosos; estreia contra a Holanda em 14/06, em Dallas, é teste de fogo.
+
 ## 📅 2026-06-13
 - Provável escalação: Zion Suzuki; Takehiro Tomiyasu, Maya Yoshida, Ko Itakura, Wataru Endo; Ao Tanaka, Ritsu Doan; Keito Nakamura, Junya Ito, Takefusa Kubo; Ayase Ueda (fonte: https://www.ogol.com.br/jogo/2026-06-14-paises-baixos-japao/11832334)
 - Estreia no domingo (14/06), no AT&T Stadium (Arlington, Texas), contra a Holanda, pela 1ª rodada do Grupo F

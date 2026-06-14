@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-14
+- Brasil estreou com empate 1x1 contra Marrocos no MetLife Stadium pelo Grupo C: Saibari abriu o placar aos 21' e Vini Jr empatou aos 32' (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/brasil-marrocos-melhores-momentos-resumo-jogo-grupo-c)
+- Seleção de Ancelotti foi dominada no 1º tempo, melhorou após as substituições no 2º tempo mas não conseguiu a virada (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alisson-falhou-brasil-sai-atras-do-marrocos-na-estreia-da-copa-do-mundo/)
+- Imprensa destaca dificuldade do Brasil em confirmar o favoritismo histórico diante de Marrocos, semifinalista da Copa anterior (fonte: https://diariodonordeste.verdesmares.com.br/jogada/brasil-x-marrocos-na-copa-do-mundo-onde-assistir-horario-palpite-e-provaveis-escalacoes-1.3770174)
+- **Repercussão / Próximo jogo:** Resultado frustra expectativa de vitória na estreia. Brasil soma 1 ponto no Grupo C e fica atrás da Escócia, que venceu o Haiti por 1x0 e lidera com 3 pontos — aumenta a pressão para a sequência do grupo.
+
 ## 📅 2026-06-13
 - Dia do jogo: Brasil estreia hoje contra Marrocos, às 19h (de Brasília), no MetLife Stadium (Nova Jersey), pela 1ª rodada do Grupo C (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-marrocos-escalacoes-horario-assistir)
 - Escalação confirmada por Ancelotti: Alisson; Danilo, Marquinhos, Gabriel Magalhães e Alex Sandro; Casemiro, Bruno Guimarães e Lucas Paquetá; Raphinha, Matheus Cunha e Vini Jr (fonte: https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-x-marrocos-veja-as-provaveis-escalacoes-da-estreia-na-copa-do-mundo/)

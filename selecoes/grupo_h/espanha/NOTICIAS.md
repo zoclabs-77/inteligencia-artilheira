@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-14
+- Espanha estreia contra Cabo Verde em 15/06, às 13h (Brasília), no Mercedes-Benz Stadium, em Atlanta, pelo Grupo H (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
+- Escalação prevista (4-3-3) de Luis de la Fuente: Unai Simón; Porro, Cubarsí, Laporte e Cucurella; Rodri, Pedri e Fabián Ruiz; Ferran Torres, Oyarzabal e Álex Baena (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-espanha-x-cabo-verde-15-06-2026.html)
+- **Repercussão / Próximo jogo:** Atual campeã europeia e vice-líder do ranking FIFA estreia como favorita absoluta diante da debutante Cabo Verde em 15/06, em Atlanta.
+
 ## 📅 2026-06-13
 - Provável escalação: Unai Simon; Pedro Porro, Pau Cubarsi, Aymeric Laporte, Marc Cucurella; Rodri, Martin Zubimendi, Pedri; Lamine Yamal, Mikel Oyarzabal, Ferran Torres (fonte: https://www.lance.com.br/copa-do-mundo/espanha/tecnico-da-espanha-projeta-estreia-contra-cabo-verde-na-copa-e-atualiza-situacao-de-yamal.html)
 - Lamine Yamal vem de 5 jogos consecutivos marcando pela seleção, segundo De la Fuente, que mantém a base campeã da Eurocopa 2024

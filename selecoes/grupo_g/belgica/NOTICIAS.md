@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-14
+- Bélgica estreia contra o Egito em 15/06, no Lumen Field, em Seattle, pelo Grupo G (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-belgica-x-egito-15-06-2026.html)
+- Escalação prevista por Rudi Garcia: Courtois; Castagne, Mechele, Ngoy e Meunier; Tielemans e Onana; Doku, De Bruyne e Trossard; De Ketelaere (fonte: https://www.otempo.com.br/sports/copa-do-mundo/2026/2026/6/12/belgica-x-egito-confira-numeros-dicas-palpites-e-analise-pre-jogo-da-copa-do-mundo)
+- **Repercussão / Próximo jogo:** Belgas buscam apagar a decepção da eliminação na fase de grupos de 2022 na estreia contra o Egito em 15/06.
+
 ## 📅 2026-06-13
 - Provável escalação: Courtois; Castagne, Debast, Theate, De Cuyper; Onana, Tielemans, De Bruyne; Doku, Trossard, Lukaku — sob comando de Rudi Garcia (fonte: https://www.meutimao.com.br/apostas/palpites/belgica-x-egito-copa-do-mundo-15062026)
 - Curiosidade do grupo: o árbitro brasileiro Ramon Abatti Abel fará sua estreia em Copas comandando justamente Bélgica x Egito (fonte: https://diariodopoder.com.br/esporte/ramon-abatti-abel-estreia-na-copa-do-mundo-no-comando-de-belgica-e-egito)

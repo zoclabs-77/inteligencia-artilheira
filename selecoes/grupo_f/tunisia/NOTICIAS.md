@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-14
+- Tunísia estreia hoje contra a Suécia, no Estádio BBVA, em Monterrey (México), pelo Grupo F (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-suecia-x-tunisia-14-06-2026.html)
+- Seleção passou invicta e sem sofrer gols pela fase classificatória africana, com defesa disciplinada liderada por Sabri Lamouchi (fonte: https://mancheteesportiva.com.br/mercado/suecia-x-tunisia-copa-do-mundo-de-2026-escolhas-e-probabilidades/19660/)
+- Escalação prevista: Chamakh; Valery, Talbi, Rekik e Abdi; Khedira, Skhiri e Slimane; Mejbri e Gharbi; Chaouat (fonte: https://mancheteesportiva.com.br/mercado/suecia-x-tunisia-copa-do-mundo-de-2026-escolhas-e-probabilidades/19660/)
+- **Repercussão / Próximo jogo:** Defesa invicta nas eliminatórias chega como principal trunfo tunisiano na estreia contra a Suécia.
+
 ## 📅 2026-06-13
 - Provável escalação: Chamakh; Yan Valery, Montassar Talbi, Omar Rekik, Ali Abdi; Rani Khedira, Ellyes Skhiri, Anis Slimane; Hannibal Mejbri, Ismaël Gharbi; Firas Chaouat (fonte: https://tips.gg/pt/article/sweden-tunisia-predicted-lineups-story/)
 - Aposta na defesa que passou invicta pelas Eliminatórias para tentar surpreender a favorita Suécia e somar pontos importantes na estreia

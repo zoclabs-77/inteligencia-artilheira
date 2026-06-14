@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-14
+- Turquia perdeu para a Austrália por 0x2 em Vancouver na estreia do Grupo D, sem conseguir converter chances ofensivas (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/australia-2-x-0-turquia-os-melhores-momentos-do-duelo-pela-copa-2026/)
+- **Repercussão / Próximo jogo:** Derrota inesperada deixa a Turquia zerada no Grupo D, junto com o Paraguai; equipe precisa reagir contra Paraguai e EUA para sonhar com a classificação.
+
 ## 📅 2026-06-13
 - Provável escalação: Mert Günok; Zeki Çelik, Çağlar Söyüncü, Abdülkerim Bardakçı, Ferdi Kadıoğlu; Salih Özcan, Hakan Çalhanoğlu, Arda Güler, Orkun Kökçü; Kenan Yıldız, Barış Alper Yılmaz (fonte: https://www.ogol.com.br/noticias/australia-x-turquia-horario-escalacoes-e-estatisticas-copa-do-mundo-14-06/1144353)
 - Estreia será na madrugada de domingo (14/06), à 1h (de Brasília), no BC Place, em Vancouver, contra a Austrália, pela 1ª rodada do Grupo D

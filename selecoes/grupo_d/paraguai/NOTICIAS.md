@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-14
+- Paraguai foi goleado pelos EUA por 1x4 na estreia do Grupo D, sofrendo gol contra de Bobadilla e dois gols de Balogun ainda no 1º tempo (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/eua-estreia-na-copa-do-mundo-com-goleada-sobre-o-paraguai-4x1)
+- **Repercussão / Próximo jogo:** Goleada sofrida na abertura deixa o Paraguai pressionado e zerado no Grupo D; equipe precisa reagir contra a Turquia para não comprometer a classificação.
+
 ## 📅 2026-06-12
 - Paraguai retorna a uma Copa do Mundo após 16 anos, sob comando de Gustavo Alfaro, classificado em 6º lugar nas Eliminatórias Sul-Americanas (fonte: https://www.fifa.com/pt/articles/paraguai-convocacao-copa-do-mundo-2026)
 - Convocação tem sete jogadores do futebol brasileiro: Gustavo Gómez e os irmãos Sosa (Palmeiras), Fabián Balbuena (Grêmio), Damián Bobadilla (São Paulo), Junior Alonso (Atlético-MG) e Isidro Pitta (Bragantino)

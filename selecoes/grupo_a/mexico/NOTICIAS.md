@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-14
+- Sem novidades relevantes em 14/06; México venceu a África do Sul por 2x0 no jogo de abertura da Copa, no Estádio Azteca (11/06), em meio à cerimônia de abertura com Maná, Shakira, J Balvin e outros artistas (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/cronograma-da-abertura-da-copa-do-mundo-no-mexico-veja-horarios-e-atracoes/)
+- **Repercussão / Próximo jogo:** Vitória na abertura como anfitrião anima a torcida mexicana; próximo confronto é contra a Coreia do Sul em 18/06, em Guadalajara.
+
 ## 📅 2026-06-11
 - Hoje é o jogo de abertura da Copa do Mundo 2026: México x África do Sul, às 16h (Brasília), no Estádio Azteca, Cidade do México (fonte: https://www.correio24horas.com.br/esportes/mexico-x-africa-do-sul-veja-horario-escalacoes-e-onde-assistir-ao-jogo-de-abertura-da-copa-do-mundo-0626)
 - Escalação confirmada (4-3-3): Raúl Rangel; Jorge Sánchez, César Montes, Johan Vásquez e Jesús Gallardo; Erik Lira, Roberto Alvarado e Álvaro Fidalgo; Brian Gutiérrez, Julián Quiñones e Raúl Jiménez (fonte: https://www.365scores.com/pt-br/news/magazine/mexico-x-africa-do-sul-escalacoes-analise-copa/)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-14
+- Cabo Verde faz a estreia histórica (primeira Copa do Mundo) contra a Espanha em 15/06, às 13h (Brasília), no Mercedes-Benz Stadium, em Atlanta, pelo Grupo H (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
+- Escalação prevista (4-2-3-1): Vozinha; Moreira, Logan Costa, Roberto Lopes e João Paulo; Semedo e Pina; Mendes, Monteiro e Cabral; Livramento (fonte: https://www.365scores.com/pt-br/news/magazine/espanha-cabo-verde-escalacoes-analise/)
+- **Repercussão / Próximo jogo:** Momento histórico para o país, que enfrenta a atual campeã europeia Espanha na estreia absoluta em Mundiais.
+
 ## 📅 2026-06-13
 - Provável escalação: Vozinha; Diney Borges, Pico, Steven Moreira; Kevin Pina, Deroy Duarte, Sidny Cabral; Telmo Arcanjo, Jorginho Soares, Ryan Mendes; Dailon Livramento (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
 - Estreia histórica na segunda-feira (15/06) contra a Espanha — primeiro confronto da história entre as seleções, na 1ª rodada do Grupo H

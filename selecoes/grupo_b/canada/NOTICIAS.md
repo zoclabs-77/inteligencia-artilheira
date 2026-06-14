@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-14
+- Canadá empatou 1x1 com a Bósnia em Toronto na abertura do Grupo B: Jovo Lukić abriu o placar para os bósnios e Cyle Larin empatou no 2º tempo (fonte: https://www.lance.com.br/copa-do-mundo/veja-o-gol-de-canada-x-bosnia-na-copa-do-mundo.html)
+- Resultado representa o primeiro ponto da história do Canadá em Copas do Mundo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/anfitriao-canada-busca-empate-com-bosnia-e-soma-primeiro-ponto-em-copas/)
+- **Repercussão / Próximo jogo:** Empate como anfitrião é visto com alívio histórico, mas Canadá soma apenas 1 ponto no Grupo B e precisa evoluir na sequência da fase de grupos.
+
 ## 📅 2026-06-12
 - Capitão Alphonso Davies (Bayern de Munique) ainda se recupera de lesão muscular na coxa sofrida em maio; Stephen Eustáquio assume a braçadeira de capitão na estreia (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/lesoes-mudam-planos-de-canada-e-bosnia-para-estreia-na-copa-veja-provaveis-escalacoes/)
 - Jonathan David (Juventus) segue como principal referência ofensiva da equipe de Jesse Marsch

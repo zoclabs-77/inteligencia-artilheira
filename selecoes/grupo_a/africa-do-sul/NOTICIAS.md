@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-14
+- Sem novidades relevantes em 14/06; Bafana Bafana voltou à Copa do Mundo após 16 anos perdendo o jogo de abertura do torneio por 0x2 para o México no Estádio Azteca (11/06), sob comando de Hugo Broos (fonte: https://www.nsctotal.com.br/noticias/africa-do-sul-na-copa-do-mundo-2026-veja-convocados-historico-e-datas-dos-jogos)
+- **Repercussão / Próximo jogo:** Derrota na abertura aumenta a pressão pela busca do objetivo histórico (passar da fase de grupos pela 1ª vez); próximo confronto é contra a Tchéquia em 18/06.
+
 ## 📅 2026-06-11
 - Hoje é o jogo de abertura da Copa do Mundo 2026: África do Sul x México, às 16h (Brasília), no Estádio Azteca, Cidade do México (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/africa-do-sul-x-mexico-hugo-broos-copa-2026/)
 - Provável escalação (4-3-3): Williams; Mudau, Ndamane, Sibisi e Modiba; Adams, Mokoena e Mbatha; Appollis, Foster e Mofokeng (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/escalacao-da-africa-do-sul-provavel-time-para-enfrentar-o-mexico/)

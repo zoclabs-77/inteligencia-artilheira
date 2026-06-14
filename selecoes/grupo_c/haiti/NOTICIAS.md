@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-14
+- Haiti perdeu para a Escócia por 0x1 em Foxborough, gol de John McGinn com desvio em Bellegarde, na estreia do Grupo C (fonte: https://www.poder360.com.br/copa-2026/copa-2026-melhores-momentos-de-haiti-0-x-1-escocia/)
+- Apesar da derrota, seleção haitiana foi elogiada pela organização defensiva e pela pressão imposta aos escoceses (fonte: https://www.otempo.com.br/sports/copa-do-mundo/2026/2026/6/13/escocia-supera-organizado-haiti-lidera-grupo-do-brasil-e-mostra-que-pode-brigar-por-uma-vaga)
+- **Repercussão / Próximo jogo:** Derrota deixa o Haiti sem pontos no Grupo C; equipe precisa se reerguer diante de Brasil e Marrocos na sequência da fase de grupos.
+
 ## 📅 2026-06-13
 - Dia do jogo: Haiti faz sua estreia hoje contra a Escócia, às 22h (de Brasília), no Gillette Stadium (Boston), última partida da 1ª rodada do Grupo C (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/haiti-x-escocia-provaveis-escalacoes-para-a-estreia-das-selecoes-na-copa-do-mundo/)
 - É a volta do país a uma Copa após 52 anos de ausência, conquista atribuída em parte ao trabalho do técnico francês Sébastien Migné (fonte: https://trivela.com.br/copa-do-mundo/haiti-escocia-pre-jogo/)

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-14
+- Equador estreia contra a Costa do Marfim em 14/06 (madrugada de 15/06 no horário de Brasília), no Lincoln Financial Field, Filadélfia, pelo Grupo E (fonte: https://www.espn.com/soccer/match/_/gameId/760423/equador-costa-do-marfim)
+- Comandado por Sebastián Beccacece, o Equador chega como uma das seleções em melhor fase do Mundial, com 19 jogos sem perder; na preparação empatou com Marrocos e Holanda (1x1 cada), venceu a Arábia Saudita por 2x1 e goleou a Guatemala por 3x0 (fonte: https://www.vietnam.vn/pt/nhan-dinh-bo-bien-nga-va-ecuador-bang-e-world-cup-2026-can-tai-can-suc)
+- Opta dá ao Equador 34,4% de chance de vitória contra 38,6% da Costa do Marfim, num confronto equilibrado (fonte: https://www.vietnam.vn/pt/nhan-dinh-bo-bien-nga-va-ecuador-bang-e-world-cup-2026-can-tai-can-suc)
+- **Repercussão / Próximo jogo:** Sequência invicta de 19 jogos sustenta o otimismo equatoriano para a estreia contra a Costa do Marfim.
+
 ## 📅 2026-06-13
 - Provável escalação (4-2-3-1): Hernán Galíndez; Joel Ordóñez, Willian Pacho, Piero Hincapié, Pervis Estupiñán; Moisés Caicedo, Alan Franco; Nilson Angulo, Kendry Páez, Gonzalo Plata; Enner Valencia (fonte: https://www.365scores.com/pt-br/news/magazine/costa-do-marfim-x-equador-escalacoes-analise/)
 - Equador chega como vice-líder das Eliminatórias Sul-Americanas (atrás só da Argentina) e ocupa a 24ª posição do ranking FIFA

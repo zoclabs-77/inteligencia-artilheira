@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-14
+- Costa do Marfim estreia contra o Equador em 14/06 (jogo na madrugada de 15/06 no horário de Brasília), no Lincoln Financial Field, Filadélfia, pelo Grupo E (fonte: https://www.espn.com/soccer/match/_/gameId/760423/equador-costa-do-marfim)
+- Seleção retorna a uma Copa após 12 anos de ausência, embalada por boa preparação sob Emerse Faé: venceu a Escócia por 1x0, goleou a Coreia do Sul por 4x0 e bateu a França de virada por 2x1 (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/costa-do-marfim-x-equador-pela-copa-do-mundo-veja-provaveis-escalacoes-e-onde-assistir/)
+- Opta dá à Costa do Marfim 38,6% de chance de vitória contra 34,4% do Equador, num confronto equilibrado (fonte: https://www.vietnam.vn/pt/nhan-dinh-bo-bien-nga-va-ecuador-bang-e-world-cup-2026-can-tai-can-suc)
+- **Repercussão / Próximo jogo:** Time de Emerse Faé chega com moral elevado da preparação para a estreia contra o Equador, considerada equilibrada pelas estatísticas.
+
 ## 📅 2026-06-13
 - Principal baixa confirmada é o zagueiro Evan Ndicka (Roma), que sofreu lesão de 2º grau no tendão da coxa direita no fim da temporada e não se recuperou a tempo da estreia (fonte: https://www.365scores.com/pt-br/news/magazine/costa-do-marfim-x-equador-escalacoes-analise/)
 - Time chega à Copa com campanha quase perfeita nas Eliminatórias Africanas (8 vitórias e 2 empates)

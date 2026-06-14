@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-14
+- Bósnia e Herzegovina empatou 1x1 com o anfitrião Canadá em Toronto na estreia do Grupo B, gol de Jovo Lukić aos 20' do 1º tempo (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/canada-e-bosnia-empatam-e-paraguai-sofre-goleada-historica-dos-eua)
+- **Repercussão / Próximo jogo:** Empate fora de casa contra o anfitrião é resultado positivo; Bósnia soma 1 ponto no Grupo B e mantém chances de classificação.
+
 ## 📅 2026-06-12
 - Edin Dzeko, maior artilheiro da história da seleção, ainda se recupera de lesão no ombro direito e deve começar no banco contra o Canadá (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/lesoes-mudam-planos-de-canada-e-bosnia-para-estreia-na-copa-veja-provaveis-escalacoes/)
 - Haris Tabakovic está fora da estreia por fratura no metatarso; Ermedin Demirovic assume o protagonismo ofensivo

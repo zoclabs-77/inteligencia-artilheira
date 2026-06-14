@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-14
+- Austrália venceu a Turquia por 2x0 em Vancouver na estreia do Grupo D, gols de Nestory Irankunda (27') e Connor Metcalfe (no 2º tempo) (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/australia-2-x-0-turquia-os-melhores-momentos-do-duelo-pela-copa-2026/)
+- Resultado coloca a Austrália na liderança do Grupo D, ao lado dos EUA, com 3 pontos (fonte: https://www.metropoles.com/esportes/copa-do-mundo-australia-surpreende-e-vence-turquia-por-2-x-0)
+- Imprensa destaca eficiência ofensiva dos Socceroos no primeiro confronto da história entre as duas seleções em Mundiais (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/australia-turquia-melhores-momentos-resumo-jogo-grupo-d)
+- **Repercussão / Próximo jogo:** Vitória surpreendente projeta a Austrália como concorrente real a uma vaga no Grupo D, ao lado dos anfitriões EUA.
+
 ## 📅 2026-06-13
 - Provável escalação (3-4-2-1): Mathew Ryan; Harry Souttar, Cameron Burgess, Alessandro Circati; Jordan Bos, Connor Metcalfe, Jackson Irvine, Jacob Italiano; Ajdin Hrustic, Cristian Volpato; Mohamed Toure (fonte: https://www.ogol.com.br/noticias/australia-x-turquia-horario-escalacoes-e-estatisticas-copa-do-mundo-14-06/1144353)
 - Estreia será na madrugada de domingo (14/06), à 1h (de Brasília), no BC Place, em Vancouver, contra a Turquia, pela 1ª rodada do Grupo D

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-14
+- Suíça abriu o placar com Breel Embolo, mas cedeu o empate 1x1 ao Catar nos acréscimos do 2º tempo, na estreia do Grupo B (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/catar-suica-melhores-momentos-resumo-jogo-grupo-b)
+- Imprensa destaca domínio suíço durante boa parte do jogo e chances desperdiçadas para ampliar o placar (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/catar-1-x-1-suica-veja-os-melhores-momentos-do-confronto-da-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Empate sofrido no fim frustra a Suíça, que esperava vitória na estreia e soma apenas 1 ponto no Grupo B.
+
 ## 📅 2026-06-13
 - Provável escalação 4-2-3-1: Gregor Kobel; Silvan Widmer, Manuel Akanji, Nico Elvedi, Ricardo Rodríguez; Remo Freuler, Granit Xhaka; Michel Aebischer, Johan Manzambi, Dan Ndoye; Breel Embolo (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)
 - Alternativa no ataque: Rubén Vargas e Fabian Rieder pelos lados, com Zeki Amdouni como referência ofensiva (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)

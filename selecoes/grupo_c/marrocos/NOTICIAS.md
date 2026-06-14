@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-14
+- Marrocos saiu na frente contra o Brasil com gol de Ismael Saibari aos 21' e resistiu à pressão na 2ª etapa, garantindo o empate 1x1 no MetLife Stadium (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/brasil-marrocos-melhores-momentos-resumo-jogo-grupo-c)
+- Atuação elogiada pela imprensa: equipe dominou boa parte do jogo e mostrou a competitividade de uma seleção semifinalista da Copa anterior (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alisson-falhou-brasil-sai-atras-do-marrocos-na-estreia-da-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Empate com o Brasil é resultado histórico positivo; Marrocos soma 1 ponto no Grupo C e mantém moral elevado para a sequência da fase de grupos.
+
 ## 📅 2026-06-13
 - Dia do jogo: Marrocos estreia hoje contra o Brasil, às 19h (de Brasília), no MetLife Stadium (Nova Jersey), pela 1ª rodada do Grupo C (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-marrocos-escalacoes-horario-assistir)
 - Ancelotti destacou Marrocos como o "principal adversário" do Brasil no grupo, reconhecendo a força da seleção marroquina (fonte: https://br.soccerway.com/noticias/futebol-copa-do-mundo-ancelotti-avalia-rivais-do-brasil-na-copa-2026-e-destaca-marrocos-principal-adversario/jgktA3DG)

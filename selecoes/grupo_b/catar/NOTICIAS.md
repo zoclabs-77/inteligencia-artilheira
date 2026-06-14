@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-14
+- Catar empatou 1x1 com a Suíça em São Francisco, na estreia do Grupo B, com gol contra de Boualem Khoukhi nos acréscimos do 2º tempo (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/catar-suica-melhores-momentos-resumo-jogo-grupo-b)
+- Resultado representa o primeiro ponto da história do Catar em Copas do Mundo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/catar-1-x-1-suica-veja-os-melhores-momentos-do-confronto-da-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Empate heroico nos acréscimos é visto como resultado histórico para o Catar, que soma 1 ponto no Grupo B.
+
 ## 📅 2026-06-13
 - Provável escalação 4-2-3-1: Mahmud Abunada; Ayoub Al-Oui, Pedro Miguel, Boualem Khoukhi, Homam Ahmed; Karim Boudiaf, Jassem Gaber; Edmilson Junior, Ahmed Fathy, Akram Afif; Almoez Ali (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)
 - Catar chega como time da casa simbólico (sediou 2022), mas é amplo azarão diante da Suíça, 19ª do ranking FIFA e invicta nas Eliminatórias europeias

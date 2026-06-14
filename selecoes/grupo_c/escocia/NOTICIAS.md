@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-14
+- Escócia venceu o Haiti por 1x0 em Foxborough, gol de John McGinn (com desvio em Bellegarde) na estreia do Grupo C (fonte: https://diariodonordeste.verdesmares.com.br/jogada/escocia-e-a-primeira-selecao-europeia-a-vencer-na-copa-do-mundo-2026-e-lidera-grupo-do-brasil-1.3770505)
+- Resultado faz da Escócia a primeira seleção europeia a vencer na Copa 2026, assumindo a liderança do Grupo C com 3 pontos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/escocia-segura-pressao-do-haiti-e-vence-na-estreia-da-copa-do-mundo/)
+- Imprensa destaca atuação organizada do Haiti, que pressionou mas não furou a defesa escocesa (fonte: https://www.otempo.com.br/sports/copa-do-mundo/2026/2026/6/13/escocia-supera-organizado-haiti-lidera-grupo-do-brasil-e-mostra-que-pode-brigar-por-uma-vaga)
+- **Repercussão / Próximo jogo:** Escócia assume a liderança do Grupo C (mesmo grupo do Brasil) com 3 pontos, criando favoritismo para o confronto direto com a seleção brasileira na sequência da fase de grupos.
+
 ## 📅 2026-06-13
 - Dia do jogo: Escócia faz sua estreia hoje contra o Haiti, às 22h (de Brasília), no Gillette Stadium (Boston), última partida da 1ª rodada do Grupo C (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/haiti-x-escocia-provaveis-escalacoes-para-a-estreia-das-selecoes-na-copa-do-mundo/)
 - É a 9ª participação da Escócia em Copas, marcando o fim de um jejum de 28 anos sem disputar o torneio

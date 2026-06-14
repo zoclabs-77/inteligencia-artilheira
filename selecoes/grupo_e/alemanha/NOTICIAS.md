@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-14
+- Alemanha estreia hoje contra Curaçao, às 14h (Brasília), no NRG Stadium em Houston, pelo Grupo E (fonte: https://www.correio24horas.com.br/copa-do-mundo/alemanha-x-curacao-na-copa-do-mundo-2026-onde-assistir-escalacoes-e-tudo-sobre-a-estreia-dos-alemaes-0626)
+- Escalação prevista por Nagelsmann: Neuer; Kimmich, Tah, Schlotterbeck e Brown; Pavlovic e Nmecha; Sané, Musiala e Wirtz; Havertz (fonte: https://trivela.com.br/copa-do-mundo/grupo-e-2026-alemanha-curacao-costa-marfim-equador/)
+- **Repercussão / Próximo jogo:** Confronto coloca uma das maiores potências históricas da Copa diante de uma debutante absoluta, em 14/06, no NRG Stadium (Houston).
+
 ## 📅 2026-06-13
 - Provável escalação 4-2-3-1: Baumann; D. Raum, N. Schlotterbeck, J. Tah, J. Kimmich; A. Pavlović, L. Goretzka; F. Wirtz, J. Musiala, L. Sané; N. Woltemade (fonte: https://www.365scores.com/pt-br/news/magazine/alemanha-curacao-escalacoes-analise/)
 - Estreia no domingo (14/06) contra o Curaçao, time que faz sua primeira Copa da história, na 1ª rodada do Grupo E

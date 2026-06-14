@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-14
+- Curaçao faz a estreia histórica na Copa do Mundo hoje contra a Alemanha, às 14h (Brasília), no NRG Stadium em Houston, pelo Grupo E (fonte: https://www.correio24horas.com.br/copa-do-mundo/alemanha-x-curacao-na-copa-do-mundo-2026-onde-assistir-escalacoes-e-tudo-sobre-a-estreia-dos-alemaes-0626)
+- Escalação prevista por Dick Advocaat: Eloy Room; Sambo, Gaari, Obispo e Floranus; Comenencia, Juninho Bacuna e Leandro Bacuna; Chong, Gorré e Antonisse (fonte: https://trivela.com.br/copa-do-mundo/grupo-e-2026-alemanha-curacao-costa-marfim-equador/)
+- **Repercussão / Próximo jogo:** Estreante absoluta no Mundial enfrenta a Alemanha em 14/06, no NRG Stadium (Houston) — momento histórico para a seleção caribenha.
+
 ## 📅 2026-06-13
 - Provável escalação: Room; D. Fonville, A. Obispo, R. Bazoer, J. Gaari, S. Floranus; J. Bacuna, L. Comenencia, L. Bacuna, T. Chong; J. Locadia (fonte: https://www.365scores.com/pt-br/news/magazine/alemanha-curacao-escalacoes-analise/)
 - Estreia histórica no domingo (14/06) contra a Alemanha, na 1ª rodada do Grupo E — primeira vez da menor nação já classificada para uma Copa em ação

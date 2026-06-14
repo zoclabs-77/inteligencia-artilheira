@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-14
+- Sem novidades relevantes em 14/06; Tchéquia perdeu para a Coreia do Sul por 1x2 na estreia em Guadalajara (11/06), retorno ao Mundial após 20 anos sob comando de Miroslav Koubek, que assumiu em dezembro de 2025 (fonte: https://www.vietnam.vn/pt/xep-hang-world-cup-2026-han-quoc-nhi-bang-a)
+- **Repercussão / Próximo jogo:** Derrota na estreia complica a busca pela primeira classificação ao mata-mata da história; próximo confronto é contra a África do Sul em 18/06.
+
 ## 📅 2026-06-11
 - Hoje é dia de estreia: Tchéquia x Coreia do Sul, às 23h (Brasília), no Estádio Akron, em Zapopan (Guadalajara) (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/tchequia-convocacao-copa)
 - Elenco de 26 jogadores reúne veteranos e um jovem de 17 anos; Patrik Schick (Bayer Leverkusen) é a referência ofensiva e Tomáš Souček (West Ham) é o capitão (fonte: https://www.fifa.com/pt/articles/tchequia-convocacao-copa)

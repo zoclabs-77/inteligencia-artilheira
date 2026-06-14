@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-14
+- Egito estreia contra a Bélgica em 15/06, no Lumen Field, em Seattle, pelo Grupo G (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-belgica-x-egito-15-06-2026.html)
+- Técnico Hossam Hassan não tem lesionados para a estreia e convocou grupo de 26 jogadores liderado por Salah e Marmoush, além de Trezeguet, Emam Ashour e Marwan Attia (fonte: https://www.goal.com/en-us/news/belgium-egypt-world-cup-preview/blt8b8db9e1f93f0387)
+- **Repercussão / Próximo jogo:** Egípcios, sem desfalques, buscam a primeira vitória da história em Mundiais na estreia contra a Bélgica em 15/06.
+
 ## 📅 2026-06-13
 - Escalação prevista parcial: El Shenawy; Hany, Ibrahim, Rabia, Fathi; Attia, Ashour, Zizo, com Mohamed Salah (Liverpool) como principal referência ofensiva (fonte: https://www.meutimao.com.br/apostas/palpites/belgica-x-egito-copa-do-mundo-15062026)
 - Curiosidade do grupo: o árbitro brasileiro Ramon Abatti Abel fará sua estreia em Copas comandando justamente Egito x Bélgica (fonte: https://diariodopoder.com.br/esporte/ramon-abatti-abel-estreia-na-copa-do-mundo-no-comando-de-belgica-e-egito)

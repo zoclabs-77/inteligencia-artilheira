@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-14
+- Suécia estreia hoje contra a Tunísia, no Estádio BBVA, em Monterrey (México), pelo Grupo F (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-suecia-x-tunisia-14-06-2026.html)
+- Seleção se classificou via repescagem europeia após campanha ruim nas eliminatórias; Graham Potter aposta em ataque liderado por Alexander Isak e Viktor Gyökeres (fonte: https://mancheteesportiva.com.br/mercado/suecia-x-tunisia-copa-do-mundo-de-2026-escolhas-e-probabilidades/19660/)
+- Escalação prevista: Zetterström; Lagerbielke, Hien e Smith; D. Svensson, Svanberg, Karlström e Ayari; Elanga; Isak e Gyökeres (fonte: https://mancheteesportiva.com.br/mercado/suecia-x-tunisia-copa-do-mundo-de-2026-escolhas-e-probabilidades/19660/)
+- **Repercussão / Próximo jogo:** Estreia contra a Tunísia, time invicto e sem sofrer gols nas eliminatórias africanas, é teste imediato para a abordagem tática de Potter.
+
 ## 📅 2026-06-13
 - Com Alexander Isak recuperado de lesão, a Suécia estreia focada em acionar o artilheiro Viktor Gyökeres e confirmar o favoritismo no Grupo F (fonte: https://tips.gg/pt/article/sweden-tunisia-predicted-lineups-story/)
 - Provável escalação em 3-4-2-1: Zetterström; Lagerbielke, Hien, Smith; Daniel Svensson, Mattias Svanberg, Jesper Karlström, Yasin Ayari; Anthony Elanga; Alexander Isak, Viktor Gyökeres

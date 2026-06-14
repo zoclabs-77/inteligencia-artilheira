@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-14
+- Uruguai estreia contra a Arábia Saudita em 15/06, às 19h (Brasília), no Hard Rock Stadium, Miami, pelo Grupo H (fonte: https://www.365scores.com/pt-br/news/magazine/arabia-saudita-x-uruguai-escalacoes-onde-assistir/)
+- Escalação prevista (4-4-2): Muslera; Varela, Bueno, Cáceres e Olivera; Valverde, Ugarte, Bentancur e Araujo; Núñez e Viñas (fonte: https://www.365scores.com/pt-br/news/magazine/arabia-saudita-x-uruguai-escalacoes-onde-assistir/)
+- Time não contará com Ronald Araújo, que retornou ao Barcelona, e dificilmente terá De Arrascaeta na fase de grupos (fonte: https://www.365scores.com/pt-br/news/magazine/arabia-saudita-x-uruguai-escalacoes-onde-assistir/)
+- **Repercussão / Próximo jogo:** Desfalques de Araújo e De Arrascaeta preocupam antes da estreia contra a Arábia Saudita em 15/06, em Miami.
+
 ## 📅 2026-06-13
 - Uruguai terá três desfalques importantes na estreia: José María Giménez, Ronald Araújo e Giorgian De Arrascaeta, todos fora por problemas físicos (fonte: https://www.terra.com.br/esportes/futebol/internacional/bielsa-tera-tres-baixas-importantes-em-estreia-do-uruguai-no-copa-do-mundo,f19ed18222fbb8da71a9944e6dc0000eacqt0mv7.html)
 - Com a zaga titular machucada, Bielsa deve escalar Sebastián Cáceres (América do México) e Santiago Bueno (Wolverhampton) na defesa
