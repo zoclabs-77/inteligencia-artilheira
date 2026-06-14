@@ -1,4 +1,4 @@
-# Rodada 1 — Resumo (atualizado em 2026-06-13)
+# Rodada 1 — Resumo (atualizado em 2026-06-14)
 
 ## Placares confirmados
 
@@ -6,11 +6,16 @@
 - **Coreia do Sul 2 x 1 Tchéquia** (Grupo A, 11/06). [ESPN](https://www.espn.com.br/futebol/partida/_/jogoId/760414/republica-tcheca-coreia-do-sul)
 - **Canadá 1 x 1 Bósnia e Herzegovina** (Grupo B, 12/06) — Lukic abriu o placar para a Bósnia no 1º tempo, Cyle Larin empatou para o Canadá aos 78'. [ESPN](https://www.espn.com/soccer/story/_/id/49041213/canada-bosnia-herzegovina-live-world-cup-2026-latest-updates-commentary-score-result)
 - **Estados Unidos 4 x 1 Paraguai** (Grupo D, 12/06) — goleada da casa no SoFi Stadium; Balogun marcou dois gols e assumiu a artilharia do torneio, primeiro gol foi contra de Bobadilla, Paraguai descontou com Maurício. [Folha Vitória](https://www.folhavitoria.com.br/esportes/eua-dao-show-e-estreiam-com-goleada-na-copa-do-mundo-de-2026)
+- **Catar 1 x 1 Suíça** (Grupo B, 13/06) — Embolo abriu o placar para a Suíça e Khoukhi empatou para o Catar nos minutos finais, primeiro ponto da história do país em Copas. [FIFA](https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/catar-suica-melhores-momentos-resumo-jogo-grupo-b)
+- **Brasil 1 x 1 Marrocos** (Grupo C, 13/06) — Saibari abriu o placar para Marrocos aos 21', Vini Jr. empatou aos 32' no MetLife Stadium. [CNN Brasil](https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alisson-falhou-brasil-sai-atras-do-marrocos-na-estreia-da-copa-do-mundo/)
+- **Haiti 0 x 1 Escócia** (Grupo C, 13/06) — gol de McGinn após rebote da defesa, Escócia assume a liderança do grupo do Brasil. [Lance](https://www.lance.com.br/copa-do-mundo/veja-gol-em-haiti-x-escocia-mcginn-abre-o-placar.html)
+- **Austrália 2 x 0 Turquia** (Grupo D, 14/06) — gols de Nestory Irankunda e Connor Metcalfe em Vancouver. [CNN Brasil](https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-golaco-australia-surpreende-a-turquia-e-estreia-com-vitoria-na-copa/)
 
-Ainda sem resultado confirmado (jogos de hoje, 13/06, ainda não realizados):
-- Catar x Suíça (Grupo B) — bola rola 13/06 às 16h local
-- Brasil x Marrocos (Grupo C) — bola rola 13/06 às 22:00 UTC
-- Haiti x Escócia (Grupo C) — bola rola 14/06 às 01:00 UTC
+Ainda sem resultado confirmado (jogos de 14-15/06, ainda não realizados):
+- Alemanha x Curaçao (Grupo E)
+- Holanda x Japão (Grupo F)
+- Costa do Marfim x Equador (Grupo E)
+- Suécia x Tunísia (Grupo F)
 
 ## Palpites x Resultado
 
@@ -20,17 +25,22 @@ Ainda sem resultado confirmado (jogos de hoje, 13/06, ainda não realizados):
 | Coreia do Sul x Tchéquia | 2-1 | 2-1 | 2-1 | placar exato | placar exato |
 | Canadá x Bósnia | 2-0 | 2-1 | 1-1 | errou (empate) | errou (empate) |
 | Estados Unidos x Paraguai | 1-0 | 1-0 | 4-1 | acertou vencedor | acertou vencedor |
+| Catar x Suíça | 0-2 | 0-2 | 1-1 | errou (empate) | errou (empate) |
+| Brasil x Marrocos | 2-1 | 1-0 | 1-1 | errou (empate) | errou (empate) |
+| Haiti x Escócia | 1-2 | 0-1 | 0-1 | acertou vencedor | placar exato |
+| Austrália x Turquia | 1-2 | 1-2 | 2-0 | errou (invertido) | errou (invertido) |
 
-## Placar geral (após 4 jogos pontuados)
+## Placar geral (após 8 jogos pontuados)
 
 | Modelo | Pontos | Placares exatos | Acertos de resultado | Confiança média |
 |---|---|---|---|---|
-| Codex | 7 | 2 | 3 | 61% |
-| Claude | 5 | 1 | 3 | 55% |
-| Baseline | 4 | 0 | 3 | 100% |
+| Codex | 10 | 3 | 4 | 60% |
+| Baseline | 8 | 1 | 5 | 100% |
+| Claude | 7 | 1 | 4 | 53% |
 
 ## Destaques para os shorts
 
-- Codex segue na liderança isolada com 2 placares exatos.
-- EUA goleou o Paraguai por 4 a 1: todos os três modelos previram vitória americana por 1 a 0, então acertaram o vencedor mas ficaram bem longe do saldo real.
-- **MICO do Baseline:** apostou 1-0 para o Canadá com 100% de confiança — saiu 1-1 e zerou na rodada (`copa.zebras_micos`).
+- Codex segue na liderança isolada, agora com 3 placares exatos (incluindo Haiti 0x1 Escócia).
+- **Dia de zebra dupla para o Baseline:** apostou vitória da Suíça (0-1) e vitória do Brasil (1-0), ambos com 100% de confiança — saíram empates 1-1 e o Baseline zerou nas duas partidas (`copa.zebras_micos`).
+- Claude e Codex bateram na trave duas vezes seguidas: previram vitória da Suíça sobre o Catar (0-2) e do Brasil sobre o Marrocos, mas os dois jogos terminaram empatados 1-1.
+- Austrália surpreendeu e bateu a favorita Turquia por 2 a 0 — os três modelos previram o resultado invertido (vitória turca), mas o Baseline (1-0 Austrália) ao menos acertou o vencedor e pontuou.
