@@ -299,10 +299,12 @@ function Calibracao({ dados }) {
 }
 
 function Zebras({ dados, nomes }) {
-  if (!dados.zebras.length) return <div className="vazio">Nenhuma zebra cravada nem mico pago… ainda. 🦓</div>;
+  // o Palpiteiro Cego crava sempre 1×0 com 100% — não é zebra nem mico de verdade, só polui a lista
+  const itens = dados.zebras.filter((z) => z.modelo !== 'baseline');
+  if (!itens.length) return <div className="vazio">Nenhuma zebra cravada nem mico pago… ainda. 🦓</div>;
   return (
     <section className="jogos">
-      {dados.zebras.map((z) => (
+      {itens.map((z) => (
         <div key={`${z.tipo}-${z.id}`} className="jogo">
           <div className="confronto">
             <span className="tag-zebra">{z.tipo === 'zebra' ? '🦓 ZEBRA CRAVADA' : '🤡 MICO'}</span>
