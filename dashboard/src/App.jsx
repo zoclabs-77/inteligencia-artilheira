@@ -87,11 +87,11 @@ export default function App() {
         </div>
         <h1>Inteligência <span className="am">Artilheira</span> <span className="ball">⚽🤖</span></h1>
         <p className="sub">
-          <b>Claude Code</b> × <b>Codex</b> prevendo a Copa do Mundo — rodada a rodada, com cada vez mais contexto.
+          <b>Claude Code</b> × <b>Codex</b> prevendo a Copa do Mundo — dia a dia, com cada vez mais contexto.
           Quem acerta mais? E será que mais informação = mais acerto?
         </p>
         <nav>
-          {[['placar', '🏆 Placar'], ['grupos', '📊 Grupos'], ['jogos', '⚽ Jogos & Palpites'], ['zebras', '🦓 Zebras & Micos'], ['sobre', '🧪 O Experimento']].map(([id, label]) => (
+          {[['placar', '🏆 Placar'], ['grupos', '📊 Grupos'], ['jogos', '⚽ Jogos & Palpites'], ['calibracao', '🎯 Calibração'], ['zebras', '🦓 Zebras & Micos'], ['sobre', '🧪 O Experimento']].map(([id, label]) => (
             <button key={id} className={aba === id ? 'on' : ''} onClick={() => setAba(id)}>{label}</button>
           ))}
         </nav>
@@ -103,6 +103,7 @@ export default function App() {
       {dados && aba === 'placar' && <Placar dados={dados} />}
       {dados && aba === 'grupos' && <Grupos dados={dados} nomes={nomes} />}
       {dados && aba === 'jogos' && <Jogos dados={dados} nomes={nomes} />}
+      {dados && aba === 'calibracao' && <Calibracao dados={dados} />}
       {dados && aba === 'zebras' && <Zebras dados={dados} nomes={nomes} />}
       {aba === 'sobre' && <Sobre />}
 
@@ -239,6 +240,64 @@ function Jogos({ dados, nomes }) {
   );
 }
 
+function Calibracao({ dados }) {
+  const stats = useMemo(() => {
+    const acc = {};
+    dados.palpites.forEach((p) => {
+      if (p.pontos == null) return; // só jogos encerrados
+      if (p.prob_casa == null || p.prob_empate == null || p.prob_fora == null) return;
+      const s = (acc[p.modelo] = acc[p.modelo] || { n: 0, brier: 0, confSoma: 0, acertos: 0 });
+      const real = p.real_casa > p.real_fora ? 'casa' : p.real_casa === p.real_fora ? 'empate' : 'fora';
+      const probs = { casa: p.prob_casa / 100, empate: p.prob_empate / 100, fora: p.prob_fora / 100 };
+      let b = 0;
+      for (const k of ['casa', 'empate', 'fora']) b += (probs[k] - (real === k ? 1 : 0)) ** 2;
+      s.brier += b;
+      s.confSoma += p.confianca ?? 0;
+      s.acertos += p.pontos >= 1 ? 1 : 0;
+      s.n += 1;
+    });
+    return Object.entries(acc)
+      .map(([modelo, s]) => ({
+        modelo, n: s.n,
+        brier: s.brier / s.n,
+        conf: Math.round(s.confSoma / s.n),
+        acerto: Math.round((s.acertos / s.n) * 100),
+      }))
+      .sort((a, b) => a.brier - b.brier); // menor Brier = melhor
+  }, [dados]);
+
+  if (!stats.length)
+    return <div className="vazio">Sem jogos encerrados ainda pra medir calibração. 🎯</div>;
+
+  return (
+    <section>
+      <p className="dica">
+        <b>Calibração</b> mede se a confiança das IAs é honesta. O <b>Brier</b> (0 = perfeito, 2 = péssimo) pune
+        quem crava errado com certeza. E comparamos o que cada uma <b>diz</b> (confiança média) com o que de fato <b>acerta</b>.
+      </p>
+      <div className="cards">
+        {stats.map((s, i) => {
+          const gap = s.conf - s.acerto;
+          const badge = Math.abs(gap) <= 5 ? ['Calibrado ✓', 'cal-ok'] : gap > 0 ? [`Confiante demais +${gap}`, 'cal-over'] : [`Modesto ${gap}`, 'cal-under'];
+          return (
+            <div key={s.modelo} className={`card ${i === 0 ? 'lider' : ''}`} style={{ '--cor': MODELOS[s.modelo]?.cor }}>
+              <div className="card-top">{MODELOS[s.modelo]?.emoji} {MODELOS[s.modelo]?.nome} {i === 0 && <span className="coroa">🎯</span>}</div>
+              <div className="pontos">{s.brier.toFixed(2)}<small>Brier</small></div>
+              <div className="mini">
+                Diz <b>{s.conf}%</b> · acerta <b>{s.acerto}%</b><br />
+                <span className={`cal-badge ${badge[1]}`}>{badge[0]}</span> · {s.n} jogos
+              </div>
+            </div>
+          );
+        })}
+      </div>
+      <p className="dica" style={{ marginTop: 18 }}>
+        🎯 Menor Brier = mais calibrada. “Confiante demais” significa apostar com mais certeza do que se acerta — o vício que a v2 ataca com a regra de <b>confiança honesta</b>.
+      </p>
+    </section>
+  );
+}
+
 function Zebras({ dados, nomes }) {
   if (!dados.zebras.length) return <div className="vazio">Nenhuma zebra cravada nem mico pago… ainda. 🦓</div>;
   return (
@@ -263,7 +322,7 @@ function Sobre() {
   return (
     <section className="sobre">
       <h2>🧪 O experimento</h2>
-      <p>Duas IAs — <b>Claude Code</b> e <b>Codex</b> — preveem TODOS os jogos da Copa 2026, rodada a rodada. As duas recebem exatamente o mesmo material: pastas com perfil e notícias de cada seleção, atualizadas diariamente por automação. Buscar na internet durante o palpite? <b>Proibido.</b></p>
+      <p>Duas IAs — <b>Claude Code</b> e <b>Codex</b> — preveem os jogos da Copa 2026, <b>um dia por vez</b>. As duas recebem exatamente o mesmo material: pastas com perfil e notícias de cada seleção, atualizadas diariamente por automação — e os resultados que já saíram, pra elas aprenderem com os erros. Buscar na internet durante o palpite? <b>Proibido.</b></p>
       <p>A pergunta científica: <b>quanto mais contexto a IA recebe, mais ela acerta?</b> A cada rodada, as pastas crescem — e a gente mede a evolução.</p>
       <p>Contra elas, um controle: o <b>Palpiteiro Cego</b>, que sempre aposta no favorito do ranking FIFA ganhando de 1×0. Se a IA não bate isso, pra que serve? 😅</p>
       <p>🔒 <b>Anti-trapaça:</b> todos os palpites são commitados em git <i>antes</i> dos jogos — o timestamp é público e auditável.</p>
@@ -280,27 +339,29 @@ function Sobre() {
   );
 }
 
-const PROMPT_MASTER = `Você é um analista de futebol orientado a dados, participando de um experimento controlado de previsão da Copa do Mundo 2026.
+const PROMPT_MASTER = `Você é um analista de futebol orientado a dados, num experimento controlado de previsão da Copa 2026. Você palpita UM DIA de jogos por vez.
 
-## Suas fontes de informação (as ÚNICAS permitidas)
-1. selecoes/grupo_*/<pais>/PERFIL.md — histórico, elenco, técnico, estilo, ranking
-2. selecoes/grupo_*/<pais>/NOTICIAS.md — notícias datadas (lesões, escalações, contexto recente)
-3. rodadas/rodada_*/resultados_reais.csv — o que já aconteceu na Copa até aqui
-4. infra/calendario.csv — tabela de jogos (ids, datas, confrontos)
+## Fontes (as ÚNICAS permitidas)
+1. selecoes/grupo_*/<pais>/PERFIL.md — histórico, elenco, técnico, estilo, ranking FIFA
+2. selecoes/grupo_*/<pais>/NOTICIAS.md — notícias datadas (lesões, escalações)
+3. rodadas/**/resultados_reais.csv — tudo o que já aconteceu (sua memória)
+4. infra/calendario.csv — jogos (ids, datas, rodada, confrontos)
 
 ## Regras invioláveis
-- PROIBIDO buscar na internet ou usar qualquer fonte externa às pastas listadas.
-- PROIBIDO usar conhecimento sobre jogos que ainda não aconteceram.
-- Leia os arquivos das seleções envolvidas ANTES de palpitar.
-- Analise: força do elenco, momento/forma, contexto tático, lesões, retrospecto, fator casa.
-- As probabilidades de cada jogo devem somar 100.
-- confianca = sua confiança no resultado, de 0 a 100.
-- justificativa = máximo 140 caracteres, objetiva.
+- PROIBIDO internet ou qualquer fonte externa às pastas. Sem dado, baixe a confiança.
+- PROIBIDO conhecimento de jogos que ainda não aconteceram.
+- As probabilidades de cada jogo somam 100. justificativa ≤ 140 caracteres.
 
-## Quando o usuário pedir "resultados da rodada X"
-1. Identifique no calendario.csv os jogos da rodada solicitada.
-2. Leia os arquivos das seleções envolvidas.
-3. Responda SOMENTE com um bloco CSV — nenhuma palavra antes ou depois:
+## Como pensar cada jogo (guia o CSV, não escreva esta análise)
+1. CONSENSO: cruze sua leitura das pastas + o gap de ranking FIFA + o histórico. Sinais divergem? Vá pro meio e baixe a confiança.
+2. CONFIANÇA HONESTA: alta só com evidência forte. Sem dado pra cravar o favorito, abaixe.
+3. EMPATE É RESULTADO REAL: calcule a taxa de empates nos jogos já saídos; entre times parecidos, considere o empate de verdade.
+4. APRENDA: leia resultados_reais.csv e ajuste seus placares aos padrões desta Copa.
+
+## Ao pedir "palpites de AAAA-MM-DD"
+1. No calendario.csv, pegue os jogos daquela data.
+2. Leia os resultados anteriores + os arquivos das seleções.
+3. Responda SOMENTE com um bloco CSV — nada antes ou depois:
    partida_id,casa,fora,gols_casa,gols_fora,prob_casa,prob_empate,prob_fora,confianca,justificativa
-4. Em mata-mata, não pode empate: indique o classificado pelo placar.
-5. Salve o mesmo conteúdo em rodadas/rodada_XX/<modelo>.csv.`;
+4. Mata-mata não pode empate: indique o classificado pelo placar.
+5. Salve em rodadas/rodada_XX/AAAA-MM-DD/<modelo>.csv.`;

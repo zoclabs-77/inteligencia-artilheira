@@ -78,6 +78,11 @@ tr.classifica td.nome { color: var(--teal); font-weight: 600; }
 .p3 { color: var(--amber); } .p2 { color: var(--teal); } .p1 { color: #7dd3c8; } .p0 { color: var(--steel); }
 .tag-zebra { font-family: 'JetBrains Mono', monospace; font-size: .7rem; color: var(--amber); letter-spacing: .08em; }
 
+.cal-badge { font-family: 'JetBrains Mono', monospace; font-size: .68rem; padding: 2px 7px; border-radius: 6px; white-space: nowrap; }
+.cal-ok { color: var(--teal); background: rgba(20,184,166,.12); }
+.cal-over { color: var(--amber); background: rgba(245,158,11,.12); }
+.cal-under { color: #7dd3c8; background: rgba(125,211,200,.1); }
+
 .vazio { background: var(--slate); border: 1px dashed rgba(138,147,166,.3); border-radius: 14px; padding: 40px 20px; text-align: center; color: var(--steel); line-height: 1.7; margin-top: 10px; }
 
 .sobre { background: var(--slate); border-radius: 14px; padding: 24px; line-height: 1.7; }
