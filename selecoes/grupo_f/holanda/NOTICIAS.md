@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Holanda empatou com o Japão por 2x2 na estreia do Grupo F — jogo de alta qualidade técnica, um dos mais elogiados do torneio até agora (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
+- Cody Gakpo marcou e foi o principal nome ofensivo da Holanda; Memphis Depay entrou no 2T e participou das jogadas; equipe cedeu dois gols ao Japão apesar da posse dominante (fonte: https://24noticias.sapo.pt/desporto/artigos/alemanha-suecia-e-costa-do-marfim-brilham-holanda-e-japao-empatam)
+- Próximo jogo é contra a Suécia em 20/06 (14h, Houston) — a rival também tem 1 ponto após vencer a Tunísia por 5x1 (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
+- **Repercussão / Próximo jogo:** Empate com o Japão frustra o potencial do elenco holandês — necessidade de vencer a Suécia para não complicar a classificação no Grupo F.
+
 ## 📅 2026-06-14
 - Holanda estreia hoje contra o Japão, às 17h (Brasília), no AT&T Stadium em Dallas, pelo Grupo F (fonte: https://www.correio24horas.com.br/copa-do-mundo/holanda-x-japao-na-copa-do-mundo-2026-onde-assistir-escalacoes-e-tudo-sobre-a-estreia-das-duas-selecoes-0626)
 - Escalação prevista (4-2-3-1): Verbruggen; Dumfries, Van Hecke, Van Dijk, Van de Ven; De Jong, Gravenberch; Summerville, Reijnders, Gakpo; Pagar (fonte: https://www.goal.com/br/not%C3%ADcias/provavel-escalacao-holanda-x-japao-ronald-koeman-deve-escolher-entre-crysencio-summerville-e-memphis-depay/blt2ab615a5a19507aa)

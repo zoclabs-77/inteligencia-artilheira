@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- EUA enfrenta a Austrália em 19/06 (sexta-feira), no Lumen Field em Seattle, Grupo D — liderança compartilhada com 3 pontos após goleada 4x1 no Paraguai (fonte: https://espndeportes.espn.com/futbol/partido/_/juegoId/760442/australia-estados-unidos)
+- Repercussão da estreia foi de euforia: Balogun (2 gols), Reyna e gol contra de Bobadilla — Pulisic foi o maestro das jogadas, elogiado como o melhor em campo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-gols-brasileiros-estados-unidos-goleia-paraguai-em-estreia-na-copa/)
+- Pochettino deve manter o esquema 3-4-2-1 que funcionou no 1º jogo; Gio Reyna disputando posição no meio ofensivo depois de exibição eficiente saindo do banco (fonte: https://www.nbcsports.com/soccer/news/usmnt-lineup-versus-paraguay-who-will-pochettino-choose-for-usa-in-world-cup-opener)
+- **Repercussão / Próximo jogo:** Goleada empolgante como anfitrião — EUA e Austrália (também com 3 pts) decidem a liderança do Grupo D em Seattle.
+
 ## 📅 2026-06-14
 - Estados Unidos goleou o Paraguai por 4x1 na estreia do Grupo D: gol contra de Bobadilla e dois gols de Folarin Balogun no 1º tempo, mais gol de Reyna no 2º tempo (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/eua-estreia-na-copa-do-mundo-com-goleada-sobre-o-paraguai-4x1)
 - Domínio total no primeiro tempo (3 gols), com atuação destacada de Pulisic na criação das jogadas (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-gols-brasileiros-estados-unidos-goleia-paraguai-em-estreia-na-copa/)

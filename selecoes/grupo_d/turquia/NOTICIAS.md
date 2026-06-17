@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Turquia enfrenta o Paraguai em 20/06 (sábado), no Levi's Stadium em Santa Clara, Grupo D — zerada após derrota inesperada 0x2 para a Austrália (fonte: https://trivela.com.br/copa-do-mundo/grupo-d-2026-eua-paraguai-australia-turquia/)
+- Derrota para a Austrália frustrou expectativas: Arda Güler foi muito bem marcado e teve pouco espaço; equipe de Montella mostrou dificuldades na marcação alta (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/australia-2-x-0-turquia-os-melhores-momentos-do-duelo-pela-copa-2026/)
+- Escalação provável para o confronto (4-2-3-1): Çakir; Kadıoglu, Demiral, Bardakci e Çelik; Çalhanoğlu e Yuksek; Güler, Kökçü e Yıldız; Yılmaz — Montella deve fazer ajustes (fonte: https://www.goal.com/en-us/news/turkiye-paraguay-world-cup-preview/blt3887ddc8c5fa4180)
+- **Repercussão / Próximo jogo:** Pressão máxima para Güler e Yıldız na segunda rodada — derrota para o Paraguai praticamente elimina a Turquia do torneio.
+
 ## 📅 2026-06-14
 - Turquia perdeu para a Austrália por 0x2 em Vancouver na estreia do Grupo D, sem conseguir converter chances ofensivas (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/australia-2-x-0-turquia-os-melhores-momentos-do-duelo-pela-copa-2026/)
 - **Repercussão / Próximo jogo:** Derrota inesperada deixa a Turquia zerada no Grupo D, junto com o Paraguai; equipe precisa reagir contra Paraguai e EUA para sonhar com a classificação.

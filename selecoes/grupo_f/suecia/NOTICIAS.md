@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Suécia goleou a Tunísia por 5x1 na estreia do Grupo F e assumiu a liderança isolada da chave — Viktor Gyökeres e Alexander Isak brilharam em show ofensivo (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
+- Parceria Isak-Gyökeres foi devastadora: um dos duetos ofensivos mais efetivos até agora na Copa 2026; Graham Potter elogiou a intensidade e o aproveitamento nos finalizações (fonte: https://24noticias.sapo.pt/desporto/artigos/alemanha-suecia-e-costa-do-marfim-brilham-holanda-e-japao-empatam)
+- Próximo jogo é contra a Holanda em 20/06 (14h, Houston) — duelo direto pela liderança do Grupo F entre líderes com forças distintas (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
+- **Repercussão / Próximo jogo:** Goleada na estreia colocou a Suécia como surpresa positiva do Grupo F — confronto direto com a Holanda (Van Dijk, De Jong, Gakpo) é o maior teste até agora.
+
 ## 📅 2026-06-14
 - Suécia estreia hoje contra a Tunísia, no Estádio BBVA, em Monterrey (México), pelo Grupo F (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-suecia-x-tunisia-14-06-2026.html)
 - Seleção se classificou via repescagem europeia após campanha ruim nas eliminatórias; Graham Potter aposta em ataque liderado por Alexander Isak e Viktor Gyökeres (fonte: https://mancheteesportiva.com.br/mercado/suecia-x-tunisia-copa-do-mundo-de-2026-escolhas-e-probabilidades/19660/)

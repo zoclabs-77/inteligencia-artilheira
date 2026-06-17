@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Equador perdeu para a Costa do Marfim por 0x1 na estreia do Grupo E — fim da sequência invicta de 19 jogos, com gol sofrido nos minutos finais (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
+- Apesar da derrota, Moisés Caicedo (Chelsea) e Willian Pacho (PSG) foram destaques individuais; Enner Valencia pouco participou no ataque (fonte: https://24noticias.sapo.pt/desporto/artigos/alemanha-suecia-e-costa-do-marfim-brilham-holanda-e-japao-empatam)
+- Próximo jogo é contra Curaçao em 20/06 — derrota para a menor seleção da Copa seria catástrofe; vitória volta a abrir chances no Grupo E (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
+- **Repercussão / Próximo jogo:** Derrota no fim derruba a sequência invicta e pressiona a equipe de Beccacece — vitória sobre Curaçao é obrigatória para manter viva a classificação no Grupo E.
+
 ## 📅 2026-06-14
 - Equador estreia contra a Costa do Marfim em 14/06 (madrugada de 15/06 no horário de Brasília), no Lincoln Financial Field, Filadélfia, pelo Grupo E (fonte: https://www.espn.com/soccer/match/_/gameId/760423/equador-costa-do-marfim)
 - Comandado por Sebastián Beccacece, o Equador chega como uma das seleções em melhor fase do Mundial, com 19 jogos sem perder; na preparação empatou com Marrocos e Holanda (1x1 cada), venceu a Arábia Saudita por 2x1 e goleou a Guatemala por 3x0 (fonte: https://www.vietnam.vn/pt/nhan-dinh-bo-bien-nga-va-ecuador-bang-e-world-cup-2026-can-tai-can-suc)

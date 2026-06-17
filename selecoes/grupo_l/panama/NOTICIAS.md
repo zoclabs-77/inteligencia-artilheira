@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Panamá estreia HOJE contra Gana, às 20h (Brasília), no BMO Field em Toronto, Grupo L — segunda Copa da história, após debut na Rússia 2018 (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/gana-panama-onde-assistir-copa-2026-escalacoes/)
+- Escalação provável (3-4-2-1): Mosquera; Murillo, Escobar, Córdoba, Andrade e Blackman; José Rodríguez; Bárcenas e Almanza (fonte: https://www.meutimao.com.br/apostas/palpites/gana-x-panama-copa-do-mundo-17062026)
+- Capitão Armando Cooper e o experiente Rolando Blackman são as referências em campo; Panamá ainda busca a primeira vitória da história em Mundiais (fonte: https://trivela.com.br/copa-do-mundo/grupo-l-2026-inglaterra-croacia-gana-panama/)
+- **Repercussão / Próximo jogo:** Missão histórica dos Canaleros: primeiro triunfo em Copas do Mundo está ao alcance diante de uma Gana fragilizada — vitória garantiria sonho de classificação no Grupo L.
+
 ## 📅 2026-06-14
 - Panamá estreia contra Gana em 17/06, no BMO Field, Toronto, pelo Grupo L — apenas a segunda participação da seleção em Copas, após o debut na Rússia 2018 (fonte: https://www.goal.com/en-us/news/ghana-panama-world-cup-preview/bltc57f7610ee6813ff)
 - **Repercussão / Próximo jogo:** Panamá busca a primeira vitória da história em Mundiais na estreia contra Gana em 17/06.

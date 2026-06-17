@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Paraguai enfrenta a Turquia em 20/06 (sábado), no Levi's Stadium em Santa Clara, Grupo D — ambas zeradas após derrotas na estreia (fonte: https://trivela.com.br/copa-do-mundo/grupo-d-2026-eua-paraguai-australia-turquia/)
+- Goleada sofrida (1x4 para os EUA) no 1º tempo revelou fragilidades: Damián Bobadilla marcou gol contra, defesa não se recuperou da pressão norte-americana (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/eua-estreia-na-copa-do-mundo-com-goleada-sobre-o-paraguai-4x1)
+- Julio Enciso (estrela da seleção) estava fora da estreia por lesão; deve retornar contra a Turquia e mudar o padrão de jogo do Paraguai no Grupo D (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/estrela-do-paraguai-esta-fora-da-estreia-da-copa-do-mundo-contra-os-estados-unidos,79e7cee9da4432ced09647fdc06233ab8tz9d890.html)
+- **Repercussão / Próximo jogo:** Goleada traumática exige reação imediata — retorno de Enciso contra a Turquia (também zerada) é a esperança de manter o sonho vivo no Grupo D.
+
 ## 📅 2026-06-14
 - Paraguai foi goleado pelos EUA por 1x4 na estreia do Grupo D, sofrendo gol contra de Bobadilla e dois gols de Balogun ainda no 1º tempo (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/eua-estreia-na-copa-do-mundo-com-goleada-sobre-o-paraguai-4x1)
 - **Repercussão / Próximo jogo:** Goleada sofrida na abertura deixa o Paraguai pressionado e zerado no Grupo D; equipe precisa reagir contra a Turquia para não comprometer a classificação.

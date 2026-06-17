@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-17
+- Brasil enfrenta o Haiti em 19/06 (sexta-feira), às 21h30 (Brasília), na Filadélfia — vitória é praticamente obrigatória para manter ritmo no Grupo C liderado pela Escócia (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-haiti-escalacoes-horario-onde-assistir)
+- Ancelotti avalia fazer mudanças na equipe após o empate com o Marrocos: Roger Ibañez e Douglas Santos foram utilizados na estreia e podem ser mantidos ou substituídos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/vini-jr-marca-golaco-mas-brasil-so-empata-com-marrocos-na-estreia-da-copa/)
+- Neymar estava fora da estreia por lesão na panturrilha (recuperação prevista para 2º jogo) — chance de retorno contra o Haiti eleva expectativa da torcida (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/ancelotti-da-indicios-sobre-escalacao-do-brasil-em-estreia-na-copa-do-mundo/)
+- Brasil soma 1 ponto no Grupo C, atrás da Escócia (3 pts) e empatado com Marrocos; Haiti é o único sem pontuar (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
+- **Repercussão / Próximo jogo:** Empate com Marrocos gerou críticas à lentidão de Casemiro e aos erros defensivos — Brasil precisa reagir na Filadélfia para não deixar a Escócia se distanciar no Grupo C.
+
 ## 📅 2026-06-14
 - Brasil estreou com empate 1x1 contra Marrocos no MetLife Stadium pelo Grupo C: Saibari abriu o placar aos 21' e Vini Jr empatou aos 32' (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/brasil-marrocos-melhores-momentos-resumo-jogo-grupo-c)
 - Seleção de Ancelotti foi dominada no 1º tempo, melhorou após as substituições no 2º tempo mas não conseguiu a virada (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alisson-falhou-brasil-sai-atras-do-marrocos-na-estreia-da-copa-do-mundo/)

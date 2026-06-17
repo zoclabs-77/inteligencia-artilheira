@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Suíça enfrenta a Bósnia em 18/06 (quinta-feira), pelo Grupo B — após empate sofrido (1x1 com o Catar nos acréscimos), precisa de vitória para retomar o caminho (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)
+- Escalação provável: Kobel; Widmer, Akanji, Elvedi, Rodríguez; Freuler, Xhaka; Ndoye, Manzambi, Aebischer; Embolo — Breel Embolo marcou na estreia, mas gol contra de Khoukhi nos acréscimos roubou a vitória (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)
+- Xhaka e Freuler seguem como motor do meio-campo; imprensa suíça cobrou mais velocidade no jogo ofensivo após dominar mas ceder o empate (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/catar-1-x-1-suica-veja-os-melhores-momentos-do-confronto-da-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Frustração do empate tardio motiva reação — Suíça favorita clara diante da Bósnia, que vem de empate 1x1 com o Canadá.
+
 ## 📅 2026-06-14
 - Suíça abriu o placar com Breel Embolo, mas cedeu o empate 1x1 ao Catar nos acréscimos do 2º tempo, na estreia do Grupo B (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/catar-suica-melhores-momentos-resumo-jogo-grupo-b)
 - Imprensa destaca domínio suíço durante boa parte do jogo e chances desperdiçadas para ampliar o placar (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/catar-1-x-1-suica-veja-os-melhores-momentos-do-confronto-da-copa-do-mundo/)

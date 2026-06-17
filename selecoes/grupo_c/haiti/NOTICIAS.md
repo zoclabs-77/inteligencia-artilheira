@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Haiti enfrenta o Brasil em 19/06 (sexta-feira), às 21h30 (Brasília), na Filadélfia — sem pontos no Grupo C após derrota para a Escócia por 0x1 (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
+- Apesar da derrota, a FIFA destacou "a coragem do Haiti", que competiu de igual para igual com a Escócia em vários momentos e teve boas chances de empatar (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/copa-mundo-2026-haiti-escocia-pos-jogo)
+- Wilson Isidor foi o jogador mais ativo ofensivamente na estreia; equipe montada pelo técnico Migne com blocos compactos e saídas rápidas (fonte: https://www.infomoney.com.br/esportes/jogo-haiti-escocia-copa-2026/)
+- **Repercussão / Próximo jogo:** Derrota por 0x1 contra Escócia não apaga a boa impressão — Haiti precisa de milagre contra o Brasil, mas promete organização e não irá se render facilmente.
+
 ## 📅 2026-06-14
 - Haiti perdeu para a Escócia por 0x1 em Foxborough, gol de John McGinn com desvio em Bellegarde, na estreia do Grupo C (fonte: https://www.poder360.com.br/copa-2026/copa-2026-melhores-momentos-de-haiti-0-x-1-escocia/)
 - Apesar da derrota, seleção haitiana foi elogiada pela organização defensiva e pela pressão imposta aos escoceses (fonte: https://www.otempo.com.br/sports/copa-do-mundo/2026/2026/6/13/escocia-supera-organizado-haiti-lidera-grupo-do-brasil-e-mostra-que-pode-brigar-por-uma-vaga)

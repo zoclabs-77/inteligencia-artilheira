@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Curaçao foi goleado pela Alemanha por 1x7 na estreia histórica do Grupo E — derrota pesada mas dentro do esperado diante de um dos favoritos ao título (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
+- Apesar da goleada, Curaçao marcou um gol histórico (o 1º da nação em Copas do Mundo), celebrado com orgulho pelos torcedores do país caribenho (fonte: https://www.netflu.com.br/alemanha-atropela-suecia-goleia-e-holanda-empata-em-rodada-movimentada-da-copa-do-mundo-2026/)
+- Próximo jogo é contra o Equador em 20/06 — adversário derrotado (0x1 para Costa do Marfim) que está sob pressão e será fortemente favorito (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
+- **Repercussão / Próximo jogo:** Gol histórico na estreia foi comemorado apesar da goleada — Curaçao enfrenta o Equador sabendo que uma vitória surpreendente seria a maior conquista da história da seleção.
+
 ## 📅 2026-06-14
 - Curaçao faz a estreia histórica na Copa do Mundo hoje contra a Alemanha, às 14h (Brasília), no NRG Stadium em Houston, pelo Grupo E (fonte: https://www.correio24horas.com.br/copa-do-mundo/alemanha-x-curacao-na-copa-do-mundo-2026-onde-assistir-escalacoes-e-tudo-sobre-a-estreia-dos-alemaes-0626)
 - Escalação prevista por Dick Advocaat: Eloy Room; Sambo, Gaari, Obispo e Floranus; Comenencia, Juninho Bacuna e Leandro Bacuna; Chong, Gorré e Antonisse (fonte: https://trivela.com.br/copa-do-mundo/grupo-e-2026-alemanha-curacao-costa-marfim-equador/)

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- México enfrenta a Coreia do Sul em 18/06 (quinta-feira), às 22h (Brasília), no Estádio Akron em Guadalajara — vitória consolida a liderança do Grupo A (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/mexico-x-coreia-do-sul-escalacoes-estao-definidas-para-jogo-da-copa-202606111520)
+- Escalação confirmada: Raúl Rangel; Jorge Sánchez, Edson Álvarez, Johan Vásquez e Jesús Gallardo; Erik Lira; Roberto Alvarado, Álvaro Fidalgo, Brian Gutiérrez e Julián Quiñones; Raúl Jiménez — técnico Javier Aguirre (fonte: https://tips.gg/pt/article/mexico-south-korea-predicted-lineups-story/)
+- Quiñones (gol aos 8') e Raúl Jiménez (gol no 2T) foram os destaques da goleada 2x0 na abertura; César Montes foi expulso e cumprirá suspensão automática contra a Coreia (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/mexico-vence-africa-do-sul-na-abertura-da-copa-do-mundo-e-quebra-tabu/)
+- **Repercussão / Próximo jogo:** Goleada na abertura histórica animou a torcida azteca — Montes suspenso abre vaga na defesa; vencer a Coreia significaria classificação antecipada ao mata-mata.
+
 ## 📅 2026-06-14
 - Sem novidades relevantes em 14/06; México venceu a África do Sul por 2x0 no jogo de abertura da Copa, no Estádio Azteca (11/06), em meio à cerimônia de abertura com Maná, Shakira, J Balvin e outros artistas (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/cronograma-da-abertura-da-copa-do-mundo-no-mexico-veja-horarios-e-atracoes/)
 - **Repercussão / Próximo jogo:** Vitória na abertura como anfitrião anima a torcida mexicana; próximo confronto é contra a Coreia do Sul em 18/06, em Guadalajara.

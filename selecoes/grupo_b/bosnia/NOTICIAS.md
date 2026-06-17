@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Bósnia enfrenta a Suíça em 18/06 (quinta-feira), pelo Grupo B — empate 1x1 com o Canadá (anfitrião) na estreia é resultado respeitável fora de casa (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/canada-e-bosnia-empatam-e-paraguai-sofre-goleada-historica-dos-eua)
+- Jovo Lukić abriu o placar no 1º tempo, mas Cyle Larin empatou no 2T; Bósnia somou 1 ponto e mantém chances reais de classificação no Grupo B (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/canada-e-bosnia-empatam-e-paraguai-sofre-goleada-historica-dos-eua)
+- Edin Džeko, maior artilheiro histórico (73 gols), iniciou no banco na estreia por lesão e pode ganhar minutos contra a Suíça; Ermedin Demirovic foi o principal nome ofensivo (fonte: https://www.365scores.com/pt-br/news/magazine/canada-x-bosnia-e-herzegovina-escalacoes-analise-copa/)
+- **Repercussão / Próximo jogo:** Resultado positivo na estreia dá confiança à Bósnia para encarar a Suíça — dificuldade será superar a defesa experiente dos suíços.
+
 ## 📅 2026-06-14
 - Bósnia e Herzegovina empatou 1x1 com o anfitrião Canadá em Toronto na estreia do Grupo B, gol de Jovo Lukić aos 20' do 1º tempo (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/canada-e-bosnia-empatam-e-paraguai-sofre-goleada-historica-dos-eua)
 - **Repercussão / Próximo jogo:** Empate fora de casa contra o anfitrião é resultado positivo; Bósnia soma 1 ponto no Grupo B e mantém chances de classificação.

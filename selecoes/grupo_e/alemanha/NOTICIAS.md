@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Alemanha goleou o Curaçao por 7x1 na estreia do Grupo E, repetindo o histórico 7x1 sobre o Brasil — Wirtz e Musiala foram os grandes nomes, com o jovem Woltemade marcando dois gols (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
+- Florian Wirtz e Jamal Musiala combinaram com perfeição no meio-campo criativo; Manuel Neuer (40 anos) teve trabalho reduzido com eficiência (fonte: https://www.netflu.com.br/alemanha-atropela-suecia-goleia-e-holanda-empata-em-rodada-movimentada-da-copa-do-mundo-2026/)
+- Próximo adversário é a Costa do Marfim (20/06), que venceu o Equador por 1x0 na estreia — encontro das duas líderes do Grupo E (fonte: https://24noticias.sapo.pt/desporto/artigos/alemanha-suecia-e-costa-do-marfim-brilham-holanda-e-japao-empatam)
+- **Repercussão / Próximo jogo:** Goleada histórica e espetáculo de Wirtz/Musiala projetam a Alemanha como candidata ao título — Costa do Marfim (também 3 pts) é o próximo teste de verdade no Grupo E.
+
 ## 📅 2026-06-14
 - Alemanha estreia hoje contra Curaçao, às 14h (Brasília), no NRG Stadium em Houston, pelo Grupo E (fonte: https://www.correio24horas.com.br/copa-do-mundo/alemanha-x-curacao-na-copa-do-mundo-2026-onde-assistir-escalacoes-e-tudo-sobre-a-estreia-dos-alemaes-0626)
 - Escalação prevista por Nagelsmann: Neuer; Kimmich, Tah, Schlotterbeck e Brown; Pavlovic e Nmecha; Sané, Musiala e Wirtz; Havertz (fonte: https://trivela.com.br/copa-do-mundo/grupo-e-2026-alemanha-curacao-costa-marfim-equador/)

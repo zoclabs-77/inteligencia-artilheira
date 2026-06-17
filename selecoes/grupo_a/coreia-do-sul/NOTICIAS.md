@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Coreia do Sul enfrenta o México em 18/06 (quinta-feira), às 22h (Brasília), no Estádio Akron em Guadalajara — decisão para o Grupo A (fonte: https://www.365scores.com/pt-br/news/magazine/mexico-x-coreia-sul-copa-do-mundo/)
+- Vitória sobre a Tchéquia (2x1, de virada) destacou a resistência da equipe: goleiro Kim Seunggyu fez duas defesas decisivas no final do jogo; Hwang In-Beom marcou o gol da virada com golaço (fonte: https://www.infomoney.com.br/esportes/jogo-coreia-do-sul-tchequia-copa-2026/)
+- Son Heung-min foi bem controlado pela marcação tcheca na estreia, mas segue como principal ameaça da seleção sul-coreana; Hong Myung-bo confirma equipe base para o confronto (fonte: https://www.vietnam.vn/pt/xep-hang-world-cup-2026-han-quoc-nhi-bang-a)
+- **Repercussão / Próximo jogo:** Virada na estreia energiza o Grupo A — Coreia do Sul aposta em Son e Hwang In-Beom para surpreender o México anfitrião em Guadalajara.
+
 ## 📅 2026-06-14
 - Sem novidades relevantes em 14/06; destaque recente é a vitória por 2x1 sobre a Tchéquia na estreia do Grupo A em Guadalajara (11/06), saindo atrás no placar mas conquistando a 1ª vitória em jogo de abertura em três Copas (fonte: https://www.vietnam.vn/pt/xep-hang-world-cup-2026-han-quoc-nhi-bang-a)
 - Son Heung-min, capitão e principal nome do elenco, disputa seu quarto Mundial sob comando de Hong Myung-bo (fonte: https://www.vietnam.vn/pt/xep-hang-world-cup-2026-han-quoc-nhi-bang-a)

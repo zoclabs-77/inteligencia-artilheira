@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Austrália enfrenta os EUA em 19/06 (sexta-feira), no Lumen Field em Seattle, Grupo D — liderança compartilhada com 3 pontos após vitória surpreendente 2x0 sobre a Turquia (fonte: https://espndeportes.espn.com/futbol/partido/_/juegoId/760442/australia-estados-unidos)
+- Nestory Irankunda (27') e Connor Metcalfe foram os heróis da vitória sobre a Turquia; jovem atacante Irankunda é a grande revelação dos Socceroos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/australia-2-x-0-turquia-os-melhores-momentos-do-duelo-pela-copa-2026/)
+- Técnico Tony Popovic prometeu manter o 3-4-2-1 intenso que funcionou; Mathew Ryan (capitão, 4ª Copa) foi decisivo com boas defesas no 2º tempo (fonte: https://www.metropoles.com/esportes/copa-do-mundo-australia-surpreende-e-vence-turquia-por-2-x-0)
+- **Repercussão / Próximo jogo:** Vitória sobre a Turquia projetou a Austrália como contendora real no Grupo D — duelo contra os EUA (também 3 pts) definirá quem assume a liderança isolada.
+
 ## 📅 2026-06-14
 - Austrália venceu a Turquia por 2x0 em Vancouver na estreia do Grupo D, gols de Nestory Irankunda (27') e Connor Metcalfe (no 2º tempo) (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/australia-2-x-0-turquia-os-melhores-momentos-do-duelo-pela-copa-2026/)
 - Resultado coloca a Austrália na liderança do Grupo D, ao lado dos EUA, com 3 pontos (fonte: https://www.metropoles.com/esportes/copa-do-mundo-australia-surpreende-e-vence-turquia-por-2-x-0)

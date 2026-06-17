@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Escócia enfrenta Marrocos em 19/06 (sexta-feira), às 21h30 (Brasília), em Boston — liderança do Grupo C com 3 pontos em jogo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
+- Repercussão da vitória sobre o Haiti foi positiva: imprensa destaca eficiência defensiva (zero gols sofridos) e o gol de McGinn como jogo seguro e pragmático (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/escocia-segura-pressao-do-haiti-e-vence-na-estreia-da-copa-do-mundo/)
+- Steve Clarke confirmou que McTominay foi o melhor em campo na estreia, com energia e presença ofensiva destacadas; Andy Robertson sólido na lateral-esquerda (fonte: https://www.metro1.com.br/noticias/copa-do-mundo-2026/183915,escocia-vence-haiti-e-assume-lideranca-do-grupo-c)
+- **Repercussão / Próximo jogo:** Escócia lidera o Grupo C — vitória sobre Marrocos consolidaria a vaga antecipada no mata-mata; derrota reabre toda a briga pelo 1º e 2º lugar.
+
 ## 📅 2026-06-14
 - Escócia venceu o Haiti por 1x0 em Foxborough, gol de John McGinn (com desvio em Bellegarde) na estreia do Grupo C (fonte: https://diariodonordeste.verdesmares.com.br/jogada/escocia-e-a-primeira-selecao-europeia-a-vencer-na-copa-do-mundo-2026-e-lidera-grupo-do-brasil-1.3770505)
 - Resultado faz da Escócia a primeira seleção europeia a vencer na Copa 2026, assumindo a liderança do Grupo C com 3 pontos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/escocia-segura-pressao-do-haiti-e-vence-na-estreia-da-copa-do-mundo/)

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Tchéquia enfrenta a África do Sul em 18/06 (quinta-feira), pelo Grupo A — derrota na estreia (1x2 para Coreia do Sul) torna o jogo praticamente obrigatório (fonte: https://www.goal.com/en-us/news/czech-republic-south-africa-world-cup-preview/blt2698eb3974683720)
+- Após sair na frente com Krejci (gol de cabeça aos 13'), a Tchéquia cedeu a virada no 2T: falha coletiva na marcação e excessiva dependência do jogo aéreo foram criticadas (fonte: https://www.infomoney.com.br/esportes/jogo-coreia-do-sul-tchequia-copa-2026/)
+- Patrik Schick (Bayer Leverkusen) é a principal referência ofensiva; Tomáš Souček pode ser remanejado para ter mais liberdade na criação contra a África do Sul (fonte: https://www.goal.com/en-us/news/czech-republic-south-africa-world-cup-preview/blt2698eb3974683720)
+- **Repercussão / Próximo jogo:** Derrota na estreia expõe fragilidades táticas — Tchéquia precisa reagir contra uma África do Sul com dois jogadores suspensos (Sithole e Zwane).
+
 ## 📅 2026-06-14
 - Sem novidades relevantes em 14/06; Tchéquia perdeu para a Coreia do Sul por 1x2 na estreia em Guadalajara (11/06), retorno ao Mundial após 20 anos sob comando de Miroslav Koubek, que assumiu em dezembro de 2025 (fonte: https://www.vietnam.vn/pt/xep-hang-world-cup-2026-han-quoc-nhi-bang-a)
 - **Repercussão / Próximo jogo:** Derrota na estreia complica a busca pela primeira classificação ao mata-mata da história; próximo confronto é contra a África do Sul em 18/06.

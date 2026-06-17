@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Canadá enfrenta o Catar em 18/06 (quinta-feira), pelo Grupo B — após empate histórico (1x1 com Bósnia), precisa da vitória para seguir vivo na competição (fonte: https://www.lance.com.br/copa-do-mundo/veja-o-gol-de-canada-x-bosnia-na-copa-do-mundo.html)
+- Cyle Larin marcou o gol do empate histórico (primeiro ponto do Canadá em Copas); Jonathan David segue como principal esperança ofensiva da equipe de Marsch (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/anfitriao-canada-busca-empate-com-bosnia-e-soma-primeiro-ponto-em-copas/)
+- Alphonso Davies ainda se recupera de lesão muscular (esteve fora da estreia); sua presença ou não contra o Catar depende de avaliação médica nos próximos dias (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/lesoes-mudam-planos-de-canada-e-bosnia-para-estreia-na-copa-veja-provaveis-escalacoes/)
+- **Repercussão / Próximo jogo:** Histórico primeiro ponto animou o Canadá como anfitrião — Catar (1 ponto) é adversário acessível para buscar a primeira vitória e assumir a briga pelo mata-mata.
+
 ## 📅 2026-06-14
 - Canadá empatou 1x1 com a Bósnia em Toronto na abertura do Grupo B: Jovo Lukić abriu o placar para os bósnios e Cyle Larin empatou no 2º tempo (fonte: https://www.lance.com.br/copa-do-mundo/veja-o-gol-de-canada-x-bosnia-na-copa-do-mundo.html)
 - Resultado representa o primeiro ponto da história do Canadá em Copas do Mundo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/anfitriao-canada-busca-empate-com-bosnia-e-soma-primeiro-ponto-em-copas/)

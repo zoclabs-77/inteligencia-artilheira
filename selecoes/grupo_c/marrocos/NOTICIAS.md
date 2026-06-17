@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Marrocos enfrenta a Escócia em 19/06 (sexta-feira), às 21h30 (Brasília), em Boston — duelo que pode definir o segundo classificado do Grupo C (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
+- Atuação na estreia foi elogiada internacionalmente: Marrocos dominou boa parte do jogo contra o Brasil (12 finalizações vs 7) e abriu o placar com Saibari antes de ceder o empate a Vini Jr (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-estatisticas-brasil-marrocos-numeros-partida)
+- Hakimi (PSG) confirmou forma física elevada na estreia como capitão; Brahim Díaz (Real Madrid) foi bem nos minutos que jogou saindo do banco (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alisson-falhou-brasil-sai-atras-do-marrocos-na-estreia-da-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Empate com o Brasil gerou orgulho marroquino — Leões do Atlas com 1 ponto enfrentam a liderança escocesa (3 pts) num confronto decisivo para o 2º lugar do grupo.
+
 ## 📅 2026-06-14
 - Marrocos saiu na frente contra o Brasil com gol de Ismael Saibari aos 21' e resistiu à pressão na 2ª etapa, garantindo o empate 1x1 no MetLife Stadium (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/brasil-marrocos-melhores-momentos-resumo-jogo-grupo-c)
 - Atuação elogiada pela imprensa: equipe dominou boa parte do jogo e mostrou a competitividade de uma seleção semifinalista da Copa anterior (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alisson-falhou-brasil-sai-atras-do-marrocos-na-estreia-da-copa-do-mundo/)

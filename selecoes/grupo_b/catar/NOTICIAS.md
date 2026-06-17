@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-17
+- Catar enfrenta o Canadá em 18/06 (quinta-feira), pelo Grupo B — gol contra de Khoukhi nos acréscimos garantiu o histórico empate 1x1 com a Suíça na estreia (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/catar-suica-melhores-momentos-resumo-jogo-grupo-b)
+- Resultado é histórico: primeiro ponto da seleção catariana em Copas do Mundo, após perder os 3 jogos em 2022 como anfitrião (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/catar-1-x-1-suica-veja-os-melhores-momentos-do-confronto-da-copa-do-mundo/)
+- Akram Afif foi o mais ativo no ataque na estreia; técnico Julen Lopetegui deve manter a espinha dorsal para enfrentar o anfitrião Canadá (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)
+- **Repercussão / Próximo jogo:** Empate heroico deu moral ao Catar — enfrentar o Canadá (também com 1 ponto) é a grande oportunidade de avançar ao mata-mata pela primeira vez.
+
 ## 📅 2026-06-14
 - Catar empatou 1x1 com a Suíça em São Francisco, na estreia do Grupo B, com gol contra de Boualem Khoukhi nos acréscimos do 2º tempo (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/catar-suica-melhores-momentos-resumo-jogo-grupo-b)
 - Resultado representa o primeiro ponto da história do Catar em Copas do Mundo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/catar-1-x-1-suica-veja-os-melhores-momentos-do-confronto-da-copa-do-mundo/)
