@@ -1,5 +1,7 @@
-// Ingere os palpites de uma rodada no Supabase (claude.csv + codex.csv).
-// Uso: node ingerir_palpites.mjs rodada_01
+// Ingere os palpites no Supabase (claude.csv + codex.csv) + baseline.
+// Uso: node ingerir_palpites.mjs <rodada_XX> [AAAA-MM-DD]
+//   - com data (cadência por dia, rodada 2+): lê rodadas/<rodada_XX>/<AAAA-MM-DD>/ e gera baseline só do dia
+//   - sem data (compat. rodada 1): lê rodadas/<rodada_XX>/ e gera baseline da rodada toda
 import { readFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
@@ -13,8 +15,9 @@ const env = Object.fromEntries(
 const PASS = encodeURIComponent(env.SUPABASE_DB_PASSWORD);
 
 const rodada = process.argv[2];
-if (!rodada) { console.error('uso: node ingerir_palpites.mjs rodada_01'); process.exit(1); }
-const pasta = join(dir, '..', 'rodadas', rodada);
+const dia = process.argv[3]; // opcional: AAAA-MM-DD (cadência por dia, a partir da rodada 2)
+if (!rodada) { console.error('uso: node ingerir_palpites.mjs <rodada_XX> [AAAA-MM-DD]'); process.exit(1); }
+const pasta = dia ? join(dir, '..', 'rodadas', rodada, dia) : join(dir, '..', 'rodadas', rodada);
 
 // parser CSV simples com suporte a campo entre aspas
 function parseCsv(texto) {
@@ -56,7 +59,9 @@ for (const modelo of ['claude', 'codex']) {
 }
 
 // baseline "Palpiteiro Cego": favorito do ranking FIFA vence 1x0
+// com data: gera só os jogos do dia; sem data: rodada inteira (compat. rodada 1)
 const numRodada = parseInt(rodada.replace(/\D/g, ''), 10);
+const filtroBaseline = dia ? 'p.data_jogo = $1::date' : "p.rodada = $1 and p.fase = 'grupos'";
 const b = await c.query(
   `insert into copa.palpites (partida_id, modelo, gols_casa, gols_fora, prob_casa, prob_empate, prob_fora, confianca, justificativa)
    select p.id, 'baseline',
@@ -68,9 +73,9 @@ const b = await c.query(
    from copa.partidas p
    join copa.selecoes sc on sc.slug = p.casa
    join copa.selecoes sf on sf.slug = p.fora
-   where p.rodada = $1 and p.fase = 'grupos'
+   where ${filtroBaseline}
    on conflict (partida_id, modelo) do nothing`,
-  [numRodada]
+  [dia ? dia : numRodada]
 );
 console.log(`✅ baseline: ${b.rowCount} palpites gerados`);
 

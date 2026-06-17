@@ -13,23 +13,21 @@
 
 Credenciais: `ZocLabs/env.Supabase.txt` (NUNCA commitar — já está no .gitignore).
 
-## 📥 Como ingerir os palpites de uma rodada (após o commit!)
+## 📥 Como ingerir os palpites (após o commit!)
 
-Os CSVs ficam em `rodadas/rodada_XX/claude.csv` e `codex.csv`. Para ingerir, peça ao Claude Code:
+A partir da rodada 2 os CSVs ficam **por dia**, em `rodadas/rodada_XX/AAAA-MM-DD/claude.csv` e `codex.csv`. Para ingerir o dia (já gera o baseline do dia junto):
 
-> "Ingere os palpites da rodada X no Supabase"
-
-Ou manualmente, gere os INSERTs a partir do CSV:
-
-```sql
-insert into copa.palpites (partida_id, modelo, gols_casa, gols_fora, prob_casa, prob_empate, prob_fora, confianca, justificativa)
-values (6, 'claude', 2, 1, 55, 25, 20, 62, '...');
--- uma linha por jogo, modelo = claude | codex
+```powershell
+node ingerir_palpites.mjs rodada_02 2026-06-18
 ```
+
+> Sem a data (`node ingerir_palpites.mjs rodada_01`) ele lê `rodadas/rodada_01/claude.csv|codex.csv` e gera o baseline da rodada toda — é o modo antigo, mantido para a rodada 1.
+
+Ou peça ao Claude Code: *"Ingere os palpites de AAAA-MM-DD no Supabase"*.
 
 ## ⚪ Baseline "Palpiteiro Cego"
 
-Após ingerir os palpites das IAs, rode o baseline da rodada (favorito do ranking FIFA vence por 1x0; se rankings empatarem em ±3 posições, 1x1):
+O `ingerir_palpites.mjs` **já gera o baseline** (favorito do ranking FIFA, 1x0) — do dia quando você passa a data, ou da rodada quando não passa. O SQL abaixo é só o **fallback manual** (para um dia específico, troque o filtro final por `p.data_jogo = '2026-06-18'`):
 
 ```sql
 insert into copa.palpites (partida_id, modelo, gols_casa, gols_fora, prob_casa, prob_empate, prob_fora, confianca, justificativa)
@@ -57,10 +55,10 @@ on conflict (partida_id, modelo) do nothing;
 - `copa-resultados` (7h05) — placares reais → banco + CSVs + RESUMO.md
 - `copa-contexto` (7h30) — notícias dos times que jogam em 72h → NOTICIAS.md
 
-## 🎙️ Fluxo da rodada (lembrete)
+## 🎙️ Fluxo por dia (lembrete)
 
-1. Sessão LIMPA no Claude Code (nesta pasta) → colar `PROMPT_MASTER.md` → "resultados da rodada X" (GRAVANDO a tela)
+1. Sessão LIMPA no Claude Code (nesta pasta) → colar `PROMPT_MASTER.md` → "palpites de AAAA-MM-DD" (GRAVANDO a tela)
 2. Mesmo no Codex
-3. Conferir CSVs em `rodadas/rodada_XX/` → `git commit` (a prova!)
-4. Ingerir palpites + baseline no banco (acima)
+3. Conferir CSVs em `rodadas/rodada_XX/AAAA-MM-DD/` → `git commit` ANTES do apito (a prova!)
+4. Ingerir palpites + baseline do dia: `node ingerir_palpites.mjs rodada_XX AAAA-MM-DD`
 5. Short A no ar → jogos → routine pontua → Short B + dashboard

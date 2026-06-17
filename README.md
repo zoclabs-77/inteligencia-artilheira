@@ -39,20 +39,23 @@
 
 ```
 selecoes/grupo_<a-l>/<pais>/PERFIL.md + NOTICIAS.md   ← contexto (routine alimenta)
-rodadas/rodada_XX/claude.csv · codex.csv · resultados_reais.csv · RESUMO.md
+rodadas/rodada_XX/AAAA-MM-DD/claude.csv · codex.csv   ← palpites por DIA (a partir da rodada 2)
+rodadas/rodada_XX/resultados_reais.csv · RESUMO.md    ← resultados + resumo da rodada
 roteiros/            ← roteiros dos shorts por rodada
 infra/               ← migration + seed do Supabase (schema copa)
 dashboard/           ← app React (repo próprio, deploy Vercel)
 ```
 
-## 🔁 Fluxo operacional por rodada (o manual do Lucas)
+## 🔁 Fluxo operacional por DIA (o manual do Lucas)
 
-1. As routines já alimentaram `NOTICIAS.md` e os resultados anteriores ✅ (automático)
-2. **Gravando a tela:** abrir sessão **limpa** no Claude Code → colar o `PROMPT_MASTER.md` → pedir: *"resultados da rodada X"*
+> **Novidade da v2:** a partir da rodada 2 palpitamos **um dia de jogos por vez** (não a rodada inteira). Assim as IAs leem os resultados que já saíram e se autocorrigem, com notícias mais frescas. O porquê está em [`MUDANCAS.md`](MUDANCAS.md).
+
+1. As routines já alimentaram `NOTICIAS.md` e o `resultados_reais.csv` ✅ (automático)
+2. **Gravando a tela:** abrir sessão **limpa** no Claude Code → colar o `PROMPT_MASTER.md` → pedir: *"palpites de AAAA-MM-DD"* (o dia dos próximos jogos)
 3. Repetir no Codex (mesma coisa, mesma ordem)
-4. Conferir que os CSVs foram salvos em `rodadas/rodada_XX/` → `git commit` (prova!)
-5. Ingerir os palpites no Supabase (instrução no `infra/README`)
-6. Publicar o **Short A** (palpites) 🎬
+4. Conferir os CSVs salvos em `rodadas/rodada_XX/AAAA-MM-DD/` → `git commit` ANTES do apito (a prova!)
+5. Ingerir os palpites do dia no Supabase: `node infra/ingerir_palpites.mjs rodada_XX AAAA-MM-DD` (detalhes no `infra/README`)
+6. Publicar o **Short A** (palpites do dia) 🎬
 7. Jogos acontecem → routine pontua sozinha
 8. Publicar o **Short B** (resultado) 🎬 + dashboard atualizado no link da bio
 
