@@ -4,13 +4,6 @@
 
 ---
 
-## 📅 2026-06-18
-- Tchéquia venceu a África do Sul por 1x0 hoje no Grupo A — resultado importante após derrota por 1x2 para a Coreia do Sul na estreia (banco de dados do projeto)
-- Com 3 pontos em 2 jogos, Tchéquia ainda tem chance de classificação dependendo do que ocorrer na 3ª rodada (fonte: https://www.cartacapital.com.br/esporte/mexico-e-coreia-do-sul-largam-em-vantagem-no-grupo-a-da-copa/)
-- Na estreia, Coreia do Sul venceu a Tchéquia de virada (2x1) com gols de Hwang In-beom e Oh Hyeon-gyu no 2º tempo (fonte: https://rrmais.com.br/noticia/esportes/futebol/cobertura-da-copa-mexico-e-coreia-do-sul-vencem-na-abertura-da-copa-do-mundo-2026-arbitro-brasileiro-expulsa-tres)
-- **Repercussão:** Vitória sobre África do Sul mantém Tchéquia viva no Grupo A — última rodada definirá classificação.
-
-
 ## 📅 2026-06-17
 - Tchéquia enfrenta a África do Sul em 18/06 (quinta-feira), pelo Grupo A — derrota na estreia (1x2 para Coreia do Sul) torna o jogo praticamente obrigatório (fonte: https://www.goal.com/en-us/news/czech-republic-south-africa-world-cup-preview/blt2698eb3974683720)
 - Após sair na frente com Krejci (gol de cabeça aos 13'), a Tchéquia cedeu a virada no 2T: falha coletiva na marcação e excessiva dependência do jogo aéreo foram criticadas (fonte: https://www.infomoney.com.br/esportes/jogo-coreia-do-sul-tchequia-copa-2026/)

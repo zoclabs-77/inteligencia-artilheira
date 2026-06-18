@@ -1,75 +1,96 @@
-# Rodada 1 — Resumo (atualizado em 2026-06-18)
+# Rodada 1 — Resumo (regenerado em 2026-06-18)
+
+> Rodada 1 completa: **24 jogos** (11–17/06). Regenerado a partir dos resultados reais no banco, após a limpeza dos dados prematuros da Rodada 2.
 
 ## Placares confirmados
 
-- **México 2 x 0 África do Sul** (Grupo A, 11/06) — gols de Julián Quiñones e Raúl Jiménez.
-- **Coreia do Sul 2 x 1 Tchéquia** (Grupo A, 11/06)
-- **Canadá 1 x 1 Bósnia e Herzegovina** (Grupo B, 12/06) — Lukic abriu o placar para a Bósnia no 1º tempo, Cyle Larin empatou para o Canadá aos 78'.
-- **Estados Unidos 4 x 1 Paraguai** (Grupo D, 12/06) — goleada da casa no SoFi Stadium; Balogun marcou dois gols.
-- **Catar 1 x 1 Suíça** (Grupo B, 13/06) — Embolo abriu e Khoukhi empatou nos minutos finais, primeiro ponto do Catar em Copas.
-- **Brasil 1 x 1 Marrocos** (Grupo C, 13/06) — Saibari abriu aos 21', Vini Jr. empatou aos 32'.
-- **Haiti 0 x 1 Escócia** (Grupo C, 13/06) — gol de McGinn após rebote.
-- **Austrália 2 x 0 Turquia** (Grupo D, 14/06) — gols de Irankunda e Metcalfe em Vancouver.
-- **Alemanha 7 x 1 Curaçao** (Grupo E, 14/06) — goleada histórica; Curaçao marcou seu 1º gol em Copas.
-- **Holanda 2 x 2 Japão** (Grupo F, 14/06) — Holanda saiu na frente duas vezes, mas Nakamura e Kamada (89') buscaram o empate.
-- **Costa do Marfim 1 x 0 Equador** (Grupo E, 14/06) — gol de Dialló aos 44' do 2º tempo.
-- **Suécia 5 x 1 Tunísia** (Grupo F, 14/06) — goleada com Isak, Gyökeres e Svanberg.
-- **Espanha 0 x 0 Cabo Verde** (Grupo H, 15/06) — **ZEBRA!** A nº 1 do mundo não saiu do zero contra a estreante Cabo Verde.
-- **Bélgica 1 x 1 Egito** (Grupo G, 15/06) — empate com Salah decisivo para o Egito.
-- **Arábia Saudita 1 x 1 Uruguai** (Grupo H, 15/06) — Uruguai de Bielsa não conseguiu vencer a Arábia Saudita.
-- **Irã 2 x 2 Nova Zelândia** (Grupo G, 15/06) — Irã vencia, mas Nova Zelândia buscou o empate.
-- **França 3 x 1 Senegal** (Grupo I, 16/06) — Mbappé marcou dois e superou Giroud como maior artilheiro da França (58 gols).
-- **Iraque 1 x 4 Noruega** (Grupo I, 16/06) — Haaland marcou dois na goleada norueguesa.
-- **Argentina 3 x 0 Argélia** (Grupo J, 16/06) — **Hat-trick de Messi!** Igualou Klose com 16 gols em Copas (200º jogo pela seleção).
-- **Áustria 3 x 1 Jordânia** (Grupo J, 17/06) — Schmid abriu, Olwan empatou, Al-Arab (contra) e Arnautovic (pên.) garantiram a virada.
-- **Portugal 1 x 1 RD Congo** (Grupo K, 17/06) — João Neves abriu aos 5', mas Wissa igualou de cabeça aos 49' do 2º tempo. Primeiro ponto e primeiro gol da RD Congo em Copas!
-- **Inglaterra 4 x 2 Croácia** (Grupo L, 17/06) — Show de Kane (2 gols) + Bellingham + Rashford; Baturina e Musa marcaram pela Croácia. 4-2 espetacular em Dallas.
-- **Gana 1 x 0 Panamá** (Grupo L, 17/06) — Yirenkyi decidiu no final da partida em Toronto.
-- **Uzbequistão 1 x 3 Colômbia** (Grupo K, 17/06) — Muñoz abriu, Fayzullayev empatou, Luis Díaz e Campaz fecharam a vitória colombiana.
+**11/06**
+- México 2 x 0 África do Sul (A) — Quiñones e Raúl Jiménez.
+- Coreia do Sul 2 x 1 Tchéquia (A) — virada com Hwang In-beom e Oh Hyeon-gyu.
 
-## Palpites x Resultado — Rodada 1 completa
+**12/06**
+- Canadá 1 x 1 Bósnia (B) — Lukić abriu, Cyle Larin empatou (1º ponto do Canadá em Copas).
+- Estados Unidos 4 x 1 Paraguai (D) — goleada no SoFi Stadium; Balogun marcou 2.
 
-| Jogo | Claude | Codex | Resultado | Claude | Codex |
-|---|---|---|---|---|---|
-| México x África do Sul | 2-1 | 2-0 | **2-0** | acertou vencedor | placar exato ⭐ |
-| Coreia do Sul x Tchéquia | 2-1 | 2-1 | **2-1** | placar exato ⭐ | placar exato ⭐ |
-| Canadá x Bósnia | 2-0 | 2-1 | **1-1** | errou (empate) | errou (empate) |
-| Estados Unidos x Paraguai | 1-0 | 1-0 | **4-1** | acertou vencedor | acertou vencedor |
-| Catar x Suíça | 0-2 | 0-2 | **1-1** | errou (empate) | errou (empate) |
-| Brasil x Marrocos | 2-1 | 1-0 | **1-1** | errou (empate) | errou (empate) |
-| Haiti x Escócia | 1-2 | 0-1 | **0-1** | acertou vencedor | placar exato ⭐ |
-| Austrália x Turquia | 1-2 | 1-2 | **2-0** | errou (invertido) | errou (invertido) |
-| Alemanha x Curaçao | 3-0 | 3-0 | **7-1** | acertou vencedor | acertou vencedor |
-| Holanda x Japão | 2-1 | 2-1 | **2-2** | errou (empate) | errou (empate) |
-| Costa do Marfim x Equador | 1-1 | 1-1 | **1-0** | errou (empate) | errou (empate) |
-| Suécia x Tunísia | 1-0 | 1-0 | **5-1** | acertou vencedor | acertou vencedor |
-| Espanha x Cabo Verde | 3-0 | 3-0 | **0-0** | errou (zebra!) | errou (zebra!) |
-| Bélgica x Egito | 2-1 | 2-1 | **1-1** | errou (empate) | errou (empate) |
-| Arábia Saudita x Uruguai | 0-2 | 0-2 | **1-1** | errou (empate) | errou (empate) |
-| Irã x Nova Zelândia | 2-0 | 2-0 | **2-2** | errou (empate) | errou (empate) |
-| França x Senegal | 2-1 | 2-1 | **3-1** | acertou vencedor | acertou vencedor |
-| Iraque x Noruega | 0-2 | 0-2 | **1-4** | acertou vencedor | acertou vencedor |
-| Argentina x Argélia | 2-0 | 2-0 | **3-0** | acertou vencedor | acertou vencedor |
-| Áustria x Jordânia | 2-0 | 2-0 | **3-1** | acertou vencedor | acertou vencedor |
-| Portugal x RD Congo | 2-1 | 2-1 | **1-1** | errou (empate) | errou (empate) |
-| Inglaterra x Croácia | 2-1 | 1-1 | **4-2** | acertou vencedor | errou (previu empate) |
-| Gana x Panamá | 1-1 | 2-1 | **1-0** | errou (previu empate) | acertou vencedor |
-| Uzbequistão x Colômbia | 0-2 | 1-2 | **1-3** | acertou vencedor | acertou vencedor |
+**13/06**
+- Catar 1 x 1 Suíça (B) — Embolo abriu, Khoukhi (contra) empatou no fim (1º ponto do Catar em Copas).
+- Brasil 1 x 1 Marrocos (C) — Saibari abriu, Vini Jr. empatou.
+- Haiti 0 x 1 Escócia (C) — McGinn.
 
-## Placar geral (após 24 jogos — Rodada 1 encerrada)
+**14/06**
+- Austrália 2 x 0 Turquia (D) — Irankunda e Metcalfe.
+- Alemanha 7 x 1 Curaçao (E) — goleada histórica; Curaçao fez seu 1º gol em Copas.
+- Holanda 2 x 2 Japão (F) — Japão buscou o empate aos 89'.
+- Costa do Marfim 1 x 0 Equador (E) — Dialló.
+- Suécia 5 x 1 Tunísia (F) — Isak, Gyökeres e Svanberg.
+
+**15/06**
+- Espanha 0 x 0 Cabo Verde (H) — **ZEBRA**: a nº 1 do mundo não saiu do zero contra a estreante.
+- Bélgica 1 x 1 Egito (G) — Salah decisivo.
+- Arábia Saudita 1 x 1 Uruguai (H) — Uruguai de Bielsa tropeça.
+- Irã 2 x 2 Nova Zelândia (G) — Nova Zelândia buscou o empate.
+
+**16/06**
+- França 3 x 1 Senegal (I) — Mbappé marcou 2 e virou maior artilheiro da França.
+- Iraque 1 x 4 Noruega (I) — Haaland marcou 2.
+- Argentina 3 x 0 Argélia (J) — **hat-trick de Messi** (igualou Klose, 16 gols em Copas, no 200º jogo).
+
+**17/06**
+- Áustria 3 x 1 Jordânia (J) — virada (Al-Arab contra e Arnautović de pênalti).
+- Portugal 1 x 1 RD Congo (K).
+- Inglaterra 4 x 2 Croácia (L).
+- Gana 1 x 0 Panamá (L).
+- Uzbequistão 1 x 3 Colômbia (K).
+
+## Palpites × Resultado (24 jogos)
+
+| # | Jogo | Claude | Codex | Real | Cla | Cdx |
+|---|---|---|---|---|---|---|
+| 1 | México x África do Sul | 2-1 | 2-0 | **2-0** | 1 | 3⭐ |
+| 2 | Coreia x Tchéquia | 2-1 | 2-1 | **2-1** | 3⭐ | 3⭐ |
+| 3 | Canadá x Bósnia | 2-0 | 2-1 | **1-1** | 0 | 0 |
+| 4 | EUA x Paraguai | 1-0 | 1-0 | **4-1** | 1 | 1 |
+| 5 | Catar x Suíça | 0-2 | 0-2 | **1-1** | 0 | 0 |
+| 6 | Brasil x Marrocos | 2-1 | 1-0 | **1-1** | 0 | 0 |
+| 7 | Haiti x Escócia | 1-2 | 0-1 | **0-1** | 2 | 3⭐ |
+| 8 | Austrália x Turquia | 1-2 | 1-2 | **2-0** | 0 | 0 |
+| 9 | Alemanha x Curaçao | 3-0 | 3-0 | **7-1** | 1 | 1 |
+| 10 | Holanda x Japão | 2-1 | 2-1 | **2-2** | 0 | 0 |
+| 11 | Costa do Marfim x Equador | 1-1 | 1-1 | **1-0** | 0 | 0 |
+| 12 | Suécia x Tunísia | 1-0 | 1-0 | **5-1** | 1 | 1 |
+| 13 | Espanha x Cabo Verde | 3-0 | 3-0 | **0-0** | 0 | 0 |
+| 14 | Bélgica x Egito | 2-1 | 2-1 | **1-1** | 0 | 0 |
+| 15 | Arábia Saudita x Uruguai | 0-2 | 0-2 | **1-1** | 0 | 0 |
+| 16 | Irã x Nova Zelândia | 2-0 | 2-0 | **2-2** | 0 | 0 |
+| 17 | França x Senegal | 2-1 | 2-1 | **3-1** | 1 | 1 |
+| 18 | Iraque x Noruega | 0-2 | 0-2 | **1-4** | 1 | 1 |
+| 19 | Argentina x Argélia | 2-0 | 2-0 | **3-0** | 1 | 1 |
+| 20 | Áustria x Jordânia | 2-0 | 2-0 | **3-1** | 2 | 2 |
+| 21 | Portugal x RD Congo | 2-1 | 2-1 | **1-1** | 0 | 0 |
+| 22 | Inglaterra x Croácia | 2-1 | 1-1 | **4-2** | 1 | 0 |
+| 23 | Gana x Panamá | 1-1 | 2-1 | **1-0** | 0 | 2 |
+| 24 | Uzbequistão x Colômbia | 0-2 | 1-2 | **1-3** | 2 | 1 |
+
+⭐ = placar exato (3 pts).
+
+## Placar geral — Rodada 1 completa (24 jogos)
 
 | Modelo | Pontos | Placares exatos | Acertos de resultado | Confiança média |
 |---|---|---|---|---|
-| **Codex** | **20** | **3** | **12** | 62% |
+| **Codex** | **20** | **3** | 12 | 62% |
 | **Claude** | **17** | 1 | 12 | 52% |
 | **Baseline** | **16** | 1 | **13** | 100% |
 
-## Destaques para os shorts
+> Pontuação: placar exato = 3 · vencedor + saldo = 2 · só o vencedor/empate = 1 · errou = 0.
 
-- **ZEBRA DA RODADA — Espanha 0x0 Cabo Verde!** A nº 1 do mundo ficou no zero contra a estreante Cabo Verde. Codex previu 3-0 com 81% de confiança (maior mico do torneio até aqui, `copa.zebras_micos`). Claude também errou com 3-0.
-- **ZEBRA 2 — Portugal 1x1 RD Congo!** Cristiano apagado, Wissa empatou com cabeçada. Todos os modelos previram vitória portuguesa — errou geral.
-- **Messi faz história:** hat-trick na estreia iguala Klose com 16 gols em Copas (200º jogo pela Argentina). Todos acertaram o vencedor, mas placar real (3-0) foi além.
-- **Mbappé quebra recorde:** dois gols sobre o Senegal (3-1). Claude e Codex previram 2-1 — acertaram o vencedor.
-- **Inglaterra 4x2 Croácia:** kane marcou dois, espetáculo em Dallas. Claude acertou o vencedor (2-1); Codex errou prevendo empate (1-1).
-- **Noruega goleia:** Haaland marcou dois no 4x1 sobre o Iraque. Todos previram Noruega vencendo.
-- **Codex lidera** com 20 pts e 3 placares exatos. Claude em 2º com 17 pts. Baseline em 3º com 16 pts.
+## Destaques
+
+- **ZEBRA DA RODADA — Espanha 0×0 Cabo Verde.** A nº 1 do mundo não saiu do zero contra a estreante. Maior mico do torneio: Codex cravou 3-0 com **81%** de confiança; Claude também 3-0.
+- **Messi eterno:** hat-trick na estreia (3-0 na Argélia), igualando Klose com 16 gols em Copas no 200º jogo pela seleção.
+- **Mbappé recordista:** 2 gols no 3-1 sobre o Senegal o tornam o maior artilheiro da história da França.
+- **A maldição do empate:** **9 dos 24 jogos (37,5%) terminaram empatados** — Claude e Codex quase não apostaram em empate e zeraram quase todos. É o erro-chave que motivou o ajuste de prompt da Rodada 2.
+- **Baseline (favorito 1-0, 100% de confiança)** colecionou **11 micos** — exatamente os empates e zebras que o chute automático ignora.
+- **Codex lidera a Rodada 1** com 20 pts e 3 placares exatos (México 2-0, Coreia 2-1, Haiti 0-1); Claude 17, Baseline 16.
+
+---
+**ZocLabs 🧪 — Inteligência Artilheira**

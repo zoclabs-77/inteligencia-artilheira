@@ -4,13 +4,6 @@
 
 ---
 
-## 📅 2026-06-18
-- África do Sul perdeu para a Tchéquia por 0x1 hoje no Grupo A — resultado deixa Bafana Bafana com zero pontos em 2 jogos (banco de dados do projeto)
-- Na estreia, África do Sul também perdeu para o México por 0x2 (gols de Quiñones e Jiménez) — situação crítica na fase de grupos (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/copa-mundo-resumo-primeiro-dia-abertura-mexico)
-- África do Sul participa de Copa do Mundo após longa ausência — participação histórica mas performance abaixo das expectativas (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-tabela-classificacao-resultados)
-- **Repercussão:** Sem pontos em 2 jogos, África do Sul já está matematicamente eliminada antes da 3ª rodada do Grupo A.
-
-
 ## 📅 2026-06-17
 - África do Sul enfrenta a Tchéquia em 18/06 (quinta-feira), pelo Grupo A — derrota por 0x2 para o México na estreia complica o início (fonte: https://www.goal.com/en-us/news/czech-republic-south-africa-world-cup-preview/blt2698eb3974683720)
 - Sphephelo Sithole e Themba Zwane foram expulsos na estreia contra o México — ambos estarão suspensos contra a Tchéquia, abrindo duas vagas obrigatórias no time titular (fonte: https://www.goal.com/en-us/news/czech-republic-south-africa-world-cup-preview/blt2698eb3974683720)

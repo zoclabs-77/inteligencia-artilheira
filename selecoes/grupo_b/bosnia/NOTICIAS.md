@@ -4,13 +4,6 @@
 
 ---
 
-## 📅 2026-06-18
-- Bósnia empatou com a Suíça por 1x1 hoje no Los Angeles Stadium, Inglewood — segundo empate seguido, após 1x1 com o Canadá na estreia (banco de dados do projeto)
-- Bósnia soma 2 pontos — grupo B completamente equilibrado com todos os 4 times empatados (fonte: https://massa.com.br/copa-do-mundo-2026/suica-x-bosnia-ao-vivo)
-- Bósnia e Herzegovina disputa sua primeira Copa do Mundo desde 2014 — retorno ao Mundial com desempenho consistente mas sem vencer (fonte: https://www.umdoisesportes.com.br/copa-do-mundo/2026/copa-do-mundo-2026-grupo-b-tudo-sobre-o-grupo-da-suica/)
-- **Próximo jogo:** 3ª rodada do Grupo B definirá os classificados — qualquer resultado é possível com todos os times empatados em pontos.
-
-
 ## 📅 2026-06-17
 - Bósnia enfrenta a Suíça em 18/06 (quinta-feira), pelo Grupo B — empate 1x1 com o Canadá (anfitrião) na estreia é resultado respeitável fora de casa (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/canada-e-bosnia-empatam-e-paraguai-sofre-goleada-historica-dos-eua)
 - Jovo Lukić abriu o placar no 1º tempo, mas Cyle Larin empatou no 2T; Bósnia somou 1 ponto e mantém chances reais de classificação no Grupo B (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/canada-e-bosnia-empatam-e-paraguai-sofre-goleada-historica-dos-eua)

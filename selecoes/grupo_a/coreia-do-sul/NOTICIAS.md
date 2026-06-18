@@ -4,13 +4,6 @@
 
 ---
 
-## 📅 2026-06-18
-- Coreia do Sul perdeu para o México por 1x2 hoje no Estádio Akron (Guadalajara) — resultado deixa a seleção em situação complicada no Grupo A (banco de dados do projeto; fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760441/coreia-do-sul-mexico)
-- Coreia havia vencido a Tchéquia por 2x1 na estreia (virada com Hwang In-beom e Oh Hyeon-gyu), mas perdeu o segundo jogo para o México (fonte: https://rrmais.com.br/noticia/esportes/futebol/cobertura-da-copa-mexico-e-coreia-do-sul-vencem-na-abertura-da-copa-do-mundo-2026-arbitro-brasileiro-expulsa-tres)
-- Com 3 pts em 2 jogos, Coreia do Sul precisa de resultado positivo na 3ª rodada para garantir a classificação no Grupo A (fonte: https://www.cartacapital.com.br/esporte/mexico-e-coreia-do-sul-largam-em-vantagem-no-grupo-a-da-copa/)
-- **Próximo jogo:** Coreia do Sul aguarda confronto da 3ª rodada do Grupo A — derrota para o México aumenta pressão para a última rodada da fase de grupos.
-
-
 ## 📅 2026-06-17
 - Coreia do Sul enfrenta o México em 18/06 (quinta-feira), às 22h (Brasília), no Estádio Akron em Guadalajara — decisão para o Grupo A (fonte: https://www.365scores.com/pt-br/news/magazine/mexico-x-coreia-sul-copa-do-mundo/)
 - Vitória sobre a Tchéquia (2x1, de virada) destacou a resistência da equipe: goleiro Kim Seunggyu fez duas defesas decisivas no final do jogo; Hwang In-Beom marcou o gol da virada com golaço (fonte: https://www.infomoney.com.br/esportes/jogo-coreia-do-sul-tchequia-copa-2026/)
