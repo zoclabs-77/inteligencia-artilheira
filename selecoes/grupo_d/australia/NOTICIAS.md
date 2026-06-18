@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- Austrália surpreendeu com vitória 2x0 sobre a Turquia na estreia do Grupo D, dividindo a liderança com os EUA (fonte: https://espndeportes.espn.com/futbol/partido/_/juegoId/760442/australia-estados-unidos)
+- Socceroos chegam confiantes para o duelo com os donos da casa em Seattle; casas de apostas cotam vitória australiana a 5.00 (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- A dúvida de Pulisic (panturrilha) nos EUA pode beneficiar a Austrália, que tem o setor direito americano como alvo prioritário (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- **Próximo jogo:** Austrália enfrenta os EUA em 19/06 (sexta, 16h Brasília) no Lumen Field, Seattle — partida direta pelo topo do Grupo D.
+
+
 ## 📅 2026-06-17
 - Austrália enfrenta os EUA em 19/06 (sexta-feira), no Lumen Field em Seattle, Grupo D — liderança compartilhada com 3 pontos após vitória surpreendente 2x0 sobre a Turquia (fonte: https://espndeportes.espn.com/futbol/partido/_/juegoId/760442/australia-estados-unidos)
 - Nestory Irankunda (27') e Connor Metcalfe foram os heróis da vitória sobre a Turquia; jovem atacante Irankunda é a grande revelação dos Socceroos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/australia-2-x-0-turquia-os-melhores-momentos-do-duelo-pela-copa-2026/)

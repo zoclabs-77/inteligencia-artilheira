@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-18
+- Curaçao sofreu goleada histórica de 1x7 para a Alemanha na estreia do Grupo E — primeira Copa do Mundo da história do país caribenho (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)
+- Apesar da goleada, o fato de marcar 1 gol contra a Alemanha foi comemorado como um marco para o futebol de Curaçao (fonte: https://www.meutimao.com.br/apostas/palpites/alemanha-x-costa-do-marfim-copa-do-mundo-20062026)
+- **Próximo jogo:** Curaçao enfrenta o Equador em 20/06 — adversário mais acessível do que a Alemanha, mas ainda muito superior; classificação muito improvável.
+
+
 ## 📅 2026-06-17
 - Curaçao foi goleado pela Alemanha por 1x7 na estreia histórica do Grupo E — derrota pesada mas dentro do esperado diante de um dos favoritos ao título (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
 - Apesar da goleada, Curaçao marcou um gol histórico (o 1º da nação em Copas do Mundo), celebrado com orgulho pelos torcedores do país caribenho (fonte: https://www.netflu.com.br/alemanha-atropela-suecia-goleia-e-holanda-empata-em-rodada-movimentada-da-copa-do-mundo-2026/)

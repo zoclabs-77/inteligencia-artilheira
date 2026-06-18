@@ -4,6 +4,14 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Colômbia goleou o Uzbequistão por 3x1 na estreia (17/06) no Estádio Azteca — gols de Daniel Muñoz, Luis Díaz (2) e Jaminton Campaz; descontou Fayzullaev (fonte: https://www.gazetaesportiva.com/minuto-a-minuto/copa-do-mundo-2026/uzbequistao-x-colombia/237114/)
+- James Rodríguez atuou como capitão e número 10, mas foi substituído no 2º tempo; Jaminton Campaz entrou e marcou o gol que fechou o placar (fonte: https://trivela.com.br/copa-do-mundo/james-rodriguez-baixa-clubes-querido-intocavel-selecao-colombiana/)
+- Luis Díaz foi o grande destaque com dois gols — primeiro um passe magistral para Muñoz e depois concluiu finalização de dentro da área (fonte: https://www.gazetaesportiva.com/minuto-a-minuto/copa-do-mundo-2026/uzbequistao-x-colombia/237114/)
+- Colômbia lidera o Grupo K com 3 pontos; Portugal e RD Congo empatam em 1 ponto cada, Uzbequistão ainda sem pontuar (fonte: https://www.ogol.com.br/jogo/2026-06-18-usbequistao-colombia/11832347)
+- **Próximo jogo:** Colômbia enfrenta a RD Congo em 23/06 — favorita para ampliar vantagem na liderança do Grupo K.
+
+
 ## 📅 2026-06-17
 - Colômbia estreia HOJE contra o Uzbequistão, no Estádio Azteca (Cidade do México), Grupo K — James Rodríguez e Luis Díaz lideram os favoritos da chave (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-uzbequistao-x-colombia-previa-da-partida-da-copa-do-mundo-de-2026/22208/)
 - Escalação provável (4-2-3-1): Ospina; Munoz, Sánchez, Lucumi e Mojica; Rios e Lerma; Arias, James Rodríguez e Luis Díaz; Borré (fonte: https://noticias-do-brasil.news/esportes/futebol/uzbequisto-x-colmbia-onde-assistir-e-escalaes.html)

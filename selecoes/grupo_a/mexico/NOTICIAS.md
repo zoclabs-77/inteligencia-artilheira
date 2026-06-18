@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- México venceu a Coreia do Sul por 2x1 hoje no Estádio Akron (Guadalajara) — resultado consolida a liderança do Grupo A com 6 pontos em 2 jogos (banco de dados do projeto; fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760441/coreia-do-sul-mexico)
+- El Tri soma 6 pontos após vencer também a África do Sul por 2x0 na estreia — melhor campanha do Grupo A após 2 rodadas (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/copa-mundo-resumo-primeiro-dia-abertura-mexico)
+- México joga em casa em Guadalajara, com apoio maciço da torcida — fator determinante para as vitórias na fase de grupos (fonte: https://rrmais.com.br/noticia/esportes/futebol/cobertura-da-copa-mexico-e-coreia-do-sul-vencem-na-abertura-da-copa-do-mundo-2026-arbitro-brasileiro-expulsa-tres)
+- **Repercussão:** Duas vitórias seguidas colocam México em posição confortável para a classificação — a 3ª rodada pode ter escalação alternativa dependendo do rival.
+
+
 ## 📅 2026-06-17
 - México enfrenta a Coreia do Sul em 18/06 (quinta-feira), às 22h (Brasília), no Estádio Akron em Guadalajara — vitória consolida a liderança do Grupo A (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/mexico-x-coreia-do-sul-escalacoes-estao-definidas-para-jogo-da-copa-202606111520)
 - Escalação confirmada: Raúl Rangel; Jorge Sánchez, Edson Álvarez, Johan Vásquez e Jesús Gallardo; Erik Lira; Roberto Alvarado, Álvaro Fidalgo, Brian Gutiérrez e Julián Quiñones; Raúl Jiménez — técnico Javier Aguirre (fonte: https://tips.gg/pt/article/mexico-south-korea-predicted-lineups-story/)

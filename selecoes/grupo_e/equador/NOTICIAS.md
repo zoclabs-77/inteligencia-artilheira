@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-18
+- Equador estreou no Grupo E na 1ª rodada e agora enfrenta o Curaçao na 2ª em 20/06 — partida que pode consolidar sua posição no grupo (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-alemanha-x-costa-do-marfim-20-06-26.html)
+- Equador é co-favorito com a Alemanha no Grupo E — elenco experiente com jogadores atuando nas principais ligas europeias (fonte: https://www.goal.com/en-us/news/germany-ivory-coast-world-cup-preview/bltf447b5794f5d1174)
+- **Próximo jogo:** Equador vs Curaçao em 20/06 (sábado) — jogo que Equador deve vencer para se manter na disputa pela liderança do Grupo E.
+
+
 ## 📅 2026-06-17
 - Equador perdeu para a Costa do Marfim por 0x1 na estreia do Grupo E — fim da sequência invicta de 19 jogos, com gol sofrido nos minutos finais (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
 - Apesar da derrota, Moisés Caicedo (Chelsea) e Willian Pacho (PSG) foram destaques individuais; Enner Valencia pouco participou no ataque (fonte: https://24noticias.sapo.pt/desporto/artigos/alemanha-suecia-e-costa-do-marfim-brilham-holanda-e-japao-empatam)

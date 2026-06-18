@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- Suíça empatou com a Bósnia por 1x1 hoje no Los Angeles Stadium — segundo empate consecutivo; na estreia havia empatado 1x1 com o Catar (banco de dados do projeto)
+- Suíça soma 2 pontos em 2 jogos — grupo muito equilibrado com todos os times empatados; 3ª rodada será decisiva (fonte: https://www.umdoisesportes.com.br/copa-do-mundo/2026/copa-do-mundo-2026-grupo-b-tudo-sobre-o-grupo-da-suica/)
+- Duas defesas sólidas se enfrentaram: Suíça e Bósnia não conseguiram abrir placar consistente; jogo travado no meio-campo (fonte: https://www.terra.com.br/esportes/futebol/internacional/suica-x-bosnia-onde-assistir-escalacoes-e-arbitragem,558b0735eae7ee0b19221bb3120a6a66wumjogjr.html)
+- **Repercussão:** Empate frustrante para suíços — dois pontos não garantem classificação; tudo será decidido na última rodada.
+
+
 ## 📅 2026-06-17
 - Suíça enfrenta a Bósnia em 18/06 (quinta-feira), pelo Grupo B — após empate sofrido (1x1 com o Catar nos acréscimos), precisa de vitória para retomar o caminho (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)
 - Escalação provável: Kobel; Widmer, Akanji, Elvedi, Rodríguez; Freuler, Xhaka; Ndoye, Manzambi, Aebischer; Embolo — Breel Embolo marcou na estreia, mas gol contra de Khoukhi nos acréscimos roubou a vitória (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)

@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Uzbequistão perdeu para a Colômbia por 1x3 na estreia (17/06) no Estádio Azteca — Abbosbek Fayzullaev marcou o único gol uzbeque (fonte: https://www.gazetaesportiva.com/minuto-a-minuto/copa-do-mundo-2026/uzbequistao-x-colombia/237114/)
+- Seleção da Ásia Central disputa sua primeira Copa do Mundo; gol de Fayzullaev foi histórico para o país (fonte: https://www.ogol.com.br/jogo/2026-06-18-usbequistao-colombia/11832347)
+- Uzbequistão ocupa a última posição do Grupo K com zero pontos após a derrota na estreia (fonte: https://somosfanaticos.fans/br/copa-do-mundo/sob-a-lideranca-de-james-rodriguez-colombia-estreia-na-copa-do-mundo-contra-o-uzbequistao)
+- **Próximo jogo:** Uzbequistão enfrenta Portugal em 23/06 — Portugal quer reabilitação após empate frustrante com a RD Congo; jogo será decisivo para ambas as seleções no Grupo K.
+
+
 ## 📅 2026-06-17
 - Uzbequistão faz HOJE sua estreia histórica absoluta em Copas do Mundo contra a Colômbia, no Estádio Azteca (Cidade do México), Grupo K (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-uzbequistao-x-colombia-previa-da-partida-da-copa-do-mundo-de-2026/22208/)
 - Escalação provável (3-4-2-1): Yusupov; Khusanov, Abdullaev e Ashurmatov; Sayfiev, Shukurov, Khamrobekov e Nasrullaev; Fayzullaev e Shomurodov (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-uzbequistao-x-colombia-previa-da-partida-da-copa-do-mundo-de-2026/22208/)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-18
+- Tunísia disputa o Grupo F ao lado de Holanda, Suécia e Japão — considerada a azarona do grupo, mas tem capacidade de surpreender (fonte: https://ndmais.com.br/futebol/grupo-f-da-copa-2026-veja-quem-sao-as-selecoes-da-chave/)
+- **Próximo jogo:** Tunísia enfrenta o Japão em 21/06 (domingo) — partida importante para definir a posição no Grupo F, com classificação ainda em aberto.
+
+
 ## 📅 2026-06-14
 - Tunísia estreia hoje contra a Suécia, no Estádio BBVA, em Monterrey (México), pelo Grupo F (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-suecia-x-tunisia-14-06-2026.html)
 - Seleção passou invicta e sem sofrer gols pela fase classificatória africana, com defesa disciplinada liderada por Sabri Lamouchi (fonte: https://mancheteesportiva.com.br/mercado/suecia-x-tunisia-copa-do-mundo-de-2026-escolhas-e-probabilidades/19660/)

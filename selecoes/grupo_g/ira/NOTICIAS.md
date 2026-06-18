@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-18
+- Irã disputa o Grupo G ao lado de Bélgica, Egito e Nova Zelândia — estreou na Copa do Mundo 2026 pelo Grupo G (fonte: https://ndmais.com.br/futebol/grupo-h-da-copa-2026-espanha-e-uruguai-duelam-por-lideranca-da-chave/)
+- **Próximo jogo:** Irã enfrenta a Bélgica em 21/06 (domingo) — confronto difícil contra a geração de Ouro belga que precisa de vitória para se firmar no Grupo G.
+
+
 ## 📅 2026-06-14
 - Irã estreia contra a Nova Zelândia em 15/06, às 22h (Brasília), no SoFi Stadium, Los Angeles, pelo Grupo G (fonte: https://www.365scores.com/pt-br/news/magazine/ira-x-nova-zelandia-escalacoes-onde-assistir/)
 - Escalação prevista: Iranvand; Rezaeian, Kanaanizadegan, Hajsafi, Mohammadi; Ezatolahi, Cheshmi; Jahanbakhsh (c), Ghayedi, Ghoddos; Taremi (fonte: https://www.goal.com/en-us/news/iran-new-zealand-world-cup-preview/bltf4f1b599c87b9982)

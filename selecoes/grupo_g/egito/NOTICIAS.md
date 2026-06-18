@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Egito empatou 1x1 com a Bélgica na estreia (Grupo G) — Mohamed Salah deu assistência para o gol de Emam Ashour; Lukaku forçou gol contra que empatou (fonte: https://www.lance.com.br/copa-do-mundo/veja-gols-melhores-momentos-belgica-egito.html)
+- Salah foi o grande destaque egípcio — atuou como nunca havia atuado em Copa, circulando pela frente e criando perigo constante (fonte: https://www.vietnam.vn/pt/bang-g-world-cup-2026-lukaku-tao-khac-biet-sau-22-giay-bi-thoat-thua-truoc-ai-cap-trong-ngay-salah-toa-sang)
+- **Próximo jogo:** Egito enfrenta a Nova Zelândia em 21/06 — Salah quer se confirmar como diferencial do Grupo G.
+
+
 ## 📅 2026-06-14
 - Egito estreia contra a Bélgica em 15/06, no Lumen Field, em Seattle, pelo Grupo G (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-belgica-x-egito-15-06-2026.html)
 - Técnico Hossam Hassan não tem lesionados para a estreia e convocou grupo de 26 jogadores liderado por Salah e Marmoush, além de Trezeguet, Emam Ashour e Marwan Attia (fonte: https://www.goal.com/en-us/news/belgium-egypt-world-cup-preview/blt8b8db9e1f93f0387)

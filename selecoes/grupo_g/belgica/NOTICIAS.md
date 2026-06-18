@@ -4,6 +4,14 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Bélgica empatou 1x1 com o Egito na estreia (Grupo G) — Salah assistiu para Emam Ashour abrir o placar, gol contra de Mohamed Hany empatou após Lukaku pressionar (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/belgica-evita-tropeco-na-estreia-e-busca-empate-contra-egito-na-copa/)
+- Lukaku entrou como reserva aos 25' do 2º tempo e em 22 segundos forçou o gol contra que empatou o jogo — veterano ainda decisivo apesar da queda de rendimento nos clubes (fonte: https://www.gazetaweb.com/copa-do-mundo/apos-temporada-dificil-lukaku-volta-a-decidir-e-mostra-forca-na-estreia-da-belgica-906077)
+- Kevin De Bruyne foi o melhor da Bélgica — criativos, vários passes perigosos, bateu na trave; equipe dominou mas não conseguiu finalizar (fonte: https://www.goal.com/br/listas/belgica-x-egito-ao-vivo-escalacoes-oficiais-lukaku-fora-de-bruyne-e-de-ketelaere-entram-para-enfrentar-salah/blt0d07feee0d24c96d)
+- Bélgica e Egito somam 1 ponto cada no Grupo G — possivelmente última Copa da "Geração de Ouro" belga (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/em-ultima-copa-de-membros-da-geracao-de-ouro-belgica-encara-o-egito/)
+- **Próximo jogo:** Bélgica enfrenta o Irã em 21/06 (domingo) — 3 pontos necessários para retomar o caminho certo no Grupo G.
+
+
 ## 📅 2026-06-14
 - Bélgica estreia contra o Egito em 15/06, no Lumen Field, em Seattle, pelo Grupo G (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-belgica-x-egito-15-06-2026.html)
 - Escalação prevista por Rudi Garcia: Courtois; Castagne, Mechele, Ngoy e Meunier; Tielemans e Onana; Doku, De Bruyne e Trossard; De Ketelaere (fonte: https://www.otempo.com.br/sports/copa-do-mundo/2026/2026/6/12/belgica-x-egito-confira-numeros-dicas-palpites-e-analise-pre-jogo-da-copa-do-mundo)

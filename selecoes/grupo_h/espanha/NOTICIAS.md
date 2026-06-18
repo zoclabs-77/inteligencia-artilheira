@@ -4,6 +4,14 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Espanha empatou 0x0 com Cabo Verde na estreia (15/06) — a imprensa espanhola chamou de "desastre"; Marca usou exatamente essa palavra na manchete (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jornais-espanhois-detonam-estreia-da-espanha-na-copa-do-mundo-desastre/)
+- Lamine Yamal não começou como titular por estar se recuperando de lesão (sem atuar desde 22/04); entrou no 2º tempo e tentou fazer diferença, mas Espanha não conseguiu furar o bloqueio de Cabo Verde (fonte: https://tmc.com.br/esporte/yamal-reserva-espanha-cabo-verde-copa-2026/)
+- Espanha estreia pela primeira vez em Copa sem nenhum jogador do Real Madrid no elenco — marco histórico (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/espanha-estreia-na-copa-pela-1-vez-sem-jogadores-do-real-madrid-e-pode-coroar-yamal-como-melhor-do-mundo,570e4c3564b076b5912e27624405b6d0l6zzu0z8.html)
+- Espanha soma 1 ponto no Grupo H — empatada com todos os adversários (Uruguai 1, Arábia Saudita 1, Cabo Verde 1) (fonte: https://www.umdoisesportes.com.br/copa-do-mundo/2026/copa-do-mundo-2026-grupo-h-tudo-sobre-o-grupo-da-espanha/)
+- **Próximo jogo:** Espanha enfrenta a Arábia Saudita em 21/06 (domingo, 13h Brasília) no Mercedes-Benz Stadium, Atlanta — vitória é essencial para recolocar La Roja nos trilhos.
+
+
 ## 📅 2026-06-14
 - Espanha estreia contra Cabo Verde em 15/06, às 13h (Brasília), no Mercedes-Benz Stadium, em Atlanta, pelo Grupo H (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
 - Escalação prevista (4-3-3) de Luis de la Fuente: Unai Simón; Porro, Cubarsí, Laporte e Cucurella; Rodri, Pedri e Fabián Ruiz; Ferran Torres, Oyarzabal e Álex Baena (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-espanha-x-cabo-verde-15-06-2026.html)

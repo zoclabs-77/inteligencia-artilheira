@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Gana venceu o Panamá por 1x0 na estreia (17/06) em Toronto — gol dramático de Caleb Yirenkyi aos 88', aos 2 minutos do apito final (fonte: https://dol.com.br/esporte/copa-do-mundo/944863/gana-vence-panama-por-1-a-0-e-estreia-bem-na-copa)
+- Gana empata com a Inglaterra na liderança do Grupo L com 3 pontos após a primeira rodada (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/gana-panama-melhores-momentos-resumo-jogo-grupo-l)
+- Yirenkyi foi o herói do jogo com gol no fim — Panamá ficou a 2 minutos de sair com 1 ponto (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289273/400021510)
+- **Próximo jogo:** Gana aguarda definição do calendário para a 2ª rodada do Grupo L — confronto com Croácia ou Inglaterra será o grande desafio.
+
+
 ## 📅 2026-06-17
 - Gana estreia HOJE contra o Panamá, às 20h (Brasília), no BMO Field em Toronto, Grupo L (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/gana-panama-onde-assistir-copa-2026-escalacoes/)
 - Escalação provável: Ati Zigi; Opoku, Adjetey e Mensah; Owusu, Fatawu, Thomas Partey e Seneya; Sulemana, Adu e Jordan Ayew (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/gana-panama-onde-assistir-copa-2026-escalacoes/)

@@ -4,6 +4,14 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Portugal empatou 1x1 com a RD Congo na estreia (17/06) em Houston — resultado frustrante para uma das favoritas ao título (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/cristiano-nao-brilha-e-portugal-empata-com-rd-congo-na-estreia-da-copa/)
+- Cristiano Ronaldo fez partida muito abaixo do esperado: nenhuma finalização ao gol em toda a partida, sendo o 6º Mundial do camisa 7 (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/cristiano-ronaldo-decepciona-e-nao-acerta-o-gol-na-estreia-de-portugal-na-copa-do-mundo-veja-os-numeros,e50daa5ee8613e35ab2feb546bee2c6boet2bz8e.html)
+- Jogador congolês Ngal'ayel Mukau provocou CR7: "Não nos preparamos para neutralizar o Ronaldo — ele já não é o mesmo, está um pouco mais velho" (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/atleta-da-rd-congo-cutuca-cristiano-ronaldo-apos-empate-ja-nao-e-o-mesmo/)
+- Ronaldo respondeu nas redes: "Não era o arranque que queríamos, mas isto está longe de ter acabado. Cabeça levantada e foco no próximo jogo" (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/cristiano-ronaldo-manda-recado-apos-empate-de-portugal-e-rd-congo-na-copa/)
+- **Repercussão / Próximo jogo:** Portugal busca reabilitação contra o Uzbequistão em 23/06 (terça), novamente em Houston — pressão sobre o rendimento de Ronaldo e a busca pelo título inédito.
+
+
 ## 📅 2026-06-17
 - Portugal estreia HOJE contra a RD Congo, às 14h (Brasília), no NRG Stadium em Houston, Grupo K — Cristiano Ronaldo disputa sua sexta Copa do Mundo em busca do título inédito (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/portugal-x-rd-congo-copa-do-mundo-2026-onde-assistir/)
 - Escalação confirmada por Martínez: Diogo Costa; Cancelo, Inácio, Rúben Dias e Nuno Mendes; Vitinha, João Neves e Bruno Fernandes; Bernardo Silva, Pedro Neto e Cristiano Ronaldo (fonte: https://www.365scores.com/pt-br/news/magazine/portugal-rd-congo-escalacoes-analise/)

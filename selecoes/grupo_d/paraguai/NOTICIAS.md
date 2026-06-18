@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-18
+- Paraguai foi goleado pelos EUA por 1x4 na estreia do Grupo D — derrota pesada que deixa a seleção sul-americana na lanterna do grupo (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- Os EUA marcaram 4 gols — a maior goleada da história americana em Copas — situação difícil para o Paraguai que já sofreu 4 gols na estreia (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- **Próximo jogo:** Paraguai vs Turquia em 20/06 — duelo de eliminados da 1ª rodada; empate ou vitória mantém chances de classificação.
+
+
 ## 📅 2026-06-17
 - Paraguai enfrenta a Turquia em 20/06 (sábado), no Levi's Stadium em Santa Clara, Grupo D — ambas zeradas após derrotas na estreia (fonte: https://trivela.com.br/copa-do-mundo/grupo-d-2026-eua-paraguai-australia-turquia/)
 - Goleada sofrida (1x4 para os EUA) no 1º tempo revelou fragilidades: Damián Bobadilla marcou gol contra, defesa não se recuperou da pressão norte-americana (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/eua-estreia-na-copa-do-mundo-com-goleada-sobre-o-paraguai-4x1)

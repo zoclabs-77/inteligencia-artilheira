@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- Alemanha goleou Curaçao por 7x1 na estreia do Grupo E — performance dominante que confirma Die Mannschaft como uma das favoritas ao título (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)
+- Provável escalação contra Costa do Marfim: Baumann; Kimmich, Tah, Schlotterbeck, Raum; Pavlovic, Goretzka, Wirtz; Musiala, Sané e Havertz (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)
+- Florian Wirtz e Jamal Musiala formam a dupla mais criativa do time — ambos em grande forma após a goleada na estreia (fonte: https://www.fifa.com/pt/articles/alemanha-costa-do-marfim-previa-jogo-copa-mundo-grupo-e)
+- **Próximo jogo:** Alemanha enfrenta Costa do Marfim em 20/06 (sábado, 17h Brasília) em Toronto — vitória garante classificação antecipada às oitavas.
+
+
 ## 📅 2026-06-17
 - Alemanha goleou o Curaçao por 7x1 na estreia do Grupo E, repetindo o histórico 7x1 sobre o Brasil — Wirtz e Musiala foram os grandes nomes, com o jovem Woltemade marcando dois gols (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
 - Florian Wirtz e Jamal Musiala combinaram com perfeição no meio-campo criativo; Manuel Neuer (40 anos) teve trabalho reduzido com eficiência (fonte: https://www.netflu.com.br/alemanha-atropela-suecia-goleia-e-holanda-empata-em-rodada-movimentada-da-copa-do-mundo-2026/)

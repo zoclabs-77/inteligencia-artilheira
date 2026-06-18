@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- Canadá empatou com o Catar por 1x1 hoje no BC Place, Vancouver — segundo empate consecutivo, após 1x1 com a Bósnia na estreia (banco de dados do projeto)
+- Canadá joga em casa (sede co-organizadora) e esperava mais — dois empates não garantem a classificação; pressão aumenta (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/canada-x-catar-horario-onde-assistir-e-escalacoes-pela-copa-do-mundo-2026,82409df4b3dd2f6e79585d05e36c78bex7o1qdax.html)
+- Grupo B completamente empatado com todos os times em 2 pontos — decisão total na 3ª rodada (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-canada-x-catar-18-06-2026.html)
+- **Próximo jogo:** Canadá precisa vencer na última rodada para ter chance de classificação — empate pode não ser suficiente dependendo dos outros resultados.
+
+
 ## 📅 2026-06-17
 - Canadá enfrenta o Catar em 18/06 (quinta-feira), pelo Grupo B — após empate histórico (1x1 com Bósnia), precisa da vitória para seguir vivo na competição (fonte: https://www.lance.com.br/copa-do-mundo/veja-o-gol-de-canada-x-bosnia-na-copa-do-mundo.html)
 - Cyle Larin marcou o gol do empate histórico (primeiro ponto do Canadá em Copas); Jonathan David segue como principal esperança ofensiva da equipe de Marsch (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/anfitriao-canada-busca-empate-com-bosnia-e-soma-primeiro-ponto-em-copas/)

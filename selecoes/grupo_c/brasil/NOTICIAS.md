@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- Ancelotti confirmou que Neymar voltou aos treinos mas ainda não tem condições de jogo; Igor Thiago e Endrick disputam a vaga de centroavante titular (fonte: https://www.umdoisesportes.com.br/copa-do-mundo/2026/brasil-haiti-escalacao-selecao-brasileira-copa-do-mundo/)
+- Provável escalação para amanhã: Alisson; Ibañez, Marquinhos, Gabriel Magalhães, Douglas Santos; Casemiro, Bruno Guimarães; Paquetá, Raphinha, Vini Jr.; Igor Thiago (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-haiti-escalacoes-horario-onde-assistir)
+- Estatísticas apontam 83% de probabilidade de vitória brasileira e apenas 3% para o Haiti (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/brasil-x-haiti---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- Brasil precisa dos 3 pontos para não permitir que a Escócia se distancie com 6 pts no Grupo C antes do confronto direto (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
+- **Repercussão / Próximo jogo:** Brasil joga 19/06 (sexta, 21h30 Brasília), na Filadélfia contra o Haiti — vitória obrigatória; empate colocaria a seleção em risco no Grupo C.
+
 ## 📅 2026-06-17
 - Brasil enfrenta o Haiti em 19/06 (sexta-feira), às 21h30 (Brasília), na Filadélfia — vitória é praticamente obrigatória para manter ritmo no Grupo C liderado pela Escócia (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-haiti-escalacoes-horario-onde-assistir)
 - Ancelotti avalia fazer mudanças na equipe após o empate com o Marrocos: Roger Ibañez e Douglas Santos foram utilizados na estreia e podem ser mantidos ou substituídos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/vini-jr-marca-golaco-mas-brasil-so-empata-com-marrocos-na-estreia-da-copa/)

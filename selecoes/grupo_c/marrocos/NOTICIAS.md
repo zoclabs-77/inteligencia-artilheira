@@ -4,6 +4,14 @@
 
 ---
 
+## 📅 2026-06-18
+- Marrocos soma 1 ponto após empate 1x1 com o Brasil na estreia; precisa vencer a Escócia para não perder o controle do Grupo C (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
+- Marrocos é favorito nas casas de apostas para o duelo com a Escócia (odd 2.08), reflexo da qualidade do elenco semifinalista de 2022 (fonte: https://www.flashscore.com.br/noticias/futebol-campeonato-do-mundo-escocia-x-marrocos-palpites-melhores-apostas-e-odds-copa-do-mundo-2026/MRUr9c9a/)
+- Destaque ofensivo marroquino é o lateral-direito Achraf Hakimi, perigoso nas subidas pelo lado direito (fonte: https://www.365scores.com/pt-br/football/match/fifa-world-cup-5930/morocco-scotland-5069-5093-5930)
+- Em 1998 Marrocos goleou Escócia por 3x0 — último confronto entre as seleções em Copa (fonte: https://www.netflu.com.br/escocia-x-marrocos-palpites-prognostico-copa-do-mundo-19-06-2026/)
+- **Repercussão / Próximo jogo:** Marrocos enfrenta a Escócia em 19/06 (sexta, 19h Brasília) no Gillette Stadium — vitória é quase obrigatória para não depender de resultado externo na 3ª rodada.
+
+
 ## 📅 2026-06-17
 - Marrocos enfrenta a Escócia em 19/06 (sexta-feira), às 21h30 (Brasília), em Boston — duelo que pode definir o segundo classificado do Grupo C (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
 - Atuação na estreia foi elogiada internacionalmente: Marrocos dominou boa parte do jogo contra o Brasil (12 finalizações vs 7) e abriu o placar com Saibari antes de ceder o empate a Vini Jr (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-estatisticas-brasil-marrocos-numeros-partida)

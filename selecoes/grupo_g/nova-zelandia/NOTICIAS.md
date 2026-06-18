@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-18
+- Nova Zelândia disputa o Grupo G com Bélgica, Egito e Irã — All Whites participam de mais uma edição da Copa, sempre como azarão do grupo (fonte: https://ndmais.com.br/futebol/grupo-h-da-copa-2026-espanha-e-uruguai-duelam-por-lideranca-da-chave/)
+- **Próximo jogo:** Nova Zelândia enfrenta o Egito de Mohamed Salah em 21/06 (domingo) — tarefa difícil diante de uma das estrelas mais em alta da Copa.
+
+
 ## 📅 2026-06-14
 - Nova Zelândia estreia contra o Irã em 15/06, às 22h (Brasília), no SoFi Stadium, Los Angeles, pelo Grupo G (fonte: https://www.365scores.com/pt-br/news/magazine/ira-x-nova-zelandia-escalacoes-onde-assistir/)
 - Escalação prevista: Max Crocombe; Tommy Smith, Boxall, Bindon, Cacace; Bell, Stamenic, Just; Sarpreet Singh, Wood (c), Ben Velho (fonte: https://www.goal.com/en-us/news/iran-new-zealand-world-cup-preview/bltf4f1b599c87b9982)

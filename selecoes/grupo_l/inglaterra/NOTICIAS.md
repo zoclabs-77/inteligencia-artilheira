@@ -4,6 +4,14 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Inglaterra venceu a Croácia por 4x2 em jogo eletrizante em Dallas (17/06) — gols de Harry Kane (12' e 42'), Jude Bellingham (46') e Marcus Rashford (85'); Croácia descontou com Baturina (35') e Musa (50') (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/inglaterra-4-x-2-croacia-veja-os-melhores-momentos-de-jogao-da-copa/)
+- Harry Kane marcou dois gols e atingiu 10 bolas nas Copas — igualando Gary Lineker como maior artilheiro inglês em Mundiais (fonte: https://diariodonordeste.verdesmares.com.br/jogada/inglaterra-x-croacia-na-copa-do-mundo-acompanhe-em-tempo-real-1.3771348)
+- Tuchel teve que fazer discurso motivacional no intervalo com o placar empatado em 2x2; mensagem: "se perdermos, perdemos à nossa maneira" (fonte: https://www.directvsports.com/futbol/kane-y-el-mensaje-de-tuchel-al-entretiempo-de-inglaterra---croacia-en-el-mundial-2026-si-perdemos-perdemos-pero-perdemos-a-nuestra-manera-20260617-0063.html)
+- Inglaterra lidera o Grupo L com 3 pontos e +2 de saldo de gols; imprensa britânica elogiou a reação após levar o empate (fonte: https://www.metro1.com.br/noticias/copa-do-mundo-2026/184100,em-jogo-aberto-inglaterra-faz-quatro-gols-e-vence-a-croacia-na-estreia-da-copa)
+- **Repercussão / Próximo jogo:** Vitória empolgante abre Copa com bom presságio — Kane em grande forma, Bellingham e Rashford decisivos. Próximo jogo ainda a definir na fase de grupos.
+
+
 ## 📅 2026-06-17
 - Inglaterra estreia HOJE contra a Croácia, às 17h (Brasília), no AT&T Stadium em Arlington, Grupo L — revanche da semifinal de 2018, quando a Croácia venceu por 2x1 (fonte: https://www.gazetaesportiva.com/times/inglaterra/inglaterra-x-croacia-onde-assistir-escalacoes-copa-2026/)
 - Escalação provável por Tuchel: Pickford; James, Konsa, Guéhi e O'Reilly; Rice, Elliott Anderson e Bellingham; Saka, Kane e Gordon (fonte: https://www.365scores.com/pt-br/news/magazine/inglaterra-croacia-escalacoes-analise/)

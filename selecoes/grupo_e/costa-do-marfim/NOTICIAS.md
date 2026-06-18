@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- Costa do Marfim chega para o duelo com a Alemanha em 20/06 após resultado da 1ª rodada do Grupo E (fonte: https://www.fifa.com/pt/articles/alemanha-costa-do-marfim-previa-jogo-copa-mundo-grupo-e)
+- Provável escalação: Yahia Fofana; Doué, Singo, Agbadou, Konan; Kessié, Seko Fofana, Diakité, Diomande; Diallo e Adingra (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)
+- Destaque é o meio-campista Franck Kessié, veterano europeu com experiência no Barcelona e Al-Ahli, que deve controlar o setor central (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)
+- **Próximo jogo:** Costa do Marfim enfrenta a Alemanha em 20/06 (sábado, 17h Brasília) em Toronto — desafio enorme diante da favorita ao título.
+
+
 ## 📅 2026-06-17
 - Costa do Marfim venceu o Equador por 1x0 na estreia do Grupo E — gol nos minutos finais, como caracterizou a imprensa, em jogo marcado pela organização dos Elefantes (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
 - Técnico Emerse Faé manteve o bloco compacto das Eliminatórias e soube aproveitar a chance decisiva diante de um Equador que era favorito nas estatísticas (fonte: https://24noticias.sapo.pt/desporto/artigos/alemanha-suecia-e-costa-do-marfim-brilham-holanda-e-japao-empatam)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-18
+- Japão disputa o Grupo F ao lado de Holanda, Suécia e Tunísia — Samurais Azuis chegam à Copa após campanha sólida nas Eliminatórias Asiáticas (fonte: https://jornaldaparaiba.com.br/esportes/copa-do-mundo-2026-selecoes-grupo-f)
+- **Próximo jogo:** Japão enfrenta a Tunísia em 21/06 (domingo) — jogo que definirá a posição japonesa no Grupo F antes da última rodada.
+
+
 ## 📅 2026-06-14
 - Japão estreia hoje contra a Holanda, às 17h (Brasília), no AT&T Stadium em Dallas, pelo Grupo F (fonte: https://www.correio24horas.com.br/copa-do-mundo/holanda-x-japao-na-copa-do-mundo-2026-onde-assistir-escalacoes-e-tudo-sobre-a-estreia-das-duas-selecoes-0626)
 - Escalação prevista (3-4-2-1): Zion Suzuki; Ito, Tomiyasu e Itakura; Doan, Kamada, Tanaka e Nakamura; Junya Ito e Kubo; Ueda (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/holanda-x-japao-onde-assistir-horario-e-escalacoes-pela-copa-do-mundo,5eede808309b28594cbcac094314ab045av2lsve.html)

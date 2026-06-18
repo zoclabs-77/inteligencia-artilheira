@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-18
+- Holanda é favorita no Grupo F — Memphis Depay chegou à Copa em grande fase, com 8 gols em 8 jogos nas Eliminatórias Europeias (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/palpites-copa-do-mundo-2026-grupo-f-apostas-especiais-dicas-odds-para-holanda-japao-suecia-tunisia-140626-1344.html)
+- Campanha invicta nas Eliminatórias com média de 3 gols por jogo, mas estreia no Grupo F ainda não realizada antes do confronto direto com a Suécia (fonte: https://www.umdoisesportes.com.br/copa-do-mundo/2026/copa-do-mundo-2026-grupo-f-tudo-sobre-o-grupo-da-holanda/)
+- **Próximo jogo:** Holanda enfrenta a Suécia em 20/06 (sábado, 14h Brasília) em Houston — favorita, mas Suécia tem a dupla letal Gyökeres-Isak.
+
+
 ## 📅 2026-06-17
 - Holanda empatou com o Japão por 2x2 na estreia do Grupo F — jogo de alta qualidade técnica, um dos mais elogiados do torneio até agora (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
 - Cody Gakpo marcou e foi o principal nome ofensivo da Holanda; Memphis Depay entrou no 2T e participou das jogadas; equipe cedeu dois gols ao Japão apesar da posse dominante (fonte: https://24noticias.sapo.pt/desporto/artigos/alemanha-suecia-e-costa-do-marfim-brilham-holanda-e-japao-empatam)

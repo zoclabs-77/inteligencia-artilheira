@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Uruguai empatou 1x1 com a Arábia Saudita na estreia (15/06) em Miami — Maxi Araújo igualou o gol de Al-Amri; Arrascaeta estava ausente (fonte: https://www.lance.com.br/copa-do-mundo/sem-arrascaeta-uruguai-tropeca-na-estreia-da-copa-do-mundo.html)
+- Darwin Núñez teve atuação fraca — foi facilmente marcado pelos defensores sauditas e saiu no intervalo (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/uruguai-pressiona-no-final-mas-so-empata-contra-arabia-saudita-na-estreia-da-copa-do-mundo-em-miami,97084cd6ab2552d92cd0f00deaa045d74w8svy9v.html)
+- Era Suárez/Cavani encerrada — Uruguai aposta na nova geração, mas estreia frustrante levanta dúvidas sobre o potencial ofensivo (fonte: https://www.infomoney.com.br/esportes/jogo-arabia-saudita-uruguai-copa-2026/)
+- **Próximo jogo:** Uruguai enfrenta Cabo Verde em 21/06 (domingo) — vitória esperada para colocar 4 pontos no Grupo H e se aproximar das oitavas.
+
+
 ## 📅 2026-06-14
 - Uruguai estreia contra a Arábia Saudita em 15/06, às 19h (Brasília), no Hard Rock Stadium, Miami, pelo Grupo H (fonte: https://www.365scores.com/pt-br/news/magazine/arabia-saudita-x-uruguai-escalacoes-onde-assistir/)
 - Escalação prevista (4-4-2): Muslera; Varela, Bueno, Cáceres e Olivera; Valverde, Ugarte, Bentancur e Araujo; Núñez e Viñas (fonte: https://www.365scores.com/pt-br/news/magazine/arabia-saudita-x-uruguai-escalacoes-onde-assistir/)

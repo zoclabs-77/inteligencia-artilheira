@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-18
+- Turquia perdeu para a Austrália por 0x2 na estreia do Grupo D — resultado surpreendente para a seleção europeia (fonte: https://espndeportes.espn.com/futbol/partido/_/juegoId/760442/australia-estados-unidos)
+- Com zero pontos na 1ª rodada, jogo contra o Paraguai em 20/06 é praticamente obrigatório — derrota compromete seriamente a classificação (fonte: https://www.dazn.com/pt-BR/news/futebol/jogos-da-copa-do-mundo-de-2026-calendario-horarios-e-locais-para-cada-selecao/1w95edqraimb91tbq0qw9ng6d0)
+- **Próximo jogo:** Turquia vs Paraguai em 20/06 — confronto direto entre os dois derrotados da 1ª rodada do Grupo D; quem perder fica praticamente eliminado.
+
+
 ## 📅 2026-06-17
 - Turquia enfrenta o Paraguai em 20/06 (sábado), no Levi's Stadium em Santa Clara, Grupo D — zerada após derrota inesperada 0x2 para a Austrália (fonte: https://trivela.com.br/copa-do-mundo/grupo-d-2026-eua-paraguai-australia-turquia/)
 - Derrota para a Austrália frustrou expectativas: Arda Güler foi muito bem marcado e teve pouco espaço; equipe de Montella mostrou dificuldades na marcação alta (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/australia-2-x-0-turquia-os-melhores-momentos-do-duelo-pela-copa-2026/)

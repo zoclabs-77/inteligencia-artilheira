@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- Catar empatou com o Canadá por 1x1 hoje no BC Place, Vancouver — após empate 1x1 com a Suíça na estreia; 2 pontos em 2 jogos (banco de dados do projeto)
+- Seleção catari demonstra evolução desde a Copa de 2022, quando foi eliminada na fase de grupos como anfitrião — agora soma 2 pontos em 2 jogos (fonte: https://www.netflu.com.br/canada-x-catar-onde-assistir-ao-vivo-horario-e-palpites-pela-copa-do-mundo-2026/)
+- Grupo B com todos os quatro times empatados em 2 pontos — cenário único que torna a 3ª rodada completamente imprevisível (fonte: https://esportenewsmundo.com.br/palpite-canada-x-catar-copa-do-mundo-2026/)
+- **Próximo jogo:** Catar tem real chance de classificação se vencer na última rodada — dependendo dos outros resultados, 3 pontos podem ser suficientes.
+
+
 ## 📅 2026-06-17
 - Catar enfrenta o Canadá em 18/06 (quinta-feira), pelo Grupo B — gol contra de Khoukhi nos acréscimos garantiu o histórico empate 1x1 com a Suíça na estreia (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/catar-suica-melhores-momentos-resumo-jogo-grupo-b)
 - Resultado é histórico: primeiro ponto da seleção catariana em Copas do Mundo, após perder os 3 jogos em 2022 como anfitrião (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/catar-1-x-1-suica-veja-os-melhores-momentos-do-confronto-da-copa-do-mundo/)

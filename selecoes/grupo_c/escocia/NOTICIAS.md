@@ -4,6 +4,14 @@
 
 ---
 
+## 📅 2026-06-18
+- Escócia lidera o Grupo C com 3 pontos após vitória por 1x0 sobre o Haiti na estreia (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
+- John McGinn declarou que o time tem "mais marchas para subir" após a vitória na estreia (fonte: https://mancheteesportiva.com.br/competicoes/previsoes-e-melhores-apostas-escocia-x-marrocos-para-a-copa-do-mundo-de-2026/22431/)
+- Uma vitória sobre Marrocos amanhã praticamente garante a classificação antecipada às oitavas (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/escocia-x-marrocos---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- Em 1998, Marrocos aplicou 3x0 na Escócia; revanche histórica em pauta no confronto de amanhã (fonte: https://www.netflu.com.br/escocia-x-marrocos-palpites-prognostico-copa-do-mundo-19-06-2026/)
+- **Repercussão / Próximo jogo:** Escócia enfrenta Marrocos em 19/06 (sexta, 19h Brasília) no Gillette Stadium, Foxborough — favorita a manter a liderança do grupo.
+
+
 ## 📅 2026-06-17
 - Escócia enfrenta Marrocos em 19/06 (sexta-feira), às 21h30 (Brasília), em Boston — liderança do Grupo C com 3 pontos em jogo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
 - Repercussão da vitória sobre o Haiti foi positiva: imprensa destaca eficiência defensiva (zero gols sofridos) e o gol de McGinn como jogo seguro e pragmático (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/escocia-segura-pressao-do-haiti-e-vence-na-estreia-da-copa-do-mundo/)

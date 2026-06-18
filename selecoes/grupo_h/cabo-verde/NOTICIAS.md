@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Cabo Verde fez história ao empatar 0x0 com a Espanha na estreia (15/06) — resultado histórico para a seleção africana, que somou 1 ponto na Copa por primeira vez (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/historico-cabo-verde-segura-espanha-em-estreia-da-copa-do-mundo/)
+- Organização defensiva excepcional — bloqueou o ataque espanhol que tem Yamal e Pedri — durante os 90 minutos (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/espanha-cabo-verde-melhores-momentos-resumo-jogo-grupo-h)
+- **Próximo jogo:** Cabo Verde enfrenta o Uruguai em 21/06 (domingo) — confronto difícil, mas os cabo-verdianos podem surpreender de novo.
+
+
 ## 📅 2026-06-14
 - Cabo Verde faz a estreia histórica (primeira Copa do Mundo) contra a Espanha em 15/06, às 13h (Brasília), no Mercedes-Benz Stadium, em Atlanta, pelo Grupo H (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
 - Escalação prevista (4-2-3-1): Vozinha; Moreira, Logan Costa, Roberto Lopes e João Paulo; Semedo e Pina; Mendes, Monteiro e Cabral; Livramento (fonte: https://www.365scores.com/pt-br/news/magazine/espanha-cabo-verde-escalacoes-analise/)

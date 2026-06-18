@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- Suécia chega ao confronto com a Holanda apostando na dupla letal Viktor Gyökeres (Sporting) e Alexander Isak (Newcastle) — os dois são dos atacantes mais produtivos do futebol europeu (fonte: https://www.meutimao.com.br/apostas/palpites/holanda-x-suecia-copa-do-mundo-20062026)
+- Holanda tem vantagem histórica: 11 vitórias contra 8 da Suécia em confrontos diretos (fonte: https://www.terra.com.br/esportes/futebol/holanda-e-suecia-favoritas-grupo-f-promete-surpresas-e-equilibrio-ate-o-fim-veja,3fac3c58e244f1473dc311b605e6cc4fcthlusro.html)
+- Grupo F é equilibrado: Holanda, Japão, Suécia e Tunísia — qualquer resultado na 2ª rodada pode mudar completamente a classificação (fonte: https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_2026_%E2%80%93_Grupo_F)
+- **Próximo jogo:** Suécia enfrenta a Holanda em 20/06 (sábado, 14h Brasília) em Houston — vitória seria grande passo rumo às oitavas.
+
+
 ## 📅 2026-06-17
 - Suécia goleou a Tunísia por 5x1 na estreia do Grupo F e assumiu a liderança isolada da chave — Viktor Gyökeres e Alexander Isak brilharam em show ofensivo (fonte: https://muitainformacao.com.br/esporte/copa-do-mundo/copa-do-mundo-2026-suecia-goleia-por-5-a-1-holanda-empata-com-japao-e-costa-do-marfim-vence-equador/)
 - Parceria Isak-Gyökeres foi devastadora: um dos duetos ofensivos mais efetivos até agora na Copa 2026; Graham Potter elogiou a intensidade e o aproveitamento nos finalizações (fonte: https://24noticias.sapo.pt/desporto/artigos/alemanha-suecia-e-costa-do-marfim-brilham-holanda-e-japao-empatam)

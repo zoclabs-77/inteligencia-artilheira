@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- Haiti soma zero pontos no Grupo C após derrota por 0x1 para a Escócia na estreia; precisa urgentemente pontuar contra o Brasil (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
+- Provável escalação: Placide; Carlens, Ade, Delcroix, Experience; Deedson, Bellegarde, Jean Jacques, Providence; Isidor e Pierrot. Técnico: Sébastien Migné (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-haiti-escalacoes-horario-onde-assistir)
+- Haiti foi estreante em Copa nesta edição — convocação baseada em jogadores da diaspora europeia (liga francesa e belga) (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-haiti-informacoes)
+- **Repercussão / Próximo jogo:** Haiti enfrenta o Brasil em 19/06 (sexta, 21h30 Brasília) na Filadélfia — confronto extremamente difícil, uma derrota praticamente encerra as chances de classificação.
+
+
 ## 📅 2026-06-17
 - Haiti enfrenta o Brasil em 19/06 (sexta-feira), às 21h30 (Brasília), na Filadélfia — sem pontos no Grupo C após derrota para a Escócia por 0x1 (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
 - Apesar da derrota, a FIFA destacou "a coragem do Haiti", que competiu de igual para igual com a Escócia em vários momentos e teve boas chances de empatar (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/copa-mundo-2026-haiti-escocia-pos-jogo)

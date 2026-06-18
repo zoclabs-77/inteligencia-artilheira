@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Panamá perdeu para Gana por 0x1 na estreia (17/06) em Toronto — estava empatando sem gols até os 88', quando Caleb Yirenkyi marcou o gol da derrota no fim (fonte: https://dol.com.br/esporte/copa-do-mundo/944863/gana-vence-panama-por-1-a-0-e-estreia-bem-na-copa)
+- Panamá ficou a 2 minutos de tirar seu primeiro ponto em Copa do Mundo — derrota cruel que encerra invicto na competição (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/gana-panama-melhores-momentos-resumo-jogo-grupo-l)
+- Panamá ocupa a última posição do Grupo L com zero pontos após 1ª rodada — enfrenta Croácia que também zerou (próxima rodada sem data confirmada) (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289273/400021510)
+- **Próximo jogo:** Panamá enfrenta a Croácia na 2ª rodada — duelo entre os dois times com zero pontos que será decisivo para as chances de classificação de ambos.
+
+
 ## 📅 2026-06-17
 - Panamá estreia HOJE contra Gana, às 20h (Brasília), no BMO Field em Toronto, Grupo L — segunda Copa da história, após debut na Rússia 2018 (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/gana-panama-onde-assistir-copa-2026-escalacoes/)
 - Escalação provável (3-4-2-1): Mosquera; Murillo, Escobar, Córdoba, Andrade e Blackman; José Rodríguez; Bárcenas e Almanza (fonte: https://www.meutimao.com.br/apostas/palpites/gana-x-panama-copa-do-mundo-17062026)

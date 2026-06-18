@@ -4,6 +4,14 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Croácia perdeu para a Inglaterra por 2x4 na estreia (17/06) — gols de Baturina (35') e Musa (50'), mas defesa cedeu quatro vezes em Dallas (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/inglaterra-4-x-2-croacia-veja-os-melhores-momentos-de-jogao-da-copa/)
+- Joško Gvardiol apontou "falta de concentração" como fator decisivo na derrota — time buscou o empate mas não conseguiu segurar o ímpeto inglês (fonte: https://www.directvsports.com/futbol/joko-gvardiol-luego-de-la-caida-de-croacia-ante-inglaterra-por-el-mundial-2026-la-falta-de-concentracion-fue-decisiva-20260617-0066.html)
+- Luka Modric (41 anos) jogou normalmente; provável sua última Copa — derrota na estreia complica imensamente o cenário para a geração dourada da Croácia (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/geracao-2026-maestro-luka-modric-comanda-croacia-em-sua-ultima-copa/)
+- Croácia ocupa a última posição do Grupo L com zero pontos; precisa vencer as próximas duas rodadas para ter chance de classificação (fonte: https://www.poder360.com.br/copa-2026/copa-2026-melhores-momentos-de-inglaterra-4-x-2-croacia/)
+- **Repercussão / Próximo jogo:** Derrota por 4x2 é um resultado muito ruim para uma seleção experiente como a Croácia — próximo jogo será contra o Panamá (23/06), que passa a ser obrigação de vitória.
+
+
 ## 📅 2026-06-17
 - Croácia estreia HOJE contra a Inglaterra, às 17h (Brasília), no AT&T Stadium em Arlington, Grupo L — Luka Modric (41 anos) disputa possivelmente sua última Copa do Mundo (fonte: https://www.gazetaesportiva.com/times/inglaterra/inglaterra-x-croacia-onde-assistir-escalacoes-copa-2026/)
 - Escalação provável: Livakovic; Stanisic, Sutalo, Vuskovic e Gvardiol; Modric, Sucic e Kovacic; Perisic, Baturina e Musa (fonte: https://www.365scores.com/pt-br/news/magazine/inglaterra-croacia-escalacoes-analise/)

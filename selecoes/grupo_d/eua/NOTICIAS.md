@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- EUA lidera o Grupo D com 3 pontos após goleada histórica de 4x1 sobre o Paraguai na estreia — foi a primeira vez que a seleção americana marcou 4 gols num jogo de Copa (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- Christian Pulisic é dúvida para amanhã por incômodo na panturrilha detectado após a estreia (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- EUA tem sequência de 7 vitórias consecutivas jogando no Lumen Field em Seattle — palco do confronto de amanhã (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- **Próximo jogo:** EUA enfrenta a Austrália em 19/06 (sexta, 16h Brasília) no Lumen Field, Seattle, Grupo D — vitória manteria pressão no topo do grupo.
+
+
 ## 📅 2026-06-17
 - EUA enfrenta a Austrália em 19/06 (sexta-feira), no Lumen Field em Seattle, Grupo D — liderança compartilhada com 3 pontos após goleada 4x1 no Paraguai (fonte: https://espndeportes.espn.com/futbol/partido/_/juegoId/760442/australia-estados-unidos)
 - Repercussão da estreia foi de euforia: Balogun (2 gols), Reyna e gol contra de Bobadilla — Pulisic foi o maestro das jogadas, elogiado como o melhor em campo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-gols-brasileiros-estados-unidos-goleia-paraguai-em-estreia-na-copa/)

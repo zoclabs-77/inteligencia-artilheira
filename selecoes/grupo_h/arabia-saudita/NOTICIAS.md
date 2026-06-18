@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-18
+- **Repercussão:** Arábia Saudita empatou 1x1 com o Uruguai na estreia (15/06) — Abdulelah Al-Amri abriu o placar, mas Maxi Araújo empatou para os uruguaios (fonte: https://www.vietnam.vn/pt/truc-tiep-world-cup-2026-uruguay-doi-dau-saudi-arabia-tai-bang-h)
+- Sauditas surpreenderam com boa organização tática e quase conquistaram 3 pontos diante de um Uruguai sem Arrascaeta (fonte: https://www.infomoney.com.br/esportes/jogo-arabia-saudita-uruguai-copa-2026/)
+- Grupo H com todos os 4 times empatados em 1 ponto — grupo totalmente aberto após a 1ª rodada (fonte: https://ndmais.com.br/futebol/grupo-h-da-copa-2026-espanha-e-uruguai-duelam-por-lideranca-da-chave/)
+- **Próximo jogo:** Arábia Saudita enfrenta a Espanha em 21/06 (domingo, 13h Brasília) em Atlanta — duelo difícil contra La Roja que precisa de reabilitação após empate com Cabo Verde.
+
+
 ## 📅 2026-06-14
 - Arábia Saudita estreia contra o Uruguai em 15/06, às 19h (Brasília), no Hard Rock Stadium, Miami, pelo Grupo H (fonte: https://www.365scores.com/pt-br/news/magazine/arabia-saudita-x-uruguai-escalacoes-onde-assistir/)
 - Preparação teve resultados mediano: vitória sobre Porto Rico, empate com Senegal e derrota para o Equador em amistosos (fonte: https://www.365scores.com/pt-br/news/magazine/arabia-saudita-x-uruguai-escalacoes-onde-assistir/)
