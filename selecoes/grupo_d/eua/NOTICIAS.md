@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- EUA enfrenta a Austrália hoje pelo Grupo D no Lumen Field; ambas somam 3 pontos após vencerem na 1ª rodada — confronto direto decide quem se classifica antecipadamente (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/estados-unidos-australia-copa-2026/)
+- Christian Pulisic é dúvida com dores na panturrilha; provável escalação (3-4-2-1): Freese; Richards, Ream, Robinson; Dest, Adams, Tillman, Freeman; McKennie, Pulisic; Balogun (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- Jogo às 16h (Brasília), transmissão pela CazéTV (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/estados-unidos-australia-copa-2026/)
+- **Repercussão / Próximo jogo:** EUA joga hoje (19/06) contra Austrália — vitória garantiria classificação antecipada com rodada de sobra. Pressão sobre Pulisic, que é a referência ofensiva americana.
+
 ## 📅 2026-06-18
 - EUA lidera o Grupo D com 3 pontos após goleada histórica de 4x1 sobre o Paraguai na estreia — foi a primeira vez que a seleção americana marcou 4 gols num jogo de Copa (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
 - Christian Pulisic é dúvida para amanhã por incômodo na panturrilha detectado após a estreia (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)

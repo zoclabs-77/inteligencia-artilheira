@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Haiti enfrenta o Brasil HOJE (19/06) às 21h30 (Brasília) no Lincoln Financial Field, Filadélfia — sem pontos no Grupo C após derrota 0x1 para a Escócia na estreia (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-haiti-escalacoes-horario-onde-assistir)
+- Retorno histórico ao Mundial pela 1ª vez em 52 anos (desde 1974); provável escalação: Placide; Arcus, Delcroix, Adé, Expérience; Bellegarde, Jean Jacques; Deedson, Casimir, Providence; Isidor (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-haiti-informacoes)
+- Wilson Isidor (atacante) é a principal referência ofensiva; estatísticas apontam apenas 3% de chance de vitória contra o Brasil (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/brasil-x-haiti---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- **Próximo jogo:** Haiti joga HOJE (19/06) vs Brasil — missão quase impossível estatisticamente, mas o Haiti quer honrar sua participação histórica no torneio.
+
 ## 📅 2026-06-18
 - Haiti soma zero pontos no Grupo C após derrota por 0x1 para a Escócia na estreia; precisa urgentemente pontuar contra o Brasil (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
 - Provável escalação: Placide; Carlens, Ade, Delcroix, Experience; Deedson, Bellegarde, Jean Jacques, Providence; Isidor e Pierrot. Técnico: Sébastien Migné (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-haiti-escalacoes-horario-onde-assistir)

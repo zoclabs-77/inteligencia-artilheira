@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Bélgica enfrenta o Irã em 21/06 no Estádio de Los Angeles, às 16h (Brasília); vem do empate 1x1 com o Egito na estreia — Lukaku forçou gol contra que igualou, mas não foi suficiente para vitória (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/belgica-evita-tropeco-na-estreia-e-busca-empate-contra-egito-na-copa/)
+- Favorita do Grupo G liderada por Courtois e De Bruyne; Lukaku continua como referência ofensiva apesar dos gols que não saem diretamente do seu pé (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16044466/grupo-g-da-copa-do-mundo-2026-o-que-vc-saber-belgica-egito-ira-nova-zelandia)
+- **Próximo jogo:** Bélgica vs Irã em 21/06 — vitória obrigatória para consolidar posição de favorita e não repetir o tropeço da estreia.
+
 ## 📅 2026-06-18
 - **Repercussão:** Bélgica empatou 1x1 com o Egito na estreia (Grupo G) — Salah assistiu para Emam Ashour abrir o placar, gol contra de Mohamed Hany empatou após Lukaku pressionar (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/belgica-evita-tropeco-na-estreia-e-busca-empate-contra-egito-na-copa/)
 - Lukaku entrou como reserva aos 25' do 2º tempo e em 22 segundos forçou o gol contra que empatou o jogo — veterano ainda decisivo apesar da queda de rendimento nos clubes (fonte: https://www.gazetaweb.com/copa-do-mundo/apos-temporada-dificil-lukaku-volta-a-decidir-e-mostra-forca-na-estreia-da-belgica-906077)

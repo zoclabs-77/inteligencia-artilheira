@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Irã enfrenta a Bélgica em 21/06 no Estádio de Los Angeles, às 16h (Brasília); Mehdi Taremi é o nome ofensivo mais conhecido da seleção iraniana na Copa 2026 (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16044466/grupo-g-da-copa-do-mundo-2026-o-que-vc-saber-belgica-egito-ira-nova-zelandia)
+- Irã disputa a segunda vaga do Grupo G ao lado do Egito — Bélgica é a favorita ao primeiro lugar (fonte: https://ndmais.com.br/futebol/grupo-g-da-copa-2026-conheca-os-adversarios-da-belgica-no-mundial/)
+- **Próximo jogo:** Irã vs Bélgica em 21/06 — como zebra do grupo, precisa de pontos; resultado positivo seria a grande surpresa da rodada.
+
 ## 📅 2026-06-18
 - Irã disputa o Grupo G ao lado de Bélgica, Egito e Nova Zelândia — estreou na Copa do Mundo 2026 pelo Grupo G (fonte: https://ndmais.com.br/futebol/grupo-h-da-copa-2026-espanha-e-uruguai-duelam-por-lideranca-da-chave/)
 - **Próximo jogo:** Irã enfrenta a Bélgica em 21/06 (domingo) — confronto difícil contra a geração de Ouro belga que precisa de vitória para se firmar no Grupo G.

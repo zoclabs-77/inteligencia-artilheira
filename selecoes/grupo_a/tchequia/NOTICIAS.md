@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-19
+- Tchéquia empatou 1x1 com a África do Sul em Atlanta; Sadílek abriu o placar aos 5' de canhota, mas Mokoena empatou de pênalti nos acréscimos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tchequia-e-africa-do-sul-empatam-e-seguem-sem-vencer-na-copa-do-mundo/)
+- Jogo histórico: primeiro trio arbitral feminino de uma Copa do Mundo, liderado por Tori Penso (EUA) (fonte: https://www.gazetaesportiva.com/minuto-a-minuto/copa-do-mundo-2026/tchequia-x-africa-do-sul/237056/)
+- Tchéquia soma 1 ponto e está em 3º do Grupo A; segue matematicamente viva mas depende de resultado na última rodada (fonte: https://ndmais.com.br/futebol/tchequia-e-africa-do-sul-empatam-e-seguem-vivos-na-copa/)
+- Goal.com aponta "latereio" da Tchéquia como aspecto crítico — criou chances mas não converteu; grupo ainda aberto (fonte: https://www.goal.com/br/listas/africa-sul-marcando-primeira-latereio-tchequia-aberto-grupo-top-5-precisa-saber-sobre-tchequia-1-1-africa-sul/blt97493f8bb91ff7cb)
+- **Repercussão / Próximo jogo:** Resultado frustrante para a Tchéquia que precisava vencer — desperdiçou diversas chances e cedeu pênalti tardio. Última rodada será decisiva para qualquer esperança de mata-mata.
+
 ## 📅 2026-06-17
 - Tchéquia enfrenta a África do Sul em 18/06 (quinta-feira), pelo Grupo A — derrota na estreia (1x2 para Coreia do Sul) torna o jogo praticamente obrigatório (fonte: https://www.goal.com/en-us/news/czech-republic-south-africa-world-cup-preview/blt2698eb3974683720)
 - Após sair na frente com Krejci (gol de cabeça aos 13'), a Tchéquia cedeu a virada no 2T: falha coletiva na marcação e excessiva dependência do jogo aéreo foram criticadas (fonte: https://www.infomoney.com.br/esportes/jogo-coreia-do-sul-tchequia-copa-2026/)

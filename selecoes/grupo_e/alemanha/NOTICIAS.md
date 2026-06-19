@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Alemanha enfrenta a Costa do Marfim em 20/06 no Toronto Stadium, às 17h (Brasília); vem de goleada histórica 7x1 sobre Curaçao na estreia — 10 vitórias consecutivas (fonte: https://www.netflu.com.br/alemanha-x-costa-do-marfim-palpites-prognostico-copa-do-mundo-20-06-2026/)
+- Contexto histórico: após eliminações precoces em 2018 e 2022, Alemanha está determinada a mostrar que voltou ao nível de favorita — goleada na estreia enviou recado ao torneio (fonte: https://www.band.com.br/esportes/futebol/ao-vivo/alemanha-x-costa-do-marfim-copa-do-mundo-2026)
+- Costa do Marfim (campeã africana) também venceu na 1ª rodada — jogo promete ser o grande duelo do Grupo E (fonte: https://www.goal.com/en-us/news/germany-ivory-coast-world-cup-preview/bltf447b5794f5d1174)
+- **Próximo jogo:** Alemanha vs Costa do Marfim em 20/06 — o clássico mais atraente da rodada; vitória consolidaria a liderança alemã.
+
 ## 📅 2026-06-18
 - Alemanha goleou Curaçao por 7x1 na estreia do Grupo E — performance dominante que confirma Die Mannschaft como uma das favoritas ao título (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)
 - Provável escalação contra Costa do Marfim: Baumann; Kimmich, Tah, Schlotterbeck, Raum; Pavlovic, Goretzka, Wirtz; Musiala, Sané e Havertz (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)

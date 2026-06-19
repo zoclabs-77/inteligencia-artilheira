@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Marrocos enfrenta a Escócia hoje no Boston Stadium, às 19h (Brasília); favorito para vencer (odd 1.70) e precisa dos 3 pontos para se manter na disputa do Grupo C (fonte: https://trivela.com.br/apostas/palpites-de-futebol/copa-do-mundo-escocia-x-marrocos-19-06-2026/)
+- Hakimi e Brahim Diaz são as principais armas ofensivas; Marrocos deve controlar a posse de bola e explorar velocidade pelas pontas (fonte: https://mancheteesportiva.com.br/competicoes/previsoes-e-melhores-apostas-escocia-x-marrocos-para-a-copa-do-mundo-de-2026/22431/)
+- Ancelotti citou o Marrocos como "principal adversário" do Brasil no Grupo C — o confronto direto está previsto na última rodada (fonte: https://br.soccerway.com/noticias/futebol-copa-do-mundo-ancelotti-avalia-rivais-do-brasil-na-copa-2026-e-destaca-marrocos-principal-adversario/jgktA3DG)
+- **Repercussão / Próximo jogo:** Marrocos joga hoje (19/06) contra a Escócia — resultado desta partida moldará toda a dinâmica do Grupo C. Derrota complicaria seriamente o cenário marroquino.
+
 ## 📅 2026-06-18
 - Marrocos soma 1 ponto após empate 1x1 com o Brasil na estreia; precisa vencer a Escócia para não perder o controle do Grupo C (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
 - Marrocos é favorito nas casas de apostas para o duelo com a Escócia (odd 2.08), reflexo da qualidade do elenco semifinalista de 2022 (fonte: https://www.flashscore.com.br/noticias/futebol-campeonato-do-mundo-escocia-x-marrocos-palpites-melhores-apostas-e-odds-copa-do-mundo-2026/MRUr9c9a/)

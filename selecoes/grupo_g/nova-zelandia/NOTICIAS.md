@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Nova Zelândia enfrenta o Egito em 21/06 no BC Place, Vancouver, às 22h (Brasília); All Whites buscam classificação inédita ao mata-mata de uma Copa do Mundo (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16044466/grupo-g-da-copa-do-mundo-2026-o-que-vc-saber-belgica-egito-ira-nova-zelandia)
+- Grupo G terá Nova Zelândia e Egito brigando pela segunda vaga — Bélgica é favorita ao 1º lugar; o jogo entre NZ e Egito pode definir quem avança (fonte: https://ndmais.com.br/futebol/grupo-g-da-copa-2026-conheca-os-adversarios-da-belgica-no-mundial/)
+- **Próximo jogo:** Nova Zelândia vs Egito em 21/06 — jogo de seis pontos entre as equipes que brigam pela vaga; Mohamed Salah do lado egípcio é a maior ameaça.
+
 ## 📅 2026-06-18
 - Nova Zelândia disputa o Grupo G com Bélgica, Egito e Irã — All Whites participam de mais uma edição da Copa, sempre como azarão do grupo (fonte: https://ndmais.com.br/futebol/grupo-h-da-copa-2026-espanha-e-uruguai-duelam-por-lideranca-da-chave/)
 - **Próximo jogo:** Nova Zelândia enfrenta o Egito de Mohamed Salah em 21/06 (domingo) — tarefa difícil diante de uma das estrelas mais em alta da Copa.

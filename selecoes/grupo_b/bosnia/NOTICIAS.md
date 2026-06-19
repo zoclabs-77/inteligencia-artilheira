@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Bósnia sofreu goleada de 1x4 para a Suíça em Los Angeles; sistema defensivo desmoronou no segundo tempo quando os reservas suíços Manzambi e Vargas decidiram o jogo (fonte: https://www.terra.com.br/esportes/futebol/copa-do-mundo-2026-suica-goleia-bosnia-e-se-aproxima-de-classificacao-ao-mata-mata,a2603c647fd8355808bb166470d18e6cu87hv2x1.html)
+- Com 0 pontos em 2 jogos e saldo de -5, a Bósnia está praticamente eliminada do Grupo B (fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760439/bosnia-e-herzegovina-suica)
+- **Repercussão / Próximo jogo:** Copa encerrada na prática para a Bósnia; derrota pesada para a Suíça confirma a dificuldade de competir no alto nível do Mundial.
+
 ## 📅 2026-06-17
 - Bósnia enfrenta a Suíça em 18/06 (quinta-feira), pelo Grupo B — empate 1x1 com o Canadá (anfitrião) na estreia é resultado respeitável fora de casa (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/canada-e-bosnia-empatam-e-paraguai-sofre-goleada-historica-dos-eua)
 - Jovo Lukić abriu o placar no 1º tempo, mas Cyle Larin empatou no 2T; Bósnia somou 1 ponto e mantém chances reais de classificação no Grupo B (fonte: https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/canada-e-bosnia-empatam-e-paraguai-sofre-goleada-historica-dos-eua)

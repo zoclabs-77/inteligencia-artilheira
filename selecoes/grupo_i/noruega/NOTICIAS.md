@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Noruega venceu o Iraque por 4x1 na estreia (16/06); Haaland marcou 2 gols — retorno histórico ao Mundial após 28 anos começa com vitória convincente (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/haaland-brilha-e-noruega-estreia-com-goleada-sobre-o-iraque-na-copa/)
+- Haaland, artilheiro das Eliminatórias (16 gols + 2 assistências), confirma que chegou à Copa em grande momento — melhor jogador da partida (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/haaland-veja-numeros-titulos-e-metas-do-jogador-da-noruega-na-copa/)
+- Enfrenta o Senegal em 22/06 em Nova Jersey, às 21h; Senegal perdeu para a França na R1 e também precisa de pontos (fonte: https://espndeportes.espn.com/futbol/partido/_/juegoId/760454/senegal-norway)
+- **Repercussão / Próximo jogo:** Início perfeito para a geração histórica norueguesa; Haaland em modo Copa promete show contra o Senegal em 22/06.
+
 ## 📅 2026-06-14
 - Noruega estreia contra o Iraque em 16/06, às 19h (Brasília), no Gillette Stadium, Boston, pelo Grupo I — primeira Copa do Mundo da seleção desde 1998 (fonte: https://www.ogol.com.br/jogo/2026-06-16-iraque-noruega/11832341)
 - Equipe chega como favorita ao confronto, liderada por Erling Haaland, um dos jogadores em melhor forma da Europa (fonte: https://www.segundabase.com.br/competicoes/iraque-x-noruega-previsoes-probabilidades-e-probabilidades-dos-jogos-da-copa-do-mundo-de-2026/316048/)

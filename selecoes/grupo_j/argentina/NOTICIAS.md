@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Argentina enfrenta a Áustria em 22/06 no AT&T Stadium, Dallas; atual campeã mundial chega ao jogo na 2ª rodada do Grupo J com Messi como capitão em sua 6ª Copa (fonte: https://www.goal.com/en-us/news/argentina-austria-world-cup-preview/blt540bff692d03f5a1)
+- Chega em excelente forma pré-Copa: 5 vitórias consecutivas, 12 gols marcados e apenas 1 sofrido, com último amistoso 3x0 sobre a Islândia em 10/06 (fonte: https://www.goal.com/en-us/news/argentina-austria-world-cup-preview/blt540bff692d03f5a1)
+- Técnico Scaloni busca ser o primeiro treinador a vencer duas Copas consecutivas desde Vittorio Pozzo em 1938 — jogo vs Áustria é crucial para a caminhada (fonte: https://copaamerica.com/en/news/argentina-national-team-fixture-fifa-world-cup-2026)
+- **Próximo jogo:** Argentina vs Áustria em 22/06 em Dallas — expectativa enorme sobre Messi e a seleção campeã; Áustria vem de vitória sólida na R1 e não será passeio.
+
 ## 📅 2026-06-14
 - Argentina estreia contra a Argélia em 16/06, pelo Grupo J — atual campeã mundial, será a sexta Copa de Messi como capitão (fonte: https://www.vietnam.vn/en/world-cup-2026-argentina-chot-doi-hinh-dau-voi-algeria-messi-gap-lai-nhan-vat-dac-biet)
 - Todo o elenco está disponível, com exceção de Tagliafico, que treina separadamente por lesão na panturrilha em 14/06 (fonte: https://www.vietnam.vn/en/world-cup-2026-argentina-chot-doi-hinh-dau-voi-algeria-messi-gap-lai-nhan-vat-dac-biet)

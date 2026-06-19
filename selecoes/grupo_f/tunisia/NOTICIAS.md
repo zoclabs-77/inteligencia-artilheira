@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Tunísia sofreu goleada de 1x5 para a Suécia na estreia; enfrenta o Japão em 21/06 pelo Grupo F — derrota praticamente elimina da Copa (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-holanda-x-suecia-20-06-2026.html)
+- Azarona do grupo, a Tunísia precisa de uma virada improvável para se manter com chances de mata-mata (fonte: https://ndmais.com.br/futebol/grupo-f-da-copa-2026-veja-quem-sao-as-selecoes-da-chave/)
+- **Próximo jogo:** Tunísia vs Japão em 21/06 — matematicamente ainda viva mas praticamente eliminada; vitória abriria janela de esperança.
+
 ## 📅 2026-06-18
 - Tunísia disputa o Grupo F ao lado de Holanda, Suécia e Japão — considerada a azarona do grupo, mas tem capacidade de surpreender (fonte: https://ndmais.com.br/futebol/grupo-f-da-copa-2026-veja-quem-sao-as-selecoes-da-chave/)
 - **Próximo jogo:** Tunísia enfrenta o Japão em 21/06 (domingo) — partida importante para definir a posição no Grupo F, com classificação ainda em aberto.

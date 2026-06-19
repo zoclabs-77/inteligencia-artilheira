@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Uruguai enfrenta Cabo Verde em 21/06 no Hard Rock Stadium, Miami Gardens, às 19h (Brasília); vem do empate 1x1 com a Arábia Saudita na estreia — Maxi Araújo salvou o ponto mas Arrascaeta estava ausente (fonte: https://www.lance.com.br/copa-do-mundo/sem-arrascaeta-uruguai-tropeca-na-estreia-da-copa-do-mundo.html)
+- Arrascaeta é dúvida para o jogo contra Cabo Verde — sua ausência na estreia foi sentida na criação de jogo uruguaia (fonte: https://www.lance.com.br/copa-do-mundo/sem-arrascaeta-uruguai-tropeca-na-estreia-da-copa-do-mundo.html)
+- **Próximo jogo:** Uruguai vs Cabo Verde em 21/06 — com Arrascaeta de volta seria favorito claro; sem ele, enfrenta um adversário que surpreendeu a Espanha com empate na estreia.
+
 ## 📅 2026-06-18
 - **Repercussão:** Uruguai empatou 1x1 com a Arábia Saudita na estreia (15/06) em Miami — Maxi Araújo igualou o gol de Al-Amri; Arrascaeta estava ausente (fonte: https://www.lance.com.br/copa-do-mundo/sem-arrascaeta-uruguai-tropeca-na-estreia-da-copa-do-mundo.html)
 - Darwin Núñez teve atuação fraca — foi facilmente marcado pelos defensores sauditas e saiu no intervalo (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/uruguai-pressiona-no-final-mas-so-empata-contra-arabia-saudita-na-estreia-da-copa-do-mundo-em-miami,97084cd6ab2552d92cd0f00deaa045d74w8svy9v.html)

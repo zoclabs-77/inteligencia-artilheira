@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Holanda enfrenta a Suécia em 20/06 no NRG Stadium, Houston, às 14h (Brasília); ambas têm 1 ponto na tabela — Holanda empatou 2-2 com o Japão na estreia desperdiçando duas vantagens (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-holanda-x-suecia-20-06-26.html)
+- Sem desfalques confirmados; provável escalação: Verbruggen; Dumfries, Van Hecke, Van Dijk, Van de Ven; Gravenberch, Reijnders, Koopmeiners; Malen, Gakpo, Depay (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/holanda-x-suecia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- Suécia é o adversário mais temível do grupo — goleou a Tunísia por 5x1 na estreia; Gyökeres e Isak em grande fase (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-holanda-x-suecia-20-06-2026.html)
+- **Próximo jogo:** Holanda vs Suécia em 20/06 — Laranja Mecânica precisa de vitória para não perder o controle do Grupo F após empate frustrante na estreia.
+
 ## 📅 2026-06-18
 - Holanda é favorita no Grupo F — Memphis Depay chegou à Copa em grande fase, com 8 gols em 8 jogos nas Eliminatórias Europeias (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/palpites-copa-do-mundo-2026-grupo-f-apostas-especiais-dicas-odds-para-holanda-japao-suecia-tunisia-140626-1344.html)
 - Campanha invicta nas Eliminatórias com média de 3 gols por jogo, mas estreia no Grupo F ainda não realizada antes do confronto direto com a Suécia (fonte: https://www.umdoisesportes.com.br/copa-do-mundo/2026/copa-do-mundo-2026-grupo-f-tudo-sobre-o-grupo-da-holanda/)

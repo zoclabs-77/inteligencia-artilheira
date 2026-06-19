@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Canadá venceu o Catar por 6x0 em Vancouver numa noite histórica — primeira vitória do país em Copas do Mundo; gols de Larin (16'), Jonathan David hat-trick (29', 45+3', 90+2'), Saliba (64') e gol contra de Almanai (75') (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/canada-6-x-0-catar-veja-os-melhores-momentos-da-vitoria-historica-na-copa/)
+- Jonathan David fez hat-trick e é artilheiro do torneio com 3 gols; Canadá divide liderança do Grupo B com a Suíça (4 pontos cada) (fonte: https://jornaldebrasilia.com.br/torcida/canada-goleia-catar-6-0-e-fica-a-um-passo-dos-16-avos-de-final-da-copa-de-2026/)
+- Ismaël Koné saiu de maca com lesão grave; Nathan-Dylan Saliba, que o substituiu, marcou e homenageou o companheiro ao levantar sua camisa (fonte: https://bolanarede.pt/especial-bola-na-rede/atualidade/canada-goleia-catar-por-6-0-no-mundial-2026-e-homenageia-da-melhor-maneira-ismael-kone-que-saiu-de-maca-com-uma-grave-lesao/)
+- **Repercussão / Próximo jogo:** Vitória histórica que entrará para os livros; lesão de Koné é a única sombra numa noite de festa. Com 4 pontos, classificação às oitavas praticamente garantida.
+
 ## 📅 2026-06-17
 - Canadá enfrenta o Catar em 18/06 (quinta-feira), pelo Grupo B — após empate histórico (1x1 com Bósnia), precisa da vitória para seguir vivo na competição (fonte: https://www.lance.com.br/copa-do-mundo/veja-o-gol-de-canada-x-bosnia-na-copa-do-mundo.html)
 - Cyle Larin marcou o gol do empate histórico (primeiro ponto do Canadá em Copas); Jonathan David segue como principal esperança ofensiva da equipe de Marsch (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/anfitriao-canada-busca-empate-com-bosnia-e-soma-primeiro-ponto-em-copas/)

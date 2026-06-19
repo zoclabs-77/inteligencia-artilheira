@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Áustria enfrenta a Argentina em 22/06 no AT&T Stadium, Dallas; vem de vitória sólida 3x1 sobre a Jordânia na estreia — gols de Schmid, gol contra e pênalti de Arnautovic (fonte: https://www.ogol.com.br/noticias/2026-06-17-austria-jordania-cronica/1146395)
+- Com 4 vitórias e 1 empate nos últimos 5 jogos (incluindo 1x0 sobre a Tunísia em 01/06), a Áustria chega bem preparada ao duelo com a campeã mundial (fonte: https://www.goal.com/en-us/news/argentina-austria-world-cup-preview/blt540bff692d03f5a1)
+- **Próximo jogo:** Áustria vs Argentina em 22/06 — o maior teste do torneio para a seleção austríaca; vitória seria a maior da história recente do futebol austríaco.
+
 ## 📅 2026-06-18
 - **Repercussão:** Áustria venceu a Jordânia por 3x1 na estreia (17/06) no Levi's Stadium, Santa Clara — gols de Romano Schmid, gol contra de Yazan Al-Arab e pênalti de Arnautovic; Olwan descontou para a Jordânia (fonte: https://www.ogol.com.br/noticias/2026-06-17-austria-jordania-cronica/1146395)
 - Resultado histórico: foi a primeira vitória da Áustria em Copa do Mundo desde 1990 — país voltou ao Mundial após 28 anos de ausência (fonte: https://www.ogol.com.br/noticias/2026-06-17-austria-jordania-cronica/1146395)

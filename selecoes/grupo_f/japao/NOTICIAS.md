@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Japão enfrenta a Tunísia em 21/06 pelo Grupo F; vem do empate 2x2 com a Holanda na estreia — resultado considerado positivo contra um dos favoritos do grupo (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-holanda-x-suecia-20-06-26.html)
+- Samurais Azuis são conhecidos pelas surpresas em Copas — contra a Tunísia terão a missão de confirmar pontuação e se manter vivos na briga pelo mata-mata (fonte: https://jornaldaparaiba.com.br/esportes/copa-do-mundo-2026-selecoes-grupo-f)
+- **Próximo jogo:** Japão vs Tunísia em 21/06 — jogo mais acessível do grupo para o Japão; vitória é praticamente obrigatória para se manter na corrida pelas oitavas.
+
 ## 📅 2026-06-18
 - Japão disputa o Grupo F ao lado de Holanda, Suécia e Tunísia — Samurais Azuis chegam à Copa após campanha sólida nas Eliminatórias Asiáticas (fonte: https://jornaldaparaiba.com.br/esportes/copa-do-mundo-2026-selecoes-grupo-f)
 - **Próximo jogo:** Japão enfrenta a Tunísia em 21/06 (domingo) — jogo que definirá a posição japonesa no Grupo F antes da última rodada.

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Costa do Marfim enfrenta a Alemanha em 20/06 no Toronto Stadium; vem de vitória por 1x0 sobre o Equador na estreia — 4 vitórias internacionais consecutivas (fonte: https://www.goal.com/en-us/news/germany-ivory-coast-world-cup-preview/bltf447b5794f5d1174)
+- Atuais campeões africanos buscam algo inédito: avançar ao mata-mata de um Mundial — vitória sobre a Alemanha seria histórica (fonte: https://www.netflu.com.br/alemanha-x-costa-do-marfim-palpites-prognostico-copa-do-mundo-20-06-2026/)
+- Costa do Marfim é azarão mas chega em boa fase; odd de 6.00 na Betfair reflete o desafio ante a Alemanha (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/alemanha-x-costa-do-marfim---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- **Próximo jogo:** Costa do Marfim vs Alemanha em 20/06 — o maior desafio da Copa para os marfinenses; resultado positivo os colocaria em posição privilegiada no grupo.
+
 ## 📅 2026-06-18
 - Costa do Marfim chega para o duelo com a Alemanha em 20/06 após resultado da 1ª rodada do Grupo E (fonte: https://www.fifa.com/pt/articles/alemanha-costa-do-marfim-previa-jogo-copa-mundo-grupo-e)
 - Provável escalação: Yahia Fofana; Doué, Singo, Agbadou, Konan; Kessié, Seko Fofana, Diakité, Diomande; Diallo e Adingra (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)

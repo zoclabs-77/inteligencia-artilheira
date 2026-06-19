@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Catar sofreu goleada de 0x6 para o Canadá em Vancouver; Mohamed Naceur Almanai marcou gol contra agravando noite negativa (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/canada-goleia-catar-em-jogo-marcado-por-lesao-chocante-e-expulsoes-na-copa/)
+- Com 0 pontos e saldo de -7 após 2 jogos (cedeu 6 ao Canadá e 1 à Suíça), o Catar está eliminado na prática do Grupo B (fonte: https://jornaldebrasilia.com.br/torcida/canada-goleia-catar-6-0-e-fica-a-um-passo-dos-16-avos-de-final-da-copa-de-2026/)
+- **Repercussão / Próximo jogo:** Segundo Mundial consecutivo sem pontuação para o Catar; goleada expõe a fragilidade da seleção quando fora de condições favoráveis como anfitrião em 2022.
+
 ## 📅 2026-06-17
 - Catar enfrenta o Canadá em 18/06 (quinta-feira), pelo Grupo B — gol contra de Khoukhi nos acréscimos garantiu o histórico empate 1x1 com a Suíça na estreia (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/catar-suica-melhores-momentos-resumo-jogo-grupo-b)
 - Resultado é histórico: primeiro ponto da seleção catariana em Copas do Mundo, após perder os 3 jogos em 2022 como anfitrião (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/catar-1-x-1-suica-veja-os-melhores-momentos-do-confronto-da-copa-do-mundo/)

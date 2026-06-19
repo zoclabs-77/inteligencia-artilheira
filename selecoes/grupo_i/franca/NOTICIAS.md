@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- França venceu o Senegal por 3x1 na estreia (16/06) no MetLife Stadium; Mbappé marcou 2 gols — lidera o Grupo I com 3 pontos (fonte: https://www.squawka.com/br/news/franca-x-iraque-palpites-onde-assistir-odds/)
+- Enfrenta o Iraque em 22/06 no Lincoln Financial Field, às 18h (Brasília); Iraque perdeu 1x4 para a Noruega na R1 e tem 0 pontos (fonte: https://www.goal.com/en-us/news/france-iraq-fifa-world-cup-preview/blt7799929ae5686d5d)
+- Campanha impecável nas Eliminatórias: 7 vitórias e 1 empate em 8 jogos, média de 2,38 gols marcados; a França é uma das favoritas ao título (fonte: https://www.ogol.com.br/jogo/2026-06-22-franca-iraque/11832336)
+- **Repercussão / Próximo jogo:** Mbappé em estado de graça com 2 gols na estreia; próximo jogo vs Iraque (22/06) é favorável para ampliar vantagem no grupo e garantir classificação antecipada.
+
 ## 📅 2026-06-14
 - França estreia contra o Senegal em 16/06, às 16h (Brasília), no MetLife Stadium, Nova Jersey, pelo Grupo I (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-franca-x-senegal-16-06-26.html)
 - Escalação provável (4-2-3-1): Maignan; Koundé, Konaté, Saliba e Theo Hernández; Tchouaméni e Kanté; Dembélé, Olise e Mbappé; Doué (fonte: https://mancheteesportiva.com.br/mercado/previsoes-e-escolhas-da-franca-x-senegal-para-a-copa-do-mundo-de-2026/20600/)

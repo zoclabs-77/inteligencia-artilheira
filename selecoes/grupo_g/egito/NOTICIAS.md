@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Egito enfrenta a Nova Zelândia em 21/06 no BC Place, Vancouver; vem do empate 1x1 com a Bélgica na estreia — Salah deu assistência para Emam Ashour marcar, mas Lukaku forçou gol contra que igualou (fonte: https://www.lance.com.br/copa-do-mundo/veja-gols-melhores-momentos-belgica-egito.html)
+- Mohamed Salah foi influente na assistência para o gol; contra a Nova Zelândia, a expectativa é que o craque do Liverpool apareça ainda mais (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16044466/grupo-g-da-copa-do-mundo-2026-o-que-vc-saber-belgica-egito-ira-nova-zelandia)
+- **Próximo jogo:** Egito vs Nova Zelândia em 21/06 — vitória coloca o Egito em boa posição para o mata-mata; derrota complicaria seriamente a campanha de Salah na Copa.
+
 ## 📅 2026-06-18
 - **Repercussão:** Egito empatou 1x1 com a Bélgica na estreia (Grupo G) — Mohamed Salah deu assistência para o gol de Emam Ashour; Lukaku forçou gol contra que empatou (fonte: https://www.lance.com.br/copa-do-mundo/veja-gols-melhores-momentos-belgica-egito.html)
 - Salah foi o grande destaque egípcio — atuou como nunca havia atuado em Copa, circulando pela frente e criando perigo constante (fonte: https://www.vietnam.vn/pt/bang-g-world-cup-2026-lukaku-tao-khac-biet-sau-22-giay-bi-thoat-thua-truoc-ai-cap-trong-ngay-salah-toa-sang)

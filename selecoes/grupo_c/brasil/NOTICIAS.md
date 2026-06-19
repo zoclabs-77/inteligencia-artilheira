@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Dia de jogo: Brasil x Haiti às 21h30 (Brasília) no Lincoln Financial Field, Filadélfia — vitória obrigatória para não deixar a Escócia se distanciar na liderança do Grupo C (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-haiti-escalacoes-horario-onde-assistir)
+- Classificação atual do Grupo C: Escócia 3pts, Brasil 1pt (empate 1-1 com Marrocos em 13/06 com gol de Vini Jr.), Haiti 0pt (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
+- Ancelotti deve escalar: Alisson; Ibañez, Marquinhos, Gabriel Magalhães, Douglas Santos; Casemiro, Bruno Guimarães; Paquetá, Raphinha, Vini Jr.; Igor Thiago — Neymar ainda sem condições de jogo (fonte: https://www.umdoisesportes.com.br/copa-do-mundo/2026/brasil-haiti-escalacao-selecao-brasileira-copa-do-mundo/)
+- **Próximo jogo:** Brasil joga HOJE (19/06) vs Haiti — vitória reconecta o Brasil à disputa pela liderança do Grupo C antes do duelo direto com o Marrocos.
+
 ## 📅 2026-06-18
 - Ancelotti confirmou que Neymar voltou aos treinos mas ainda não tem condições de jogo; Igor Thiago e Endrick disputam a vaga de centroavante titular (fonte: https://www.umdoisesportes.com.br/copa-do-mundo/2026/brasil-haiti-escalacao-selecao-brasileira-copa-do-mundo/)
 - Provável escalação para amanhã: Alisson; Ibañez, Marquinhos, Gabriel Magalhães, Douglas Santos; Casemiro, Bruno Guimarães; Paquetá, Raphinha, Vini Jr.; Igor Thiago (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-haiti-escalacoes-horario-onde-assistir)

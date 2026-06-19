@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Escócia enfrenta o Marrocos hoje pelo Grupo C no Boston Stadium, às 19h (Brasília); lidera o grupo com 3 pontos após vencer o Haiti na estreia (fonte: https://trivela.com.br/apostas/palpites-de-futebol/copa-do-mundo-escocia-x-marrocos-19-06-2026/)
+- Análise tática: Escócia deve priorizar defesa sólida e explorar bolas paradas; Marrocos é favorito (odd 1.70 na Betfair contra 5.50 da Escócia) (fonte: https://mancheteesportiva.com.br/competicoes/previsoes-e-melhores-apostas-escocia-x-marrocos-para-a-copa-do-mundo-de-2026/22431/)
+- Vitória escocesa praticamente garantiria classificação antes da última rodada; mesmo empate deixaria cenário favorável (fonte: https://www.netflu.com.br/escocia-x-marrocos-palpites-prognostico-copa-do-mundo-19-06-2026/)
+- **Repercussão / Próximo jogo:** Escócia joga hoje (19/06) contra Marrocos — enorme oportunidade de antecipar classificação. Defender bem e matar o Marrocos no contra-ataque é a missão do técnico Steve Clarke.
+
 ## 📅 2026-06-18
 - Escócia lidera o Grupo C com 3 pontos após vitória por 1x0 sobre o Haiti na estreia (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)
 - John McGinn declarou que o time tem "mais marchas para subir" após a vitória na estreia (fonte: https://mancheteesportiva.com.br/competicoes/previsoes-e-melhores-apostas-escocia-x-marrocos-para-a-copa-do-mundo-de-2026/22431/)

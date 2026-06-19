@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Espanha enfrenta a Arábia Saudita em 21/06 no Mercedes-Benz Stadium, Atlanta; vindo do empate vergonhoso 0x0 com Cabo Verde na estreia — Marca chamou de "desastre" (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jornais-espanhois-detonam-estreia-da-espanha-na-copa-do-mundo-desastre/)
+- Após frustrante empate na R1, jogo contra a Arábia Saudita vira obrigação para recuperar controle do Grupo H e moral da delegação (fonte: https://observador.pt/prognosticos/espanha-no-mundial/)
+- Campeã europeia ainda tem tempo para se redimir; a qualidade individual da La Roja sugere que foi apenas tropeço pontual (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/spain/fixtures)
+- **Próximo jogo:** Espanha vs Arábia Saudita em 21/06 — jogo de redemption obrigatório; derrota seria catastrófica para a campanha espanhola no Grupo H.
+
 ## 📅 2026-06-18
 - **Repercussão:** Espanha empatou 0x0 com Cabo Verde na estreia (15/06) — a imprensa espanhola chamou de "desastre"; Marca usou exatamente essa palavra na manchete (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jornais-espanhois-detonam-estreia-da-espanha-na-copa-do-mundo-desastre/)
 - Lamine Yamal não começou como titular por estar se recuperando de lesão (sem atuar desde 22/04); entrou no 2º tempo e tentou fazer diferença, mas Espanha não conseguiu furar o bloqueio de Cabo Verde (fonte: https://tmc.com.br/esporte/yamal-reserva-espanha-cabo-verde-copa-2026/)

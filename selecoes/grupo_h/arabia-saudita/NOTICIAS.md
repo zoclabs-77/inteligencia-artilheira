@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Arábia Saudita enfrenta a Espanha em 21/06 no Mercedes-Benz Stadium, Atlanta; vem do empate 1x1 com o Uruguai na estreia — Al-Amri abriu o placar antes de Maxi Araújo empatar (fonte: https://www.vietnam.vn/pt/truc-tiep-world-cup-2026-uruguay-doi-dau-saudi-arabia-tai-bang-h)
+- Espanha, favorita ao título, chega desgastada após polêmico 0x0 com Cabo Verde — Arábia Saudita terá chance de surpreender como fez contra a Argentina em 2022 (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/saudi-arabia/team-news)
+- **Próximo jogo:** Arábia Saudita vs Espanha em 21/06 — jogo em que a seleção árabe pode repetir o papel de "mata-gigante" que adora assumir nas Copas do Mundo.
+
 ## 📅 2026-06-18
 - **Repercussão:** Arábia Saudita empatou 1x1 com o Uruguai na estreia (15/06) — Abdulelah Al-Amri abriu o placar, mas Maxi Araújo empatou para os uruguaios (fonte: https://www.vietnam.vn/pt/truc-tiep-world-cup-2026-uruguay-doi-dau-saudi-arabia-tai-bang-h)
 - Sauditas surpreenderam com boa organização tática e quase conquistaram 3 pontos diante de um Uruguai sem Arrascaeta (fonte: https://www.infomoney.com.br/esportes/jogo-arabia-saudita-uruguai-copa-2026/)

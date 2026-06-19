@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Iraque perdeu por 1x4 para a Noruega na estreia (16/06), com Haaland marcando 2 gols — 0 pontos e saldo de -3 na lanterna do Grupo I (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/haaland-brilha-e-noruega-estreia-com-vitoria-sobre-o-iraque-na-copa/)
+- Enfrenta a França em 22/06 no Lincoln Financial Field; Os Leões da Mesopotâmia precisam de milagre para sair da lanterna do grupo (fonte: https://www.squawka.com/br/news/franca-x-iraque-palpites-onde-assistir-odds/)
+- **Repercussão / Próximo jogo:** Derrota pesada para a Noruega expôs as limitações técnicas do Iraque frente às potências europeias; jogo contra a França promete ser ainda mais difícil.
+
 ## 📅 2026-06-14
 - Iraque estreia contra a Noruega em 16/06, às 19h (Brasília), no Gillette Stadium, Boston, pelo Grupo I (fonte: https://www.ogol.com.br/jogo/2026-06-16-iraque-noruega/11832341)
 - Escalação prevista (4-2-3-1): Hassan; Hussein Ali, Sulaka, Tahseen, Doski; Al-Ammari, Bayesh; Ali Jasim, Iqbal, Amyn; Aymen Hussein (fonte: https://www.ogol.com.br/jogo/2026-06-16-iraque-noruega/11832341)

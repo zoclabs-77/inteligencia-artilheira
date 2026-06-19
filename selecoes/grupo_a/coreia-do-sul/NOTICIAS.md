@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Coreia do Sul perdeu por 0x1 para o México em Guadalajara; derrota provocada por falha fatal do goleiro Kim Seung-Gyu, que escorregou ao sair do gol e deixou Romo marcar (fonte: https://www.espn.com/soccer/match/_/gameId/760441/south-korea-mexico)
+- Com 1 ponto em 2 jogos, a Coreia depende de resultados externos para avançar ao mata-mata — situação delicada no Grupo A (fonte: https://theanalyst.com/articles/mexico-vs-south-korea-stats-world-cup-2026-live)
+- CNN Brasil aponta crise interna relacionada à estrela da delegação sul-coreana, somando pressão extra à equipe antes da última rodada (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/coreia-do-sul-busca-segunda-vitoria-na-copa-em-meio-a-crise-com-sua-estrela/)
+- **Repercussão / Próximo jogo:** Goleiro Kim Seung-Gyu em xeque após falha decisiva; possível crise com Son Heung-min adiciona tensão interna. Última rodada será "vida ou morte" para a Coreia do Sul.
+
 ## 📅 2026-06-17
 - Coreia do Sul enfrenta o México em 18/06 (quinta-feira), às 22h (Brasília), no Estádio Akron em Guadalajara — decisão para o Grupo A (fonte: https://www.365scores.com/pt-br/news/magazine/mexico-x-coreia-sul-copa-do-mundo/)
 - Vitória sobre a Tchéquia (2x1, de virada) destacou a resistência da equipe: goleiro Kim Seunggyu fez duas defesas decisivas no final do jogo; Hwang In-Beom marcou o gol da virada com golaço (fonte: https://www.infomoney.com.br/esportes/jogo-coreia-do-sul-tchequia-copa-2026/)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Cabo Verde enfrenta o Uruguai em 21/06 no Hard Rock Stadium, Miami Gardens; vem do histórico empate 0x0 com a Espanha na estreia — 1 ponto histórico na conta (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/historico-cabo-verde-segura-espanha-em-estreia-da-copa-do-mundo/)
+- Após impor dificuldades à Espanha, Cabo Verde enfrenta o Uruguai como azarão mas com moral elevada — pode repetir o papel de zebra (fonte: https://ndmais.com.br/futebol/grupo-h-da-copa-2026-espanha-e-uruguai-duelam-por-lideranca-da-chave/)
+- **Próximo jogo:** Cabo Verde vs Uruguai em 21/06 — saiu do jogo contra a Espanha como revelação da Copa; contra o Uruguai precisa repetir a solidez defensiva para sonhar com o mata-mata.
+
 ## 📅 2026-06-18
 - **Repercussão:** Cabo Verde fez história ao empatar 0x0 com a Espanha na estreia (15/06) — resultado histórico para a seleção africana, que somou 1 ponto na Copa por primeira vez (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/historico-cabo-verde-segura-espanha-em-estreia-da-copa-do-mundo/)
 - Organização defensiva excepcional — bloqueou o ataque espanhol que tem Yamal e Pedri — durante os 90 minutos (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/espanha-cabo-verde-melhores-momentos-resumo-jogo-grupo-h)

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Paraguai enfrenta a Turquia em 20/06 no Levi's Stadium, São Francisco, às 0h (Brasília); ambas sem pontos após a 1ª rodada — jogo é eliminar-ou-ser-eliminado (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-turquia-x-paraguai-20-06-2026.html)
+- Desfalques confirmados: Ramón Sosa e Gustavo Caballero estão lesionados e fora da Copa (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-de-turkiye-x-paraguai-previa-da-partida-da-copa-do-mundo-de-2026/23635/)
+- Provável escalação: Gill; Cáceres, G. Gómez, Alderete, Alonso; Bobadilla, Cubas, D. Gómez, Almirón; Mauricio, Enciso — técnico Gustavo Alfaro (fonte: https://www.lance.com.br/onde-assistir/turquia-x-paraguai-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-mundo.html)
+- **Próximo jogo:** Paraguai vs Turquia em 20/06 — sem as duas principais referências ofensivas e vindo de goleada, a tarefa é resgatar o mínimo de esperança na Copa.
+
 ## 📅 2026-06-18
 - Paraguai foi goleado pelos EUA por 1x4 na estreia do Grupo D — derrota pesada que deixa a seleção sul-americana na lanterna do grupo (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
 - Os EUA marcaram 4 gols — a maior goleada da história americana em Copas — situação difícil para o Paraguai que já sofreu 4 gols na estreia (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)

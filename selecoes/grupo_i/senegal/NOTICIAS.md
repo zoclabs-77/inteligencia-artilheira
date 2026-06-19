@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Senegal perdeu para a França por 1x3 na estreia (16/06); Mbappé foi o protagonista com 2 gols — 0 pontos e saldo de -2 no Grupo I (fonte: https://www.squawka.com/br/news/franca-x-iraque-palpites-onde-assistir-odds/)
+- Enfrenta a Noruega em 22/06 em Nova Jersey, às 21h — duelo decisivo contra uma equipe que goleou o Iraque por 4x1 com Haaland inspirado (fonte: https://espndeportes.espn.com/futbol/partido/_/juegoId/760454/senegal-norway)
+- **Repercussão / Próximo jogo:** Derrota para a França expõe o Senegal sem sua melhor versão; contra a Noruega e Haaland a tarefa será ainda mais difícil — mas a Copa pode surpreender.
+
 ## 📅 2026-06-14
 - Senegal estreia contra a França em 16/06, às 16h (Brasília), no MetLife Stadium, Nova Jersey, pelo Grupo I (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-franca-x-senegal-16-06-26.html)
 - Técnico Hervé Renard reforça que o elenco "só fala do jogo de 2002" — histórica vitória sobre a França na abertura daquela Copa (fonte: https://pt.soccerway.com/noticias/futebol-campeonato-do-mundo-mundial-2026-senegal-so-fala-do-jogo-de-2002-contra-a-franca-garante-herve-renard/dx9F8xAD)

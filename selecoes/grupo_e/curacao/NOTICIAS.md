@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Curaçao enfrenta o Equador em 20/06 no Arrowhead Stadium, Kansas City — estreante na Copa, busca primeira pontuação após goleada de 1x7 sofrida para a Alemanha (fonte: https://www.goal.com/en/news/ecuador-curacao-world-cup-preview/bltf1db9902de34c7ea)
+- Primeira Copa da história do país caribenho; resultado contra a Alemanha foi devastador mas o grupo acredita que pode competir contra o Equador (fonte: https://www.sportsmole.co.uk/football/ecuador/world-cup-2026/preview/ecuador-vs-curacao-prediction-team-news-lineups_599563.html)
+- **Próximo jogo:** Curaçao vs Equador em 20/06 — matematicamente ainda com chances remotas, mas a vitória é praticamente impossível segundo as prévias.
+
 ## 📅 2026-06-18
 - Curaçao sofreu goleada histórica de 1x7 para a Alemanha na estreia do Grupo E — primeira Copa do Mundo da história do país caribenho (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)
 - Apesar da goleada, o fato de marcar 1 gol contra a Alemanha foi comemorado como um marco para o futebol de Curaçao (fonte: https://www.meutimao.com.br/apostas/palpites/alemanha-x-costa-do-marfim-copa-do-mundo-20062026)

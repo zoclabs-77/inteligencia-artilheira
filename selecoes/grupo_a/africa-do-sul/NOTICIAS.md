@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- África do Sul conquistou seu primeiro ponto na Copa 2026 ao empatar 1x1 com a Tchéquia em Atlanta; Mokoena marcou de pênalti nos acréscimos — gol inaugural da seleção no torneio (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tchequia-e-africa-do-sul-empatam-e-seguem-sem-vencer-na-copa-do-mundo/)
+- Reação emocional da delegação evocou a magia de Tshabalala em 2010; retorno ao Mundial após 16 anos de ausência consolida dignidade da seleção (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/tshabalala-reacao-gol-africa-do-sul-tchequia)
+- Soma 1 ponto e está em 4º do Grupo A, ainda matematicamente viva — última rodada exige vitória (fonte: https://ndmais.com.br/futebol/tchequia-e-africa-do-sul-empatam-e-seguem-vivos-na-copa/)
+- **Repercussão / Próximo jogo:** Pênalti arrancado no finalzinho energizou a torcida; primeiro gol sul-africano da Copa celebrado como vitória moral. Classificação ainda possível mas depende de vitória e combinação de resultados na última rodada.
+
 ## 📅 2026-06-17
 - África do Sul enfrenta a Tchéquia em 18/06 (quinta-feira), pelo Grupo A — derrota por 0x2 para o México na estreia complica o início (fonte: https://www.goal.com/en-us/news/czech-republic-south-africa-world-cup-preview/blt2698eb3974683720)
 - Sphephelo Sithole e Themba Zwane foram expulsos na estreia contra o México — ambos estarão suspensos contra a Tchéquia, abrindo duas vagas obrigatórias no time titular (fonte: https://www.goal.com/en-us/news/czech-republic-south-africa-world-cup-preview/blt2698eb3974683720)

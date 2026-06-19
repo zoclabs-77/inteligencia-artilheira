@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Equador perdeu por 0x1 para a Costa do Marfim na estreia; enfrenta Curaçao em 20/06 no Arrowhead Stadium, Kansas City — jogo que precisa vencer para se manter vivo no Grupo E (fonte: https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/ecuador-v-curacao-predictions)
+- Destaques do elenco: Pacho (PSG) e Piero Hincapie (Arsenal) na defesa; Moisés Caicedo (Chelsea) no meio-campo — base de jogadores do futebol europeu de ponta (fonte: https://www.sportsmole.co.uk/football/ecuador/world-cup-2026/preview/ecuador-vs-curacao-prediction-team-news-lineups_599563.html)
+- Primeiro encontro histórico entre Equador e Curaçao em qualquer nível de competição (fonte: https://www.goal.com/en/news/ecuador-curacao-world-cup-preview/bltf1db9902de34c7ea)
+- **Próximo jogo:** Equador vs Curaçao em 20/06 — vitória praticamente obrigatória; derrota significaria eliminação com rodada de antecedência.
+
 ## 📅 2026-06-18
 - Equador estreou no Grupo E na 1ª rodada e agora enfrenta o Curaçao na 2ª em 20/06 — partida que pode consolidar sua posição no grupo (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-alemanha-x-costa-do-marfim-20-06-26.html)
 - Equador é co-favorito com a Alemanha no Grupo E — elenco experiente com jogadores atuando nas principais ligas europeias (fonte: https://www.goal.com/en-us/news/germany-ivory-coast-world-cup-preview/bltf447b5794f5d1174)

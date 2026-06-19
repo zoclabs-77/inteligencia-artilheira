@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Suécia enfrenta a Holanda em 20/06 no NRG Stadium, Houston, às 14h (Brasília); vem embalada pela goleada de 5x1 sobre a Tunísia na estreia — exibição dominante (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-holanda-x-suecia-20-06-2026.html)
+- Viktor Gyökeres (Sporting) e Alexander Isak (Newcastle) são a dupla de ataque mais perigosa da Copa até agora — dois dos atacantes mais produtivos da Europa (fonte: https://www.meutimao.com.br/apostas/palpites/holanda-x-suecia-copa-do-mundo-20062026)
+- Gudmundsson é dúvida para o jogo após sair lesionado na estreia (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/holanda-x-suecia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)
+- **Próximo jogo:** Suécia vs Holanda em 20/06 — vitória consolidaria liderança do Grupo F e tornaria a classificação quase certa antes da última rodada.
+
 ## 📅 2026-06-18
 - Suécia chega ao confronto com a Holanda apostando na dupla letal Viktor Gyökeres (Sporting) e Alexander Isak (Newcastle) — os dois são dos atacantes mais produtivos do futebol europeu (fonte: https://www.meutimao.com.br/apostas/palpites/holanda-x-suecia-copa-do-mundo-20062026)
 - Holanda tem vantagem histórica: 11 vitórias contra 8 da Suécia em confrontos diretos (fonte: https://www.terra.com.br/esportes/futebol/holanda-e-suecia-favoritas-grupo-f-promete-surpresas-e-equilibrio-ate-o-fim-veja,3fac3c58e244f1473dc311b605e6cc4fcthlusro.html)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-19
+- Austrália enfrenta os EUA hoje no Lumen Field pelo Grupo D — duelo de líderes, ambas com 3 pontos; Mohamed Touré é dúvida com lesão (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/estados-unidos-australia-copa-2026/)
+- Austrália vem embalada pela vitória 2-0 sobre a Turquia na estreia — resultado que surpreendeu a maioria das análises (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-eua-x-australia-19-06-2026.html)
+- **Repercussão / Próximo jogo:** Austrália joga hoje (19/06) contra os EUA — chance real de classificação antecipada. Touré lesionado pode mexer no equilíbrio do meio-campo.
+
 ## 📅 2026-06-18
 - Austrália surpreendeu com vitória 2x0 sobre a Turquia na estreia do Grupo D, dividindo a liderança com os EUA (fonte: https://espndeportes.espn.com/futbol/partido/_/juegoId/760442/australia-estados-unidos)
 - Socceroos chegam confiantes para o duelo com os donos da casa em Seattle; casas de apostas cotam vitória australiana a 5.00 (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)

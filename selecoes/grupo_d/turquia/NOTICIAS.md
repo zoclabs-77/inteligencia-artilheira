@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Turquia enfrenta o Paraguai em 20/06 no Levi's Stadium, São Francisco, às 0h (Brasília); após derrota surpreendente para a Austrália por 0x2 na estreia, o jogo é obrigatório (fonte: https://www.lance.com.br/onde-assistir/turquia-x-paraguai-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-mundo.html)
+- Provável escalação: Cakir; Çelik, Demiral, Bardakci, Kadioglu; Calhanoglu, Yuksek, Guler; Yilmaz, Kökçü, Akturkoglu — técnico Vincenzo Montella (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-turquia-x-paraguai-20-06-2026.html)
+- Arda Guler é a grande esperança ofensiva da Turquia para virar o jogo — estrela do Real Madrid busca seu momento na Copa (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-de-turkiye-x-paraguai-previa-da-partida-da-copa-do-mundo-de-2026/23635/)
+- **Próximo jogo:** Turquia x Paraguai em 20/06 — dois times sem pontos que precisam de vitória; Arda Guler será o foco de qualquer reação turca.
+
 ## 📅 2026-06-18
 - Turquia perdeu para a Austrália por 0x2 na estreia do Grupo D — resultado surpreendente para a seleção europeia (fonte: https://espndeportes.espn.com/futbol/partido/_/juegoId/760442/australia-estados-unidos)
 - Com zero pontos na 1ª rodada, jogo contra o Paraguai em 20/06 é praticamente obrigatório — derrota compromete seriamente a classificação (fonte: https://www.dazn.com/pt-BR/news/futebol/jogos-da-copa-do-mundo-de-2026-calendario-horarios-e-locais-para-cada-selecao/1w95edqraimb91tbq0qw9ng6d0)

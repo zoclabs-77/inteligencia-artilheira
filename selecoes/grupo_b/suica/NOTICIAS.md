@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- Suíça goleou a Bósnia por 4x1 em Los Angeles e assumiu a liderança do Grupo B com 4 pontos; destaques do banco: Manzambi (2 gols) e Ruben Vargas (1 gol); Xhaka fechou de pênalti (fonte: https://www.terra.com.br/esportes/futebol/copa-do-mundo-2026-suica-goleia-bosnia-e-se-aproxima-de-classificacao-ao-mata-mata,a2603c647fd8355808bb166470d18e6cu87hv2x1.html)
+- Reservas decidiram o jogo: Manzambi e Vargas vieram do banco e foram os grandes artilheiros — demonstração de profundidade do elenco suíço (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/suica-bosnia-herzegovina-melhores-momentos-resumo-grupo-b)
+- Suíça lidera o Grupo B com 4 pontos (Canadá tem os mesmos pontos mas pior saldo) e encaminha classificação às oitavas (fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760439/bosnia-e-herzegovina-suica)
+- **Repercussão / Próximo jogo:** Vitória convincente com goleada demonstra amplitude do elenco suíço; próxima rodada pode confirmar classificação antecipada. Candidata real ao mata-mata.
+
 ## 📅 2026-06-17
 - Suíça enfrenta a Bósnia em 18/06 (quinta-feira), pelo Grupo B — após empate sofrido (1x1 com o Catar nos acréscimos), precisa de vitória para retomar o caminho (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)
 - Escalação provável: Kobel; Widmer, Akanji, Elvedi, Rodríguez; Freuler, Xhaka; Ndoye, Manzambi, Aebischer; Embolo — Breel Embolo marcou na estreia, mas gol contra de Khoukhi nos acréscimos roubou a vitória (fonte: https://www.365scores.com/pt-br/news/magazine/catar-x-suica-escalacoes-analise-copa/)

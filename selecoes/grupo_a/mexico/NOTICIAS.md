@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-19
+- México venceu a Coreia do Sul por 1x0 em Guadalajara e se tornou a primeira seleção classificada ao mata-mata da Copa 2026 — 6 pontos em 2 jogos, liderança do Grupo A assegurada (fonte: https://www.espn.com/soccer/match/_/gameId/760441/south-korea-mexico)
+- Gol de Luis Romo aos 50', aproveitando falha catastrófica do goleiro Kim Seung-Gyu que escorregou ao tentar sair do gol (fonte: https://theanalyst.com/articles/mexico-vs-south-korea-stats-world-cup-2026-live)
+- NBC Sports: "El Tri clinch Group A at World Cup thanks to gifted goal" — classificação festejada como conquista histórica para o México como anfitrião (fonte: https://www.nbcsports.com/soccer/live/mexico-vs-south-korea-live-updates-score-goals-highlights-stats-2026-fifa-world-cup-june-x)
+- **Repercussão / Próximo jogo:** Torcida azteca em festa total; México primeiro classificado da Copa 2026 e aguarda adversário das oitavas. Momento mais celebrado pelo país anfitrião até agora.
+
 ## 📅 2026-06-17
 - México enfrenta a Coreia do Sul em 18/06 (quinta-feira), às 22h (Brasília), no Estádio Akron em Guadalajara — vitória consolida a liderança do Grupo A (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/mexico-x-coreia-do-sul-escalacoes-estao-definidas-para-jogo-da-copa-202606111520)
 - Escalação confirmada: Raúl Rangel; Jorge Sánchez, Edson Álvarez, Johan Vásquez e Jesús Gallardo; Erik Lira; Roberto Alvarado, Álvaro Fidalgo, Brian Gutiérrez e Julián Quiñones; Raúl Jiménez — técnico Javier Aguirre (fonte: https://tips.gg/pt/article/mexico-south-korea-predicted-lineups-story/)
