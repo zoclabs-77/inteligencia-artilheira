@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- EUA venceram a Austrália por 2x0 no Lumen Field, Seattle, com gol contra de Cameron Burgess e gol de Alex Freeman (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/estados-unidos-2-x-0-australia-veja-os-melhores-momentos-do-jogo-da-copa/)
+- Folarin Balogun avançou pela esquerda e cruzou rasteiro, gerando o desvio infeliz de Burgess que abriu o placar (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289273/400021462)
+- **Repercussão / Próximo jogo:** Com 6 pontos, os EUA garantiram classificação matemática às oitavas com uma rodada de antecedência e se consolidam como possível zebra do torneio sob Pochettino.
+
 ## 📅 2026-06-19
 - EUA enfrenta a Austrália hoje pelo Grupo D no Lumen Field; ambas somam 3 pontos após vencerem na 1ª rodada — confronto direto decide quem se classifica antecipadamente (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/estados-unidos-australia-copa-2026/)
 - Christian Pulisic é dúvida com dores na panturrilha; provável escalação (3-4-2-1): Freese; Richards, Ream, Robinson; Dest, Adams, Tillman, Freeman; McKennie, Pulisic; Balogun (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-australia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)

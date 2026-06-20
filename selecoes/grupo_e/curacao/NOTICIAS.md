@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Curaçao enfrenta o Equador mais tarde hoje (20/06), no Arrowhead Stadium, Kansas City, pela 2ª rodada do Grupo E (fonte: https://www.goal.com/en-us/news/ecuador-curacao-world-cup-preview/bltf1db9902de34c7ea)
+- Escalação prevista, sob comando do técnico Dick Advocaat: Room; Floranus, Bazoer, Obispo, Fonville; Comenencia, Bacuna, Juninho Bacuna, Chong; Hansen, Locadia (fonte: https://www.goal.com/en-us/news/ecuador-curacao-world-cup-preview/bltf1db9902de34c7ea)
+- **Próximo jogo:** Curaçao vs Equador hoje (20/06) — primeiro confronto direto da história entre as seleções; estreante na Copa busca reagir após a goleada sofrida da Alemanha.
+
 ## 📅 2026-06-19
 - Curaçao enfrenta o Equador em 20/06 no Arrowhead Stadium, Kansas City — estreante na Copa, busca primeira pontuação após goleada de 1x7 sofrida para a Alemanha (fonte: https://www.goal.com/en/news/ecuador-curacao-world-cup-preview/bltf1db9902de34c7ea)
 - Primeira Copa da história do país caribenho; resultado contra a Alemanha foi devastador mas o grupo acredita que pode competir contra o Equador (fonte: https://www.sportsmole.co.uk/football/ecuador/world-cup-2026/preview/ecuador-vs-curacao-prediction-team-news-lineups_599563.html)

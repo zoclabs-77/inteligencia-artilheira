@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Argentina enfrenta a Áustria em 22/06, no AT&T Stadium, Dallas, pela 2ª rodada do Grupo J (fonte: https://br.bolavip.com/copa-do-mundo/argentina-cogita-mudancas-na-escalacao-apos-vitoria-na-estreia-da-copa-do-mundo)
+- Scaloni estuda mudanças após o hat-trick de Messi na vitória da estreia: Julián Álvarez, recuperado de dores no tornozelo, ganha a titularidade, e Molina deve entrar na lateral no lugar de Montiel (fonte: https://br.bolavip.com/copa-do-mundo/argentina-cogita-mudancas-na-escalacao-apos-vitoria-na-estreia-da-copa-do-mundo)
+- **Próximo jogo:** Argentina vs Áustria em 22/06 — favorita ao título mira manter 100% de aproveitamento; Áustria chega forte após vitória de virada na estreia.
+
 ## 📅 2026-06-19
 - Argentina enfrenta a Áustria em 22/06 no AT&T Stadium, Dallas; atual campeã mundial chega ao jogo na 2ª rodada do Grupo J com Messi como capitão em sua 6ª Copa (fonte: https://www.goal.com/en-us/news/argentina-austria-world-cup-preview/blt540bff692d03f5a1)
 - Chega em excelente forma pré-Copa: 5 vitórias consecutivas, 12 gols marcados e apenas 1 sofrido, com último amistoso 3x0 sobre a Islândia em 10/06 (fonte: https://www.goal.com/en-us/news/argentina-austria-world-cup-preview/blt540bff692d03f5a1)

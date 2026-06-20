@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Escócia perdeu por 0x1 para o Marrocos no Gillette Stadium, em Boston, gol mais rápido da Copa até agora (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/grupo-do-brasil-marrocos-vence-escocia-com-gol-mais-rapido-da-copa/)
+- Saibari abriu o placar aos 73 segundos, após lançamento de Brahim Díaz — Escócia não conseguiu reverter e se fechou na defesa o resto do jogo (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/escocia-marrocos-melhores-momentos-resumo-jogo-grupo-c)
+- **Repercussão / Próximo jogo:** Primeira derrota na Copa tira a Escócia da liderança isolada do Grupo C; Brasil e Marrocos agora dividem a ponta após vencerem suas rodadas, aumentando a pressão para a última rodada.
+
 ## 📅 2026-06-19
 - Escócia enfrenta o Marrocos hoje pelo Grupo C no Boston Stadium, às 19h (Brasília); lidera o grupo com 3 pontos após vencer o Haiti na estreia (fonte: https://trivela.com.br/apostas/palpites-de-futebol/copa-do-mundo-escocia-x-marrocos-19-06-2026/)
 - Análise tática: Escócia deve priorizar defesa sólida e explorar bolas paradas; Marrocos é favorito (odd 1.70 na Betfair contra 5.50 da Escócia) (fonte: https://mancheteesportiva.com.br/competicoes/previsoes-e-melhores-apostas-escocia-x-marrocos-para-a-copa-do-mundo-de-2026/22431/)

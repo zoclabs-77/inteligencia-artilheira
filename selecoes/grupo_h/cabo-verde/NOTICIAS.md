@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Cabo Verde enfrenta o Uruguai em 21/06, no Hard Rock Stadium, Miami, pela 2ª rodada do Grupo H (fonte: https://www.365scores.com/pt-br/news/magazine/uruguai-x-cabo-verde-escalacoes-copa/)
+- Escalação prevista (4-1-4-1): Vozinha; Sidny Lopes Cabral, Diney, Pico, Steven Moreira; Kevin Pina; Jovane Cabral, Jamiro Monteiro, Laros Duarte, Ryan Mendes; Dailon Livramento (fonte: https://www.365scores.com/pt-br/news/magazine/uruguai-x-cabo-verde-escalacoes-copa/)
+- **Próximo jogo:** Cabo Verde vs Uruguai em 21/06 — após o empate histórico com a Espanha, time tenta repetir a solidez defensiva (com Vozinha em destaque) contra outro gigante sul-americano.
+
 ## 📅 2026-06-19
 - Cabo Verde enfrenta o Uruguai em 21/06 no Hard Rock Stadium, Miami Gardens; vem do histórico empate 0x0 com a Espanha na estreia — 1 ponto histórico na conta (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/historico-cabo-verde-segura-espanha-em-estreia-da-copa-do-mundo/)
 - Após impor dificuldades à Espanha, Cabo Verde enfrenta o Uruguai como azarão mas com moral elevada — pode repetir o papel de zebra (fonte: https://ndmais.com.br/futebol/grupo-h-da-copa-2026-espanha-e-uruguai-duelam-por-lideranca-da-chave/)

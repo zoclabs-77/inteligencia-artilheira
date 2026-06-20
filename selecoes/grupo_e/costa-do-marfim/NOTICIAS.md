@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Costa do Marfim enfrenta a Alemanha mais tarde hoje (20/06), no Toronto Stadium, pela 2ª rodada do Grupo E — vencedor garante vaga antecipada nas oitavas (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)
+- Escalação prevista (4-4-2): Yahia Fofana; Doué, Singo, Agbadou, Konan; Kessié, Seko Fofana, Diakité, Diomande; Diallo, Adingra (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)
+- **Próximo jogo:** Costa do Marfim vs Alemanha hoje (20/06) — atuais campeões africanos, vindos de vitória sobre o Equador na estreia, buscam feito inédito ao bater uma favorita europeia.
+
 ## 📅 2026-06-19
 - Costa do Marfim enfrenta a Alemanha em 20/06 no Toronto Stadium; vem de vitória por 1x0 sobre o Equador na estreia — 4 vitórias internacionais consecutivas (fonte: https://www.goal.com/en-us/news/germany-ivory-coast-world-cup-preview/bltf447b5794f5d1174)
 - Atuais campeões africanos buscam algo inédito: avançar ao mata-mata de um Mundial — vitória sobre a Alemanha seria histórica (fonte: https://www.netflu.com.br/alemanha-x-costa-do-marfim-palpites-prognostico-copa-do-mundo-20-06-2026/)

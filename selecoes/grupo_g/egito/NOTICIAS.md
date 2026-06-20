@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Egito enfrenta a Nova Zelândia em 21/06, no BC Place, Vancouver, pela 2ª rodada do Grupo G — jogo decisivo entre equipes empatadas com 1 ponto (fonte: https://trivela.com.br/copa-do-mundo/grupo-g-2026-belgica-egito-ira-nova-zelandia/)
+- Escalação prevista, sob comando de Hossam Hassan: Oufa; Hany, Ibrahim, Fathy, Fatouh; Ateya, Lasheen; Salah, Ashour, Ziko; Marmoush (fonte: https://trivela.com.br/copa-do-mundo/grupo-g-2026-belgica-egito-ira-nova-zelandia/)
+- **Próximo jogo:** Egito vs Nova Zelândia em 21/06 — Mohamed Salah, autor da assistência do gol egípcio contra a Bélgica, é esperado como protagonista novamente.
+
 ## 📅 2026-06-19
 - Egito enfrenta a Nova Zelândia em 21/06 no BC Place, Vancouver; vem do empate 1x1 com a Bélgica na estreia — Salah deu assistência para Emam Ashour marcar, mas Lukaku forçou gol contra que igualou (fonte: https://www.lance.com.br/copa-do-mundo/veja-gols-melhores-momentos-belgica-egito.html)
 - Mohamed Salah foi influente na assistência para o gol; contra a Nova Zelândia, a expectativa é que o craque do Liverpool apareça ainda mais (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16044466/grupo-g-da-copa-do-mundo-2026-o-que-vc-saber-belgica-egito-ira-nova-zelandia)

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-20
+- Brasil venceu o Haiti por 3x0 no Lincoln Financial Field, com todos os gols no 1º tempo; resultado garante a liderança do Grupo C (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/brasil-haiti-melhores-momentos-resumo-jogo-grupo-c)
+- Matheus Cunha foi o destaque absoluto com 2 gols; Vini Jr. completou o placar e ainda deu assistência (fonte: https://www.goal.com/br/listas/notas-jogadores-brasil-contra-haiti-matheus-cunha-decide-assegura-vaga-segunda-fase-copa-mundo-2026/blt3791784f863ec497)
+- Raphinha saiu lesionado ainda no 1º tempo, gerando preocupação; Endrick entrou e até marcou, mas o gol foi anulado por impedimento (fonte: https://trivela.com.br/copa-do-mundo/brasil-3x0-haiti-expor-maiores-qualidades/)
+- **Repercussão / Próximo jogo:** Vitória tranquila reconecta o Brasil à liderança do Grupo C antes do confronto direto com o Marrocos, que também venceu sua rodada — lesão de Raphinha é o ponto de atenção para a sequência.
+
 ## 📅 2026-06-19
 - Dia de jogo: Brasil x Haiti às 21h30 (Brasília) no Lincoln Financial Field, Filadélfia — vitória obrigatória para não deixar a Escócia se distanciar na liderança do Grupo C (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-haiti-escalacoes-horario-onde-assistir)
 - Classificação atual do Grupo C: Escócia 3pts, Brasil 1pt (empate 1-1 com Marrocos em 13/06 com gol de Vini Jr.), Haiti 0pt (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/)

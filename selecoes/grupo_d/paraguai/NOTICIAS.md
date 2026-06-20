@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Paraguai enfrenta a Turquia mais tarde hoje (20/06), no Levi's Stadium, Santa Clara, pela 2ª rodada do Grupo D — duelo direto entre as duas seleções que perderam na estreia (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-20/turquia-vs-paraguai)
+- Provável escalação: Gill; Cáceres, Gustavo Gómez, Alderete, Júnior Alonso; Cubas, Diego Gómez, Almirón, Galarza; Enciso, Pitta — técnico Gustavo Alfaro (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-20/turquia-vs-paraguai)
+- **Próximo jogo:** Paraguai vs Turquia hoje (20/06) — jogo eliminar-ou-ser-eliminado no Grupo D, ambas precisando reagir após a derrota na 1ª rodada.
+
 ## 📅 2026-06-19
 - Paraguai enfrenta a Turquia em 20/06 no Levi's Stadium, São Francisco, às 0h (Brasília); ambas sem pontos após a 1ª rodada — jogo é eliminar-ou-ser-eliminado (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-turquia-x-paraguai-20-06-2026.html)
 - Desfalques confirmados: Ramón Sosa e Gustavo Caballero estão lesionados e fora da Copa (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-de-turkiye-x-paraguai-previa-da-partida-da-copa-do-mundo-de-2026/23635/)

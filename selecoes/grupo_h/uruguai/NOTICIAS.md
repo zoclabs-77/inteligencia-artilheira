@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Uruguai enfrenta Cabo Verde em 21/06, no Hard Rock Stadium, Miami, pela 2ª rodada do Grupo H (fonte: https://www.365scores.com/pt-br/news/magazine/uruguai-x-cabo-verde-escalacoes-copa/)
+- Escalação prevista (4-4-2): Fernando Muslera; Guillermo Varela, Sebastián Cáceres, Mathías Olivera, Matías Viña; Federico Valverde, Manuel Ugarte, Rodrigo Bentancur, Maximiliano Araújo; Federico Viñas, Darwin Núñez (fonte: https://www.365scores.com/pt-br/news/magazine/uruguai-x-cabo-verde-escalacoes-copa/)
+- **Próximo jogo:** Uruguai vs Cabo Verde em 21/06 — celeste precisa vencer para não chegar pressionada ao duelo final contra a Espanha.
+
 ## 📅 2026-06-19
 - Uruguai enfrenta Cabo Verde em 21/06 no Hard Rock Stadium, Miami Gardens, às 19h (Brasília); vem do empate 1x1 com a Arábia Saudita na estreia — Maxi Araújo salvou o ponto mas Arrascaeta estava ausente (fonte: https://www.lance.com.br/copa-do-mundo/sem-arrascaeta-uruguai-tropeca-na-estreia-da-copa-do-mundo.html)
 - Arrascaeta é dúvida para o jogo contra Cabo Verde — sua ausência na estreia foi sentida na criação de jogo uruguaia (fonte: https://www.lance.com.br/copa-do-mundo/sem-arrascaeta-uruguai-tropeca-na-estreia-da-copa-do-mundo.html)

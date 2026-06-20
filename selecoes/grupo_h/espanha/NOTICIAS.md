@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Espanha enfrenta a Arábia Saudita em 21/06, no Mercedes-Benz Stadium, Atlanta, pela 2ª rodada do Grupo H (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
+- Escalação prevista: Unai Simón; Llorente, Cubarsí, Laporte, Cucurella; Rodri, Pedri, Dani Olmo; Lamine Yamal, Ferrán Torres, Oyarzabal (fonte: https://www.365scores.com/pt-br/news/magazine/espanha-x-arabia-saudita-escalacoes-analise/)
+- **Próximo jogo:** Espanha vs Arábia Saudita em 21/06 — após o 0x0 frustrante com Cabo Verde, La Roja precisa reagir para não comprometer o favoritismo no Grupo H.
+
 ## 📅 2026-06-19
 - Espanha enfrenta a Arábia Saudita em 21/06 no Mercedes-Benz Stadium, Atlanta; vindo do empate vergonhoso 0x0 com Cabo Verde na estreia — Marca chamou de "desastre" (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jornais-espanhois-detonam-estreia-da-espanha-na-copa-do-mundo-desastre/)
 - Após frustrante empate na R1, jogo contra a Arábia Saudita vira obrigação para recuperar controle do Grupo H e moral da delegação (fonte: https://observador.pt/prognosticos/espanha-no-mundial/)

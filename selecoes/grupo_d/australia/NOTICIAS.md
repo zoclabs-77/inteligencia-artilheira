@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-20
+- Austrália perdeu por 2x0 para os EUA no Lumen Field, Seattle, com gol contra de Cameron Burgess e gol de Alex Freeman (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/estados-unidos-2-x-0-australia-veja-os-melhores-momentos-do-jogo-da-copa/)
+- **Repercussão / Próximo jogo:** Derrota deixa a Austrália com 3 pontos no Grupo D, ainda viva mas dependente do resultado entre Turquia e Paraguai para garantir vaga nas oitavas.
+
 ## 📅 2026-06-19
 - Austrália enfrenta os EUA hoje no Lumen Field pelo Grupo D — duelo de líderes, ambas com 3 pontos; Mohamed Touré é dúvida com lesão (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/estados-unidos-australia-copa-2026/)
 - Austrália vem embalada pela vitória 2-0 sobre a Turquia na estreia — resultado que surpreendeu a maioria das análises (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-eua-x-australia-19-06-2026.html)

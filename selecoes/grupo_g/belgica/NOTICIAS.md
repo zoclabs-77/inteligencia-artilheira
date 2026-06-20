@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Bélgica enfrenta o Irã em 21/06, no SoFi Stadium, Los Angeles, pela 2ª rodada do Grupo G — Bélgica, Egito, Irã e Nova Zelândia seguem empatados com 1 ponto cada (fonte: https://www.futebolinterior.com.br/belgica-x-ira-copa-do-mundo-2026/)
+- Escalação prevista, sob comando de Rudi Garcia: Courtois; Meunier, Ngoy, Mechele, De Cuyper; Raskin, Tielemans, Leandro Trossard, De Bruyne, Doku; Lukaku (fonte: https://www.futebolinterior.com.br/belgica-x-ira-copa-do-mundo-2026/)
+- **Próximo jogo:** Bélgica vs Irã em 21/06 — após o empate com o Egito, belgas precisam vencer para se distanciar na liderança do grupo, embolado entre quatro seleções.
+
 ## 📅 2026-06-19
 - Bélgica enfrenta o Irã em 21/06 no Estádio de Los Angeles, às 16h (Brasília); vem do empate 1x1 com o Egito na estreia — Lukaku forçou gol contra que igualou, mas não foi suficiente para vitória (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/belgica-evita-tropeco-na-estreia-e-busca-empate-contra-egito-na-copa/)
 - Favorita do Grupo G liderada por Courtois e De Bruyne; Lukaku continua como referência ofensiva apesar dos gols que não saem diretamente do seu pé (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16044466/grupo-g-da-copa-do-mundo-2026-o-que-vc-saber-belgica-egito-ira-nova-zelandia)

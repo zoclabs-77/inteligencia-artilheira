@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Holanda enfrenta a Suécia mais tarde hoje (20/06), na NRG Arena, Houston, pela 2ª rodada do Grupo F (fonte: https://www.dgabc.com.br/Noticia/4330183/holanda-x-suecia-confira-onde-assistir-horario-e-provavels-escalacoes)
+- Desfalques confirmados: Memphis Depay e Justin Kluivert fora da convocação para o jogo; provável escalação (4-3-3): Verbruggen; Dumfries, Van Hecke, Van Dijk, Van de Ven; Frenkie de Jong, Gravenberch, Reijnders; Summerville, Gakpo, Malen — técnico Ronald Koeman (fonte: https://esportenewsmundo.com.br/holanda-e-suecia-provaveis-escalacoes-arbitragem-onde-assistir-retrospecto-e-palpites/)
+- **Próximo jogo:** Holanda vs Suécia hoje (20/06) — sem Depay e Kluivert, holandeses tentam vencer o adversário mais temido do grupo após o 2x2 com o Japão na estreia.
+
 ## 📅 2026-06-19
 - Holanda enfrenta a Suécia em 20/06 no NRG Stadium, Houston, às 14h (Brasília); ambas têm 1 ponto na tabela — Holanda empatou 2-2 com o Japão na estreia desperdiçando duas vantagens (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-holanda-x-suecia-20-06-26.html)
 - Sem desfalques confirmados; provável escalação: Verbruggen; Dumfries, Van Hecke, Van Dijk, Van de Ven; Gravenberch, Reijnders, Koopmeiners; Malen, Gakpo, Depay (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/holanda-x-suecia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-170626-1162.html)

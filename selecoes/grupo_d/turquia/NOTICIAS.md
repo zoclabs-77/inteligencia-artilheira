@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-20
+- Turquia enfrenta o Paraguai mais tarde hoje (20/06), no Levi's Stadium, Santa Clara, pela 2ª rodada do Grupo D — confronto direto entre as duas seleções que perderam na estreia (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-20/turquia-vs-paraguai)
+- Provável escalação: Çakir; Kadioglu, Demiral, Bardakci, Müldür; Yuksek, Çalhanoglu; Akturkoglu, Arda Güler, Yildiz; Akgun — técnico Vincenzo Montella (fonte: https://www.terra.com.br/esportes/futebol/turquia-x-paraguai-na-copa-do-mundo-onde-assistir-ao-vivo-horario-e-escalacao,c00583a53ea31740e1642bbfb8b26236obxnait3.html)
+- Arda Güler segue como principal esperança ofensiva turca para reverter o início de campanha (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-de-turkiye-x-paraguai-previa-da-partida-da-copa-do-mundo-de-2026/23635/)
+- **Próximo jogo:** Turquia vs Paraguai hoje (20/06) — jogo eliminar-ou-ser-eliminado no Grupo D, com ambas pressionadas após a derrota na 1ª rodada.
+
 ## 📅 2026-06-19
 - Turquia enfrenta o Paraguai em 20/06 no Levi's Stadium, São Francisco, às 0h (Brasília); após derrota surpreendente para a Austrália por 0x2 na estreia, o jogo é obrigatório (fonte: https://www.lance.com.br/onde-assistir/turquia-x-paraguai-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-mundo.html)
 - Provável escalação: Cakir; Çelik, Demiral, Bardakci, Kadioglu; Calhanoglu, Yuksek, Guler; Yilmaz, Kökçü, Akturkoglu — técnico Vincenzo Montella (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-turquia-x-paraguai-20-06-2026.html)

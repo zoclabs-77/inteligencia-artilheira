@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Haiti perdeu por 3x0 para o Brasil no Lincoln Financial Field, Filadélfia, com todos os gols sofridos ainda no 1º tempo (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/brasil-haiti-melhores-momentos-resumo-jogo-grupo-c)
+- Matheus Cunha (2 gols) e Vini Jr. (gol + assistência) desequilibraram o jogo; defesa haitiana não conseguiu conter os ataques em velocidade (fonte: https://trivela.com.br/copa-do-mundo/brasil-3x0-haiti-expor-maiores-qualidades/)
+- **Repercussão / Próximo jogo:** Segunda derrota seguida deixa o Haiti sem pontos e praticamente fora da briga por vaga nas oitavas no Grupo C, atrás de Escócia e Brasil.
+
 ## 📅 2026-06-19
 - Haiti enfrenta o Brasil HOJE (19/06) às 21h30 (Brasília) no Lincoln Financial Field, Filadélfia — sem pontos no Grupo C após derrota 0x1 para a Escócia na estreia (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-brasil-haiti-escalacoes-horario-onde-assistir)
 - Retorno histórico ao Mundial pela 1ª vez em 52 anos (desde 1974); provável escalação: Placide; Arcus, Delcroix, Adé, Expérience; Bellegarde, Jean Jacques; Deedson, Casimir, Providence; Isidor (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-haiti-informacoes)

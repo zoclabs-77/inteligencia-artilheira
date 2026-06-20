@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Nova Zelândia enfrenta o Egito em 21/06, no BC Place, Vancouver, pela 2ª rodada do Grupo G — jogo de seis pontos entre equipes empatadas (fonte: https://trivela.com.br/copa-do-mundo/grupo-g-2026-belgica-egito-ira-nova-zelandia/)
+- Escalação prevista, sob comando de Darren Bazeley: Crocombe; Payne, Surman, Boxall, Cacace; Bell, Stamenic; Just, McCowatt, Singh; Wood (fonte: https://trivela.com.br/copa-do-mundo/grupo-g-2026-belgica-egito-ira-nova-zelandia/)
+- **Próximo jogo:** Nova Zelândia vs Egito em 21/06 — rodada decisiva para o futuro de ambas; All Whites buscam classificação inédita ao mata-mata de uma Copa.
+
 ## 📅 2026-06-19
 - Nova Zelândia enfrenta o Egito em 21/06 no BC Place, Vancouver, às 22h (Brasília); All Whites buscam classificação inédita ao mata-mata de uma Copa do Mundo (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16044466/grupo-g-da-copa-do-mundo-2026-o-que-vc-saber-belgica-egito-ira-nova-zelandia)
 - Grupo G terá Nova Zelândia e Egito brigando pela segunda vaga — Bélgica é favorita ao 1º lugar; o jogo entre NZ e Egito pode definir quem avança (fonte: https://ndmais.com.br/futebol/grupo-g-da-copa-2026-conheca-os-adversarios-da-belgica-no-mundial/)

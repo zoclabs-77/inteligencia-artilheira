@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Suécia enfrenta a Holanda mais tarde hoje (20/06), na NRG Arena, Houston, pela 2ª rodada do Grupo F (fonte: https://www.dgabc.com.br/Noticia/4330183/holanda-x-suecia-confira-onde-assistir-horario-e-provavels-escalacoes)
+- Sem desfalques confirmados para a Suécia, ao contrário da Holanda, que terá Depay e Kluivert fora; dupla Gyökeres-Isak é a referência ofensiva sueca (fonte: https://esportenewsmundo.com.br/holanda-e-suecia-provaveis-escalacoes-arbitragem-onde-assistir-retrospecto-e-palpites/)
+- **Próximo jogo:** Suécia vs Holanda hoje (20/06) — embalada pela goleada de 5x1 sobre a Tunísia, chega favorita para abrir vantagem na liderança do Grupo F.
+
 ## 📅 2026-06-19
 - Suécia enfrenta a Holanda em 20/06 no NRG Stadium, Houston, às 14h (Brasília); vem embalada pela goleada de 5x1 sobre a Tunísia na estreia — exibição dominante (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-holanda-x-suecia-20-06-2026.html)
 - Viktor Gyökeres (Sporting) e Alexander Isak (Newcastle) são a dupla de ataque mais perigosa da Copa até agora — dois dos atacantes mais produtivos da Europa (fonte: https://www.meutimao.com.br/apostas/palpites/holanda-x-suecia-copa-do-mundo-20062026)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Senegal enfrenta a Noruega em 23/06, no estádio MetLife, East Rutherford, pela 2ª rodada do Grupo I — duelo decisivo após a derrota na estreia (fonte: https://www.365scores.com/pt-br/football/match/fifa-world-cup-5930/norway-senegal-2376-5102-5930)
+- Adversário chega embalado por Haaland, artilheiro das Eliminatórias e com 2 gols já na Copa; Senegal precisa pontuar para não se complicar no Grupo I (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/noruega-convocados-copa-do-mundo-2026)
+- **Próximo jogo:** Senegal vs Noruega em 23/06 — sem pontos após a derrota para a França, precisa reagir contra o líder do grupo.
+
 ## 📅 2026-06-19
 - Senegal perdeu para a França por 1x3 na estreia (16/06); Mbappé foi o protagonista com 2 gols — 0 pontos e saldo de -2 no Grupo I (fonte: https://www.squawka.com/br/news/franca-x-iraque-palpites-onde-assistir-odds/)
 - Enfrenta a Noruega em 22/06 em Nova Jersey, às 21h — duelo decisivo contra uma equipe que goleou o Iraque por 4x1 com Haaland inspirado (fonte: https://espndeportes.espn.com/futbol/partido/_/juegoId/760454/senegal-norway)

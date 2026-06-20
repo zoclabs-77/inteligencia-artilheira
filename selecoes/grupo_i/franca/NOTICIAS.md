@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- França enfrenta o Iraque em 22/06, no Lincoln Financial Field, Filadélfia, pela 2ª rodada do Grupo I (fonte: https://www.api-futebol.com.br/campeonato/copa-do-mundo-2026/2026/fase-de-grupos/22-06-franca-iraque-27418)
+- Escalação prevista (4-2-3-1): Maignan; Koundé, Saliba, Upamecano, T. Hernández; Rabiot, Tchouaméni; Olise, Dembélé, Doué; Mbappé (fonte: https://www.ogol.com.br/jogo/2026-06-22-franca-iraque/11832336)
+- **Próximo jogo:** França vs Iraque em 22/06 — líder do Grupo I após vitória na estreia, time de Mbappé tenta confirmar favoritismo diante da lanterna do grupo.
+
 ## 📅 2026-06-19
 - França venceu o Senegal por 3x1 na estreia (16/06) no MetLife Stadium; Mbappé marcou 2 gols — lidera o Grupo I com 3 pontos (fonte: https://www.squawka.com/br/news/franca-x-iraque-palpites-onde-assistir-odds/)
 - Enfrenta o Iraque em 22/06 no Lincoln Financial Field, às 18h (Brasília); Iraque perdeu 1x4 para a Noruega na R1 e tem 0 pontos (fonte: https://www.goal.com/en-us/news/france-iraq-fifa-world-cup-preview/blt7799929ae5686d5d)

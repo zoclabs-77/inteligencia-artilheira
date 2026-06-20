@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Marrocos venceu a Escócia por 1x0 no Gillette Stadium, Boston, com gol de Saibari aos 73 segundos — o mais rápido da Copa até agora (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/grupo-do-brasil-marrocos-vence-escocia-com-gol-mais-rapido-da-copa/)
+- Saibari recebeu lançamento de Brahim Díaz, invadiu a área e finalizou com força; time mostrou solidez defensiva para sustentar a vantagem mínima (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/escocia-marrocos-melhores-momentos-resumo-jogo-grupo-c)
+- **Repercussão / Próximo jogo:** Vitória chave coloca Marrocos na briga direta pela liderança do Grupo C, empatado em pontos com o Brasil — confronto direto entre as duas seleções (apontado por Ancelotti como decisivo) ganha ainda mais peso.
+
 ## 📅 2026-06-19
 - Marrocos enfrenta a Escócia hoje no Boston Stadium, às 19h (Brasília); favorito para vencer (odd 1.70) e precisa dos 3 pontos para se manter na disputa do Grupo C (fonte: https://trivela.com.br/apostas/palpites-de-futebol/copa-do-mundo-escocia-x-marrocos-19-06-2026/)
 - Hakimi e Brahim Diaz são as principais armas ofensivas; Marrocos deve controlar a posse de bola e explorar velocidade pelas pontas (fonte: https://mancheteesportiva.com.br/competicoes/previsoes-e-melhores-apostas-escocia-x-marrocos-para-a-copa-do-mundo-de-2026/22431/)

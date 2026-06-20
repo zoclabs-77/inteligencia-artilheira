@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Equador enfrenta Curaçao mais tarde hoje (20/06), no Arrowhead Stadium, Kansas City, pela 2ª rodada do Grupo E — precisa vencer para se manter vivo (fonte: https://www.goal.com/en-us/news/ecuador-curacao-world-cup-preview/bltf1db9902de34c7ea)
+- Escalação prevista: Galíndez; Preciado, Pacho, Hincapié, Estupiñán; Caicedo, Alan Franco; Yeboah, Gonzalo Plata, Alan Minda; Valencia — técnico Sebastián Beccacece (fonte: https://www.goal.com/en-us/news/ecuador-curacao-world-cup-preview/bltf1db9902de34c7ea)
+- **Próximo jogo:** Equador vs Curaçao hoje (20/06) — primeiro confronto direto da história entre as seleções; Equador entra como favorito após a estreia derrota para a Costa do Marfim.
+
 ## 📅 2026-06-19
 - Equador perdeu por 0x1 para a Costa do Marfim na estreia; enfrenta Curaçao em 20/06 no Arrowhead Stadium, Kansas City — jogo que precisa vencer para se manter vivo no Grupo E (fonte: https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/ecuador-v-curacao-predictions)
 - Destaques do elenco: Pacho (PSG) e Piero Hincapie (Arsenal) na defesa; Moisés Caicedo (Chelsea) no meio-campo — base de jogadores do futebol europeu de ponta (fonte: https://www.sportsmole.co.uk/football/ecuador/world-cup-2026/preview/ecuador-vs-curacao-prediction-team-news-lineups_599563.html)

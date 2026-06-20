@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Tunísia enfrenta o Japão em 21/06, no Estádio BBVA, Monterrey, pela 2ª rodada do Grupo F — jogo de pressão após a goleada sofrida da Suécia (fonte: https://www.365scores.com/pt-br/news/magazine/tunisia-x-japao-escalacoes-analise-copa-do-mundo/)
+- Escalação prevista (4-4-2), sob comando de Hervé Renard: Chamakh; Valery, Rekik, Talbi, Abdi; Skhiri, Khedira, Gharbi, Hannibal; Ben Slimane, Saad (fonte: https://www.365scores.com/pt-br/news/magazine/tunisia-x-japao-escalacoes-analise-copa-do-mundo/)
+- **Próximo jogo:** Tunísia vs Japão em 21/06 — após o 1x5 para a Suécia, vitória é praticamente obrigatória para manter chance remota de classificação.
+
 ## 📅 2026-06-19
 - Tunísia sofreu goleada de 1x5 para a Suécia na estreia; enfrenta o Japão em 21/06 pelo Grupo F — derrota praticamente elimina da Copa (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-holanda-x-suecia-20-06-2026.html)
 - Azarona do grupo, a Tunísia precisa de uma virada improvável para se manter com chances de mata-mata (fonte: https://ndmais.com.br/futebol/grupo-f-da-copa-2026-veja-quem-sao-as-selecoes-da-chave/)

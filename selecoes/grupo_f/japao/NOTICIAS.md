@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-20
+- Japão enfrenta a Tunísia em 21/06, no Estádio BBVA, Monterrey, pela 2ª rodada do Grupo F (fonte: https://www.365scores.com/pt-br/news/magazine/tunisia-x-japao-escalacoes-analise-copa-do-mundo/)
+- Escalação prevista (3-4-2-1), sob comando de Hajime Moriyasu: Zion Suzuki; Watanabe, Taniguchi, Hiroki Ito; Doan, Kamada, Sano, Nakamura; Kubo, Maeda; Ueda (fonte: https://www.365scores.com/pt-br/news/magazine/tunisia-x-japao-escalacoes-analise-copa-do-mundo/)
+- **Próximo jogo:** Japão vs Tunísia em 21/06 — após o empate com a Holanda na estreia, jogo mais acessível do grupo para os Samurais Azuis buscarem a 1ª vitória.
+
 ## 📅 2026-06-19
 - Japão enfrenta a Tunísia em 21/06 pelo Grupo F; vem do empate 2x2 com a Holanda na estreia — resultado considerado positivo contra um dos favoritos do grupo (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-holanda-x-suecia-20-06-26.html)
 - Samurais Azuis são conhecidos pelas surpresas em Copas — contra a Tunísia terão a missão de confirmar pontuação e se manter vivos na briga pelo mata-mata (fonte: https://jornaldaparaiba.com.br/esportes/copa-do-mundo-2026-selecoes-grupo-f)
