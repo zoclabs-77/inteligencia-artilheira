@@ -6,6 +6,12 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev", "--prefix", "dashboard"],
       "port": 5173
+    },
+    {
+      "name": "carrossel",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:\\Users\\zocat\\Downloads\\ZocLabs\\InteligenciaArtilheira\\.claude\\_static_carrossel.mjs"],
+      "port": 4317
     }
   ]
 }
