@@ -1,0 +1,4 @@
+partida_id,casa,fora,gols_casa,gols_fora,prob_casa,prob_empate,prob_fora,confianca,justificativa
+33,holanda,suecia,2,2,33,35,32,46,"Ranking aponta Holanda, mas sem Depay/Kluivert e Suécia (5-1) embalada; Holanda empata jogo grande. Empate é o mais provável."
+34,alemanha,costa-do-marfim,2,1,57,25,18,60,"Alemanha embalada (7-1) e superior tecnicamente; Costa do Marfim físico e sem Ndicka resiste e marca, mas favorito confirma."
+35,equador,curacao,2,0,74,16,10,72,"Gap enorme (23x82) e defesa de elite (Pacho/Hincapié/Caicedo); Equador pressionado vence, mas ataque truncado segura o placar."
