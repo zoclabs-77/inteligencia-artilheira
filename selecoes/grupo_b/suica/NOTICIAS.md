@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Murat Yakin; base experiente com Xhaka e Ricardo Rodríguez como referências; chegou à Copa com eliminatórias invictas (fonte: https://www.correio24horas.com.br/esportes/suica-na-copa-do-mundo-2026-veja-jogos-historico-e-lista-de-convocados-0526)
+- Vem da goleada de 4x1 sobre a Bósnia, liderando o Grupo B com 4 pontos
+- **Próximo jogo:** Canadá, 24/06, pela 2ª rodada do Grupo B — jogo decisivo de liderança de grupo, segundo análise da imprensa (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16044418/grupo-b-copa-do-mundo-2026-tudo-sobre-selecao-canada-suica-qatar)
+
 ## 📅 2026-06-19
 - Suíça goleou a Bósnia por 4x1 em Los Angeles e assumiu a liderança do Grupo B com 4 pontos; destaques do banco: Manzambi (2 gols) e Ruben Vargas (1 gol); Xhaka fechou de pênalti (fonte: https://www.terra.com.br/esportes/futebol/copa-do-mundo-2026-suica-goleia-bosnia-e-se-aproxima-de-classificacao-ao-mata-mata,a2603c647fd8355808bb166470d18e6cu87hv2x1.html)
 - Reservas decidiram o jogo: Manzambi e Vargas vieram do banco e foram os grandes artilheiros — demonstração de profundidade do elenco suíço (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/suica-bosnia-herzegovina-melhores-momentos-resumo-grupo-b)

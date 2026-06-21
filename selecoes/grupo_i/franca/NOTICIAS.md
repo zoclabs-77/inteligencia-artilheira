@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Didier Deschamps; convocados incluem Mbappé, Dembélé, Koundé e Tchouaméni (fonte: https://revistaforum.com.br/esporte/convocacao-da-franca-confira/)
+- Principais ausências por lesão: Hugo Ekitiké (tendão de Aquiles, lesionado em abril) e Eduardo Camavinga, com temporada marcada por lesões (fonte: mesma acima)
+- **Próximo jogo:** Iraque, 22/06, Lincoln Financial Field, Filadélfia, pela 2ª rodada do Grupo I — adversário retorna a uma Copa após 40 anos.
+
 ## 📅 2026-06-20
 - França enfrenta o Iraque em 22/06, no Lincoln Financial Field, Filadélfia, pela 2ª rodada do Grupo I (fonte: https://www.api-futebol.com.br/campeonato/copa-do-mundo-2026/2026/fase-de-grupos/22-06-franca-iraque-27418)
 - Escalação prevista (4-2-3-1): Maignan; Koundé, Saliba, Upamecano, T. Hernández; Rabiot, Tchouaméni; Olise, Dembélé, Doué; Mbappé (fonte: https://www.ogol.com.br/jogo/2026-06-22-franca-iraque/11832336)

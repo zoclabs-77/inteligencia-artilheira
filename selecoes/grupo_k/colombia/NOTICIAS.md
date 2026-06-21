@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Néstor Lorenzo convocou 26 jogadores; James Rodríguez disputa sua terceira Copa, Luis Díaz é referência ofensiva (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-convocacao-colombia)
+- Lidera o Grupo K após a goleada na 1ª rodada (fonte: https://www.goal.com/en-us/news/colombia-dr-congo-world-cup-preview/blt2f05808271536e66)
+- **Próximo jogo:** RD Congo, 23/06, pela 2ª rodada do Grupo K.
+
 ## 📅 2026-06-18
 - **Repercussão:** Colômbia goleou o Uzbequistão por 3x1 na estreia (17/06) no Estádio Azteca — gols de Daniel Muñoz, Luis Díaz (2) e Jaminton Campaz; descontou Fayzullaev (fonte: https://www.gazetaesportiva.com/minuto-a-minuto/copa-do-mundo-2026/uzbequistao-x-colombia/237114/)
 - James Rodríguez atuou como capitão e número 10, mas foi substituído no 2º tempo; Jaminton Campaz entrou e marcou o gol que fechou o placar (fonte: https://trivela.com.br/copa-do-mundo/james-rodriguez-baixa-clubes-querido-intocavel-selecao-colombiana/)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Marcelo Bielsa, sem lesões/suspensões reportadas; convocados de destaque: Darwin Núñez, Ronald Araújo, Valverde e o goleiro Muslera, disputando sua 5ª Copa (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-2026-uruguai-divulga-lista-de-convocados/)
+- Vem de empate 1x1 com a Arábia Saudita na estreia
+- **Próximo jogo:** Cabo Verde, 21/06, Hard Rock Stadium, Miami, pela 2ª rodada do Grupo H — adversário disputa sua primeira Copa da história.
+
 ## 📅 2026-06-20
 - Uruguai enfrenta Cabo Verde em 21/06, no Hard Rock Stadium, Miami, pela 2ª rodada do Grupo H (fonte: https://www.365scores.com/pt-br/news/magazine/uruguai-x-cabo-verde-escalacoes-copa/)
 - Escalação prevista (4-4-2): Fernando Muslera; Guillermo Varela, Sebastián Cáceres, Mathías Olivera, Matías Viña; Federico Valverde, Manuel Ugarte, Rodrigo Bentancur, Maximiliano Araújo; Federico Viñas, Darwin Núñez (fonte: https://www.365scores.com/pt-br/news/magazine/uruguai-x-cabo-verde-escalacoes-copa/)

@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-21
+- Estreante absoluto em Copas do Mundo; objetivo declarado é conquistar os primeiros pontos da história do país no torneio (fonte: https://www.squawka.com/br/news/portugal-x-uzbequistao-palpites-onde-assistir-odds/)
+- **Próximo jogo:** Portugal, 23/06, pela 2ª rodada do Grupo K — Cristiano Ronaldo disputa sua sexta Copa pelo adversário.
+
 ## 📅 2026-06-18
 - **Repercussão:** Uzbequistão perdeu para a Colômbia por 1x3 na estreia (17/06) no Estádio Azteca — Abbosbek Fayzullaev marcou o único gol uzbeque (fonte: https://www.gazetaesportiva.com/minuto-a-minuto/copa-do-mundo-2026/uzbequistao-x-colombia/237114/)
 - Seleção da Ásia Central disputa sua primeira Copa do Mundo; gol de Fayzullaev foi histórico para o país (fonte: https://www.ogol.com.br/jogo/2026-06-18-usbequistao-colombia/11832347)

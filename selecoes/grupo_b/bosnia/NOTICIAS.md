@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Sergej Barbarez; capitão Edin Dzeko (40 anos, Schalke 04), artilheiro histórico do país (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/copa-do-mundo-2026-os-destaques-da-bosnia-para-o-mundial/)
+- Bloco defensivo coeso é a marca da equipe, segundo análise tática, mas sofreu goleada de 1x4 na rodada anterior contra a Suíça (fonte: https://www.365scores.com/pt-br/news/magazine/guia-copa-2026-bosnia-herzegovina/)
+- **Próximo jogo:** Catar, 24/06, pela 2ª rodada do Grupo B — precisa reagir após a goleada sofrida.
+
 ## 📅 2026-06-19
 - Bósnia sofreu goleada de 1x4 para a Suíça em Los Angeles; sistema defensivo desmoronou no segundo tempo quando os reservas suíços Manzambi e Vargas decidiram o jogo (fonte: https://www.terra.com.br/esportes/futebol/copa-do-mundo-2026-suica-goleia-bosnia-e-se-aproxima-de-classificacao-ao-mata-mata,a2603c647fd8355808bb166470d18e6cu87hv2x1.html)
 - Com 0 pontos em 2 jogos e saldo de -5, a Bósnia está praticamente eliminada do Grupo B (fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760439/bosnia-e-herzegovina-suica)

@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Miroslav Koubek; sem lesões/suspensões confirmadas e sem escalação provável divulgada até o momento (fonte: https://www.goal.com/br/not%C3%ADcias/republica-tcheca-x-mexico-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/blte3e3fb32bfa81e95)
+- **Próximo jogo:** México, 24/06, pela 2ª rodada do Grupo A — adversário já está classificado às oitavas.
+
 ## 📅 2026-06-19
 - Tchéquia empatou 1x1 com a África do Sul em Atlanta; Sadílek abriu o placar aos 5' de canhota, mas Mokoena empatou de pênalti nos acréscimos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tchequia-e-africa-do-sul-empatam-e-seguem-sem-vencer-na-copa-do-mundo/)
 - Jogo histórico: primeiro trio arbitral feminino de uma Copa do Mundo, liderado por Tori Penso (EUA) (fonte: https://www.gazetaesportiva.com/minuto-a-minuto/copa-do-mundo-2026/tchequia-x-africa-do-sul/237056/)

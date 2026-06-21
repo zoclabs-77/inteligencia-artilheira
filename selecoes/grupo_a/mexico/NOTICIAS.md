@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Javier Aguirre (67 anos), em sua terceira Copa como treinador (2002 e 2010 anteriormente), com Rafael Márquez como auxiliar (fonte: https://esportesmais.com.br/guia-da-copa-do-mundo-2026-mexico/)
+- Provável escalação 4-3-3: Rangel; Sánchez, Montes, Vásquez, Gallardo; Lira, Fidalgo, Gutiérrez; Alvarado, Quiñones, Jiménez (fonte: mesma acima)
+- Já é a primeira seleção classificada às oitavas, com 6 pontos no Grupo A
+- **Próximo jogo:** Tchéquia, 24/06, pela 2ª rodada do Grupo A — jogo sem pressão por classificação, já garantida.
+
 ## 📅 2026-06-19
 - México venceu a Coreia do Sul por 1x0 em Guadalajara e se tornou a primeira seleção classificada ao mata-mata da Copa 2026 — 6 pontos em 2 jogos, liderança do Grupo A assegurada (fonte: https://www.espn.com/soccer/match/_/gameId/760441/south-korea-mexico)
 - Gol de Luis Romo aos 50', aproveitando falha catastrófica do goleiro Kim Seung-Gyu que escorregou ao tentar sair do gol (fonte: https://theanalyst.com/articles/mexico-vs-south-korea-stats-world-cup-2026-live)

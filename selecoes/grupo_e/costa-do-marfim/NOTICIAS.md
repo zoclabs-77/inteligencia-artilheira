@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Abriu o placar com gol de Franck Kessié aos 29 minutos, mas sofreu a virada da Alemanha nos minutos finais (68' e 94'), perdendo por 2x1 (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alemanha-2-x-1-costa-do-marfim-veja-melhores-momentos-de-jogo-da-copa/)
+- O zagueiro Wilfried Singo sofreu lesão na parte posterior da coxa esquerda, foi substituído aos 36' do segundo tempo e foi visto chorando no banco — preocupação para o próximo jogo (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/jogador-da-costa-do-marfim-deixa-gramado-aos-prantos-apos-lesao-na-copa-do-mundo/)
+- Kessié, autor do gol, está disponível e sem suspensão para o próximo jogo (fonte: https://www.goal.com/br/not%C3%ADcias/Cote%20D%27Ivoire-x-Equador-onde-assistir-ao-vivo-transmissao-escalacao-que-horas-comeca-e-mais-do-competition/blt009c83cdd237aeee)
+- **Repercussão / Próximo jogo:** Segue com 3 pontos no Grupo E e precisará pontuar contra o Equador na última rodada para garantir vaga nas oitavas — situação de Singo é dúvida para esse jogo.
+
 ## 📅 2026-06-20
 - Costa do Marfim enfrenta a Alemanha mais tarde hoje (20/06), no Toronto Stadium, pela 2ª rodada do Grupo E — vencedor garante vaga antecipada nas oitavas (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)
 - Escalação prevista (4-4-2): Yahia Fofana; Doué, Singo, Agbadou, Konan; Kessié, Seko Fofana, Diakité, Diomande; Diallo, Adingra (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)

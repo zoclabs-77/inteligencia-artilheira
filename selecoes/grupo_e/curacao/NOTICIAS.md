@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-21
+- Empatou 0x0 com o Equador e somou seu primeiro ponto histórico em Copas do Mundo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/conheca-eloy-room-heroi-de-curacao-no-empate-com-equador-na-copa-do-mundo/)
+- O goleiro Eloy Room foi o grande nome da partida: fez 15 defesas, recorde de um goleiro em jogo de 90 minutos na história das Copas, superando a marca do peruano Quiroga (14, em 1978) (fonte: https://diariodoestadogo.com.br/eloy-room-brilha-com-15-defesas-e-garante-empate-entre-curacao-e-equador/)
+- Room virou fenômeno nas redes sociais após a transmissão, com grande volume de novos seguidores (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/curacao-x-equador-eloy-room-e-eleito-o-melhor-jogador-da-partida/)
+- Não há informação confirmada sobre lesões/suspensões saídas deste jogo para a seleção
+- **Repercussão / Próximo jogo:** Ponto histórico mantém vivo o sonho de classificação inédita; depende do resultado da última rodada do Grupo E.
+
 ## 📅 2026-06-20
 - Curaçao enfrenta o Equador mais tarde hoje (20/06), no Arrowhead Stadium, Kansas City, pela 2ª rodada do Grupo E (fonte: https://www.goal.com/en-us/news/ecuador-curacao-world-cup-preview/bltf1db9902de34c7ea)
 - Escalação prevista, sob comando do técnico Dick Advocaat: Room; Floranus, Bazoer, Obispo, Fonville; Comenencia, Bacuna, Juninho Bacuna, Chong; Hansen, Locadia (fonte: https://www.goal.com/en-us/news/ecuador-curacao-world-cup-preview/bltf1db9902de34c7ea)

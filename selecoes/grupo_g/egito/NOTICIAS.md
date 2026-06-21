@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Hossam Hassan, ídolo histórico do futebol egípcio, levou os Faraós a terminar as eliminatórias invictos (fonte: https://trivela.com.br/copa-do-mundo/egito-faraos-salah-podem-sonhar-classificacao-empate/)
+- Provável escalação: Shobeir; Hany, Ibrahim, Fathy, Fatouh; Lasheen, Attia; Salah, Ashour, Ziko; Marmoush (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/nova-zelandia-egito-previa-jogo-copa-mundo-grupo-g)
+- Mohamed Salah convive com lesão na coxa direita que não deve afastá-lo do Mundial, mas pode limitar seu desempenho (fonte: https://trivela.com.br/copa-do-mundo/egito-faraos-salah-podem-sonhar-classificacao-empate/)
+- Análise tática aponta 4-2-3-1 como opção mais ofensiva diante da Nova Zelândia
+- **Próximo jogo:** Nova Zelândia, 21/06, BC Place, Vancouver, pela 2ª rodada do Grupo G — Salah é dúvida de plenas condições físicas.
+
 ## 📅 2026-06-20
 - Egito enfrenta a Nova Zelândia em 21/06, no BC Place, Vancouver, pela 2ª rodada do Grupo G — jogo decisivo entre equipes empatadas com 1 ponto (fonte: https://trivela.com.br/copa-do-mundo/grupo-g-2026-belgica-egito-ira-nova-zelandia/)
 - Escalação prevista, sob comando de Hossam Hassan: Oufa; Hany, Ibrahim, Fathy, Fatouh; Ateya, Lasheen; Salah, Ashour, Ziko; Marmoush (fonte: https://trivela.com.br/copa-do-mundo/grupo-g-2026-belgica-egito-ira-nova-zelandia/)

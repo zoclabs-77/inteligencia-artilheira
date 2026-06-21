@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Steve Clarke renovou contrato com a federação; primeira Copa do Mundo do país em 28 anos (fonte: https://www.lance.com.br/copa-do-mundo/rival-do-brasil-na-copa-escocia-anuncia-renovacao-com-tecnico-steve-clarke.html)
+- Clarke sobre o próximo adversário, o Brasil: "não é preciso falar muito... todos sabem o que eles representam para a Copa e para o futebol em geral" (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/steve-clarke-escocia-entrevista)
+- Provável escalação: Gunn; Patterson, Hendry, Hanley, Tierney, Robertson; Christie, Ferguson, McGinn, McTominay; Adams (fonte: https://www.olympics.com/pt/noticias/brasil-x-escocia-copa-do-mundo-2026-escalacoes-horario-e-onde-assistir)
+- Único confronto anterior contra o Brasil em Copas foi em 1998 (fonte: https://www.lance.com.br/copa-do-mundo/rival-do-brasil-na-copa-escocia-anuncia-renovacao-com-tecnico-steve-clarke.html)
+- **Próximo jogo:** Brasil, 24/06, Hard Rock Stadium, Miami, pela 2ª rodada do Grupo C — após a derrota na estreia para o Marrocos.
+
 ## 📅 2026-06-20
 - Escócia perdeu por 0x1 para o Marrocos no Gillette Stadium, em Boston, gol mais rápido da Copa até agora (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/grupo-do-brasil-marrocos-vence-escocia-com-gol-mais-rapido-da-copa/)
 - Saibari abriu o placar aos 73 segundos, após lançamento de Brahim Díaz — Escócia não conseguiu reverter e se fechou na defesa o resto do jogo (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/escocia-marrocos-melhores-momentos-resumo-jogo-grupo-c)

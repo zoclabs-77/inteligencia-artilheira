@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Venceu a Turquia por 1x0 com gol de Matías Galarza aos 1min06s, o mais rápido da Copa 2026 (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/turquia-paraguai-melhores-momentos-resumo-grupo-d)
+- Galarza, ex-Vasco, foi eleito o melhor jogador da partida (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/paraguai-x-turquia-matias-galarza-e-eleito-melhor-jogador-da-partida/)
+- Teve Miguel Almirón expulso nos minutos finais por colocar a mão na boca durante discussão com Müldür, mas segurou o resultado mesmo com um a menos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-gol-relampago-paraguai-elimina-a-turquia-e-vence-1a-na-copa-em-16-anos/)
+- **Repercussão / Próximo jogo:** Com a vitória, chegou a 3 pontos no Grupo D e segue vivo na briga por classificação.
+
 ## 📅 2026-06-20
 - Paraguai enfrenta a Turquia mais tarde hoje (20/06), no Levi's Stadium, Santa Clara, pela 2ª rodada do Grupo D — duelo direto entre as duas seleções que perderam na estreia (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-20/turquia-vs-paraguai)
 - Provável escalação: Gill; Cáceres, Gustavo Gómez, Alderete, Júnior Alonso; Cubas, Diego Gómez, Almirón, Galarza; Enciso, Pitta — técnico Gustavo Alfaro (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-20/turquia-vs-paraguai)

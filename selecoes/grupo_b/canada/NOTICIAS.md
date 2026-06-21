@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Jesse Marsch; vive boa fase na competição na condição de anfitrião, após a goleada histórica de 6x0 sobre o Catar (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16044418/grupo-b-copa-do-mundo-2026-tudo-sobre-selecao-canada-suica-qatar)
+- **Próximo jogo:** Suíça, 24/06, pela 2ª rodada do Grupo B — jogo decisivo de liderança de grupo, segundo análise da imprensa.
+
 ## 📅 2026-06-19
 - Canadá venceu o Catar por 6x0 em Vancouver numa noite histórica — primeira vitória do país em Copas do Mundo; gols de Larin (16'), Jonathan David hat-trick (29', 45+3', 90+2'), Saliba (64') e gol contra de Almanai (75') (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/canada-6-x-0-catar-veja-os-melhores-momentos-da-vitoria-historica-na-copa/)
 - Jonathan David fez hat-trick e é artilheiro do torneio com 3 gols; Canadá divide liderança do Grupo B com a Suíça (4 pontos cada) (fonte: https://jornaldebrasilia.com.br/torcida/canada-goleia-catar-6-0-e-fica-a-um-passo-dos-16-avos-de-final-da-copa-de-2026/)

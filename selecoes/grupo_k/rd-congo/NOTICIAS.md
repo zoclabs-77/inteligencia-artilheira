@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Sébastien Desabre; chega "reforçada" pelo ponto histórico conquistado contra Portugal na rodada anterior (fonte: https://www.goal.com/en-us/news/colombia-dr-congo-world-cup-preview/blt2f05808271536e66)
+- **Próximo jogo:** Colômbia, 23/06, pela 2ª rodada do Grupo K.
+
 ## 📅 2026-06-18
 - **Repercussão:** RD Congo empatou 1x1 com Portugal na estreia (17/06) em Houston — resultado histórico para a seleção africana diante de uma potência europeia (fonte: https://fatopaulista.com.br/futebol-portugal-rd-congo-empate-copa-2026/)
 - Ngal'ayel Mukau foi o autor do gol congolês e ainda provocou Cristiano Ronaldo após o jogo: "Não nos preparamos para neutralizá-lo — sabemos que ele já não é o mesmo" (fonte: https://www.lance.com.br/fora-de-campo/fala-de-jogador-do-congo-sobre-cristiano-ronaldo-gera-revolta-brincadeira.html)

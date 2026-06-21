@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Perdeu por 5x1 da Holanda, com gol de honra de Anthony Elanga (fonte: https://bpmoney.com.br/copa-do-mundo/holanda-goleia-suecia-5-a-1-copa-do-mundo-2026-brobbey-gakpo/)
+- Chegava embalada após goleada de 5x1 sobre a Tunísia na rodada anterior, mas perdeu a invencibilidade na competição
+- Não há informação confirmada sobre lesões/suspensões saídas deste jogo para a seleção
+- **Repercussão / Próximo jogo:** Segue com 3 pontos no Grupo F, posição que ainda mantém vivas as chances de classificação dependendo do resultado da última rodada.
+
 ## 📅 2026-06-20
 - Suécia enfrenta a Holanda mais tarde hoje (20/06), na NRG Arena, Houston, pela 2ª rodada do Grupo F (fonte: https://www.dgabc.com.br/Noticia/4330183/holanda-x-suecia-confira-onde-assistir-horario-e-provavels-escalacoes)
 - Sem desfalques confirmados para a Suécia, ao contrário da Holanda, que terá Depay e Kluivert fora; dupla Gyökeres-Isak é a referência ofensiva sueca (fonte: https://esportenewsmundo.com.br/holanda-e-suecia-provaveis-escalacoes-arbitragem-onde-assistir-retrospecto-e-palpites/)

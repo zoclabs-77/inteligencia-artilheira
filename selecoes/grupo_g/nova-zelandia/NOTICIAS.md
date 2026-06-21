@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Darren Bazeley, provável escalação: Crocombe; Payne, Boxall, Surman, Cacace; Stamenic, Bell; McCowatt, S. Singh, Just; Wood (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/nova-zelandia-egito-previa-jogo-copa-mundo-grupo-g)
+- **Próximo jogo:** Egito, 21/06, BC Place, Vancouver, pela 2ª rodada do Grupo G — jogo de seis pontos entre equipes empatadas.
+
 ## 📅 2026-06-20
 - Nova Zelândia enfrenta o Egito em 21/06, no BC Place, Vancouver, pela 2ª rodada do Grupo G — jogo de seis pontos entre equipes empatadas (fonte: https://trivela.com.br/copa-do-mundo/grupo-g-2026-belgica-egito-ira-nova-zelandia/)
 - Escalação prevista, sob comando de Darren Bazeley: Crocombe; Payne, Surman, Boxall, Cacace; Bell, Stamenic; Just, McCowatt, Singh; Wood (fonte: https://trivela.com.br/copa-do-mundo/grupo-g-2026-belgica-egito-ira-nova-zelandia/)

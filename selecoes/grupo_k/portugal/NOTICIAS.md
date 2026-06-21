@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Cristiano Ronaldo, 41 anos, disputa sua sexta Copa do Mundo, um recorde histórico (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/cristiano-ronaldo-sexta-copa-do-mundo-portugal)
+- Técnico Roberto Martínez, provável escalação: Diogo Costa; Cancelo, Araújo, Veiga, Nuno Mendes; Vitinha, Neves, B. Fernandes; B. Silva, P. Neto, CR7 (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-cristiano-ronaldo-portugal-divulga-convocados-para-a-copa-do-mundo/)
+- É 2º no Grupo K com 1 ponto após o empate na estreia; obrigação de vencer para não perder margem (fonte: https://www.squawka.com/br/news/portugal-x-uzbequistao-palpites-onde-assistir-odds/)
+- **Próximo jogo:** Uzbequistão, 23/06, pela 2ª rodada do Grupo K — adversário busca os primeiros pontos da história do país em Copas.
+
 ## 📅 2026-06-18
 - **Repercussão:** Portugal empatou 1x1 com a RD Congo na estreia (17/06) em Houston — resultado frustrante para uma das favoritas ao título (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/cristiano-nao-brilha-e-portugal-empata-com-rd-congo-na-estreia-da-copa/)
 - Cristiano Ronaldo fez partida muito abaixo do esperado: nenhuma finalização ao gol em toda a partida, sendo o 6º Mundial do camisa 7 (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/cristiano-ronaldo-decepciona-e-nao-acerta-o-gol-na-estreia-de-portugal-na-copa-do-mundo-veja-os-numeros,e50daa5ee8613e35ab2feb546bee2c6boet2bz8e.html)

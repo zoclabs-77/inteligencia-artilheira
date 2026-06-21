@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Amistosos de preparação ruins antes da Copa: derrota por 2x1 da Alemanha e goleada de 5x0 da Áustria (fonte: https://www.torcedores.com/apostas/inglaterra-copa-do-mundo)
+- Aposta em intensidade física e velocidade como trunfo contra favoritos (fonte: mesma acima)
+- **Próximo jogo:** Inglaterra, 23/06, pela 2ª rodada do Grupo L — vem de vitória de virada na estreia contra o Panamá.
+
 ## 📅 2026-06-18
 - **Repercussão:** Gana venceu o Panamá por 1x0 na estreia (17/06) em Toronto — gol dramático de Caleb Yirenkyi aos 88', aos 2 minutos do apito final (fonte: https://dol.com.br/esporte/copa-do-mundo/944863/gana-vence-panama-por-1-a-0-e-estreia-bem-na-copa)
 - Gana empata com a Inglaterra na liderança do Grupo L com 3 pontos após a primeira rodada (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/gana-panama-melhores-momentos-resumo-jogo-grupo-l)

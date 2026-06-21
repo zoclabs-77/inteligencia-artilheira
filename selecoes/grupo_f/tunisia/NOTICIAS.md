@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Hervé Renard assumiu o comando após demissão do técnico anterior (derrota por 5x1 para a Suécia) e teve apenas 4 dias de preparação, resetando o esquema tático de 3-5-2 para 4-2-3-1 (fonte: https://www.sportsmole.co.uk/football/tunisia/world-cup-2026/predicted-lineups/new-boss-renard-to-make-changes-predicted-tunisia-lineup-vs-japan_599495.html)
+- Provável escalação: Dahmen; Valery, Rekik, Talbi, Abdi; Khedira, Skhiri; Achouri, Mejbri, Gharbi; Saad (fonte: https://www.rotowire.com/soccer/article/tunisia-vs-japan-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-118802)
+- Escalação é considerada a mais incerta do torneio dado o curtíssimo prazo de adaptação ao novo técnico
+- **Próximo jogo:** Japão, 21/06, Estádio BBVA, Monterrey, pela 2ª rodada do Grupo F — jogo de pressão após troca de comando.
+
 ## 📅 2026-06-20
 - Tunísia enfrenta o Japão em 21/06, no Estádio BBVA, Monterrey, pela 2ª rodada do Grupo F — jogo de pressão após a goleada sofrida da Suécia (fonte: https://www.365scores.com/pt-br/news/magazine/tunisia-x-japao-escalacoes-analise-copa-do-mundo/)
 - Escalação prevista (4-4-2), sob comando de Hervé Renard: Chamakh; Valery, Rekik, Talbi, Abdi; Skhiri, Khedira, Gharbi, Hannibal; Ben Slimane, Saad (fonte: https://www.365scores.com/pt-br/news/magazine/tunisia-x-japao-escalacoes-analise-copa-do-mundo/)

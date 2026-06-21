@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Equipe liderada por Haaland e Ødegaard; provável escalação: Nyland; Ryerson, Ajer, Østigård, Møller Wolfe; Berge, Berg, Ødegaard; Bobb, Nusa, Haaland (fonte: https://www.otempo.com.br/sports/copa-do-mundo/2026/2026/6/18/passaporte-da-copa-com-haaland-e-geracao-historica-noruega-volta-ao-mundial-apos-28-anos)
+- Retorna ao Mundial após 28 anos de ausência, com Haaland como artilheiro de destaque na campanha de classificação (fonte: mesma acima)
+- **Próximo jogo:** Senegal, 23/06, MetLife Stadium, Nova York, pela 2ª rodada do Grupo I.
+
 ## 📅 2026-06-20
 - Noruega enfrenta o Senegal em 23/06, no estádio MetLife, East Rutherford, pela 2ª rodada do Grupo I (fonte: https://www.365scores.com/pt-br/football/match/fifa-world-cup-5930/norway-senegal-2376-5102-5930)
 - Erling Haaland, artilheiro das Eliminatórias e autor de 2 gols na estreia, segue como principal nome da convocação de Ståle Solbakken, que marca o retorno norueguês a uma Copa após 28 anos (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/noruega-convocados-copa-do-mundo-2026)

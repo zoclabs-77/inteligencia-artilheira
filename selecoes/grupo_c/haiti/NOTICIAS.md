@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Sébastien Migné; retorno histórico do país à Copa após 52 anos de ausência (desde 1974) (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-haiti-informacoes)
+- Vem de derrota por 0x3 para o Brasil na rodada anterior
+- **Próximo jogo:** Marrocos, 24/06, pela 2ª rodada do Grupo C — adversário vem de vitória sobre a Escócia.
+
 ## 📅 2026-06-20
 - Haiti perdeu por 3x0 para o Brasil no Lincoln Financial Field, Filadélfia, com todos os gols sofridos ainda no 1º tempo (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/brasil-haiti-melhores-momentos-resumo-jogo-grupo-c)
 - Matheus Cunha (2 gols) e Vini Jr. (gol + assistência) desequilibraram o jogo; defesa haitiana não conseguiu conter os ataques em velocidade (fonte: https://trivela.com.br/copa-do-mundo/brasil-3x0-haiti-expor-maiores-qualidades/)

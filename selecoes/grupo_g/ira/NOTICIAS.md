@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Amir Ghalenoei, provável escalação: Beiranvand; Rezaeian, Khalilzadeh, Nameti, Milad Mohammadi; Ghayedi, Mohebi, Ezatolahi, Hajsafi; Alipour, Taremi (fonte: https://www.terra.com.br/esportes/futebol/internacional/belgica/belgica-x-ira-onde-assistir-escalacoes-e-arbitragem,3d3f0c8da40984ea0af4a3f1005b10590gts5kik.html)
+- Vem de empate 1x1 na estreia, dividindo a liderança do grupo em pontos com Bélgica, Egito e Nova Zelândia
+- **Próximo jogo:** Bélgica, 21/06, SoFi Stadium, Los Angeles, pela 2ª rodada do Grupo G.
+
 ## 📅 2026-06-20
 - Irã enfrenta a Bélgica em 21/06, no SoFi Stadium, Los Angeles, pela 2ª rodada do Grupo G — quatro seleções empatadas com 1 ponto cada (fonte: https://www.futebolinterior.com.br/belgica-x-ira-copa-do-mundo-2026/)
 - Escalação prevista: Beiranvand; Rezaeian, Khalilzadeh, Nameti, Milad Mohammadi; Ghayedi, Mohebi, Ezatolahi, Hajsafi; Alipour, Taremi (fonte: https://www.futebolinterior.com.br/belgica-x-ira-copa-do-mundo-2026/)

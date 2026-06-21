@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico é o grego Georgios Donis (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/saudi-arabia/team-news)
+- Vem de empate 1x1 com o Uruguai na estreia
+- Grupo H com quatro seleções empatadas em pontos após a 1ª rodada (fonte: https://www.lance.com.br/onde-assistir/espanha-x-arabia-saudita-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-mundo.html)
+- **Próximo jogo:** Espanha, 21/06, Mercedes-Benz Stadium, Atlanta, pela 2ª rodada do Grupo H.
+
 ## 📅 2026-06-20
 - Arábia Saudita enfrenta a Espanha em 21/06, no Mercedes-Benz Stadium, Atlanta, pela 2ª rodada do Grupo H (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
 - Escalação prevista: Al Owais; Abdulhamid, Al-Amri, Al Tambakti, Al-Harbi; Al-Shamat, Kanno, Alkhaibari, Al-Dawsari; Al Juwayr, Al-Braikan (fonte: https://www.365scores.com/pt-br/news/magazine/espanha-x-arabia-saudita-escalacoes-analise/)

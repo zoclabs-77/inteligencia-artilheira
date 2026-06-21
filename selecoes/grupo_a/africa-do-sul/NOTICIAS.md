@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Hugo Broos; convocação foi criticada por torcedores por deixar Brandon Peterson, "Tito" Maswanganyi e Grant Kekana fora da lista (fonte: https://www.lance.com.br/copa-do-mundo/guia-completo-do-lance-saiba-tudo-sobre-a-africa-do-sul-na-copa-do-mundo-2026.html)
+- Retorno à Copa após 16 anos de ausência (fonte: https://jornalismojunior.com.br/copa-do-mundo-africa-do-sul/)
+- **Próximo jogo:** Coreia do Sul, 24/06, pela 2ª rodada do Grupo A — após o empate com gol nos acréscimos contra a Tchéquia.
+
 ## 📅 2026-06-19
 - África do Sul conquistou seu primeiro ponto na Copa 2026 ao empatar 1x1 com a Tchéquia em Atlanta; Mokoena marcou de pênalti nos acréscimos — gol inaugural da seleção no torneio (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tchequia-e-africa-do-sul-empatam-e-seguem-sem-vencer-na-copa-do-mundo/)
 - Reação emocional da delegação evocou a magia de Tshabalala em 2010; retorno ao Mundial após 16 anos de ausência consolida dignidade da seleção (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/tshabalala-reacao-gol-africa-do-sul-tchequia)

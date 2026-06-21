@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Pedro "Bubista" Leitão; disputa a primeira Copa do Mundo da história do país, momento histórico para a delegação (fonte: https://massa.com.br/copa-do-mundo-2026/cabo-verde-x-uruguai-ao-vivo)
+- Vem de empate heroico 0x0 com a Espanha na estreia, com atuação decisiva do goleiro Vozinha (fonte: mesma acima)
+- **Próximo jogo:** Uruguai, 21/06, Hard Rock Stadium, Miami, pela 2ª rodada do Grupo H.
+
 ## 📅 2026-06-20
 - Cabo Verde enfrenta o Uruguai em 21/06, no Hard Rock Stadium, Miami, pela 2ª rodada do Grupo H (fonte: https://www.365scores.com/pt-br/news/magazine/uruguai-x-cabo-verde-escalacoes-copa/)
 - Escalação prevista (4-1-4-1): Vozinha; Sidny Lopes Cabral, Diney, Pico, Steven Moreira; Kevin Pina; Jovane Cabral, Jamiro Monteiro, Laros Duarte, Ryan Mendes; Dailon Livramento (fonte: https://www.365scores.com/pt-br/news/magazine/uruguai-x-cabo-verde-escalacoes-copa/)

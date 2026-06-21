@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Ralf Rangnick; Christoph Baumgartner é desfalque confirmado por lesão (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/austria-divulga-convocados-para-a-copa-do-mundo-de-2026/)
+- David Alaba é o líder técnico/emocional do elenco, ao lado de Sabitzer, Laimer e Arnautović (fonte: https://www.gazetaesportiva.com/copa-do-mundo/no-grupo-da-argentina-austria-anuncia-convocados-para-a-copa/)
+- Retorna a uma Copa do Mundo após 28 anos de ausência
+- **Próximo jogo:** Argentina, 22/06, AT&T Stadium, Arlington, pela 2ª rodada do Grupo J — maior teste do torneio para a equipe, com Baumgartner fora.
+
 ## 📅 2026-06-20
 - Áustria enfrenta a Argentina em 22/06, no AT&T Stadium, Dallas, pela 2ª rodada do Grupo J — maior teste do torneio para a equipe (fonte: https://www.goal.com/en-us/news/argentina-austria-world-cup-preview/blt540bff692d03f5a1)
 - Equipe chega motivada após vitória na estreia contra a Jordânia; expectativa de postura mais cautelosa diante do favoritismo argentino e do hat-trick de Messi na rodada anterior (fonte: https://www.goal.com/en-us/news/argentina-austria-world-cup-preview/blt540bff692d03f5a1)

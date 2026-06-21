@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Thomas Tuchel fez convocação polêmica, deixando fora Cole Palmer, Phil Foden, Alexander-Arnold e Maguire (fonte: https://placar.com.br/copa-do-mundo/sem-convocar-medalhoes-veja-a-escalacao-ideal-de-tuchel-na-inglaterra/)
+- Lateral Tino Livramento foi cortado da Copa por lesão na canela na véspera da estreia (fonte: https://www.goal.com/en-us/lists/england-star-ruled-out-of-2026-world-cup-on-eve-of-croatia-opener-in-huge-injury-blow-for-thomas-tuchel/blt21765740b9f469bb)
+- Esquema 4-2-3-1, com Pickford, Guéhi/Konsa na zaga e Kane como capitão (fonte: https://www.spacemoney.com.br/esportes/tuchel-escala-inglaterra-sem-medalhoes-copa-2026/)
+- **Próximo jogo:** Gana, 23/06, pela 2ª rodada do Grupo L — vem de vitória na estreia.
+
 ## 📅 2026-06-18
 - **Repercussão:** Inglaterra venceu a Croácia por 4x2 em jogo eletrizante em Dallas (17/06) — gols de Harry Kane (12' e 42'), Jude Bellingham (46') e Marcus Rashford (85'); Croácia descontou com Baturina (35') e Musa (50') (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/inglaterra-4-x-2-croacia-veja-os-melhores-momentos-de-jogao-da-copa/)
 - Harry Kane marcou dois gols e atingiu 10 bolas nas Copas — igualando Gary Lineker como maior artilheiro inglês em Mundiais (fonte: https://diariodonordeste.verdesmares.com.br/jogada/inglaterra-x-croacia-na-copa-do-mundo-acompanhe-em-tempo-real-1.3771348)

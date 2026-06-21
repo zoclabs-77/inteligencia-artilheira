@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Empatou em 0x0 com Curaçao, mas dominou amplamente a posse e finalizações: 27 chutes, 15 no alvo — maior número sem gol em uma partida de Copa desde 1966 (fonte: https://www.espn.com/soccer/story/_/id/49128614/ecuador-curacao-live-world-cup-2026-latest-updates-commentary-score-result)
+- Travado pelas defesas de Eloy Room, ficou "ao borde de la eliminación", com 1 ponto em 2 jogos no Grupo E (fonte: https://www.infobae.com/peru/deportes/2026/06/20/ecuador-vs-curazao-en-vivo-hoy-partido-por-la-fecha-2-del-grupo-e-en-el-mundial-2026-goles-resumen-resultado/)
+- Imprensa equatoriana classificou o jogo como "papelón" (vexame) do time de Beccacece dado o domínio sem conversão (fonte: https://redgol.cl/mundial/ecuador-vs-curazao-minuto-a-minuto-transmision-y-formaciones-del-partido-del-mundial-2026)
+- **Repercussão / Próximo jogo:** Precisará vencer a Alemanha — líder do grupo com 100% de aproveitamento — na última rodada para ter chance de classificação.
+
 ## 📅 2026-06-20
 - Equador enfrenta Curaçao mais tarde hoje (20/06), no Arrowhead Stadium, Kansas City, pela 2ª rodada do Grupo E — precisa vencer para se manter vivo (fonte: https://www.goal.com/en-us/news/ecuador-curacao-world-cup-preview/bltf1db9902de34c7ea)
 - Escalação prevista: Galíndez; Preciado, Pacho, Hincapié, Estupiñán; Caicedo, Alan Franco; Yeboah, Gonzalo Plata, Alan Minda; Valencia — técnico Sebastián Beccacece (fonte: https://www.goal.com/en-us/news/ecuador-curacao-world-cup-preview/bltf1db9902de34c7ea)

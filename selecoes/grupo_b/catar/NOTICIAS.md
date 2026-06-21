@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Julen Lopetegui; elenco entrosado, joga majoritariamente na liga nacional (fonte: https://trivela.com.br/copa-do-mundo/grupo-b-2026-canada-bosnia-catar-suica/)
+- Tem histórico de dificuldade contra pressão física de alta intensidade, segundo análise tática; vem da goleada de 0x6 sofrida do Canadá (fonte: mesma acima)
+- **Próximo jogo:** Bósnia, 24/06, pela 2ª rodada do Grupo B — precisa reagir após a goleada sofrida na estreia.
+
 ## 📅 2026-06-19
 - Catar sofreu goleada de 0x6 para o Canadá em Vancouver; Mohamed Naceur Almanai marcou gol contra agravando noite negativa (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/canada-goleia-catar-em-jogo-marcado-por-lesao-chocante-e-expulsoes-na-copa/)
 - Com 0 pontos e saldo de -7 após 2 jogos (cedeu 6 ao Canadá e 1 à Suíça), o Catar está eliminado na prática do Grupo B (fonte: https://jornaldebrasilia.com.br/torcida/canada-goleia-catar-6-0-e-fica-a-um-passo-dos-16-avos-de-final-da-copa-de-2026/)

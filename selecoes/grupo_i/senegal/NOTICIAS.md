@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Pape Thiaw convocou 28 jogadores, incluindo Sadio Mané, que retorna após ter ficado de fora do Mundial do Catar por lesão (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/com-sadio-mane-senegal-convoca-28-jogadores-para-a-copa-do-mundo-202605211130)
+- Considerado um dos representantes africanos mais competitivos do torneio (fonte: mesma acima)
+- **Próximo jogo:** Noruega, 23/06, MetLife Stadium, Nova York, pela 2ª rodada do Grupo I — duelo decisivo após derrota na estreia.
+
 ## 📅 2026-06-20
 - Senegal enfrenta a Noruega em 23/06, no estádio MetLife, East Rutherford, pela 2ª rodada do Grupo I — duelo decisivo após a derrota na estreia (fonte: https://www.365scores.com/pt-br/football/match/fifa-world-cup-5930/norway-senegal-2376-5102-5930)
 - Adversário chega embalado por Haaland, artilheiro das Eliminatórias e com 2 gols já na Copa; Senegal precisa pontuar para não se complicar no Grupo I (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/noruega-convocados-copa-do-mundo-2026)

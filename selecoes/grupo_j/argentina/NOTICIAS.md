@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-21
+- Provável escalação: Martínez; Molina, Romero, Martínez, Medina; De Paul, Mac Allister, Fernández, González; Messi, Álvarez (fonte: https://www.365scores.com/pt-br/news/magazine/argentina-x-austria-escalacoes-analise-copa/)
+- **Próximo jogo:** Áustria, 22/06, AT&T Stadium, Arlington, pela 2ª rodada do Grupo J.
+
 ## 📅 2026-06-20
 - Argentina enfrenta a Áustria em 22/06, no AT&T Stadium, Dallas, pela 2ª rodada do Grupo J (fonte: https://br.bolavip.com/copa-do-mundo/argentina-cogita-mudancas-na-escalacao-apos-vitoria-na-estreia-da-copa-do-mundo)
 - Scaloni estuda mudanças após o hat-trick de Messi na vitória da estreia: Julián Álvarez, recuperado de dores no tornozelo, ganha a titularidade, e Molina deve entrar na lateral no lugar de Montiel (fonte: https://br.bolavip.com/copa-do-mundo/argentina-cogita-mudancas-na-escalacao-apos-vitoria-na-estreia-da-copa-do-mundo)

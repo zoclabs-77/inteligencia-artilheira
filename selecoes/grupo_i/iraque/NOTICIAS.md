@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Graham Arnold; equipe retorna a uma Copa após 40 anos de ausência, classificada via repescagem, com disciplina tática como marca (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/iraque-convoca-elenco-experiente-para-a-copa-do-mundo-2026-veja-lista/)
+- Teve baixa de Ahmed Yahya por lesão, substituído na lista por Ahmed Hassan Makenzie; o goleiro Jalal Hassan se recuperou de lesão e permanece no grupo (fonte: mesma acima)
+- **Próximo jogo:** França, 22/06, Lincoln Financial Field, Filadélfia, pela 2ª rodada do Grupo I — desafio de alto nível para o time recém-retornado a Copas.
+
 ## 📅 2026-06-20
 - Iraque enfrenta a França em 22/06, no Lincoln Financial Field, Filadélfia, pela 2ª rodada do Grupo I (fonte: https://www.api-futebol.com.br/campeonato/copa-do-mundo-2026/2026/fase-de-grupos/22-06-franca-iraque-27418)
 - Principal dúvida é o meia-atacante Ali Jasim, com dores musculares; escalação prevista: Jalal Hassan; Hussein Ali, Zaid Tahseen, Akam Hashim, Merchas Doski; Zaid Ismail, Amir Al-Ammari, Ayman Hussein; Ibrahim Bayesh, Ali Al-Hamadi, Ali Jasim (fonte: https://tips.gg/pt/article/france-iraq-predicted-lineups-story/)

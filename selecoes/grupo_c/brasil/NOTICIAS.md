@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-21
+- Raphinha sofreu lesão na vitória sobre o Haiti (06-20) e a comissão técnica aguardava exames de imagem para definir condições de jogo contra a Escócia (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/vini-jr-atualiza-situacao-de-raphinha-apos-lesao-na-vitoria-do-brasil-202606200007)
+- Neymar não viajou com a delegação para a Filadélfia no jogo contra o Haiti, ficando em Nova Jersey para trabalhos físicos visando recuperação para o duelo com a Escócia (fonte: https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/com-mudancas-brasil-enfrenta-haiti-para-mudar-clima-na-copa-do-mundo/)
+- Brasil lidera o Grupo C com 4 pontos, empatado com o Marrocos, que venceu a Escócia na rodada anterior (fonte: https://www.olympics.com/pt/noticias/brasil-x-escocia-copa-do-mundo-2026-escalacoes-horario-e-onde-assistir)
+- Técnico Steve Clarke (Escócia) sobre o Brasil: "não é preciso falar muito... todos sabem o que eles representam para a Copa e para o futebol em geral" (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/steve-clarke-escocia-entrevista)
+- **Próximo jogo:** Escócia, 24/06, 19h (Brasília), Hard Rock Stadium, Miami — situação de Raphinha e condição física de Neymar são os pontos de atenção para a escalação.
+
 ## 📅 2026-06-20
 - Brasil venceu o Haiti por 3x0 no Lincoln Financial Field, com todos os gols no 1º tempo; resultado garante a liderança do Grupo C (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/brasil-haiti-melhores-momentos-resumo-jogo-grupo-c)
 - Matheus Cunha foi o destaque absoluto com 2 gols; Vini Jr. completou o placar e ainda deu assistência (fonte: https://www.goal.com/br/listas/notas-jogadores-brasil-contra-haiti-matheus-cunha-decide-assegura-vaga-segunda-fase-copa-mundo-2026/blt3791784f863ec497)

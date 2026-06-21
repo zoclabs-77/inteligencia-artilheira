@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Hong Myung-bo disputa sua 12ª Copa; Son Heung-min (LAFC) é o principal nome, ao lado de Kim Min-jae (Bayern) e Lee Kang-in (PSG) (fonte: https://www.correio24horas.com.br/esportes/coreia-do-sul-na-copa-do-mundo-2026-veja-jogos-historico-e-lista-de-convocados-0526)
+- Fez preparação especial em Salt Lake City para adaptação à altitude antes da sequência de jogos (fonte: mesma acima)
+- **Próximo jogo:** África do Sul, 24/06, pela 2ª rodada do Grupo A — após a derrota na estreia para o México.
+
 ## 📅 2026-06-19
 - Coreia do Sul perdeu por 0x1 para o México em Guadalajara; derrota provocada por falha fatal do goleiro Kim Seung-Gyu, que escorregou ao sair do gol e deixou Romo marcar (fonte: https://www.espn.com/soccer/match/_/gameId/760441/south-korea-mexico)
 - Com 1 ponto em 2 jogos, a Coreia depende de resultados externos para avançar ao mata-mata — situação delicada no Grupo A (fonte: https://theanalyst.com/articles/mexico-vs-south-korea-stats-world-cup-2026-live)

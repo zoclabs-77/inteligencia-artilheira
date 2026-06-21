@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Provável escalação em 3-4-2-1: Suzuki; Watanabe, Taniguchi, H. Ito; Sugawara, Kamada, Sano, Nakamura; Doan, Maeda; Ueda (fonte: https://www.sportsmole.co.uk/football/japan/world-cup-2026/predicted-lineups/kubo-injury-blow-sugawara-doan-decisions-predicted-japan-lineup-vs-tunisia_599496.html)
+- Takefusa Kubo é desfalque confirmado por lesão; Sugawara assume a lateral em seu lugar (fonte: mesma acima)
+- **Próximo jogo:** Tunísia, 21/06, Estádio BBVA, Monterrey, pela 2ª rodada do Grupo F — adversário troca de técnico em cima da hora.
+
 ## 📅 2026-06-20
 - Japão enfrenta a Tunísia em 21/06, no Estádio BBVA, Monterrey, pela 2ª rodada do Grupo F (fonte: https://www.365scores.com/pt-br/news/magazine/tunisia-x-japao-escalacoes-analise-copa-do-mundo/)
 - Escalação prevista (3-4-2-1), sob comando de Hajime Moriyasu: Zion Suzuki; Watanabe, Taniguchi, Hiroki Ito; Doan, Kamada, Sano, Nakamura; Kubo, Maeda; Ueda (fonte: https://www.365scores.com/pt-br/news/magazine/tunisia-x-japao-escalacoes-analise-copa-do-mundo/)

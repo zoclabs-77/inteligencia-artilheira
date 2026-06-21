@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Jamal Sellami; provável 3-4-2-1 com Musa Al-Taamari como referência ofensiva (fonte: https://www.goal.com/en-us/news/jordan-algeria-world-cup-preview/bltddae6909cf8922c4)
+- Estreante em Copas, vem da derrota por 1x3 para a Áustria na abertura do Grupo J
+- **Próximo jogo:** Argélia, 23/06, pela 2ª rodada do Grupo J.
+
 ## 📅 2026-06-18
 - **Repercussão:** Jordânia perdeu para a Áustria por 1x3 na estreia (17/06) em Santa Clara — jogo marcou a estreia histórica do país em Copas do Mundo (fonte: https://www.ogol.com.br/noticias/2026-06-17-austria-jordania-cronica/1146395)
 - Ali Olwan marcou o primeiro gol da Jordânia em toda a história das Copas do Mundo — momento histórico para o futebol jordaniano (fonte: https://www.sportytrader.com/us/picks/austria-jordan-354885/)

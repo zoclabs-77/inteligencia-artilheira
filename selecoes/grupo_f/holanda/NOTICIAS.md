@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Goleou a Suécia por 5x1, com gols de Brian Brobbey (2), Cody Gakpo (2) e Crysencio Summerville (fonte: https://bpmoney.com.br/copa-do-mundo/holanda-goleia-suecia-5-a-1-copa-do-mundo-2026-brobbey-gakpo/)
+- Brobbey e Gakpo foram os grandes destaques; Gakpo recebeu elogios da crítica internacional como "World Cup Cody Gakpo" (fonte: https://www.goal.com/en-us/lists/netherlands-player-ratings-vs-sweden-world-cup-cody-gakpo-brian-brobbey-micky-van-de-ven/blteaa50ce8e13aae24)
+- Tijjani Reijnders também teve papel importante na construção do primeiro gol (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/no-caminho-do-brasil-holanda-atropela-suecia-com-shows-de-brobbey-e-gakpo/)
+- **Repercussão / Próximo jogo:** Assumiu a liderança do Grupo F com 4 pontos e fica perto da vaga ao vencer a Tunísia na última rodada.
+
 ## 📅 2026-06-20
 - Holanda enfrenta a Suécia mais tarde hoje (20/06), na NRG Arena, Houston, pela 2ª rodada do Grupo F (fonte: https://www.dgabc.com.br/Noticia/4330183/holanda-x-suecia-confira-onde-assistir-horario-e-provavels-escalacoes)
 - Desfalques confirmados: Memphis Depay e Justin Kluivert fora da convocação para o jogo; provável escalação (4-3-3): Verbruggen; Dumfries, Van Hecke, Van Dijk, Van de Ven; Frenkie de Jong, Gravenberch, Reijnders; Summerville, Gakpo, Malen — técnico Ronald Koeman (fonte: https://esportenewsmundo.com.br/holanda-e-suecia-provaveis-escalacoes-arbitragem-onde-assistir-retrospecto-e-palpites/)

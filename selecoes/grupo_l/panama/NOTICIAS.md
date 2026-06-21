@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-21
+- Sem detalhes específicos de escalação ou lesões disponíveis nas fontes consultadas até o momento para o próximo jogo (fonte: https://www.goal.com/en-us/news/panama-croatia-world-cup-preview/blt39aad5317bdcdba7)
+- **Próximo jogo:** Croácia, 23/06, pela 2ª rodada do Grupo L — adversário tem Luka Modric, 40 anos, disputando sua quinta Copa.
+
 ## 📅 2026-06-18
 - **Repercussão:** Panamá perdeu para Gana por 0x1 na estreia (17/06) em Toronto — estava empatando sem gols até os 88', quando Caleb Yirenkyi marcou o gol da derrota no fim (fonte: https://dol.com.br/esporte/copa-do-mundo/944863/gana-vence-panama-por-1-a-0-e-estreia-bem-na-copa)
 - Panamá ficou a 2 minutos de tirar seu primeiro ponto em Copa do Mundo — derrota cruel que encerra invicto na competição (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/gana-panama-melhores-momentos-resumo-jogo-grupo-l)

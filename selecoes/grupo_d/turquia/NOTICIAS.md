@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-21
+- Perdeu por 0x1 para o Paraguai (gol de Galarza com 1min06s) e está eliminada da Copa, após 24 anos sem disputar o torneio (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-gol-relampago-paraguai-elimina-a-turquia-e-vence-1a-na-copa-em-16-anos/)
+- Teve 62 chutes a gol em toda a campanha e zero gols marcados, retrospecto chamado de "cruel" pela imprensa (fonte: https://www.abola.pt/noticias/balanco-cruel-da-turquia-eliminada-no-mundial-62-remates-e-zero-golos-2026062008434197850)
+- Jogou a segunda etapa com um jogador a mais (expulsão de Almirón) mas não converteu a vantagem numérica em gols
+- Jornais turcos repercutiram com forte pesar: "Hürriyet" estampou "Adeus à Copa do Mundo" e "Sözcü" publicou crítica chamando a seleção de "a pior que já vi" (fonte: https://www.goal.com/br/listas/um-fracasso-historico-e-um-choque-nacional-as-lagrimas-da-geracao-de-ouro-inundam-os-jornais-da-turquia/blt9b0ea65f81e1d6ef)
+- **Repercussão / Próximo jogo:** Eliminada e sem chances de classificação, encara os EUA na última rodada do Grupo D, quinta-feira (25/06) no SoFi Stadium.
+
 ## 📅 2026-06-20
 - Turquia enfrenta o Paraguai mais tarde hoje (20/06), no Levi's Stadium, Santa Clara, pela 2ª rodada do Grupo D — confronto direto entre as duas seleções que perderam na estreia (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-20/turquia-vs-paraguai)
 - Provável escalação: Çakir; Kadioglu, Demiral, Bardakci, Müldür; Yuksek, Çalhanoglu; Akturkoglu, Arda Güler, Yildiz; Akgun — técnico Vincenzo Montella (fonte: https://www.terra.com.br/esportes/futebol/turquia-x-paraguai-na-copa-do-mundo-onde-assistir-ao-vivo-horario-e-escalacao,c00583a53ea31740e1642bbfb8b26236obxnait3.html)

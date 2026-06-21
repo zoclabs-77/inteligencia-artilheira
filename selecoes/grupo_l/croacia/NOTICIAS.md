@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Luka Modric, 40 anos (Milan), disputa sua quinta Copa do Mundo, aposta do técnico Zlatko Dalic na experiência (fonte: https://www.terra.com.br/esportes/futebol/croacia-na-copa-do-mundo-2026-veja-a-lista-completa-de-convocados-com-luka-modric,f4deb74586e52d7c381f418f0dfd1002pis7metf.html)
+- Provável escalação: Livakovic; Stanisic, Gvardiol, Sutalo, Vuskovic; Pasalic, Sucic, Baturina, Modric; Perisic, Musa (fonte: https://www.lance.com.br/copa-do-mundo/modric-e-mais-10-confira-a-provavel-escalacao-da-croacia-para-estreia-na-copa-do-mundo.html)
+- **Próximo jogo:** Panamá, 23/06, pela 2ª rodada do Grupo L — após a derrota na estreia para a Inglaterra.
+
 ## 📅 2026-06-18
 - **Repercussão:** Croácia perdeu para a Inglaterra por 2x4 na estreia (17/06) — gols de Baturina (35') e Musa (50'), mas defesa cedeu quatro vezes em Dallas (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/inglaterra-4-x-2-croacia-veja-os-melhores-momentos-de-jogao-da-copa/)
 - Joško Gvardiol apontou "falta de concentração" como fator decisivo na derrota — time buscou o empate mas não conseguiu segurar o ímpeto inglês (fonte: https://www.directvsports.com/futbol/joko-gvardiol-luego-de-la-caida-de-croacia-ante-inglaterra-por-el-mundial-2026-la-falta-de-concentracion-fue-decisiva-20260617-0066.html)

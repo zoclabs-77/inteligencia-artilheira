@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Venceu a Costa do Marfim por 2x1, de virada, com dois gols de Deniz Undav (68' e 94') após sair atrás no placar (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alemanha-vira-no-fim-bate-costa-do-marfim-e-se-classifica-na-copa-do-mundo/)
+- A virada veio após mudanças do técnico Julian Nagelsmann na segunda etapa (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/alemanha-vira-no-final-vence-a-costa-do-marfim-e-encaminha-classificacao-na-copa.html)
+- Chegou a 6 pontos, lidera o Grupo E com 100% de aproveitamento, 9 gols marcados e só 2 sofridos — já praticamente classificada (fonte: https://www.lance.com.br/copa-do-mundo/alemanha-vira-no-final-vence-a-costa-do-marfim-e-encaminha-classificacao-na-copa.html)
+- **Repercussão / Próximo jogo:** Próximo confronto é o Equador, que está em situação desesperada e precisará vencer para sonhar com classificação.
+
 ## 📅 2026-06-20
 - Alemanha enfrenta a Costa do Marfim mais tarde hoje (20/06), no Toronto Stadium, pela 2ª rodada do Grupo E — vencedor garante vaga antecipada nas oitavas (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)
 - Escalação prevista (4-3-3): Baumann; Kimmich, Tah, Schlotterbeck, Raum; Pavlovic, Goretzka, Wirtz; Musiala, Sané, Havertz (fonte: https://tips.gg/pt/article/germany-cote-d-ivoire-predicted-lineups-story/)

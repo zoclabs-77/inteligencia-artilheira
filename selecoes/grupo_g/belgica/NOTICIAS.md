@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Rudi Garcia, provável escalação: Courtois; Meunier, Ngoy, Mechele, De Cuyper; Raskin, Tielemans, Trossard, De Bruyne, Doku; Lukaku (fonte: https://www.terra.com.br/esportes/futebol/internacional/belgica/belgica-x-ira-onde-assistir-escalacoes-e-arbitragem,3d3f0c8da40984ea0af4a3f1005b10590gts5kik.html)
+- Vem de empate 1x1 na estreia, dividindo a liderança do grupo com Egito, Irã e Nova Zelândia (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-belgica-x-ira-21-06-2026.html)
+- **Próximo jogo:** Irã, 21/06, SoFi Stadium, Los Angeles, pela 2ª rodada do Grupo G — cenário de urgência para as duas seleções.
+
 ## 📅 2026-06-20
 - Bélgica enfrenta o Irã em 21/06, no SoFi Stadium, Los Angeles, pela 2ª rodada do Grupo G — Bélgica, Egito, Irã e Nova Zelândia seguem empatados com 1 ponto cada (fonte: https://www.futebolinterior.com.br/belgica-x-ira-copa-do-mundo-2026/)
 - Escalação prevista, sob comando de Rudi Garcia: Courtois; Meunier, Ngoy, Mechele, De Cuyper; Raskin, Tielemans, Leandro Trossard, De Bruyne, Doku; Lukaku (fonte: https://www.futebolinterior.com.br/belgica-x-ira-copa-do-mundo-2026/)

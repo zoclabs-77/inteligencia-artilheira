@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Técnico Mohamed Ouahbi assumiu após a renúncia de Walid Regragui em março/2026, sob pressão pelo vice na CAN (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/rival-da-selecao-na-estreia-da-copa-marrocos-divulga-convocacao-final/)
+- Nomes-chave do elenco: Yassine Bounou, Achraf Hakimi e Brahim Díaz (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/marrocos-convocados-copa-do-mundo-2026)
+- Vem da vitória por 1x0 sobre a Escócia, com gol mais rápido da Copa até agora
+- **Próximo jogo:** Haiti, 24/06, pela 2ª rodada do Grupo C — disputa direta pela liderança com o Brasil.
+
 ## 📅 2026-06-20
 - Marrocos venceu a Escócia por 1x0 no Gillette Stadium, Boston, com gol de Saibari aos 73 segundos — o mais rápido da Copa até agora (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/grupo-do-brasil-marrocos-vence-escocia-com-gol-mais-rapido-da-copa/)
 - Saibari recebeu lançamento de Brahim Díaz, invadiu a área e finalizou com força; time mostrou solidez defensiva para sustentar a vantagem mínima (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/escocia-marrocos-melhores-momentos-resumo-jogo-grupo-c)

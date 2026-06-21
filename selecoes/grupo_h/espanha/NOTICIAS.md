@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-21
+- Sem lesionados confirmados na lista de 26; principal dúvida é a condição física de Lamine Yamal, em recuperação de lesão no bíceps femoral (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/espanha-arabia-saudita-onde-assistir-copa-2026/)
+- Técnico De la Fuente declarou que Yamal não deve jogar a partida inteira (45-60 min), mas tende a ser titular (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-espanha-x-arabia-saudita-21-06-2026.html)
+- Vem de empate 0x0 com Cabo Verde na estreia, em jogo de pouca produção ofensiva
+- **Próximo jogo:** Arábia Saudita, 21/06, Mercedes-Benz Stadium, Atlanta, pela 2ª rodada do Grupo H — quatro seleções empatadas em pontos.
+
 ## 📅 2026-06-20
 - Espanha enfrenta a Arábia Saudita em 21/06, no Mercedes-Benz Stadium, Atlanta, pela 2ª rodada do Grupo H (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
 - Escalação prevista: Unai Simón; Llorente, Cubarsí, Laporte, Cucurella; Rodri, Pedri, Dani Olmo; Lamine Yamal, Ferrán Torres, Oyarzabal (fonte: https://www.365scores.com/pt-br/news/magazine/espanha-x-arabia-saudita-escalacoes-analise/)
