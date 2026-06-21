@@ -73,7 +73,8 @@ const b = await c.query(
    from copa.partidas p
    join copa.selecoes sc on sc.slug = p.casa
    join copa.selecoes sf on sf.slug = p.fora
-   where ${filtroBaseline}
+   where (${filtroBaseline})
+     and exists (select 1 from copa.palpites pp where pp.partida_id = p.id and pp.modelo in ('claude','codex'))
    on conflict (partida_id, modelo) do nothing`,
   [dia ? dia : numRodada]
 );
