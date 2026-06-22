@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- México confirmou domínio total do Grupo A com vitória por 1x0 sobre a Coreia do Sul em Guadalajara, chegando a 6 pontos e à liderança invicta (fonte: https://www.goal.com/br/not%C3%ADcias/republica-tcheca-x-mexico-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/blte3e3fb32bfa81e95)
+- Javier Aguirre deve priorizar foco defensivo e eficiência ofensiva, com Luis Romo e Julián Quiñones como pontos-chave de ataque (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a Tchéquia nesta quinta (25/06), na Cidade do México, pela 3ª rodada do Grupo A — time anfitrião busca garantir a 1ª colocação na fase de 32.
+
 ## 📅 2026-06-21
 - Técnico Javier Aguirre (67 anos), em sua terceira Copa como treinador (2002 e 2010 anteriormente), com Rafael Márquez como auxiliar (fonte: https://esportesmais.com.br/guia-da-copa-do-mundo-2026-mexico/)
 - Provável escalação 4-3-3: Rangel; Sánchez, Montes, Vásquez, Gallardo; Lira, Fidalgo, Gutiérrez; Alvarado, Quiñones, Jiménez (fonte: mesma acima)

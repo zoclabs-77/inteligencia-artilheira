@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Holanda lidera o Grupo F após goleada de 5x1 sobre a Suécia, somando o empate 2x2 com o Japão na estreia; chega confiante à última rodada
+- Lateral Denzel Dumfries vem sendo eficaz pelo lado direito, combinando bem com Cody Gakpo; Virgil van Dijk segue como pilar defensivo (fonte: https://www.goal.com/br/not%C3%ADcias/tunisia-x-holanda-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/bltb895dd8baa22d968)
+- **Repercussão / Próximo jogo:** Enfrenta a já eliminada Tunísia nesta quinta (25/06), em Kansas City, pela 3ª e última rodada do Grupo F.
+
 ## 📅 2026-06-21
 - Goleou a Suécia por 5x1, com gols de Brian Brobbey (2), Cody Gakpo (2) e Crysencio Summerville (fonte: https://bpmoney.com.br/copa-do-mundo/holanda-goleia-suecia-5-a-1-copa-do-mundo-2026-brobbey-gakpo/)
 - Brobbey e Gakpo foram os grandes destaques; Gakpo recebeu elogios da crítica internacional como "World Cup Cody Gakpo" (fonte: https://www.goal.com/en-us/lists/netherlands-player-ratings-vs-sweden-world-cup-cody-gakpo-brian-brobbey-micky-van-de-ven/blteaa50ce8e13aae24)

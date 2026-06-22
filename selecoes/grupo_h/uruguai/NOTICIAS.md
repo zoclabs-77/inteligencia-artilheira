@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-22
+- Uruguai empatou em 2 a 2 com Cabo Verde, pela 2ª rodada do Grupo H, no Hard Rock Stadium, Miami; gols de Maxi Araújo e Agustín Canobbio (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/sem-vencer-na-copa-uruguai-cede-empate-a-cabo-verde-que-sonha-com-vaga/)
+- Celeste chegou a virar o placar no fim do 1º tempo, mas cedeu o empate a Hélio Varela no 2º tempo (fonte: mesma acima)
+- Segundo empate em duas rodadas (1x1 Arábia Saudita, 2x2 Cabo Verde); time ainda não venceu na Copa
+- **Repercussão / Próximo jogo:** Sem vencer, Uruguai joga a vida contra a Espanha na última rodada do Grupo H.
+
 ## 📅 2026-06-21
 - Técnico Marcelo Bielsa, sem lesões/suspensões reportadas; convocados de destaque: Darwin Núñez, Ronald Araújo, Valverde e o goleiro Muslera, disputando sua 5ª Copa (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-2026-uruguai-divulga-lista-de-convocados/)
 - Vem de empate 1x1 com a Arábia Saudita na estreia

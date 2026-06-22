@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Situação é direta: vencer a Coreia do Sul e se classificar às oitavas, ou ser eliminada em caso de derrota ou empate (fonte: https://www.windrawwin.com/br/dicas/copa-do-mundo-grupo-a/africa-do-sul-x-coreia-do-sul/854475/)
+- Campanha começou com derrota de 2x0 para o México, mas melhorou com o empate 1x1 contra a Tchéquia
+- **Repercussão / Próximo jogo:** Enfrenta a Coreia do Sul de Son Heung-min nesta quinta (25/06), no Estádio BBVA, Monterrey, pela 3ª e decisiva rodada do Grupo A.
+
 ## 📅 2026-06-21
 - Técnico Hugo Broos; convocação foi criticada por torcedores por deixar Brandon Peterson, "Tito" Maswanganyi e Grant Kekana fora da lista (fonte: https://www.lance.com.br/copa-do-mundo/guia-completo-do-lance-saiba-tudo-sobre-a-africa-do-sul-na-copa-do-mundo-2026.html)
 - Retorno à Copa após 16 anos de ausência (fonte: https://jornalismojunior.com.br/copa-do-mundo-africa-do-sul/)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Suíça chega à 3ª rodada com 4 pontos, junto com o Canadá, que lidera por saldo de gols; equipe marcou 5 e sofreu 2 gols na competição até aqui (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/previa-matchday-oito-copa-do-mundo-fifa-2026)
+- Considerada a seleção mais sólida e organizada taticamente do Grupo B (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Canadá nesta quarta (24/06), 16h de Brasília, no BC Place, Vancouver — decide a liderança do Grupo B.
+
 ## 📅 2026-06-21
 - Técnico Murat Yakin; base experiente com Xhaka e Ricardo Rodríguez como referências; chegou à Copa com eliminatórias invictas (fonte: https://www.correio24horas.com.br/esportes/suica-na-copa-do-mundo-2026-veja-jogos-historico-e-lista-de-convocados-0526)
 - Vem da goleada de 4x1 sobre a Bósnia, liderando o Grupo B com 4 pontos

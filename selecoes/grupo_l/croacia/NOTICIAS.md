@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Croácia perdeu por 4 a 2 para a Inglaterra na estreia, mostrando reação ofensiva mas pagando caro por erros defensivos; gols de Petar Musa e Martin Baturina (fonte: https://www.si.com/es-us/futbol/panama-vs-croacia-previa-predicciones-y-alineaciones-23-06-2026)
+- Chega "golpeada" mas com mais hierarquia individual e experiência, com Modric, Baturina e o peso ofensivo de Musa (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Panamá nesta terça (23/06), 20h de Brasília, no BMO Field, Toronto — duelo decisivo entre as duas equipes derrotadas na estreia do Grupo L.
+
 ## 📅 2026-06-21
 - Luka Modric, 40 anos (Milan), disputa sua quinta Copa do Mundo, aposta do técnico Zlatko Dalic na experiência (fonte: https://www.terra.com.br/esportes/futebol/croacia-na-copa-do-mundo-2026-veja-a-lista-completa-de-convocados-com-luka-modric,f4deb74586e52d7c381f418f0dfd1002pis7metf.html)
 - Provável escalação: Livakovic; Stanisic, Gvardiol, Sutalo, Vuskovic; Pasalic, Sucic, Baturina, Modric; Perisic, Musa (fonte: https://www.lance.com.br/copa-do-mundo/modric-e-mais-10-confira-a-provavel-escalacao-da-croacia-para-estreia-na-copa-do-mundo.html)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Austrália de Tony Popovic busca reagir após a derrota para os EUA e definir a 2ª vaga do Grupo D direto contra o Paraguai (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
+- Análise tática aponta risco no estilo ofensivo australiano, que deixa espaços expostos quando as laterais avançam — vulnerabilidade diante do poderio físico paraguaio (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Paraguai nesta sexta (26/06), no Levi's Stadium, Santa Clara, decidindo a 2ª vaga do Grupo D nas oitavas.
+
 ## 📅 2026-06-20
 - Austrália perdeu por 2x0 para os EUA no Lumen Field, Seattle, com gol contra de Cameron Burgess e gol de Alex Freeman (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/estados-unidos-2-x-0-australia-veja-os-melhores-momentos-do-jogo-da-copa/)
 - **Repercussão / Próximo jogo:** Derrota deixa a Austrália com 3 pontos no Grupo D, ainda viva mas dependente do resultado entre Turquia e Paraguai para garantir vaga nas oitavas.

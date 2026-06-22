@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Marrocos vem de campanha sólida no Grupo C: empate 1x1 com o Brasil e vitória por 1x0 sobre a Escócia, gol de Ismael Saibari (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-24/marrocos-vs-haiti)
+- Pode garantir classificação mesmo em caso de derrota no próximo jogo, desde que o Brasil vença a Escócia na rodada paralela (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Haiti, já eliminado, nesta quarta (24/06), pela 3ª rodada do Grupo C.
+
 ## 📅 2026-06-21
 - Técnico Mohamed Ouahbi assumiu após a renúncia de Walid Regragui em março/2026, sob pressão pelo vice na CAN (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/rival-da-selecao-na-estreia-da-copa-marrocos-divulga-convocacao-final/)
 - Nomes-chave do elenco: Yassine Bounou, Achraf Hakimi e Brahim Díaz (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/marrocos-convocados-copa-do-mundo-2026)

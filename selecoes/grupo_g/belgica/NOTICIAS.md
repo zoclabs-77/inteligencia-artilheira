@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-22
+- Bélgica empatou em 0 a 0 com o Irã, pela 2ª rodada do Grupo G, em Los Angeles, em jogo de pouca produção ofensiva (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/belgica-tropeca-e-so-empata-com-ira-que-segue-sem-perder-na-copa/)
+- Ngoy foi expulso aos 20 minutos do 2º tempo após puxão em Taremi que evitou contra-ataque iraniano; Bélgica jogou o resto do jogo com um a menos (fonte: mesma acima)
+- Com o resultado, Bélgica chega a 2 pontos após dois empates (1x1 com Egito na estreia, 0x0 com Irã)
+- **Repercussão / Próximo jogo:** Grupo G segue completamente embolado; belgas precisam reagir na última rodada para não correr risco de eliminação.
+
 ## 📅 2026-06-21
 - Técnico Rudi Garcia, provável escalação: Courtois; Meunier, Ngoy, Mechele, De Cuyper; Raskin, Tielemans, Trossard, De Bruyne, Doku; Lukaku (fonte: https://www.terra.com.br/esportes/futebol/internacional/belgica/belgica-x-ira-onde-assistir-escalacoes-e-arbitragem,3d3f0c8da40984ea0af4a3f1005b10590gts5kik.html)
 - Vem de empate 1x1 na estreia, dividindo a liderança do grupo com Egito, Irã e Nova Zelândia (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-belgica-x-ira-21-06-2026.html)

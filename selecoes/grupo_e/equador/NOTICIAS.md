@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Equador chega frustrado após o 0x0 "papelón" com Curaçao (27 chutes, 15 no alvo, sem gol) e precisa reagir diante da Alemanha (fonte: https://www.goal.com/en-us/news/ecuador-germany-world-cup-preview/bltbed893fcfca000eb)
+- Enner Valencia e os laterais foram sufocados pela defesa compacta curaçolenha; time de Beccacece soma só 1 ponto em 2 jogos
+- **Repercussão / Próximo jogo:** Enfrenta a líder Alemanha nesta quinta (25/06), no MetLife Stadium, East Rutherford, pela 3ª rodada do Grupo E.
+
 ## 📅 2026-06-21
 - Empatou em 0x0 com Curaçao, mas dominou amplamente a posse e finalizações: 27 chutes, 15 no alvo — maior número sem gol em uma partida de Copa desde 1966 (fonte: https://www.espn.com/soccer/story/_/id/49128614/ecuador-curacao-live-world-cup-2026-latest-updates-commentary-score-result)
 - Travado pelas defesas de Eloy Room, ficou "ao borde de la eliminación", com 1 ponto em 2 jogos no Grupo E (fonte: https://www.infobae.com/peru/deportes/2026/06/20/ecuador-vs-curazao-en-vivo-hoy-partido-por-la-fecha-2-del-grupo-e-en-el-mundial-2026-goles-resumen-resultado/)

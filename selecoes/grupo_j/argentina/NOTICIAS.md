@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-22
+- Provável escalação para hoje: Emiliano Martínez; Nahuel Molina, Cristian Romero, Lisandro Martínez, Facundo Medina; Thiago Almada, Rodrigo De Paul, Enzo Fernández, Alexis Mac Allister; Lautaro Martínez e Messi (fonte: https://trivela.com.br/copa-do-mundo/argentina-x-austria-provaveis-escalacoes-copa/)
+- Gonzalo Montiel, titular contra a Argélia, lida com dores na coxa e perde a vaga para Nahuel Molina (fonte: mesma acima)
+- Argentina chega embalada após goleada por 3 a 0 sobre a Argélia na estreia, com 3 pontos
+- **Repercussão / Próximo jogo:** Enfrenta a Áustria hoje (22/06), 14h de Brasília, no AT&T Stadium, em Arlington, pela 2ª rodada do Grupo J — ambas chegam com 3 pontos.
+
 ## 📅 2026-06-21
 - Provável escalação: Martínez; Molina, Romero, Martínez, Medina; De Paul, Mac Allister, Fernández, González; Messi, Álvarez (fonte: https://www.365scores.com/pt-br/news/magazine/argentina-x-austria-escalacoes-analise-copa/)
 - **Próximo jogo:** Áustria, 22/06, AT&T Stadium, Arlington, pela 2ª rodada do Grupo J.

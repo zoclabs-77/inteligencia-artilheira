@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-22
+- Irã empatou em 0 a 0 com a Bélgica, pela 2ª rodada do Grupo G, em Los Angeles; goleiro Beiranvand foi o destaque do confronto (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/belgica-tropeca-e-so-empata-com-ira-que-segue-sem-perder-na-copa/)
+- Seleção teve um gol anulado pelo VAR ainda no 1º tempo, mas seguiu sem perder na competição (fonte: mesma acima)
+- Irã chega a 2 pontos, somando dois empates (2x2 com Nova Zelândia na estreia, 0x0 com Bélgica)
+- **Repercussão / Próximo jogo:** Time mantém vivo o sonho histórico de avançar às oitavas pela 1ª vez em sete participações em Copas.
+
 ## 📅 2026-06-21
 - Técnico Amir Ghalenoei, provável escalação: Beiranvand; Rezaeian, Khalilzadeh, Nameti, Milad Mohammadi; Ghayedi, Mohebi, Ezatolahi, Hajsafi; Alipour, Taremi (fonte: https://www.terra.com.br/esportes/futebol/internacional/belgica/belgica-x-ira-onde-assistir-escalacoes-e-arbitragem,3d3f0c8da40984ea0af4a3f1005b10590gts5kik.html)
 - Vem de empate 1x1 na estreia, dividindo a liderança do grupo em pontos com Bélgica, Egito e Nova Zelândia

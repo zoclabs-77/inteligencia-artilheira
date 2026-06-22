@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-22
+- Japão goleou a Tunísia por 4 a 0 pela 2ª rodada do Grupo F, no Estádio BBVA, Monterrey, com gols de Kamada, Ayase Ueda (2x) e Junya Ito (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/tunisia-japao-melhores-momentos-resumo-jogo-grupo-f)
+- Resultado leva o Japão a 4 pontos e aumenta as chances de um possível confronto com o Brasil no mata-mata (fonte: https://www.bnews.com.br/noticias/esporte/copa-2026-japao-goleia-tunisia-por-4x0-e-aumenta-chances-de-enfrentar-o-brasil-no-mata-mata.html)
+- Atuação ofensiva consistente após o empate com a Holanda na estreia, confirmando favoritismo no Grupo F
+- **Repercussão / Próximo jogo:** Com a vitória, Japão entra na última rodada podendo até empatar com a Suécia (25/06, Dallas) para seguir vivo na briga pelas oitavas.
+- Time mantém o blueprint ofensivo de alta intensidade que funcionou contra a Tunísia, mas precisa equilibrar com foco defensivo, já que os avanços dos laterais deixam espaços expostos (fonte: https://www.goal.com/en-us/news/japan-sweden-world-cup-preview/blt8a938f12b12022e4)
+
 ## 📅 2026-06-21
 - Provável escalação em 3-4-2-1: Suzuki; Watanabe, Taniguchi, H. Ito; Sugawara, Kamada, Sano, Nakamura; Doan, Maeda; Ueda (fonte: https://www.sportsmole.co.uk/football/japan/world-cup-2026/predicted-lineups/kubo-injury-blow-sugawara-doan-decisions-predicted-japan-lineup-vs-tunisia_599496.html)
 - Takefusa Kubo é desfalque confirmado por lesão; Sugawara assume a lateral em seu lugar (fonte: mesma acima)

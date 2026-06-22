@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Bósnia teve o zagueiro Tarik Muharemović expulso aos 80 minutos da derrota por 4 a 1 para a Suíça, o que complica a reorganização defensiva para o próximo jogo (fonte: https://www.goal.com/en-us/news/bosnia-herzegovina-qatar-world-cup-preview/blt5e8717e6a4265b16)
+- Aposta na experiência e no contra-ataque para o duelo decisivo de classificação (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Catar nesta quarta (24/06), no Lumen Field, Seattle, pela 3ª rodada do Grupo B — ambos buscam recuperação após goleadas sofridas.
+
 ## 📅 2026-06-21
 - Técnico Sergej Barbarez; capitão Edin Dzeko (40 anos, Schalke 04), artilheiro histórico do país (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/copa-do-mundo-2026-os-destaques-da-bosnia-para-o-mundial/)
 - Bloco defensivo coeso é a marca da equipe, segundo análise tática, mas sofreu goleada de 1x4 na rodada anterior contra a Suíça (fonte: https://www.365scores.com/pt-br/news/magazine/guia-copa-2026-bosnia-herzegovina/)

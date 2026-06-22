@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Curaçao chega ao confronto contra a Costa do Marfim ainda celebrando o feito histórico do goleiro Eloy Room, autor de 15 defesas no empate 0x0 com o Equador
+- Equipe estreante em Copas soma 1 ponto e enfrenta agora os marfinenses, líderes do Grupo E (fonte: https://www.fifa.com/pt/articles/curacao-costa-marfim-mexico-africa-sul-previa-jogo-copa-mundo-grupo-e)
+- **Repercussão / Próximo jogo:** Enfrenta a Costa do Marfim nesta quinta (25/06), em Filadélfia, pela 3ª rodada do Grupo E.
+
 ## 📅 2026-06-21
 - Empatou 0x0 com o Equador e somou seu primeiro ponto histórico em Copas do Mundo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/conheca-eloy-room-heroi-de-curacao-no-empate-com-equador-na-copa-do-mundo/)
 - O goleiro Eloy Room foi o grande nome da partida: fez 15 defesas, recorde de um goleiro em jogo de 90 minutos na história das Copas, superando a marca do peruano Quiroga (14, em 1978) (fonte: https://diariodoestadogo.com.br/eloy-room-brilha-com-15-defesas-e-garante-empate-entre-curacao-e-equador/)

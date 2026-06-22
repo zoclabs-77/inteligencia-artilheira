@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Colômbia abriu a Copa com vitória convincente por 3 a 1 sobre o Uzbequistão e chega como favorita para encaminhar a classificação (fonte: https://www.flashscore.com.br/noticias/futebol-campeonato-do-mundo-copa-do-mundo-de-2026-previa-palpites-odds-e-melhores-apostas-do-grupo-k/n5jo00pC/)
+- James Rodríguez e a velocidade de transição de Luis Díaz devem ditar o ritmo ofensivo colombiano (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a RD Congo nesta terça (23/06), 23h de Brasília, no Estádio Akron — vitória encaminharia a vaga nas oitavas do Grupo K.
+
 ## 📅 2026-06-21
 - Técnico Néstor Lorenzo convocou 26 jogadores; James Rodríguez disputa sua terceira Copa, Luis Díaz é referência ofensiva (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-convocacao-colombia)
 - Lidera o Grupo K após a goleada na 1ª rodada (fonte: https://www.goal.com/en-us/news/colombia-dr-congo-world-cup-preview/blt2f05808271536e66)

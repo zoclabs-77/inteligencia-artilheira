@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Suécia perdeu a invencibilidade na competição com a goleada sofrida da Holanda (5x1) e agora precisa vencer o Japão para seguir vivo no Grupo F (fonte: https://www.goal.com/en-us/news/japan-sweden-world-cup-preview/blt8a938f12b12022e4)
+- Defende retrospecto positivo de classificações ao mata-mata em suas últimas quatro participações em Copas
+- **Repercussão / Próximo jogo:** Enfrenta o Japão nesta quinta (25/06), 20h de Brasília, no Estádio de Dallas, em confronto decisivo pela 3ª rodada do Grupo F.
+
 ## 📅 2026-06-21
 - Perdeu por 5x1 da Holanda, com gol de honra de Anthony Elanga (fonte: https://bpmoney.com.br/copa-do-mundo/holanda-goleia-suecia-5-a-1-copa-do-mundo-2026-brobbey-gakpo/)
 - Chegava embalada após goleada de 5x1 sobre a Tunísia na rodada anterior, mas perdeu a invencibilidade na competição

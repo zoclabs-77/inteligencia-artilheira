@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-22
+- Noruega lidera o Grupo I após goleada por 4 a 1 sobre o Iraque na estreia (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-noruega-x-senegal-previa-da-partida-da-copa-do-mundo-de-2026/25408/)
+- Erling Haaland marcou em cada uma das últimas 11 partidas oficiais pela seleção e mais de um gol em cada uma das últimas 5; equipe venceu os últimos 11 jogos oficiais (fonte: mesma acima)
+- Primeiro confronto entre Noruega e Senegal em Copas do Mundo masculinas — único encontro anterior foi amistoso em 2006 (vitória senegalesa por 2x1)
+- **Repercussão / Próximo jogo:** Enfrenta o Senegal nesta terça (23/06), 21h de Brasília, no MetLife Stadium, Nova York — vitória encaminharia vaga nas oitavas do Grupo I.
+
 ## 📅 2026-06-21
 - Equipe liderada por Haaland e Ødegaard; provável escalação: Nyland; Ryerson, Ajer, Østigård, Møller Wolfe; Berge, Berg, Ødegaard; Bobb, Nusa, Haaland (fonte: https://www.otempo.com.br/sports/copa-do-mundo/2026/2026/6/18/passaporte-da-copa-com-haaland-e-geracao-historica-noruega-volta-ao-mundial-apos-28-anos)
 - Retorna ao Mundial após 28 anos de ausência, com Haaland como artilheiro de destaque na campanha de classificação (fonte: mesma acima)

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-22
+- Egito venceu a Nova Zelândia por 3 a 1, pela 2ª rodada do Grupo G, em Vancouver; gols de Mostafa Ziko, Mohamed Salah e Trezeguet (fonte: https://trivela.com.br/copa-do-mundo/nova-zelandia-1x3-egito-salah-protagonismo-historia/)
+- Salah, mesmo lidando com desconforto na coxa, decidiu com gol e deu a assistência para o terceiro gol de Trezeguet, de cabeça (fonte: mesma acima)
+- Vitória é a primeira da seleção egípcia em Copas do Mundo da história
+- **Repercussão / Próximo jogo:** Resultado encaminha a campanha dos Faraós no Grupo G antes da decisão da última rodada.
+
 ## 📅 2026-06-21
 - Técnico Hossam Hassan, ídolo histórico do futebol egípcio, levou os Faraós a terminar as eliminatórias invictos (fonte: https://trivela.com.br/copa-do-mundo/egito-faraos-salah-podem-sonhar-classificacao-empate/)
 - Provável escalação: Shobeir; Hany, Ibrahim, Fathy, Fatouh; Lasheen, Attia; Salah, Ashour, Ziko; Marmoush (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/nova-zelandia-egito-previa-jogo-copa-mundo-grupo-g)

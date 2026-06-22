@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Arábia Saudita foi goleada por 4 a 0 pela Espanha, pela 2ª rodada do Grupo H, com a Roja dominando 17 finalizações a 2 ainda no 1º tempo (fonte: https://diariodopara.com.br/copa-do-mundo/copa-do-mundo-2026-espanha-goleia-arabia-saudita-e-assume-lideranca-do-grupo-h/)
+- Resultado deixa a seleção com apenas 1 ponto, na última posição do Grupo H (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Situação ficou muito difícil; precisa vencer Cabo Verde na última rodada e ainda depender de outros resultados para sonhar com classificação.
+
 ## 📅 2026-06-21
 - Técnico é o grego Georgios Donis (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/saudi-arabia/team-news)
 - Vem de empate 1x1 com o Uruguai na estreia

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-22
+- Espanha goleou a Arábia Saudita por 4 a 0 pela 2ª rodada do Grupo H, com três gols ainda no 1º tempo: Lamine Yamal, e dois de Mikel Oyarzabal (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/espanha-atropela-a-arabia-saudita-e-se-recupera-na-copa-do-mundo/)
+- Lamine Yamal, aos 18 anos, se tornou o oitavo jogador mais jovem da história a marcar em uma Copa do Mundo (fonte: mesma acima)
+- Domínio total no 1º tempo: 17 finalizações da Espanha contra apenas 2 da Arábia Saudita (fonte: https://diariodopara.com.br/copa-do-mundo/copa-do-mundo-2026-espanha-goleia-arabia-saudita-e-assume-lideranca-do-grupo-h/)
+- **Repercussão / Próximo jogo:** Recuperada do tropeço na estreia, Espanha assume a liderança provisória do Grupo H com 4 pontos.
+
 ## 📅 2026-06-21
 - Sem lesionados confirmados na lista de 26; principal dúvida é a condição física de Lamine Yamal, em recuperação de lesão no bíceps femoral (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/espanha-arabia-saudita-onde-assistir-copa-2026/)
 - Técnico De la Fuente declarou que Yamal não deve jogar a partida inteira (45-60 min), mas tende a ser titular (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-espanha-x-arabia-saudita-21-06-2026.html)

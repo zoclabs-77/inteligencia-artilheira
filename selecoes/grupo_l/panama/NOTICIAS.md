@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Panamá esteve perto de empatar com Gana na estreia, mas uma desatenção nos minutos finais custou a derrota por 1 a 0 (fonte: https://www.si.com/es-us/futbol/panama-vs-croacia-previa-predicciones-y-alineaciones-23-06-2026)
+- Chega pressionado à 2ª rodada, já que Inglaterra e Gana somam 3 pontos e lideram a chave (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a Croácia de Modric nesta terça (23/06), 20h de Brasília, no BMO Field, Toronto — duelo decisivo entre as duas equipes derrotadas na estreia do Grupo L.
+
 ## 📅 2026-06-21
 - Sem detalhes específicos de escalação ou lesões disponíveis nas fontes consultadas até o momento para o próximo jogo (fonte: https://www.goal.com/en-us/news/panama-croatia-world-cup-preview/blt39aad5317bdcdba7)
 - **Próximo jogo:** Croácia, 23/06, pela 2ª rodada do Grupo L — adversário tem Luka Modric, 40 anos, disputando sua quinta Copa.

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Escócia vem de derrota por 1 a 0 para o Marrocos na rodada anterior e chega à última rodada do Grupo C sem chances de classificação caso o Brasil vença (fonte: https://www.goal.com/en-us/news/scotland-brazil-world-cup-preview/blt7e5ff4d86c71b434)
+- Escalação projetada: Gunn; Patterson, Hendry, Hanley, Tierney, Robertson; Christie, Ferguson, McGinn, McTominay; Adams (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Brasil nesta quarta (24/06), 19h de Brasília, no Hard Rock Stadium, Miami, pela 3ª e última rodada do Grupo C — retorno do país a uma Copa após 28 anos de ausência.
+
 ## 📅 2026-06-21
 - Técnico Steve Clarke renovou contrato com a federação; primeira Copa do Mundo do país em 28 anos (fonte: https://www.lance.com.br/copa-do-mundo/rival-do-brasil-na-copa-escocia-anuncia-renovacao-com-tecnico-steve-clarke.html)
 - Clarke sobre o próximo adversário, o Brasil: "não é preciso falar muito... todos sabem o que eles representam para a Copa e para o futebol em geral" (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/steve-clarke-escocia-entrevista)

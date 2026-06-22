@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Haiti foi oficialmente confirmado como a primeira seleção eliminada da Copa do Mundo 2026, após perder também para a Escócia por 1 a 0 na rodada anterior (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-24/marrocos-vs-haiti)
+- Mesmo eliminado, disputa a última rodada em sua primeira participação em Copas desde 1974
+- **Repercussão / Próximo jogo:** Encara o Marrocos nesta quarta (24/06), pela 3ª e última rodada do Grupo C, já sem chances de classificação.
+
 ## 📅 2026-06-21
 - Técnico Sébastien Migné; retorno histórico do país à Copa após 52 anos de ausência (desde 1974) (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-haiti-informacoes)
 - Vem de derrota por 0x3 para o Brasil na rodada anterior

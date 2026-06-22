@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Canadá chega à 3ª rodada com 4 pontos e lidera o Grupo B no saldo de gols (7 a favor, 1 contra), maior poder ofensivo da chave até aqui (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/previa-matchday-oito-copa-do-mundo-fifa-2026)
+- Único confronto anterior entre as seleções foi um amistoso em maio de 2002, vencido pelos canadenses por 3 a 1
+- **Repercussão / Próximo jogo:** Enfrenta a Suíça, como anfitrião, nesta quarta (24/06), 16h de Brasília, no BC Place, Vancouver — decide a liderança do Grupo B.
+
 ## 📅 2026-06-21
 - Técnico Jesse Marsch; vive boa fase na competição na condição de anfitrião, após a goleada histórica de 6x0 sobre o Catar (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16044418/grupo-b-copa-do-mundo-2026-tudo-sobre-selecao-canada-suica-qatar)
 - **Próximo jogo:** Suíça, 24/06, pela 2ª rodada do Grupo B — jogo decisivo de liderança de grupo, segundo análise da imprensa.

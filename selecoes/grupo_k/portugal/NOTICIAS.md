@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Time deve atuar no 4-2-3-1, com Vitinha e João Neves na base do meio-campo e Bruno Fernandes centralizado; Francisco Conceição pode entrar pela direita e Pedro Neto dá profundidade pela esquerda (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-x-uzbequistao-horario-e-onde-assistir-ao-jogo-da-copa-do-mundo/)
+- Portugal só empatou 1 a 1 com a RD Congo na estreia e precisa reagir nesta 2ª rodada
+- **Repercussão / Próximo jogo:** Enfrenta o Uzbequistão nesta terça (23/06), 14h de Brasília, no NRG Stadium, Houston, pela 2ª rodada do Grupo K.
+
 ## 📅 2026-06-21
 - Cristiano Ronaldo, 41 anos, disputa sua sexta Copa do Mundo, um recorde histórico (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/cristiano-ronaldo-sexta-copa-do-mundo-portugal)
 - Técnico Roberto Martínez, provável escalação: Diogo Costa; Cancelo, Araújo, Veiga, Nuno Mendes; Vitinha, Neves, B. Fernandes; B. Silva, P. Neto, CR7 (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-cristiano-ronaldo-portugal-divulga-convocados-para-a-copa-do-mundo/)

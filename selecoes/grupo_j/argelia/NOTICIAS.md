@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Argélia foi derrotada por 3 a 0 pela Argentina de Messi na estreia, e chega pressionada à 2ª rodada do Grupo J (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-jordania-x-argelia-23-06-2026.html)
+- Equipe vem de boa sequência recente nas Eliminatórias (3 vitórias, 1 empate, 1 derrota nos últimos 5 jogos), com 12 gols marcados e só 2 sofridos antes da Copa (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a Jordânia nesta terça (23/06), 00h, no San Francisco Bay Area Stadium, Santa Clara — duelo direto entre equipes derrotadas na rodada de abertura do Grupo J.
+
 ## 📅 2026-06-21
 - Vem de derrota por 3x0 para a Argentina na rodada anterior; sem lesões significativas reportadas (fonte: https://www.goal.com/en-us/news/jordan-algeria-world-cup-preview/bltddae6909cf8922c4)
 - Técnico Vladimir Petkovic aposta em vigor físico e organização tática; provável 4-3-3 com Bentaleb, Gouiri e Maza (fonte: https://www.terra.com.br/esportes/futebol/jordania-divulga-26-convoados-para-a-disputa-do-grupo-j-da-copa-do-mundo,129d41ca334e6b5d6ceefc70c455fa2euew95miv.html)

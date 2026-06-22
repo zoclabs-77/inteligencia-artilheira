@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-22
+- Paraguai chega embalado com 3 pontos após eliminar a Turquia e disputa a vaga nas oitavas direto contra a Austrália (fonte: https://www.foxnews.com/sports/usa-clinches-first-place-world-cup-group-paraguays-win-turkey-seals-favorable-bracket-path)
+- Julio Enciso se destaca como peça criativa avançada do ataque de Gustavo Alfaro, chave para furar a defesa australiana (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
+- Miguel Almirón cumpre suspensão automática após expulsão contra a Turquia e é desfalque confirmado
+- **Repercussão / Próximo jogo:** Enfrenta a Austrália nesta sexta (26/06), no Levi's Stadium, Santa Clara, decidindo a 2ª vaga do Grupo D nas oitavas.
+
 ## 📅 2026-06-21
 - Venceu a Turquia por 1x0 com gol de Matías Galarza aos 1min06s, o mais rápido da Copa 2026 (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/turquia-paraguai-melhores-momentos-resumo-grupo-d)
 - Galarza, ex-Vasco, foi eleito o melhor jogador da partida (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/paraguai-x-turquia-matias-galarza-e-eleito-melhor-jogador-da-partida/)

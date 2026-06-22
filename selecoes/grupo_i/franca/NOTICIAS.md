@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-22
+- Provável escalação: Maignan; Koundé, Saliba, Upamecano, Digne; Rabiot, Koné; Dembélé, Olise, Barcola; Mbappé (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-provavel-escalacao-da-franca-contra-o-iraque/)
+- Principal mudança: Barcola entra no lugar de Désiré Doué; Digne assume a lateral esquerda no lugar de Théo Hernandez (fonte: mesma acima)
+- Vem de vitória por 3 a 1 sobre o Senegal na estreia, com 2 gols de Mbappé (agora maior artilheiro histórico da seleção masculina francesa) e 1 de Barcola
+- **Repercussão / Próximo jogo:** Enfrenta o Iraque hoje (22/06), 18h de Brasília, no Lincoln Financial Field, Filadélfia, pela 2ª rodada do Grupo I.
+
 ## 📅 2026-06-21
 - Técnico Didier Deschamps; convocados incluem Mbappé, Dembélé, Koundé e Tchouaméni (fonte: https://revistaforum.com.br/esporte/convocacao-da-franca-confira/)
 - Principais ausências por lesão: Hugo Ekitiké (tendão de Aquiles, lesionado em abril) e Eduardo Camavinga, com temporada marcada por lesões (fonte: mesma acima)

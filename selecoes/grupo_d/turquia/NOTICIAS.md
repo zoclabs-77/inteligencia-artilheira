@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Turquia já está eliminada após a derrota para o Paraguai e disputa a última rodada apenas pelo resultado simbólico (fonte: https://sports.yahoo.com/soccer/breaking-news/article/world-cup-2026-paraguay-tops-turkiye-securing-group-d-win-for-usa-and-eliminating-turkiye-from-knockout-round-050605098.html)
+- Escalação projetada sem desfalques por lesão/suspensão: Cakir; Celik, Demiral, Soyuncu, Kadioglu; Calhanoglu, Yokuslu, Kokcu; Guler, Yildiz, Akturkoglu (fonte: https://www.rotowire.com/soccer/article/2026-world-cup-group-d-preview-united-states-paraguay-australia-turkiye-tactics-lineups-set-pieces-odds-110622)
+- **Repercussão / Próximo jogo:** Encara os EUA, já classificados em 1º lugar, nesta quinta (25/06), no Estádio de Los Angeles, pela 3ª e última rodada do Grupo D.
+
 ## 📅 2026-06-21
 - Perdeu por 0x1 para o Paraguai (gol de Galarza com 1min06s) e está eliminada da Copa, após 24 anos sem disputar o torneio (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-gol-relampago-paraguai-elimina-a-turquia-e-vence-1a-na-copa-em-16-anos/)
 - Teve 62 chutes a gol em toda a campanha e zero gols marcados, retrospecto chamado de "cruel" pela imprensa (fonte: https://www.abola.pt/noticias/balanco-cruel-da-turquia-eliminada-no-mundial-62-remates-e-zero-golos-2026062008434197850)

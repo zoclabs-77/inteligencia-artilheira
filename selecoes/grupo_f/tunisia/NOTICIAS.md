@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-22
+- Tunísia perdeu por 4 a 0 para o Japão pela 2ª rodada do Grupo F, no Estádio BBVA, Monterrey, com gols de Kamada, Ayase Ueda (2x) e Junya Ito (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/tunisia-japao-melhores-momentos-resumo-jogo-grupo-f)
+- Segunda goleada sofrida em duas rodadas (1x5 Suécia, 0x4 Japão); seleção está matematicamente eliminada da Copa (fonte: https://www.bnews.com.br/noticias/esporte/copa-2026-japao-goleia-tunisia-por-4x0-e-aumenta-chances-de-enfrentar-o-brasil-no-mata-mata.html)
+- Curto período de adaptação ao novo técnico Hervé Renard (apenas 4 dias) não foi suficiente para reorganizar a equipe
+- **Repercussão / Próximo jogo:** Eliminada antes da última rodada, Tunísia agora joga só pelo orgulho contra a Holanda em 25/06, em Kansas City.
+- Demitiu o técnico Sabri Lamouchi após a derrota para a Suécia e contratou o francês Hervé Renard; capitão Ellyes Skhiri, o criativo Hannibal Mejbri e o ponta Elias Achouri são as referências do time (fonte: https://www.goal.com/br/not%C3%ADcias/tunisia-x-holanda-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/bltb895dd8baa22d968)
+
 ## 📅 2026-06-21
 - Hervé Renard assumiu o comando após demissão do técnico anterior (derrota por 5x1 para a Suécia) e teve apenas 4 dias de preparação, resetando o esquema tático de 3-5-2 para 4-2-3-1 (fonte: https://www.sportsmole.co.uk/football/tunisia/world-cup-2026/predicted-lineups/new-boss-renard-to-make-changes-predicted-tunisia-lineup-vs-japan_599495.html)
 - Provável escalação: Dahmen; Valery, Rekik, Talbi, Abdi; Khedira, Skhiri; Achouri, Mejbri, Gharbi; Saad (fonte: https://www.rotowire.com/soccer/article/tunisia-vs-japan-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-118802)

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-22
+- Cabo Verde empatou em 2 a 2 com o Uruguai, pela 2ª rodada do Grupo H, no Hard Rock Stadium, Miami; gols de Kevin Pina e Hélio Varela (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/sem-vencer-na-copa-uruguai-cede-empate-a-cabo-verde-que-sonha-com-vaga/)
+- Equipe buscou o resultado até o fim, anotando o gol de empate já no 2º tempo após sofrer a virada (fonte: mesma acima)
+- Seguindo como sensação do torneio, soma 2 pontos após empates com Espanha (0x0) e Uruguai (2x2)
+- **Repercussão / Próximo jogo:** Cabo Verde pode garantir vaga inédita nas oitavas se vencer a Arábia Saudita na última rodada do Grupo H.
+
 ## 📅 2026-06-21
 - Técnico Pedro "Bubista" Leitão; disputa a primeira Copa do Mundo da história do país, momento histórico para a delegação (fonte: https://massa.com.br/copa-do-mundo-2026/cabo-verde-x-uruguai-ao-vivo)
 - Vem de empate heroico 0x0 com a Espanha na estreia, com atuação decisiva do goleiro Vozinha (fonte: mesma acima)

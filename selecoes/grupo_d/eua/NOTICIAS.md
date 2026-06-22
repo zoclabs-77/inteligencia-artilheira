@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- EUA já garantiram a liderança do Grupo D com 6 pontos e devem rotacionar o time diante da Turquia, já eliminada; capitão Christian Pulisic está fora por lesão na panturrilha (fonte: https://www.fifa.com/en/match-centre/match/17/285023/289273/400021459)
+- Provável escalação com rotação: Turner; Scally, McKenzie, Robinson, Trusty; Tillman, Berhalter, Reyna; Weah, Wright, Aaronson (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Encara a Turquia nesta quinta (25/06), no Estádio de Los Angeles, pela 3ª e última rodada do Grupo D, já classificados em 1º lugar.
+
 ## 📅 2026-06-20
 - EUA venceram a Austrália por 2x0 no Lumen Field, Seattle, com gol contra de Cameron Burgess e gol de Alex Freeman (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/estados-unidos-2-x-0-australia-veja-os-melhores-momentos-do-jogo-da-copa/)
 - Folarin Balogun avançou pela esquerda e cruzou rasteiro, gerando o desvio infeliz de Burgess que abriu o placar (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289273/400021462)

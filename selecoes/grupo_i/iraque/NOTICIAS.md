@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Provável escalação: Basil; Ali, Tahseen, Hashem, Doski; Bayesh, Al-Ammari, Iqbal, Ali Jasim; Hussein, Al-Hamadi (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/franca-x-iraque-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-copa-do-mundo/)
+- Vem de goleada sofrida por 4 a 1 para a Noruega na estreia; ainda não somou pontos no torneio (fonte: https://trivela.com.br/copa-do-mundo/franca-x-iraque-escalacao-francesa-pode-tres-mudancas-copa/)
+- **Repercussão / Próximo jogo:** Enfrenta a França de Mbappé hoje (22/06), 18h de Brasília, no Lincoln Financial Field, Filadélfia, pela 2ª rodada do Grupo I — precisa reagir para não ficar matematicamente eliminado.
+
 ## 📅 2026-06-21
 - Técnico Graham Arnold; equipe retorna a uma Copa após 40 anos de ausência, classificada via repescagem, com disciplina tática como marca (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/iraque-convoca-elenco-experiente-para-a-copa-do-mundo-2026-veja-lista/)
 - Teve baixa de Ahmed Yahya por lesão, substituído na lista por Ahmed Hassan Makenzie; o goleiro Jalal Hassan se recuperou de lesão e permanece no grupo (fonte: mesma acima)

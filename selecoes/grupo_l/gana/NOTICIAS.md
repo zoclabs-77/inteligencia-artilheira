@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-22
+- Gana venceu o Panamá por 1 a 0 na estreia, em Toronto, e lidera o Grupo L com 3 pontos, ao lado da Inglaterra (fonte: https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_2026_%E2%80%93_Grupo_L)
+- **Repercussão / Próximo jogo:** Enfrenta a Inglaterra nesta terça (23/06), 17h de Brasília, no Gillette Stadium, Foxborough — duelo de líderes do Grupo L.
+
 ## 📅 2026-06-21
 - Amistosos de preparação ruins antes da Copa: derrota por 2x1 da Alemanha e goleada de 5x0 da Áustria (fonte: https://www.torcedores.com/apostas/inglaterra-copa-do-mundo)
 - Aposta em intensidade física e velocidade como trunfo contra favoritos (fonte: mesma acima)

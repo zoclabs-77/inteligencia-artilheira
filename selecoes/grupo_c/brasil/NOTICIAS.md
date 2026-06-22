@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Ancelotti deve manter um 4-4-2 disciplinado contra a Escócia, com Marquinhos e Gabriel Magalhães na zaga, e a dupla Lucas Paquetá-Vinícius Júnior ditando o ritmo ofensivo (fonte: https://www.olympics.com/pt/noticias/brasil-x-escocia-copa-do-mundo-2026-escalacoes-horario-e-onde-assistir)
+- Brasil lidera o Grupo C com 4 pontos (igual ao Marrocos, mas na frente no critério de desempate), embalado pela goleada de 3x0 sobre o Haiti
+- **Repercussão / Próximo jogo:** Enfrenta a Escócia nesta quarta (24/06), 19h de Brasília, no Hard Rock Stadium, Miami, pela 3ª e última rodada do Grupo C — situação de Raphinha (lesão) e Neymar (recuperação física) seguem em observação para a escalação final.
+
 ## 📅 2026-06-21
 - Raphinha sofreu lesão na vitória sobre o Haiti (06-20) e a comissão técnica aguardava exames de imagem para definir condições de jogo contra a Escócia (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/vini-jr-atualiza-situacao-de-raphinha-apos-lesao-na-vitoria-do-brasil-202606200007)
 - Neymar não viajou com a delegação para a Filadélfia no jogo contra o Haiti, ficando em Nova Jersey para trabalhos físicos visando recuperação para o duelo com a Escócia (fonte: https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/com-mudancas-brasil-enfrenta-haiti-para-mudar-clima-na-copa-do-mundo/)

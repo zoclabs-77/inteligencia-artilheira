@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- RD Congo surpreendeu ao empatar 1 a 1 com Portugal na estreia, resultado que reforça a confiança da equipe (fonte: https://www.flashscore.com.br/noticias/futebol-campeonato-do-mundo-copa-do-mundo-de-2026-previa-palpites-odds-e-melhores-apostas-do-grupo-k/n5jo00pC/)
+- Aposta na força física e organização defensiva, com capacidade de contra-ataque letal, para equilibrar o próximo confronto (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a favorita Colômbia nesta terça (23/06), 23h de Brasília, no Estádio Akron, pela 2ª rodada do Grupo K.
+
 ## 📅 2026-06-21
 - Técnico Sébastien Desabre; chega "reforçada" pelo ponto histórico conquistado contra Portugal na rodada anterior (fonte: https://www.goal.com/en-us/news/colombia-dr-congo-world-cup-preview/blt2f05808271536e66)
 - **Próximo jogo:** Colômbia, 23/06, pela 2ª rodada do Grupo K.

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Alemanha lidera o Grupo E com 100% de aproveitamento (6 pontos, 9 gols marcados, 2 sofridos) e não deve abandonar o plano ofensivo de alta intensidade de Nagelsmann (fonte: https://www.goal.com/en-us/news/ecuador-germany-world-cup-preview/bltbed893fcfca000eb)
+- Kai Havertz, decisivo na vitória sobre a Costa do Marfim, deve ser peça-chave para quebrar a defesa equatoriana (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Equador nesta quinta (25/06), no MetLife Stadium, East Rutherford, pela 3ª rodada do Grupo E — pode confirmar a liderança do grupo.
+
 ## 📅 2026-06-21
 - Venceu a Costa do Marfim por 2x1, de virada, com dois gols de Deniz Undav (68' e 94') após sair atrás no placar (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alemanha-vira-no-fim-bate-costa-do-marfim-e-se-classifica-na-copa-do-mundo/)
 - A virada veio após mudanças do técnico Julian Nagelsmann na segunda etapa (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/alemanha-vira-no-final-vence-a-costa-do-marfim-e-encaminha-classificacao-na-copa.html)

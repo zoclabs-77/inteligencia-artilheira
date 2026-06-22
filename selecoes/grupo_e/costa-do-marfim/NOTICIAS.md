@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Costa do Marfim chega como líder do Grupo E após a virada da Alemanha (2x1), mas com lesão na coxa de Wilfried Singo como preocupação (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/cote-d-ivoire/team-news)
+- Vem de campanha impecável e invicta nas Eliminatórias africanas, sem sofrer gol em 10 jogos, sob comando do técnico Emerse Faé, campeão da CAN 2023
+- **Repercussão / Próximo jogo:** Enfrenta Curaçao nesta quinta (25/06), em Filadélfia, pela 3ª rodada do Grupo E.
+
 ## 📅 2026-06-21
 - Abriu o placar com gol de Franck Kessié aos 29 minutos, mas sofreu a virada da Alemanha nos minutos finais (68' e 94'), perdendo por 2x1 (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alemanha-2-x-1-costa-do-marfim-veja-melhores-momentos-de-jogo-da-copa/)
 - O zagueiro Wilfried Singo sofreu lesão na parte posterior da coxa esquerda, foi substituído aos 36' do segundo tempo e foi visto chorando no banco — preocupação para o próximo jogo (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/jogador-da-costa-do-marfim-deixa-gramado-aos-prantos-apos-lesao-na-copa-do-mundo/)

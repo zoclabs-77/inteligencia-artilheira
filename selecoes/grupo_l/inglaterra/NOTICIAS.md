@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Inglaterra venceu a Croácia por 4 a 2 na estreia em Dallas e lidera o Grupo L com 3 pontos, junto com Gana (fonte: https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_2026_%E2%80%93_Grupo_L)
+- Único confronto anterior entre as seleções foi um amistoso empatado em 1x1, em 2011
+- **Repercussão / Próximo jogo:** Enfrenta Gana nesta terça (23/06), 17h de Brasília, no Gillette Stadium, Foxborough — duelo de líderes do Grupo L.
+
 ## 📅 2026-06-21
 - Técnico Thomas Tuchel fez convocação polêmica, deixando fora Cole Palmer, Phil Foden, Alexander-Arnold e Maguire (fonte: https://placar.com.br/copa-do-mundo/sem-convocar-medalhoes-veja-a-escalacao-ideal-de-tuchel-na-inglaterra/)
 - Lateral Tino Livramento foi cortado da Copa por lesão na canela na véspera da estreia (fonte: https://www.goal.com/en-us/lists/england-star-ruled-out-of-2026-world-cup-on-eve-of-croatia-opener-in-huge-injury-blow-for-thomas-tuchel/blt21765740b9f469bb)

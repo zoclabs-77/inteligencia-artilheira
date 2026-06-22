@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Jordânia, em sua histórica primeira Copa, foi derrotada por 3 a 1 pela Áustria na estreia e chega pressionada à 2ª rodada (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-jordania-x-argelia-23-06-2026.html)
+- Seleção chegou ao Mundial após campanha consistente nas Eliminatórias Asiáticas, terminando em 2º lugar do Grupo B, atrás só da Coreia do Sul (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a Argélia nesta terça (23/06), 00h, no San Francisco Bay Area Stadium, Santa Clara — duelo direto entre equipes derrotadas na rodada de abertura do Grupo J.
+
 ## 📅 2026-06-21
 - Técnico Jamal Sellami; provável 3-4-2-1 com Musa Al-Taamari como referência ofensiva (fonte: https://www.goal.com/en-us/news/jordan-algeria-world-cup-preview/bltddae6909cf8922c4)
 - Estreante em Copas, vem da derrota por 1x3 para a Áustria na abertura do Grupo J

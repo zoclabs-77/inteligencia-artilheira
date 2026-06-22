@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Catar enfrenta crise de seleção após a goleada de 6 a 0 para o Canadá, com expulsões diretas do defensor Homam Ahmed e do meio-campista Assim Madibo (fonte: https://www.goal.com/en-us/news/bosnia-herzegovina-qatar-world-cup-preview/blt5e8717e6a4265b16)
+- Vê o próximo jogo como oportunidade de redenção e de afirmar status de candidato ao mata-mata (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a Bósnia nesta quarta (24/06), no Lumen Field, Seattle, pela 3ª rodada do Grupo B — ambos buscam recuperação após goleadas sofridas.
+
 ## 📅 2026-06-21
 - Técnico Julen Lopetegui; elenco entrosado, joga majoritariamente na liga nacional (fonte: https://trivela.com.br/copa-do-mundo/grupo-b-2026-canada-bosnia-catar-suica/)
 - Tem histórico de dificuldade contra pressão física de alta intensidade, segundo análise tática; vem da goleada de 0x6 sofrida do Canadá (fonte: mesma acima)

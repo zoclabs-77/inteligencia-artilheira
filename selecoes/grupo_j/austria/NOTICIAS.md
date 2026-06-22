@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Provável escalação: Schlager; Posch, Danso, Alaba, Mwene; Laimer, Seiwald; Schmid, Sabitzer, Wimmer; Gregoritsch (fonte: https://trivela.com.br/copa-do-mundo/argentina-x-austria-provaveis-escalacoes-copa/)
+- Áustria chega embalada após vencer a Jordânia por 3 a 1 na estreia, somando 3 pontos
+- **Repercussão / Próximo jogo:** Enfrenta a Argentina de Messi hoje (22/06), 14h de Brasília, no AT&T Stadium, em Arlington, pela 2ª rodada do Grupo J — ambas com 3 pontos.
+
 ## 📅 2026-06-21
 - Técnico Ralf Rangnick; Christoph Baumgartner é desfalque confirmado por lesão (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/austria-divulga-convocados-para-a-copa-do-mundo-de-2026/)
 - David Alaba é o líder técnico/emocional do elenco, ao lado de Sabitzer, Laimer e Arnautović (fonte: https://www.gazetaesportiva.com/copa-do-mundo/no-grupo-da-argentina-austria-anuncia-convocados-para-a-copa/)

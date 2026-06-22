@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Tchéquia foi forçada a dividir pontos em empate 1x1 com a África do Sul em Atlanta, na 2ª rodada do Grupo A (fonte: https://www.goal.com/br/not%C3%ADcias/republica-tcheca-x-mexico-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/blte3e3fb32bfa81e95)
+- Sob comando de Miroslav Koubek, aposta em contra-ataque letal liderado por Patrik Schick e Adam Hložek diante do México (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o México, já classificado, nesta quinta (25/06), na Cidade do México, pela 3ª rodada do Grupo A — precisa de resultado para seguir vivo.
+
 ## 📅 2026-06-21
 - Técnico Miroslav Koubek; sem lesões/suspensões confirmadas e sem escalação provável divulgada até o momento (fonte: https://www.goal.com/br/not%C3%ADcias/republica-tcheca-x-mexico-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/blte3e3fb32bfa81e95)
 - **Próximo jogo:** México, 24/06, pela 2ª rodada do Grupo A — adversário já está classificado às oitavas.

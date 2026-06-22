@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Fabio Cannavaro, técnico do Uzbequistão, reencontra a Copa do Mundo duas décadas depois de ter levantado o título de 2006 como capitão da Itália (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-x-uzbequistao-horario-e-onde-assistir-ao-jogo-da-copa-do-mundo/)
+- Equipe perdeu por 3 a 1 para a Colômbia na estreia; Fayzullaev e Shomurodov são as principais esperanças ofensivas para as transições (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta Portugal e Cristiano Ronaldo nesta terça (23/06), 14h de Brasília, no NRG Stadium, Houston, pela 2ª rodada do Grupo K.
+
 ## 📅 2026-06-21
 - Estreante absoluto em Copas do Mundo; objetivo declarado é conquistar os primeiros pontos da história do país no torneio (fonte: https://www.squawka.com/br/news/portugal-x-uzbequistao-palpites-onde-assistir-odds/)
 - **Próximo jogo:** Portugal, 23/06, pela 2ª rodada do Grupo K — Cristiano Ronaldo disputa sua sexta Copa pelo adversário.

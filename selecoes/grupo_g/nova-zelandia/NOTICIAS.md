@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-22
+- Nova Zelândia perdeu por 3 a 1 para o Egito, pela 2ª rodada do Grupo G, em Vancouver; Finn Summan marcou o gol neozelandês (fonte: https://trivela.com.br/copa-do-mundo/nova-zelandia-1x3-egito-salah-protagonismo-historia/)
+- All Whites abriram o placar, mas cederam a virada egípcia ainda no 1º tempo
+- Resultado complica a vida do time, que chega à última rodada precisando de um resultado positivo para sonhar com o histórico inédito nas oitavas
+- **Repercussão / Próximo jogo:** Nova Zelândia depende de combinação de resultados na última rodada do Grupo G para se manter viva na Copa.
+
 ## 📅 2026-06-21
 - Técnico Darren Bazeley, provável escalação: Crocombe; Payne, Boxall, Surman, Cacace; Stamenic, Bell; McCowatt, S. Singh, Just; Wood (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/nova-zelandia-egito-previa-jogo-copa-mundo-grupo-g)
 - **Próximo jogo:** Egito, 21/06, BC Place, Vancouver, pela 2ª rodada do Grupo G — jogo de seis pontos entre equipes empatadas.

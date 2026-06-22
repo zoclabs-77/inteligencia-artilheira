@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-22
+- Coreia do Sul precisa de pelo menos um empate contra a África do Sul para garantir a classificação, após a derrota por 1x0 para o México (fonte: https://www.goal.com/en-us/news/south-africa-south-korea-world-cup-preview/bltd2a2517a718c90f3)
+- Elenco de 26 jogadores liderado por Son Heung-min, Kim Min-jae (Bayern) e Lee Kang-in (PSG)
+- **Repercussão / Próximo jogo:** Enfrenta a África do Sul nesta quinta (25/06), no Estádio BBVA, Monterrey, pela 3ª e decisiva rodada do Grupo A.
+
 ## 📅 2026-06-21
 - Técnico Hong Myung-bo disputa sua 12ª Copa; Son Heung-min (LAFC) é o principal nome, ao lado de Kim Min-jae (Bayern) e Lee Kang-in (PSG) (fonte: https://www.correio24horas.com.br/esportes/coreia-do-sul-na-copa-do-mundo-2026-veja-jogos-historico-e-lista-de-convocados-0526)
 - Fez preparação especial em Salt Lake City para adaptação à altitude antes da sequência de jogos (fonte: mesma acima)
