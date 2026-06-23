@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação: Yazeed Abulaila; Mohammad Nasib, Yousef Abualnadi, Yazan Al-Arab; Ehsan Haddad, Nizar Al-Rashdan, Noor Al-Rawabdeh, Mohannad Abu Taha; Ali Olwan, Odeh Fakhoury, Mousa Al-Tamari. Técnico: Jamal Sellami (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jordania-x-argelia-escalacoes-e-onde-assistir-ao-jogo-da-copa-do-mundo/)
+- Chega zerada em pontos na 2ª rodada do Grupo J, após derrota na estreia para a Áustria (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a Argélia, também sem pontos, na madrugada desta terça (23/06), 0h de Brasília, no Levi's Stadium, em Santa Clara — duelo direto pela sobrevivência no grupo.
+
 ## 📅 2026-06-22
 - Jordânia, em sua histórica primeira Copa, foi derrotada por 3 a 1 pela Áustria na estreia e chega pressionada à 2ª rodada (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-jordania-x-argelia-23-06-2026.html)
 - Seleção chegou ao Mundial após campanha consistente nas Eliminatórias Asiáticas, terminando em 2º lugar do Grupo B, atrás só da Coreia do Sul (fonte: mesma acima)

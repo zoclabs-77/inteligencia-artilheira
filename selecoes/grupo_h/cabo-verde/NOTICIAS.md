@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Em sua estreia histórica em Copas, vive a melhor campanha possível e segue sonhando com vaga inédita às oitavas após o empate com o Uruguai (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
+- **Repercussão / Próximo jogo:** Encara a Arábia Saudita na sexta (26/06), pela última rodada do Grupo H, com chance real de classificação histórica.
+
 ## 📅 2026-06-22
 - Cabo Verde empatou em 2 a 2 com o Uruguai, pela 2ª rodada do Grupo H, no Hard Rock Stadium, Miami; gols de Kevin Pina e Hélio Varela (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/sem-vencer-na-copa-uruguai-cede-empate-a-cabo-verde-que-sonha-com-vaga/)
 - Equipe buscou o resultado até o fim, anotando o gol de empate já no 2º tempo após sofrer a virada (fonte: mesma acima)

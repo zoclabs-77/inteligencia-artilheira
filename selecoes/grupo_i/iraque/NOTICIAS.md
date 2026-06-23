@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Iraque perdeu por 3 a 0 para a França, sofrendo dobletes de Mbappé e gol de Dembélé, e fica sem pontos após duas rodadas do Grupo I (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-do-mundo-por-que-franca-x-iraque-foi-suspenso/)
+- Jogo teve interrupção de mais de uma hora por alerta de raios na Filadélfia, primeira pausa climática da Copa 2026 (fonte: https://www.infomoney.com.br/esportes/franca-x-iraque-e-o-1o-jogo-da-copa-do-mundo-2026-a-ser-suspenso-por-causa-do-clima/)
+- **Repercussão / Próximo jogo:** Matematicamente eliminado da briga por vaga direta, o Iraque encara o Senegal na sexta (26/06) em duelo de "honra esportiva" do Grupo I, já sem chances de classificação após dois reveses.
+
 ## 📅 2026-06-22
 - Provável escalação: Basil; Ali, Tahseen, Hashem, Doski; Bayesh, Al-Ammari, Iqbal, Ali Jasim; Hussein, Al-Hamadi (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/franca-x-iraque-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-copa-do-mundo/)
 - Vem de goleada sofrida por 4 a 1 para a Noruega na estreia; ainda não somou pontos no torneio (fonte: https://trivela.com.br/copa-do-mundo/franca-x-iraque-escalacao-francesa-pode-tres-mudancas-copa/)

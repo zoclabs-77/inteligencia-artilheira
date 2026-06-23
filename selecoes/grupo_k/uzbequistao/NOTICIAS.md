@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação: Utkir Yusupov; Abdukodir Khusanov, Abdulla Abdullaev, Rustamjon Ashurmatov; Bekhruz Karimov, Akmal Mozgovoy, Otabek Shukurov, Sherzod Nasrullaev; Abbosbek Fayzullayev, Oston Urunov, Eldor Shomurodov (fonte: https://trivela.com.br/copa-do-mundo/portugal-x-uzbequistao-provaveis-escalacoes-cristiano-ronaldo-bruno-fernandes/)
+- Rustam Ashurmatov é dúvida por dores na panturrilha (fonte: mesma acima)
+- Vem de derrota por 3 a 1 para a Colômbia na estreia, e precisa vencer Portugal para manter vivas as chances de classificação histórica (fonte: contexto geral do Grupo K)
+- **Repercussão / Próximo jogo:** Enfrenta Portugal e Cristiano Ronaldo nesta terça (23/06), 14h de Brasília, no NRG Stadium, em Houston, pela 2ª rodada do Grupo K.
+
 ## 📅 2026-06-22
 - Fabio Cannavaro, técnico do Uzbequistão, reencontra a Copa do Mundo duas décadas depois de ter levantado o título de 2006 como capitão da Itália (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-x-uzbequistao-horario-e-onde-assistir-ao-jogo-da-copa-do-mundo/)
 - Equipe perdeu por 3 a 1 para a Colômbia na estreia; Fayzullaev e Shomurodov são as principais esperanças ofensivas para as transições (fonte: mesma acima)

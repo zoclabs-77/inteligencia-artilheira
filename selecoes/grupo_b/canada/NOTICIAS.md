@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Canadá, 30º no ranking FIFA, somou um empate 1x1 com a Bósnia e goleada por 6 a 0 sobre o Catar (que jogou com um a menos) para chegar embalado à decisão de grupo (fonte: https://www.apwin.com/br/palpites/suica-x-canada-palpite-copa-mundo-fifa-24-06-2026/)
+- **Repercussão / Próximo jogo:** Recebe a Suíça como anfitrião nesta quarta (24/06), 16h de Brasília, no BC Place, em Vancouver — vitória garante a liderança do Grupo B.
+
 ## 📅 2026-06-22
 - Canadá chega à 3ª rodada com 4 pontos e lidera o Grupo B no saldo de gols (7 a favor, 1 contra), maior poder ofensivo da chave até aqui (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/previa-matchday-oito-copa-do-mundo-fifa-2026)
 - Único confronto anterior entre as seleções foi um amistoso em maio de 2002, vencido pelos canadenses por 3 a 1

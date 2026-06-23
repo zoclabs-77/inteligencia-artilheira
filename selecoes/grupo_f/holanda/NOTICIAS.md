@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Chega cheia de confiança após goleada de 5 a 1 sobre a Suécia, sob comando de Ronald Koeman (fonte: https://www.goal.com/en-us/news/tunisia-netherlands-world-cup-preview/bltb895dd8baa22d968)
+- **Repercussão / Próximo jogo:** Enfrenta a já eliminada Tunísia nesta quinta (25/06), no Arrowhead Stadium, Kansas City, na última rodada do Grupo F.
+
 ## 📅 2026-06-22
 - Holanda lidera o Grupo F após goleada de 5x1 sobre a Suécia, somando o empate 2x2 com o Japão na estreia; chega confiante à última rodada
 - Lateral Denzel Dumfries vem sendo eficaz pelo lado direito, combinando bem com Cody Gakpo; Virgil van Dijk segue como pilar defensivo (fonte: https://www.goal.com/br/not%C3%ADcias/tunisia-x-holanda-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/bltb895dd8baa22d968)

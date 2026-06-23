@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Noruega venceu o Senegal por 3 a 2 no MetLife Stadium, com dois gols de Erling Haaland (2' e 12' do 2ºT) e um de Marcus Pedersen, garantindo classificação antecipada ao mata-mata (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/haaland-marca-duas-vezes-e-noruega-vence-senegal-pela-copa-do-mundo/)
+- Haaland chega a 4 gols na Copa, colado em Mbappé e a um de Messi (5) na artilharia do torneio (fonte: https://www.terra.com.br/esportes/senegal/haaland-marca-duas-vezes-noruega-derrota-senegal-e-avanca-na-copa,0d1ce3c0e968a6a62e82982f025e1518qbrums4k.html)
+- **Repercussão / Próximo jogo:** Com 6 pontos, vice-líder do Grupo I, a Noruega encara a França (também com 6) na sexta (26/06), 16h de Brasília — vencedor (ou empate, por saldo de gols a favor da França) fica em 1º lugar do grupo.
+
 ## 📅 2026-06-22
 - Noruega lidera o Grupo I após goleada por 4 a 1 sobre o Iraque na estreia (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-noruega-x-senegal-previa-da-partida-da-copa-do-mundo-de-2026/25408/)
 - Erling Haaland marcou em cada uma das últimas 11 partidas oficiais pela seleção e mais de um gol em cada uma das últimas 5; equipe venceu os últimos 11 jogos oficiais (fonte: mesma acima)

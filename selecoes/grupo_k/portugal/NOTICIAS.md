@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação: Diogo Costa; João Cancelo, Rúben Dias, Renato Veiga, Nuno Mendes; Vitinha, João Neves, Bruno Fernandes; Bernardo Silva, Pedro Neto, Cristiano Ronaldo (fonte: https://trivela.com.br/copa-do-mundo/portugal-x-uzbequistao-provaveis-escalacoes-cristiano-ronaldo-bruno-fernandes/)
+- Rúben Dias retorna após lesão na coxa que o tirou da estreia; Tomás Araújo é dúvida por desconforto muscular (fonte: mesma acima)
+- Portugal chega pressionada após empate decepcionante por 1 a 1 com a RD Congo, em jogo com Cristiano Ronaldo abaixo do esperado (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Uzbequistão nesta terça (23/06), 14h de Brasília, no NRG Stadium, em Houston, pela 2ª rodada do Grupo K — precisa vencer para evitar pressão extra na última rodada.
+
 ## 📅 2026-06-22
 - Time deve atuar no 4-2-3-1, com Vitinha e João Neves na base do meio-campo e Bruno Fernandes centralizado; Francisco Conceição pode entrar pela direita e Pedro Neto dá profundidade pela esquerda (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-x-uzbequistao-horario-e-onde-assistir-ao-jogo-da-copa-do-mundo/)
 - Portugal só empatou 1 a 1 com a RD Congo na estreia e precisa reagir nesta 2ª rodada

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação: Orlando Mosquera; César Blackman, José Córdoba, Jiovany Ramos; Amir Murillo, Cristian Martínez, Carlos Harvey, Andrés Andrade; Yoel Bárcenas, José Luis Rodríguez, Cecilio Waterman. Técnico: Thomas Christiansen (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/panama-x-croacia-provaveis-escalacoes-para-o-jogo-pelo-grupo-l/)
+- Chega pressionada após derrota por 1 a 0 para Gana na estreia (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a Croácia, também derrotada na 1ª rodada, nesta terça (23/06), 20h de Brasília, no Canadá, pela 2ª rodada do Grupo L — duelo direto entre as duas zeradas em pontos.
+
 ## 📅 2026-06-22
 - Panamá esteve perto de empatar com Gana na estreia, mas uma desatenção nos minutos finais custou a derrota por 1 a 0 (fonte: https://www.si.com/es-us/futbol/panama-vs-croacia-previa-predicciones-y-alineaciones-23-06-2026)
 - Chega pressionado à 2ª rodada, já que Inglaterra e Gana somam 3 pontos e lideram a chave (fonte: mesma acima)

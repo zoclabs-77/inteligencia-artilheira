@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Tunísia está matematicamente eliminada após duas derrotas consecutivas (5-1 para a Suécia e 4-0 para o Japão), e segue sob comando interino após a saída do técnico Sabri Lamouchi (fonte: https://www.goal.com/en-us/news/tunisia-netherlands-world-cup-preview/bltb895dd8baa22d968)
+- **Repercussão / Próximo jogo:** Encara a Holanda nesta quinta (25/06), no Arrowhead Stadium, Kansas City, na última rodada do Grupo F, já sem chances de classificação.
+
 ## 📅 2026-06-22
 - Tunísia perdeu por 4 a 0 para o Japão pela 2ª rodada do Grupo F, no Estádio BBVA, Monterrey, com gols de Kamada, Ayase Ueda (2x) e Junya Ito (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/tunisia-japao-melhores-momentos-resumo-jogo-grupo-f)
 - Segunda goleada sofrida em duas rodadas (1x5 Suécia, 0x4 Japão); seleção está matematicamente eliminada da Copa (fonte: https://www.bnews.com.br/noticias/esporte/copa-2026-japao-goleia-tunisia-por-4x0-e-aumenta-chances-de-enfrentar-o-brasil-no-mata-mata.html)

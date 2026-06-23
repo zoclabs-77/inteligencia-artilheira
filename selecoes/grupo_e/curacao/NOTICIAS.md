@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Jogo decisivo da última rodada do Grupo E acontece nesta quinta (25/06), 17h de Brasília, contra a Costa do Marfim (fonte: https://www.goal.com/en-us/news/curacao-ivory-coast-world-cup-preview/bltaf6ced75ec6c319b)
+- **Repercussão / Próximo jogo:** Disputa vaga inédita às oitavas diante da Costa do Marfim, fechando o Grupo E ao lado de Equador x Alemanha, no mesmo horário.
+
 ## 📅 2026-06-22
 - Curaçao chega ao confronto contra a Costa do Marfim ainda celebrando o feito histórico do goleiro Eloy Room, autor de 15 defesas no empate 0x0 com o Equador
 - Equipe estreante em Copas soma 1 ponto e enfrenta agora os marfinenses, líderes do Grupo E (fonte: https://www.fifa.com/pt/articles/curacao-costa-marfim-mexico-africa-sul-previa-jogo-copa-mundo-grupo-e)

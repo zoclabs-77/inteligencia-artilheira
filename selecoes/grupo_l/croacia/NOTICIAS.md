@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação: Dominik Livaković; Josip Stanišić, Josip Šutalo, Duje Ćaleta-Car, Joško Gvardiol; Luka Modrić, Mateo Kovačić; Petar Sučić, Martin Baturina, Ivan Perišić; Ante Budimir. Técnico: Zlatko Dalić (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/panama-x-croacia-provaveis-escalacoes-para-o-jogo-pelo-grupo-l/)
+- Chega pressionada após derrota por 4 a 2 para a Inglaterra na estreia, mesmo com boa exibição ofensiva (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Panamá nesta terça (23/06), 20h de Brasília, no Canadá, pela 2ª rodada do Grupo L — confronto direto entre as duas seleções zeradas em pontos.
+
 ## 📅 2026-06-22
 - Croácia perdeu por 4 a 2 para a Inglaterra na estreia, mostrando reação ofensiva mas pagando caro por erros defensivos; gols de Petar Musa e Martin Baturina (fonte: https://www.si.com/es-us/futbol/panama-vs-croacia-previa-predicciones-y-alineaciones-23-06-2026)
 - Chega "golpeada" mas com mais hierarquia individual e experiência, com Modric, Baturina e o peso ofensivo de Musa (fonte: mesma acima)

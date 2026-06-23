@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação: Kim; Moon-hwan, Han-beom, Min-jae, Gi-hyuk; Hwang Inbeom, Paik, Young-woo, Jae-sung, Kang-in; Son (fonte: https://www.365scores.com/pt-br/news/magazine/africa-do-sul-x-coreia-do-sul-escalacoes-jogo/)
+- Ocupa a vice-liderança do Grupo A com 3 pontos e joga por vitória, ou até empate dependendo de resultado paralelo, para confirmar vaga no mata-mata (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a África do Sul nesta quarta (24/06), 22h de Brasília, no Estádio BBVA, em Guadalupe, na decisão do Grupo A.
+
 ## 📅 2026-06-22
 - Coreia do Sul precisa de pelo menos um empate contra a África do Sul para garantir a classificação, após a derrota por 1x0 para o México (fonte: https://www.goal.com/en-us/news/south-africa-south-korea-world-cup-preview/bltd2a2517a718c90f3)
 - Elenco de 26 jogadores liderado por Son Heung-min, Kim Min-jae (Bayern) e Lee Kang-in (PSG)

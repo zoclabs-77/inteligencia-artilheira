@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação (4-4-2): Orlando Gill; Juan Cáceres, Gustavo Gómez, Omar Alderete, Junior Alonso; Diego Gómez, Andrés Cubas, Damián Bobadilla, Miguel Almirón; Julio Enciso (ou Kaku), Antonio Sanabria (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
+- **Repercussão / Próximo jogo:** Encara a Austrália na sexta (26/06), pela 3ª rodada do Grupo D, em confronto direto pela 2ª vaga às oitavas.
+
 ## 📅 2026-06-22
 - Paraguai chega embalado com 3 pontos após eliminar a Turquia e disputa a vaga nas oitavas direto contra a Austrália (fonte: https://www.foxnews.com/sports/usa-clinches-first-place-world-cup-group-paraguays-win-turkey-seals-favorable-bracket-path)
 - Julio Enciso se destaca como peça criativa avançada do ataque de Gustavo Alfaro, chave para furar a defesa australiana (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)

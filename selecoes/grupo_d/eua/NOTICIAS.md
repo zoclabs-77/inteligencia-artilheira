@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação (3-4-2-1): Matt Freese; Alex Freeman, Chris Richards (ou Mark McKenzie), Tim Ream; Sergiño Dest, Sebastian Berhalter, Tyler Adams, Antonee Robinson; Weston McKennie, Christian Pulisic; Folarin Balogun (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/turkiye/team-news)
+- **Repercussão / Próximo jogo:** Já líder isolado do Grupo D com 6 pontos, enfrenta a Turquia, já eliminada, na quinta (25/06) pela última rodada, podendo rotacionar o time titular.
+
 ## 📅 2026-06-22
 - EUA já garantiram a liderança do Grupo D com 6 pontos e devem rotacionar o time diante da Turquia, já eliminada; capitão Christian Pulisic está fora por lesão na panturrilha (fonte: https://www.fifa.com/en/match-centre/match/17/285023/289273/400021459)
 - Provável escalação com rotação: Turner; Scally, McKenzie, Robinson, Trusty; Tillman, Berhalter, Reyna; Weah, Wright, Aaronson (fonte: mesma acima)

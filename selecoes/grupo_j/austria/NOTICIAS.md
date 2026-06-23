@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Áustria perdeu por 2 a 0 para a Argentina em Arlington, pela 2ª rodada do Grupo J, e viu Messi se tornar maior artilheiro histórico de Copas (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-austria-melhores-momentos-resumo-grupo-j)
+- Equipe ficou em segundo no Grupo J, mas a derrota apertada (2x0, com pênalti perdido por Messi) preserva moral para a 3ª rodada (fonte: https://trivela.com.br/copa-do-mundo/argentina-2x0-austria-messi-artilharia-assinatura/)
+- **Repercussão / Próximo jogo:** Mesmo derrotada, a Áustria segue viva na briga por vaga direta ou como um dos melhores terceiros do Grupo J; próximo confronto decide a vida no mata-mata.
+
 ## 📅 2026-06-22
 - Provável escalação: Schlager; Posch, Danso, Alaba, Mwene; Laimer, Seiwald; Schmid, Sabitzer, Wimmer; Gregoritsch (fonte: https://trivela.com.br/copa-do-mundo/argentina-x-austria-provaveis-escalacoes-copa/)
 - Áustria chega embalada após vencer a Jordânia por 3 a 1 na estreia, somando 3 pontos

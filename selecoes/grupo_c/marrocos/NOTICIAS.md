@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação para o duelo com o Haiti: Bounou; Hakimi, Diop, Riad, Mazraoui; Bouaddi, El Aynaoui; Diaz, Ounahi, El Khannouss; Saibari (fonte: https://tips.gg/pt/article/morocco-haiti-head-to-head-wc2026/)
+- Chega ao confronto invicto há 6 jogos (4 vitórias e 2 empates), com 14 gols marcados e apenas 3 sofridos (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Haiti, já eliminado, nesta quarta (24/06) — vitória garante 1º lugar do Grupo C independentemente do resultado de Brasil x Escócia.
+
 ## 📅 2026-06-22
 - Marrocos vem de campanha sólida no Grupo C: empate 1x1 com o Brasil e vitória por 1x0 sobre a Escócia, gol de Ismael Saibari (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-24/marrocos-vs-haiti)
 - Pode garantir classificação mesmo em caso de derrota no próximo jogo, desde que o Brasil vença a Escócia na rodada paralela (fonte: mesma acima)

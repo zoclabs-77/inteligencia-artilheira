@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação: Williams; Mudau, Okon, Mbokazi, Modiba; Mbatha, Sithole, Adams; Maseko, Rayners, Appollis (fonte: https://www.365scores.com/pt-br/news/magazine/africa-do-sul-x-coreia-do-sul-escalacoes-jogo/)
+- Chega na lanterna do Grupo A, com 1 ponto, e depende exclusivamente de vitória sobre a Coreia do Sul para se classificar (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a Coreia do Sul nesta quarta (24/06), 22h de Brasília, no Estádio BBVA, em Guadalupe, na decisão do Grupo A.
+
 ## 📅 2026-06-22
 - Situação é direta: vencer a Coreia do Sul e se classificar às oitavas, ou ser eliminada em caso de derrota ou empate (fonte: https://www.windrawwin.com/br/dicas/copa-do-mundo-grupo-a/africa-do-sul-x-coreia-do-sul/854475/)
 - Campanha começou com derrota de 2x0 para o México, mas melhorou com o empate 1x1 contra a Tchéquia

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-23
+- Argentina venceu a Áustria por 2 a 0 em Arlington pela 2ª rodada do Grupo J, garantindo a liderança da chave (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-austria-melhores-momentos-resumo-grupo-j)
+- Messi marcou dois gols (38' do 1ºT e 48' do 2ºT) e se tornou o maior artilheiro da história das Copas do Mundo, com 18 gols, além de artilheiro da atual edição com 5 (fonte: https://trivela.com.br/copa-do-mundo/argentina-2x0-austria-messi-artilharia-assinatura/)
+- Messi perdeu um pênalti na partida — o 3º desperdiçado por ele em Copas do Mundo, virando piada nas redes sociais (fonte: https://trivela.com.br/copa-do-mundo/argentina-2x0-austria-messi-artilharia-assinatura/)
+- **Repercussão / Próximo jogo:** Resultado consolida a Argentina na liderança do Grupo J com 6 pontos; análise da imprensa argentina mistura elogio ao recorde histórico de Messi com cobrança pelo pênalti perdido.
+
 ## 📅 2026-06-22
 - Provável escalação para hoje: Emiliano Martínez; Nahuel Molina, Cristian Romero, Lisandro Martínez, Facundo Medina; Thiago Almada, Rodrigo De Paul, Enzo Fernández, Alexis Mac Allister; Lautaro Martínez e Messi (fonte: https://trivela.com.br/copa-do-mundo/argentina-x-austria-provaveis-escalacoes-copa/)
 - Gonzalo Montiel, titular contra a Argélia, lida com dores na coxa e perde a vaga para Nahuel Molina (fonte: mesma acima)

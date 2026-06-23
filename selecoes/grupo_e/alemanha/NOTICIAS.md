@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Sob Julian Nagelsmann, time é liderado pelo capitão Joshua Kimmich, com Manuel Neuer no gol e ataque de Jamal Musiala, Leroy Sané, Florian Wirtz, Kai Havertz e Nick Woltemade (fonte: https://thesportsrush.com/ecuador-v-germany-predictions)
+- Já garantida nas oitavas com 6 pontos em 2 jogos, deve manter intensidade contra o Equador para não perder ritmo competitivo (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Equador nesta quinta (25/06), 16h de Brasília, no New York New Jersey Stadium, em East Rutherford, fechando o Grupo E.
+
 ## 📅 2026-06-22
 - Alemanha lidera o Grupo E com 100% de aproveitamento (6 pontos, 9 gols marcados, 2 sofridos) e não deve abandonar o plano ofensivo de alta intensidade de Nagelsmann (fonte: https://www.goal.com/en-us/news/ecuador-germany-world-cup-preview/bltbed893fcfca000eb)
 - Kai Havertz, decisivo na vitória sobre a Costa do Marfim, deve ser peça-chave para quebrar a defesa equatoriana (fonte: mesma acima)

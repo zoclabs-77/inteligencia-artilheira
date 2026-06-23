@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Gana chega embalada após vitória por 1 a 0 sobre o Panamá na estreia, dividindo a liderança do Grupo L com a Inglaterra (fonte: https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_2026_%E2%80%93_Grupo_L)
+- **Repercussão / Próximo jogo:** Enfrenta a Inglaterra de Bellingham e Kane nesta terça (23/06), no Gillette Stadium, em Foxborough — vencer ou empatar reforça a candidatura gananense à liderança do grupo.
+
 ## 📅 2026-06-22
 - Gana venceu o Panamá por 1 a 0 na estreia, em Toronto, e lidera o Grupo L com 3 pontos, ao lado da Inglaterra (fonte: https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_2026_%E2%80%93_Grupo_L)
 - **Repercussão / Próximo jogo:** Enfrenta a Inglaterra nesta terça (23/06), 17h de Brasília, no Gillette Stadium, Foxborough — duelo de líderes do Grupo L.

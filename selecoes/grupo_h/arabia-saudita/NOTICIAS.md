@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Vive momento incerto após a goleada sofrida da Espanha (4x0) e chega pressionada à última rodada do Grupo H (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
+- **Repercussão / Próximo jogo:** Encara Cabo Verde na sexta (26/06), pela última rodada do Grupo H, precisando vencer para manter vivas as chances de classificação.
+
 ## 📅 2026-06-22
 - Arábia Saudita foi goleada por 4 a 0 pela Espanha, pela 2ª rodada do Grupo H, com a Roja dominando 17 finalizações a 2 ainda no 1º tempo (fonte: https://diariodopara.com.br/copa-do-mundo/copa-do-mundo-2026-espanha-goleia-arabia-saudita-e-assume-lideranca-do-grupo-h/)
 - Resultado deixa a seleção com apenas 1 ponto, na última posição do Grupo H (fonte: mesma acima)

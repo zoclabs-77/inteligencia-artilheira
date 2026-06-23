@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação (4-2-3-1): Ugurcan Cakir; Ferdi Kadıoglu, Merih Demiral, Abdulkerim Bardakci, Zeki Celik; Hakan Calhanoglu, Ismail Yuksek; Arda Güler, Orkun Kökçü, Kenan Yildiz; Baris Alper Yilmaz (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/turkiye/team-news)
+- **Repercussão / Próximo jogo:** Já eliminada, encara os EUA na quinta (25/06) pela 3ª rodada do Grupo D, sem nada em jogo além da honra esportiva.
+
 ## 📅 2026-06-22
 - Turquia já está eliminada após a derrota para o Paraguai e disputa a última rodada apenas pelo resultado simbólico (fonte: https://sports.yahoo.com/soccer/breaking-news/article/world-cup-2026-paraguay-tops-turkiye-securing-group-d-win-for-usa-and-eliminating-turkiye-from-knockout-round-050605098.html)
 - Escalação projetada sem desfalques por lesão/suspensão: Cakir; Celik, Demiral, Soyuncu, Kadioglu; Calhanoglu, Yokuslu, Kokcu; Guler, Yildiz, Akturkoglu (fonte: https://www.rotowire.com/soccer/article/2026-world-cup-group-d-preview-united-states-paraguay-australia-turkiye-tactics-lineups-set-pieces-odds-110622)

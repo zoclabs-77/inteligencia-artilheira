@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação: Pickford; James, Stones, Guehi, O'Reilly; Anderson, Rice; Madueke, Bellingham, Gordon; Kane (fonte: https://trivela.com.br/copa-do-mundo/inglaterra-gana-provaveis-escalacoes-2026/)
+- Bellingham, confirmado como 10 entre Gordon e Madueke, foi vaiado durante o anúncio da escalação, mas marcou na vitória sobre a Croácia (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/bellingham-recebe-vaias-ao-ser-anunciado-durante-escalacao-da-inglaterra,dbd3947043c32a3b7d7d2502b1f81c46guylr19l.html)
+- Chega confortável na liderança do Grupo L após goleada de 4 a 2 sobre a Croácia na estreia (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta Gana nesta terça (23/06), no Gillette Stadium, em Foxborough, pela 2ª rodada do Grupo L — duelo entre os dois líderes da chave, ambos com 3 pontos.
+
 ## 📅 2026-06-22
 - Inglaterra venceu a Croácia por 4 a 2 na estreia em Dallas e lidera o Grupo L com 3 pontos, junto com Gana (fonte: https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_2026_%E2%80%93_Grupo_L)
 - Único confronto anterior entre as seleções foi um amistoso empatado em 1x1, em 2011

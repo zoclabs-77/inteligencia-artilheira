@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação: Mpasi; Wan-Bissaka, Mbemba, Tuanzebe, Kapuadi, Masuaku; Mukau, Moutoussamy, Kayembe; Wissa, Bakambu. Técnico: Sébastien Desabre (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-colombia-x-rd-congo-previa-da-partida-da-copa-do-mundo-de-2026/26081/)
+- Ocupa o 2º lugar do Grupo K com 1 ponto, após surpreender com empate 1 a 1 com Portugal na estreia (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a favorita Colômbia no domingo (23/06), 23h de Brasília, no Estádio Akron, em Guadalajara — primeiro confronto da história entre as duas seleções.
+
 ## 📅 2026-06-22
 - RD Congo surpreendeu ao empatar 1 a 1 com Portugal na estreia, resultado que reforça a confiança da equipe (fonte: https://www.flashscore.com.br/noticias/futebol-campeonato-do-mundo-copa-do-mundo-de-2026-previa-palpites-odds-e-melhores-apostas-do-grupo-k/n5jo00pC/)
 - Aposta na força física e organização defensiva, com capacidade de contra-ataque letal, para equilibrar o próximo confronto (fonte: mesma acima)

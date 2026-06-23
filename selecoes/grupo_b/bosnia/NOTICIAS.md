@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação (4-4-2): Nikola Vasilj; Sead Kolasinac, Tarik Muharemovic, Nikola Katic, Amar Dedic; Kerim Alajbegovic, Benjamin Tahirovic, Ivan Sunjic, Amar Memic; Ermedin Demirovic, Edin Dzeko (fonte: https://www.ogol.com.br/jogo/2026-06-24-bosnia-catar/11832317)
+- Chega com apenas 1 ponto, atrás de Canadá e Suíça (4 pontos cada) na liderança — vitória é obrigatória para sonhar com vaga entre os melhores terceiros (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Catar nesta quarta (24/06), no Lumen Field, Seattle, em duelo direto pela sobrevivência no Grupo B.
+
 ## 📅 2026-06-22
 - Bósnia teve o zagueiro Tarik Muharemović expulso aos 80 minutos da derrota por 4 a 1 para a Suíça, o que complica a reorganização defensiva para o próximo jogo (fonte: https://www.goal.com/en-us/news/bosnia-herzegovina-qatar-world-cup-preview/blt5e8717e6a4265b16)
 - Aposta na experiência e no contra-ataque para o duelo decisivo de classificação (fonte: mesma acima)

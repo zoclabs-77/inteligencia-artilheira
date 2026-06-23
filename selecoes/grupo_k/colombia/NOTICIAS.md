@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação: Vargas; Muñoz, Sánchez, Lucumi, Mojica; Gustavo Puerta, Lerma, James Rodríguez; Jhon Arias, Luis Diaz, Luis Suárez. Técnico: Néstor Lorenzo (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-colombia-x-rd-congo-previa-da-partida-da-copa-do-mundo-de-2026/26081/)
+- Chega embalada após vitória por 3 a 1 sobre o Uzbequistão na estreia, e pode garantir classificação matemática vencendo a RD Congo (fonte: mesma acima)
+- Será o 1º confronto da história entre Colômbia e RD Congo, sem partidas oficiais ou amistosos anteriores (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a RD Congo no domingo (23/06), 23h de Brasília, no Estádio Akron, em Guadalajara, pela 2ª rodada do Grupo K.
+
 ## 📅 2026-06-22
 - Colômbia abriu a Copa com vitória convincente por 3 a 1 sobre o Uzbequistão e chega como favorita para encaminhar a classificação (fonte: https://www.flashscore.com.br/noticias/futebol-campeonato-do-mundo-copa-do-mundo-de-2026-previa-palpites-odds-e-melhores-apostas-do-grupo-k/n5jo00pC/)
 - James Rodríguez e a velocidade de transição de Luis Díaz devem ditar o ritmo ofensivo colombiano (fonte: mesma acima)

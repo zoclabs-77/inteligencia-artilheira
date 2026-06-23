@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Segue como uma das favoritas ao título e lidera o Grupo H após a goleada sobre a Arábia Saudita, com Lamine Yamal em destaque (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
+- **Repercussão / Próximo jogo:** Encara o Uruguai de Bielsa na sexta (26/06), pela última rodada do Grupo H — duelo direto pela liderança da chave.
+
 ## 📅 2026-06-22
 - Espanha goleou a Arábia Saudita por 4 a 0 pela 2ª rodada do Grupo H, com três gols ainda no 1º tempo: Lamine Yamal, e dois de Mikel Oyarzabal (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/espanha-atropela-a-arabia-saudita-e-se-recupera-na-copa-do-mundo/)
 - Lamine Yamal, aos 18 anos, se tornou o oitavo jogador mais jovem da história a marcar em uma Copa do Mundo (fonte: mesma acima)

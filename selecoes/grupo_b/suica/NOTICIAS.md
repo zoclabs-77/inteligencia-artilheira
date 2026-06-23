@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Jovem Johan Manzambi (20 anos, do Freiburg) saiu do banco e marcou dois gols na goleada de 4 a 1 sobre a Bósnia, despontando como novidade do ataque suíço (fonte: https://www.apwin.com/br/palpites/suica-x-canada-palpite-copa-mundo-fifa-24-06-2026/)
+- Grupo convocado tem base em Manuel Akanji, Granit Xhaka e Remo Freuler, com Gregor Kobel no gol (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o Canadá nesta quarta (24/06), 16h de Brasília, no BC Place, em Vancouver, decidindo a liderança do Grupo B.
+
 ## 📅 2026-06-22
 - Suíça chega à 3ª rodada com 4 pontos, junto com o Canadá, que lidera por saldo de gols; equipe marcou 5 e sofreu 2 gols na competição até aqui (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/previa-matchday-oito-copa-do-mundo-fifa-2026)
 - Considerada a seleção mais sólida e organizada taticamente do Grupo B (fonte: mesma acima)

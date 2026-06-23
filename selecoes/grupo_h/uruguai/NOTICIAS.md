@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Ainda sem vencer na Copa e sob comando de Marcelo Bielsa, chega à última rodada do Grupo H em situação de incerteza sobre o que esperar da equipe (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
+- **Repercussão / Próximo jogo:** Encara a Espanha na sexta (26/06), pela última rodada do Grupo H — duelo direto pela liderança da chave.
+
 ## 📅 2026-06-22
 - Uruguai empatou em 2 a 2 com Cabo Verde, pela 2ª rodada do Grupo H, no Hard Rock Stadium, Miami; gols de Maxi Araújo e Agustín Canobbio (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/sem-vencer-na-copa-uruguai-cede-empate-a-cabo-verde-que-sonha-com-vaga/)
 - Celeste chegou a virar o placar no fim do 1º tempo, mas cedeu o empate a Hélio Varela no 2º tempo (fonte: mesma acima)

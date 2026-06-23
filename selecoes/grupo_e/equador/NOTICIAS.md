@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Capitão Enner Valencia lidera elenco europeu com Moisés Caicedo (Chelsea), Piero Hincapié (Arsenal) e Willian Pacho (PSG) (fonte: https://thesportsrush.com/ecuador-v-germany-predictions)
+- Soma apenas 1 ponto no Grupo E e precisa vencer a Alemanha, já classificada, para garantir vaga nas oitavas (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a Alemanha nesta quinta (25/06), 16h de Brasília (New York New Jersey Stadium, East Rutherford), em jogo decisivo do Grupo E.
+
 ## 📅 2026-06-22
 - Equador chega frustrado após o 0x0 "papelón" com Curaçao (27 chutes, 15 no alvo, sem gol) e precisa reagir diante da Alemanha (fonte: https://www.goal.com/en-us/news/ecuador-germany-world-cup-preview/bltbed893fcfca000eb)
 - Enner Valencia e os laterais foram sufocados pela defesa compacta curaçolenha; time de Beccacece soma só 1 ponto em 2 jogos

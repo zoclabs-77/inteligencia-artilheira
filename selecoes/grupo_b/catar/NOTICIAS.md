@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação (4-3-3) sob Julen Lopetegui: Abunada; Al-Oui, Pedro Miguel, Khoukhi, Sultan Al-Brake; Laye, Gaber, Boudiaf; Edmilson Junior, Abdurisag, Akram Afif (fonte: https://www.ogol.com.br/jogo/2026-06-24-bosnia-catar/11832317)
+- Soma apenas 1 ponto no Grupo B, atrás de Canadá e Suíça — precisa vencer a Bósnia para manter chance de classificação como um dos melhores terceiros (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a Bósnia nesta quarta (24/06), no Lumen Field, Seattle, pela última rodada do Grupo B, em duelo eliminatório.
+
 ## 📅 2026-06-22
 - Catar enfrenta crise de seleção após a goleada de 6 a 0 para o Canadá, com expulsões diretas do defensor Homam Ahmed e do meio-campista Assim Madibo (fonte: https://www.goal.com/en-us/news/bosnia-herzegovina-qatar-world-cup-preview/blt5e8717e6a4265b16)
 - Vê o próximo jogo como oportunidade de redenção e de afirmar status de candidato ao mata-mata (fonte: mesma acima)

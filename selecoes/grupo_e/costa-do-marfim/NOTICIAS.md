@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Escalação usada contra a Alemanha trazia Fofana; Kossounou, Singo, Agbadou, Konan; Sangaré, Kessié, Yan Diomandé; Diallo, Oulai, Bonny — base que deve se manter contra Curaçao (fonte: https://www.gazetaesportiva.com/apostas/prognosticos/copa-do-mundo/alemanha-x-costa-do-marfim-20-06-2026)
+- **Repercussão / Próximo jogo:** Lidera o Grupo E e fecha a fase de grupos contra Curaçao nesta quinta (25/06), 17h de Brasília, em busca de selar a liderança da chave.
+
 ## 📅 2026-06-22
 - Costa do Marfim chega como líder do Grupo E após a virada da Alemanha (2x1), mas com lesão na coxa de Wilfried Singo como preocupação (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/cote-d-ivoire/team-news)
 - Vem de campanha impecável e invicta nas Eliminatórias africanas, sem sofrer gol em 10 jogos, sob comando do técnico Emerse Faé, campeão da CAN 2023

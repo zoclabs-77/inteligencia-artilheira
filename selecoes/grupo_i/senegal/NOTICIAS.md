@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Senegal perdeu por 3 a 2 para a Noruega no MetLife Stadium, com dois gols de Ismaïla Sarr (7' e 47' do 2ºT), mas não foi suficiente diante do show de Haaland (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/haaland-marca-duas-vezes-e-noruega-vence-senegal-pela-copa-do-mundo/)
+- Com a derrota, soma zero pontos em duas rodadas do Grupo I e fica em situação crítica na luta por vaga no mata-mata (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/noruega-senegal-melhores-momentos-resumo-grupo-i)
+- **Repercussão / Próximo jogo:** Precisa vencer o Iraque na sexta (26/06) e ainda torcer por resultados paralelos para sonhar com vaga entre os melhores terceiros do Grupo I.
+
 ## 📅 2026-06-22
 - Senegal busca reação após derrota por 3 a 1 para a França na estreia; nova derrota deixaria a equipe muito perto da eliminação (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-noruega-x-senegal-previa-da-partida-da-copa-do-mundo-de-2026/25408/)
 - Sadio Mané está de volta ao elenco após ter perdido o Mundial do Catar por lesão, reforçando o ataque senegalês (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/com-sadio-mane-senegal-convoca-28-jogadores-para-a-copa-do-mundo-202605211130)

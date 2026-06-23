@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação: Zidane; Belghali, Aissa Mandi, Ramy Bensebaini, Rayan Aït-Nouri; Ramiz Zerrouki, Ibrahim Maza (ou Nabil Bentaleb), Houssem Aouar (ou Hicham Boudaoui); Riyad Mahrez, Amine Gouiri, Farès Chaïbi. Técnico: Vladimir Petkovic (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jordania-x-argelia-escalacoes-e-onde-assistir-ao-jogo-da-copa-do-mundo/)
+- Ocupa a lanterna do Grupo J sem pontos, após goleada sofrida para a Argentina na estreia (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a Jordânia na madrugada desta terça (23/06), 0h de Brasília, no Levi's Stadium, em Santa Clara — derrota deixaria praticamente eliminada da briga por vaga no Grupo J.
+
 ## 📅 2026-06-22
 - Argélia foi derrotada por 3 a 0 pela Argentina de Messi na estreia, e chega pressionada à 2ª rodada do Grupo J (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-jordania-x-argelia-23-06-2026.html)
 - Equipe vem de boa sequência recente nas Eliminatórias (3 vitórias, 1 empate, 1 derrota nos últimos 5 jogos), com 12 gols marcados e só 2 sofridos antes da Copa (fonte: mesma acima)

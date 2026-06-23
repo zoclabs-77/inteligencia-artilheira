@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Precisa vencer o Japão para se manter viva na disputa por vaga direta no Grupo F, após perder a invencibilidade diante da Holanda (fonte: https://www.goal.com/en-us/news/japan-sweden-world-cup-preview/blt8a938f12b12022e4)
+- **Repercussão / Próximo jogo:** Enfrenta o Japão nesta quinta (25/06), pela última rodada do Grupo F, em jogo decisivo para suas chances de classificação.
+
 ## 📅 2026-06-22
 - Suécia perdeu a invencibilidade na competição com a goleada sofrida da Holanda (5x1) e agora precisa vencer o Japão para seguir vivo no Grupo F (fonte: https://www.goal.com/en-us/news/japan-sweden-world-cup-preview/blt8a938f12b12022e4)
 - Defende retrospecto positivo de classificações ao mata-mata em suas últimas quatro participações em Copas

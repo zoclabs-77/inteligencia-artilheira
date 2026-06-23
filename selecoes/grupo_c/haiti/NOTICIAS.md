@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Vem de apenas 1 vitória nos últimos 6 jogos (4 derrotas), com 6 gols marcados contra 8 sofridos — retrato da fragilidade ofensiva e defensiva da equipe na Copa (fonte: https://tips.gg/pt/article/morocco-haiti-head-to-head-wc2026/)
+- **Repercussão / Próximo jogo:** Mesmo eliminado, encara o Marrocos nesta quarta (24/06) no primeiro confronto da história entre as duas seleções, fechando a histórica primeira campanha do país em Copas desde 1974.
+
 ## 📅 2026-06-22
 - Haiti foi oficialmente confirmado como a primeira seleção eliminada da Copa do Mundo 2026, após perder também para a Escócia por 1 a 0 na rodada anterior (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-24/marrocos-vs-haiti)
 - Mesmo eliminado, disputa a última rodada em sua primeira participação em Copas desde 1974

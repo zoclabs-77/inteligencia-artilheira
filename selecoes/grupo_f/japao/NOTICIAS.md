@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Chega à última rodada do Grupo F embalado pela goleada de 4 a 0 sobre a Tunísia, com Kamada e Ayase Ueda em boa fase ofensiva (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/tunisia-japao-melhores-momentos-resumo-jogo-grupo-f)
+- **Repercussão / Próximo jogo:** Enfrenta a Suécia nesta quinta (25/06), pela 3ª rodada do Grupo F, em duelo que pode decidir a liderança da chave.
+
 ## 📅 2026-06-22
 - Japão goleou a Tunísia por 4 a 0 pela 2ª rodada do Grupo F, no Estádio BBVA, Monterrey, com gols de Kamada, Ayase Ueda (2x) e Junya Ito (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/tunisia-japao-melhores-momentos-resumo-jogo-grupo-f)
 - Resultado leva o Japão a 4 pontos e aumenta as chances de um possível confronto com o Brasil no mata-mata (fonte: https://www.bnews.com.br/noticias/esporte/copa-2026-japao-goleia-tunisia-por-4x0-e-aumenta-chances-de-enfrentar-o-brasil-no-mata-mata.html)

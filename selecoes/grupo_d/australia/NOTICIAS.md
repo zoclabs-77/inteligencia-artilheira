@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-23
+- Provável escalação (3-4-2-1): Mat Ryan; Alessandro Circati, Harry Souttar, Lucas Herrington; Jacob Italiano, Jackson Irvine, Aiden O'Neill, Jordan Bos; Matthew Leckie, Connor Metcalfe; Mohamed Touré (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
+- **Repercussão / Próximo jogo:** Encara o Paraguai na sexta (26/06), pela 3ª rodada do Grupo D, em duelo direto pela 2ª vaga às oitavas.
+
 ## 📅 2026-06-22
 - Austrália de Tony Popovic busca reagir após a derrota para os EUA e definir a 2ª vaga do Grupo D direto contra o Paraguai (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
 - Análise tática aponta risco no estilo ofensivo australiano, que deixa espaços expostos quando as laterais avançam — vulnerabilidade diante do poderio físico paraguaio (fonte: mesma acima)
