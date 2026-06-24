@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Paraguai venceu a Turquia por 1 a 0 na 2ª rodada e ocupa a 3ª posição do Grupo D; enfrenta a Austrália (2ª colocada) na sexta (26/06), 02h UTC, no Levi's Stadium (Santa Clara) (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
+- Escalação prevista (4-4-2): Orlando Gill; Juan Cáceres, Gustavo Gómez, Omar Alderete, Junior Alonso; Diego Gómez, Andrés Cubas, Damián Bobadilla, Miguel Almirón; Julio Enciso (Kaku), Antonio Sanabria (fonte: mesma acima)
+- **Próximo jogo:** Jogo direto por vaga no Grupo D contra a Austrália, com ambas reconstruindo a campanha após o 2º dia intenso.
+
+
 ## 📅 2026-06-23
 - Provável escalação (4-4-2): Orlando Gill; Juan Cáceres, Gustavo Gómez, Omar Alderete, Junior Alonso; Diego Gómez, Andrés Cubas, Damián Bobadilla, Miguel Almirón; Julio Enciso (ou Kaku), Antonio Sanabria (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
 - **Repercussão / Próximo jogo:** Encara a Austrália na sexta (26/06), pela 3ª rodada do Grupo D, em confronto direto pela 2ª vaga às oitavas.

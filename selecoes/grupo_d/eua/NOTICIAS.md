@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-24
+- Estados Unidos venceram a Austrália por 2 a 0 na 2ª rodada e enfrentam a Turquia na quinta (25/06), como anfitrião, pela 3ª rodada do Grupo D (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
+- **Próximo jogo:** Bem posicionado no grupo, joga em casa contra a Turquia podendo selar a liderança do Grupo D.
+
+
 ## 📅 2026-06-23
 - Provável escalação (3-4-2-1): Matt Freese; Alex Freeman, Chris Richards (ou Mark McKenzie), Tim Ream; Sergiño Dest, Sebastian Berhalter, Tyler Adams, Antonee Robinson; Weston McKennie, Christian Pulisic; Folarin Balogun (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/turkiye/team-news)
 - **Repercussão / Próximo jogo:** Já líder isolado do Grupo D com 6 pontos, enfrenta a Turquia, já eliminada, na quinta (25/06) pela última rodada, podendo rotacionar o time titular.

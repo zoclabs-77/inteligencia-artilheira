@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Senegal perdeu seus dois primeiros jogos (revés de 3 a 2 para a Noruega foi o mais competitivo) e enfrenta o Iraque na sexta (26/06), 16h de Brasília, no BMO Field (Toronto), na última rodada do Grupo I (fonte: https://www.goal.com/en-us/news/senegal-iraq-world-cup-preview/bltd9cd15e8559290bf)
+- Escalação provável: Édouard Mendy; Youssouf Sabaly, Kalidou Koulibaly, Moussa Niakhaté, Ismaïl Jakobs; Pape Matar Sarr, Idrissa Gana Gueye, Lamine Camara; Ismaïla Sarr, Nicolas Jackson, Iliman Ndiaye (fonte: mesma acima)
+- **Próximo jogo:** Sem pontuar ainda, precisa vencer o Iraque para tentar sobreviver entre os melhores terceiros colocados.
+
+
 ## 📅 2026-06-23
 - Senegal perdeu por 3 a 2 para a Noruega no MetLife Stadium, com dois gols de Ismaïla Sarr (7' e 47' do 2ºT), mas não foi suficiente diante do show de Haaland (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/haaland-marca-duas-vezes-e-noruega-vence-senegal-pela-copa-do-mundo/)
 - Com a derrota, soma zero pontos em duas rodadas do Grupo I e fica em situação crítica na luta por vaga no mata-mata (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/noruega-senegal-melhores-momentos-resumo-grupo-i)

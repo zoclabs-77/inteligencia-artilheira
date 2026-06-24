@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Nova Zelândia, de volta a uma Copa do Mundo após 16 anos, enfrenta o tradicional e mais forte adversário do Grupo G, a Bélgica, na madrugada do dia 27 (sexta para sábado) (fonte: https://www.goal.com/en-us/news/new-zealand-belgium-world-cup-preview/blt15910be7a6f8f7b9)
+- Escalação provável (4-2-3-1): Alex Paulsen; Finn Surman, Liberato Cacace, Michael Boxall, Tim Payne; Marko Stamenic, Joe Bell; Eli Just, Sarpreet Singh, Ben Old; Chris Wood (fonte: mesma acima)
+- **Próximo jogo:** Enfrenta a favorita Bélgica num Grupo G com adversários mais bem ranqueados (Bélgica, Egito, Irã).
+
+
 ## 📅 2026-06-22
 - Nova Zelândia perdeu por 3 a 1 para o Egito, pela 2ª rodada do Grupo G, em Vancouver; Finn Summan marcou o gol neozelandês (fonte: https://trivela.com.br/copa-do-mundo/nova-zelandia-1x3-egito-salah-protagonismo-historia/)
 - All Whites abriram o placar, mas cederam a virada egípcia ainda no 1º tempo

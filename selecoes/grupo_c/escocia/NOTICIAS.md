@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-24
+- Escócia vem de derrota por 1 a 0 para o Marrocos e enfrenta o Brasil no Hard Rock Stadium (Miami), nesta quarta (24/06), 19h de Brasília, na última rodada do Grupo C (fonte: https://trivela.com.br/copa-do-mundo/escocia-x-brasil-provaveis-escalacoes-neymar-grupo-c-copa/)
+- Escalação provável: Angus Gunn; Nathan Patterson, Jack Hendry, Grant Hanley, Kieran Tierney, Andy Robertson; Ryan Christie, Lewis Ferguson, John McGinn, Scott McTominay; Che Adams (fonte: mesma acima)
+- Seleção retornou à Copa do Mundo após 28 anos de ausência, na 9ª participação histórica, e nunca passou da fase de grupos (fonte: https://www.olympics.com/pt/noticias/brasil-x-escocia-copa-do-mundo-2026-escalacoes-horario-e-onde-assistir)
+- **Próximo jogo:** Precisa vencer o Brasil e ainda sonha com vaga inédita às oitavas de final.
+
+
 ## 📅 2026-06-22
 - Escócia vem de derrota por 1 a 0 para o Marrocos na rodada anterior e chega à última rodada do Grupo C sem chances de classificação caso o Brasil vença (fonte: https://www.goal.com/en-us/news/scotland-brazil-world-cup-preview/blt7e5ff4d86c71b434)
 - Escalação projetada: Gunn; Patterson, Hendry, Hanley, Tierney, Robertson; Christie, Ferguson, McGinn, McTominay; Adams (fonte: mesma acima)

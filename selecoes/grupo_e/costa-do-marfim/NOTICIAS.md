@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-24
+- Costa do Marfim encerra a fase de grupos contra Curaçao na quinta (25/06), 17h de Brasília, no Lincoln Financial Field, fechando o Grupo E (fonte: https://www.goal.com/en-us/news/curacao-ivory-coast-world-cup-preview/bltaf6ced75ec6c319b)
+- Escalação provável: Y. Fofana; G. Konan, W. Singo, E. Agbadou, E. Doué; O. Diakité, F. Kessié, S. Fofana, Y. Diomande; A. Diallo, S. Adingra (fonte: mesma acima)
+- Perdeu por 2 a 1 para a Alemanha na 2ª rodada, resultado que complicou suas contas na chave (fonte: https://www.vavel.com/en-us/soccer/2026/06/20/1263944-germany-vs-ivory-coast-live-score-2026-fifa-world-cup.html)
+- **Próximo jogo:** Precisa vencer Curaçao para manter chances de classificação no Grupo E.
+
+
 ## 📅 2026-06-23
 - Escalação usada contra a Alemanha trazia Fofana; Kossounou, Singo, Agbadou, Konan; Sangaré, Kessié, Yan Diomandé; Diallo, Oulai, Bonny — base que deve se manter contra Curaçao (fonte: https://www.gazetaesportiva.com/apostas/prognosticos/copa-do-mundo/alemanha-x-costa-do-marfim-20-06-2026)
 - **Repercussão / Próximo jogo:** Lidera o Grupo E e fecha a fase de grupos contra Curaçao nesta quinta (25/06), 17h de Brasília, em busca de selar a liderança da chave.

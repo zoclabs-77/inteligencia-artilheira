@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Iraque chega pressionado após derrotas para Noruega (4 a 1) e França (3 a 0) e enfrenta o Senegal na sexta (26/06), 16h de Brasília, no BMO Field (Toronto), na última rodada do Grupo I (fonte: https://www.goal.com/en-us/news/senegal-iraq-world-cup-preview/bltd9cd15e8559290bf)
+- Escalação provável: Jalal Hassan; Hussein Ali, Zaid Tahseen, Akam Hashim, Merchas Doski; Ibrahim Bayesh, Amir Al-Ammari, Zidane Iqbal, Marko Farji; Ali Al-Hamadi, Ali Jasim (fonte: mesma acima)
+- **Próximo jogo:** Sem pontuar, joga a última chance de classificação entre os melhores terceiros contra o Senegal.
+
+
 ## 📅 2026-06-23
 - Iraque perdeu por 3 a 0 para a França, sofrendo dobletes de Mbappé e gol de Dembélé, e fica sem pontos após duas rodadas do Grupo I (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-do-mundo-por-que-franca-x-iraque-foi-suspenso/)
 - Jogo teve interrupção de mais de uma hora por alerta de raios na Filadélfia, primeira pausa climática da Copa 2026 (fonte: https://www.infomoney.com.br/esportes/franca-x-iraque-e-o-1o-jogo-da-copa-do-mundo-2026-a-ser-suspenso-por-causa-do-clima/)

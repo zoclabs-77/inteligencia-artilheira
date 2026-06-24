@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- México vem de vitória clínica por 1 a 0 sobre a Coreia do Sul em Guadalajara e enfrenta a Tchéquia na quinta (25/06), no histórico Estadio Azteca (Cidade do México), pela última rodada do Grupo A (fonte: https://www.vietnam.vn/pt/xep-hang-world-cup-2026-croatia-bam-duoi-tuyen-anh)
+- Como anfitrião, joga em casa no Azteca em confronto que pode definir a liderança do grupo (fonte: mesma acima)
+- **Próximo jogo:** Vitória garante a liderança do Grupo A; mesmo um tropeço deixa o México bem posicionado dada a vantagem conquistada nas primeiras rodadas.
+
+
 ## 📅 2026-06-22
 - México confirmou domínio total do Grupo A com vitória por 1x0 sobre a Coreia do Sul em Guadalajara, chegando a 6 pontos e à liderança invicta (fonte: https://www.goal.com/br/not%C3%ADcias/republica-tcheca-x-mexico-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/blte3e3fb32bfa81e95)
 - Javier Aguirre deve priorizar foco defensivo e eficiência ofensiva, com Luis Romo e Julián Quiñones como pontos-chave de ataque (fonte: mesma acima)

@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-24
+- Bélgica enfrenta a Nova Zelândia na madrugada do dia 27 (sexta para sábado), pela 3ª rodada do Grupo G, como favorita do confronto (fonte: https://www.goal.com/en-us/news/new-zealand-belgium-world-cup-preview/blt15910be7a6f8f7b9)
+- Escalação provável (4-2-3-1): Thibaut Courtois; Timothy Castagne, Nathan Ngoy, Arthur Theate, Maxim De Cuyper; Amadou Onana, Youri Tielemans; Alexis Saelemaekers, Kevin De Bruyne, Jeremy Doku; Charles De Ketelaere (fonte: mesma acima)
+- Irã empatou 0 a 0 com a Bélgica na 2ª rodada, dado que mostra equilíbrio no Grupo G (fonte: https://www.goal.com/en-us/news/egypt-iran-world-cup-preview/bltbce2e5fc24897843)
+- **Próximo jogo:** Favorita contra a Nova Zelândia, mas chega de empate sem gols na rodada anterior.
+
+
 ## 📅 2026-06-22
 - Bélgica empatou em 0 a 0 com o Irã, pela 2ª rodada do Grupo G, em Los Angeles, em jogo de pouca produção ofensiva (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/belgica-tropeca-e-so-empata-com-ira-que-segue-sem-perder-na-copa/)
 - Ngoy foi expulso aos 20 minutos do 2º tempo após puxão em Taremi que evitou contra-ataque iraniano; Bélgica jogou o resto do jogo com um a menos (fonte: mesma acima)

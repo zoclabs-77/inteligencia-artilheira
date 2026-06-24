@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Marrocos, invicto na competição, disputa a liderança do Grupo C com o Brasil e enfrenta o Haiti (já eliminado) no Mercedes-Benz Stadium (Atlanta), nesta quarta (24/06), 19h de Brasília (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16887212/copa-do-mundo-marrocos-haiti-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes)
+- Provável escalação (4-2-3-1): Yassine Bounou; Achraf Hakimi, Issa Diop, Chadi Riad, Noussair Mazraoui; Ayyoub Bouaddi, Neil El Aynaoui; Brahim Díaz, Azzedine Ounahi, Bilal El Khannouss; Ismael Saibari (fonte: mesma acima)
+- **Próximo jogo:** Vitória garante a 1ª colocação do Grupo C, com vaga direta nas oitavas de final.
+
+
 ## 📅 2026-06-23
 - Provável escalação para o duelo com o Haiti: Bounou; Hakimi, Diop, Riad, Mazraoui; Bouaddi, El Aynaoui; Diaz, Ounahi, El Khannouss; Saibari (fonte: https://tips.gg/pt/article/morocco-haiti-head-to-head-wc2026/)
 - Chega ao confronto invicto há 6 jogos (4 vitórias e 2 empates), com 14 gols marcados e apenas 3 sofridos (fonte: mesma acima)

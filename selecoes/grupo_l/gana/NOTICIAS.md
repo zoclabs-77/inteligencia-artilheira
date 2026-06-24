@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Gana empatou em 0 a 0 com a Inglaterra no Gillette Stadium (Boston), pela 2ª rodada do Grupo L (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/em-jogo-decepcionante-inglaterra-e-gana-empatam-sem-gols-e-adiam-classificacao-a-proxima-fase-da-copa-do-mundo,ad316b166a18ef74739b1b0f0025f24ak4eihozc.html)
+- A seleção, comandada por Carlos Queiroz, foi elogiada internacionalmente pela organização defensiva e pela capacidade de neutralizar Jude Bellingham e limitar o espaço dos jogadores decisivos ingleses (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Resultado positivo no retrospecto do grupo; encara a Croácia na 3ª rodada (27/06) em duelo direto por vaga.
+
+
 ## 📅 2026-06-23
 - Gana chega embalada após vitória por 1 a 0 sobre o Panamá na estreia, dividindo a liderança do Grupo L com a Inglaterra (fonte: https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_2026_%E2%80%93_Grupo_L)
 - **Repercussão / Próximo jogo:** Enfrenta a Inglaterra de Bellingham e Kane nesta terça (23/06), no Gillette Stadium, em Foxborough — vencer ou empatar reforça a candidatura gananense à liderança do grupo.

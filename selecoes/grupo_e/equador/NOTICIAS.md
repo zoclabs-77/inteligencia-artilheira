@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-24
+- Equador está em situação delicada no Grupo E após empatar 0 a 0 com Curaçao, com apenas um ponto e na 3ª colocação da chave; enfrenta a Alemanha na quinta (25/06), 17h de Brasília, no MetLife Stadium (Nova Jersey) (fonte: https://www.365scores.com/pt-br/news/magazine/equador-x-alemanha-escalacoes-analise-copa-do-mundo/)
+- Precisa vencer a Alemanha e torcer por vitória de Curaçao sobre a Costa do Marfim para sonhar com a 2ª colocação (fonte: mesma acima)
+- Escalação prevista: Galíndez; Alan Franco, Pacho, Hincapié; Alcívar, Yeboah, Caicedo, Vite, Estupiñan; Plata, Enner Valencia. Técnico: Sebástian Beccacece (fonte: mesma acima)
+- **Próximo jogo:** Necessidade de vencer a já classificada Alemanha para manter chances de avançar.
+
+
 ## 📅 2026-06-23
 - Capitão Enner Valencia lidera elenco europeu com Moisés Caicedo (Chelsea), Piero Hincapié (Arsenal) e Willian Pacho (PSG) (fonte: https://thesportsrush.com/ecuador-v-germany-predictions)
 - Soma apenas 1 ponto no Grupo E e precisa vencer a Alemanha, já classificada, para garantir vaga nas oitavas (fonte: mesma acima)

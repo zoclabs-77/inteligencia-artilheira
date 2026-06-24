@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Egito lidera o Grupo G com quatro pontos, após vitória clínica de 3 a 1 sobre a Nova Zelândia, e enfrenta o Irã em 27/06 (madrugada, 03h UTC), no Lumen Field (Seattle) (fonte: https://www.goal.com/en-us/news/egypt-iran-world-cup-preview/bltbce2e5fc24897843)
+- Vê o jogo como plataforma para solidificar status de líder invicta do grupo (fonte: mesma acima)
+- **Próximo jogo:** Vencer o Irã garante tranquilidade na liderança do Grupo G antes do mata-mata.
+
+
 ## 📅 2026-06-22
 - Egito venceu a Nova Zelândia por 3 a 1, pela 2ª rodada do Grupo G, em Vancouver; gols de Mostafa Ziko, Mohamed Salah e Trezeguet (fonte: https://trivela.com.br/copa-do-mundo/nova-zelandia-1x3-egito-salah-protagonismo-historia/)
 - Salah, mesmo lidando com desconforto na coxa, decidiu com gol e deu a assistência para o terceiro gol de Trezeguet, de cabeça (fonte: mesma acima)

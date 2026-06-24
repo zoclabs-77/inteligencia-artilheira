@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-24
+- Espanha encerra o Grupo H contra o Uruguai, em Guadalajara, na sexta (26/06), pela 3ª rodada, em confronto direto pela liderança da chave (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/uruguai-espanha-previa-jogo-copa-mundo-grupo-h)
+- Escalação prevista (4-3-3): Unai Simón; Pedro Porro, Pau Cubarsí, Aymeric Laporte, Marc Cucurella; Rodri, Pedri, Fabián Ruiz; Lamine Yamal, Nico Williams, Mikel Oyarzabal (fonte: mesma acima)
+- Lamine Yamal chega como o principal talento da nova geração espanhola, combinando velocidade, improviso e leitura de jogo raras para sua idade (fonte: mesma acima)
+- **Próximo jogo:** Vencer o Uruguai garante a liderança do Grupo H.
+
+
 ## 📅 2026-06-23
 - Segue como uma das favoritas ao título e lidera o Grupo H após a goleada sobre a Arábia Saudita, com Lamine Yamal em destaque (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
 - **Repercussão / Próximo jogo:** Encara o Uruguai de Bielsa na sexta (26/06), pela última rodada do Grupo H — duelo direto pela liderança da chave.

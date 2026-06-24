@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Suécia soma três pontos e depende de vitória contra o Japão para ter mais segurança na briga por classificação, nesta quinta (25/06), 20h de Brasília, no AT&T Stadium (Arlington) (fonte: https://www.goal.com/en-us/news/japan-sweden-world-cup-preview/blt8a938f12b12022e4)
+- Escalação prevista: Nordfeldt; Lagerbielke, Hien, Lindelöf; Karlström, Nygren, Ayari; Bernhardsson, Gudmundsson, Isak, Gyokeres. Técnico: Graham Potter (fonte: mesma acima)
+- **Próximo jogo:** Precisa vencer o Japão para garantir vaga direta nas oitavas do Grupo F.
+
+
 ## 📅 2026-06-23
 - Precisa vencer o Japão para se manter viva na disputa por vaga direta no Grupo F, após perder a invencibilidade diante da Holanda (fonte: https://www.goal.com/en-us/news/japan-sweden-world-cup-preview/blt8a938f12b12022e4)
 - **Repercussão / Próximo jogo:** Enfrenta o Japão nesta quinta (25/06), pela última rodada do Grupo F, em jogo decisivo para suas chances de classificação.

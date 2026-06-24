@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-24
+- Arábia Saudita empatou 1 a 1 com o Uruguai na 1ª rodada (gol de Al-Amri) e enfrenta Cabo Verde na sexta (26/06), 21h de Brasília, no NRG Stadium (Texas), pela 3ª rodada do Grupo H (fonte: https://www.papodebola.com.br/futebol/copa-do-mundo/jogo/26-06-2026/cabo-verde-arabia-saudita)
+- **Próximo jogo:** Precisa de resultado positivo contra Cabo Verde para manter vivas as chances de classificação no Grupo H.
+
+
 ## 📅 2026-06-23
 - Vive momento incerto após a goleada sofrida da Espanha (4x0) e chega pressionada à última rodada do Grupo H (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
 - **Repercussão / Próximo jogo:** Encara Cabo Verde na sexta (26/06), pela última rodada do Grupo H, precisando vencer para manter vivas as chances de classificação.

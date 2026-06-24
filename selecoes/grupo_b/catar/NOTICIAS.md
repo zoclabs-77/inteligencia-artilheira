@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-24
+- Catar chega com apenas um ponto após derrota de 6 a 0 para o Canadá e enfrenta a Bósnia na última rodada do Grupo B, no Lumen Field (Washington) (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/bosnia-x-catar-copa-2026-onde-assistir-escalacoes/)
+- Crise de desfalques: zagueiro Homam Ahmed e o volante Assim Madibo foram expulsos na goleada sofrida e cumprem suspensão; Lopetegui terá que improvisar a defesa e Karim Boudiaf deve assumir o meio-campo (fonte: mesma acima)
+- Escalação provável: Abunada; Al-Oui, Pedro Miguel, Khoukhi, Sultan Al-Brake; Laye, Gaber, Boudiaf; Edmilson Junior, Abdurisag, Akram Afif (fonte: mesma acima)
+- **Próximo jogo:** Jogo decisivo e pressionado contra a Bósnia — só vencer mantém chance de classificação.
+
+
 ## 📅 2026-06-23
 - Provável escalação (4-3-3) sob Julen Lopetegui: Abunada; Al-Oui, Pedro Miguel, Khoukhi, Sultan Al-Brake; Laye, Gaber, Boudiaf; Edmilson Junior, Abdurisag, Akram Afif (fonte: https://www.ogol.com.br/jogo/2026-06-24-bosnia-catar/11832317)
 - Soma apenas 1 ponto no Grupo B, atrás de Canadá e Suíça — precisa vencer a Bósnia para manter chance de classificação como um dos melhores terceiros (fonte: mesma acima)

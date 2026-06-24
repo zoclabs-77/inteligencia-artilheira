@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Croácia venceu o Panamá por 1 a 0 no BMO Field (Toronto), gol de Ante Budimir no 2º tempo, conquistando a primeira vitória no torneio e subindo para a 3ª posição do Grupo L com três pontos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/croacia-vence-por-1-a-0-e-elimina-o-panama-da-copa-do-mundo/)
+- Noite com peso histórico para Luka Modric, que completou 200 jogos pela seleção e foi substituído aos 35 minutos do 2º tempo (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Na 3ª rodada (27/06) enfrenta Gana em confronto direto por vaga direta na classificação do Grupo L; equipe pode variar para um 3-4-2-1 dada a idade avançada de peças-chave.
+
+
 ## 📅 2026-06-23
 - Provável escalação: Dominik Livaković; Josip Stanišić, Josip Šutalo, Duje Ćaleta-Car, Joško Gvardiol; Luka Modrić, Mateo Kovačić; Petar Sučić, Martin Baturina, Ivan Perišić; Ante Budimir. Técnico: Zlatko Dalić (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/panama-x-croacia-provaveis-escalacoes-para-o-jogo-pelo-grupo-l/)
 - Chega pressionada após derrota por 4 a 2 para a Inglaterra na estreia, mesmo com boa exibição ofensiva (fonte: mesma acima)

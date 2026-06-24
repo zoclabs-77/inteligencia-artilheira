@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Argentina já lidera o Grupo J com seis pontos e enfrenta a Jordânia (já eliminada) em 28/06, 02h GMT, no Levi's Stadium (Santa Clara); um empate garante a liderança e classificação como campeã da chave (fonte: https://copaamerica.com/en/news/argentina-path-fifa-world-cup-2026-bracket-possible-matchups)
+- Ajuste tático de Scaloni deve focar no meio-campo, com Alexis Mac Allister e Enzo Fernández orientados a acelerar a transição vertical da bola (fonte: mesma acima)
+- **Próximo jogo:** Folgada na liderança do Grupo J, joga sem pressão de resultado contra a já eliminada Jordânia.
+
+
 ## 📅 2026-06-23
 - Argentina venceu a Áustria por 2 a 0 em Arlington pela 2ª rodada do Grupo J, garantindo a liderança da chave (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-austria-melhores-momentos-resumo-grupo-j)
 - Messi marcou dois gols (38' do 1ºT e 48' do 2ºT) e se tornou o maior artilheiro da história das Copas do Mundo, com 18 gols, além de artilheiro da atual edição com 5 (fonte: https://trivela.com.br/copa-do-mundo/argentina-2x0-austria-messi-artilharia-assinatura/)

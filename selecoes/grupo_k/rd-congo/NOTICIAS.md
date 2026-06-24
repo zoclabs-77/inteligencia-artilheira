@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- RD Congo perdeu por 1 a 0 para a Colômbia no Estadio Akron (Guadalajara), na 2ª rodada do Grupo K, gol colombiano nos minutos finais (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/colombia-fura-defesa-da-rd-congo-no-final-e-se-classifica-na-copa-do-mundo,7a080f5b168ad237d924678ca8005899m9fqgo4d.html)
+- Os Leopardos somam apenas um ponto (do empate histórico 1-1 com Portugal na estreia) e caem para a 3ª posição do grupo (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Precisa vencer o Uzbequistão na 3ª rodada (27/06) e torcer por resultados paralelos para sonhar com vaga entre os melhores terceiros.
+
+
 ## 📅 2026-06-23
 - Provável escalação: Mpasi; Wan-Bissaka, Mbemba, Tuanzebe, Kapuadi, Masuaku; Mukau, Moutoussamy, Kayembe; Wissa, Bakambu. Técnico: Sébastien Desabre (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-colombia-x-rd-congo-previa-da-partida-da-copa-do-mundo-de-2026/26081/)
 - Ocupa o 2º lugar do Grupo K com 1 ponto, após surpreender com empate 1 a 1 com Portugal na estreia (fonte: mesma acima)

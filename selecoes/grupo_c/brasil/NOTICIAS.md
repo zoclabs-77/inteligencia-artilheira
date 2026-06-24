@@ -4,6 +4,14 @@
 
 ---
 
+## 📅 2026-06-24
+- Brasil chega embalado após golear o Haiti por 3 a 0 e lidera o Grupo C com quatro pontos (mesma pontuação do Marrocos); basta um empate contra a Escócia para garantir a liderança, dado o saldo de gols favorável (fonte: https://trivela.com.br/copa-do-mundo/escocia-x-brasil-provaveis-escalacoes-neymar-grupo-c-copa/)
+- Jogo nesta quarta (24/06), 19h de Brasília, no Hard Rock Stadium (Miami), contra a Escócia, pela 3ª e última rodada do Grupo C (fonte: mesma acima)
+- Escalação prevista: Alisson; Danilo, Marquinhos, Gabriel Magalhães, Douglas Santos; Casemiro, Bruno Guimarães, Lucas Paquetá; Rayan, Vini Jr, Matheus Cunha (fonte: mesma acima)
+- Raphinha é desfalque confirmado: sofreu lesão muscular na coxa direita ainda no 1º tempo da vitória sobre o Haiti (fonte: mesma acima)
+- **Próximo jogo:** Empate basta para fechar a fase de grupos na liderança do Grupo C.
+
+
 ## 📅 2026-06-23
 - Escalação projetada por veículos esportivos: Alisson; Danilo, Marquinhos, Gabriel Magalhães, Douglas Santos; Casemiro, Bruno Guimarães, Lucas Paquetá; Rayan, Vini Jr, Matheus Cunha (fonte: https://www.umdoisesportes.com.br/copa-do-mundo/2026/escocia-brasil-escalacao-selecao-brasileira-copa-do-mundo/)
 - Brasil e Escócia já se enfrentaram 4 vezes em Copas, com 3 vitórias brasileiras e 1 empate, nunca uma derrota (fonte: https://www.olympics.com/pt/noticias/brasil-x-escocia-copa-do-mundo-2026-escalacoes-horario-e-onde-assistir)

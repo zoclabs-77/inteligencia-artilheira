@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Japão soma quatro pontos (empate com a Holanda, vitória sobre a Tunísia) e está na 2ª posição do Grupo F; vitória ou empate contra a Suécia garante a classificação, nesta quinta (25/06), 20h de Brasília, no AT&T Stadium (Arlington) (fonte: https://www.goal.com/en-us/news/japan-sweden-world-cup-preview/blt8a938f12b12022e4)
+- Escalação prevista: Suzuki; Tomiyasu, Itakura, Hiroki Ito; Sano, Tanaka, Doan, Nakamura; Kamada, Junya Ito, Ueda. Técnico: Hajime Moriyasu (fonte: mesma acima)
+- **Próximo jogo:** Empate ou vitória garante ao menos a 2ª colocação do Grupo F.
+
+
 ## 📅 2026-06-23
 - Chega à última rodada do Grupo F embalado pela goleada de 4 a 0 sobre a Tunísia, com Kamada e Ayase Ueda em boa fase ofensiva (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/tunisia-japao-melhores-momentos-resumo-jogo-grupo-f)
 - **Repercussão / Próximo jogo:** Enfrenta a Suécia nesta quinta (25/06), pela 3ª rodada do Grupo F, em duelo que pode decidir a liderança da chave.

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Holanda lidera o Grupo F com quatro pontos e precisa apenas de um empate contra a já eliminada Tunísia para garantir classificação, nesta quinta (25/06), 20h de Brasília, no Arrowhead Stadium (Kansas City) (fonte: https://www.goal.com/en-us/news/tunisia-netherlands-world-cup-preview/bltb895dd8baa22d968)
+- Escalação prevista (4-3-3): Bart Verbruggen; Denzel Dumfries, Jan Paul van Hecke, Virgil van Dijk, Micky van de Ven; Frenkie de Jong, Tijjani Reijnders, Ryan Gravenberch; Donyell Malen, Memphis Depay, Cody Gakpo. Técnico: Ronald Koeman (fonte: mesma acima)
+- **Próximo jogo:** Empate basta para fechar a fase de grupos na liderança do Grupo F.
+
+
 ## 📅 2026-06-23
 - Chega cheia de confiança após goleada de 5 a 1 sobre a Suécia, sob comando de Ronald Koeman (fonte: https://www.goal.com/en-us/news/tunisia-netherlands-world-cup-preview/bltb895dd8baa22d968)
 - **Repercussão / Próximo jogo:** Enfrenta a já eliminada Tunísia nesta quinta (25/06), no Arrowhead Stadium, Kansas City, na última rodada do Grupo F.

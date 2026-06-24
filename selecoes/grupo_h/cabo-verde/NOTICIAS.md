@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-24
+- Cabo Verde empatou 0 a 0 com a Espanha na 1ª rodada e enfrenta a Arábia Saudita na sexta (26/06), 21h de Brasília, no NRG Stadium (Texas), pela 3ª rodada do Grupo H (fonte: https://www.papodebola.com.br/futebol/copa-do-mundo/jogo/26-06-2026/cabo-verde-arabia-saudita)
+- **Próximo jogo:** Vencer a Arábia Saudita pode encaminhar uma classificação histórica e inédita do país a uma Copa do Mundo.
+
+
 ## 📅 2026-06-23
 - Em sua estreia histórica em Copas, vive a melhor campanha possível e segue sonhando com vaga inédita às oitavas após o empate com o Uruguai (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
 - **Repercussão / Próximo jogo:** Encara a Arábia Saudita na sexta (26/06), pela última rodada do Grupo H, com chance real de classificação histórica.

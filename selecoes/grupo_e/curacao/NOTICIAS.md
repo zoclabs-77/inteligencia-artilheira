@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-24
+- Curaçao encerra a fase de grupos contra a Costa do Marfim na quinta (25/06), 17h de Brasília, no Lincoln Financial Field, em jogo que fecha o Grupo E (fonte: https://www.goal.com/en-us/news/curacao-ivory-coast-world-cup-preview/bltaf6ced75ec6c319b)
+- Escalação provável: E. Room; D. Fonville, A. Obispo, R. Bazoer, J. Gaari, S. Floranus; J. Bacuna, L. Comenencia, L. Bacuna, T. Chong; J. Locadia (fonte: mesma acima)
+- Empatou em 0 a 0 com o Equador na 2ª rodada, somando apenas um ponto na campanha histórica da menor seleção (por população) a disputar uma Copa do Mundo (fonte: https://www.vietnam.vn/en/world-cup-2026-ecuador-curacao-cho-sao-chelsea-cuu-nguy-cho-dai-dien-nam-my)
+- **Próximo jogo:** Precisa vencer a Costa do Marfim e torcer por resultado paralelo para sonhar com vaga entre os melhores terceiros.
+
+
 ## 📅 2026-06-23
 - Jogo decisivo da última rodada do Grupo E acontece nesta quinta (25/06), 17h de Brasília, contra a Costa do Marfim (fonte: https://www.goal.com/en-us/news/curacao-ivory-coast-world-cup-preview/bltaf6ced75ec6c319b)
 - **Repercussão / Próximo jogo:** Disputa vaga inédita às oitavas diante da Costa do Marfim, fechando o Grupo E ao lado de Equador x Alemanha, no mesmo horário.

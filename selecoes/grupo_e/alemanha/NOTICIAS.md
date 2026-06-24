@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Alemanha já está classificada às oitavas de final após vencer Curaçao na estreia e a Costa do Marfim por 2 a 1, e deve poupar titulares contra o Equador na quinta (25/06), 17h de Brasília, no MetLife Stadium (Nova Jersey) (fonte: https://www.365scores.com/pt-br/news/magazine/equador-x-alemanha-escalacoes-analise-copa-do-mundo/)
+- Escalação prevista com equipe alternativa: Baumann; Anton, Thiaw, Rüdiger, Raum; Goretzka, Stiller, Amiri, Beier, Leweling; Undav (fonte: mesma acima)
+- **Próximo jogo:** Já garantida, joga sem pressão tabular contra o Equador, podendo gerenciar minutagem de titulares visando o mata-mata.
+
+
 ## 📅 2026-06-23
 - Sob Julian Nagelsmann, time é liderado pelo capitão Joshua Kimmich, com Manuel Neuer no gol e ataque de Jamal Musiala, Leroy Sané, Florian Wirtz, Kai Havertz e Nick Woltemade (fonte: https://thesportsrush.com/ecuador-v-germany-predictions)
 - Já garantida nas oitavas com 6 pontos em 2 jogos, deve manter intensidade contra o Equador para não perder ritmo competitivo (fonte: mesma acima)

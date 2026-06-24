@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Noruega volta a uma Copa do Mundo pela primeira vez desde a França 1998 e enfrenta a França na sexta (26/06), 20h, pela 3ª rodada do Grupo I, em duelo de alto nível ofensivo (fonte: https://www.goal.com/en-us/news/norway-france-world-cup-preview/blt150ba978b694fe14)
+- Ataque conta com Erling Haaland (Manchester City), Martin Odegaard (Arsenal), Alexander Sorloth (Atlético de Madrid), Antonio Nusa e Julian Ryerson, sob comando de Ståle Solbakken (fonte: mesma acima)
+- **Próximo jogo:** Duelo direto pela liderança do Grupo I contra a favorita França.
+
+
 ## 📅 2026-06-23
 - Noruega venceu o Senegal por 3 a 2 no MetLife Stadium, com dois gols de Erling Haaland (2' e 12' do 2ºT) e um de Marcus Pedersen, garantindo classificação antecipada ao mata-mata (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/haaland-marca-duas-vezes-e-noruega-vence-senegal-pela-copa-do-mundo/)
 - Haaland chega a 4 gols na Copa, colado em Mbappé e a um de Messi (5) na artilharia do torneio (fonte: https://www.terra.com.br/esportes/senegal/haaland-marca-duas-vezes-noruega-derrota-senegal-e-avanca-na-copa,0d1ce3c0e968a6a62e82982f025e1518qbrums4k.html)

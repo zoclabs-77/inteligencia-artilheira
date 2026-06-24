@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Austrália perdeu por 2 a 0 para os EUA na 2ª rodada e ocupa a 2ª posição do Grupo D; enfrenta o Paraguai na sexta (26/06), 02h UTC, no Levi's Stadium (Santa Clara) (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
+- Escalação prevista (3-4-2-1): Mat Ryan; Alessandro Circati, Harry Souttar, Lucas Herrington; Jacob Italiano, Jackson Irvine, Aiden O'Neill, Jordan Bos; Matthew Leckie, Connor Metcalfe; Mohamed Touré (fonte: mesma acima)
+- **Próximo jogo:** Precisa reagir contra o Paraguai para reconstruir a campanha no Grupo D após o tropeço com os EUA.
+
+
 ## 📅 2026-06-23
 - Provável escalação (3-4-2-1): Mat Ryan; Alessandro Circati, Harry Souttar, Lucas Herrington; Jacob Italiano, Jackson Irvine, Aiden O'Neill, Jordan Bos; Matthew Leckie, Connor Metcalfe; Mohamed Touré (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
 - **Repercussão / Próximo jogo:** Encara o Paraguai na sexta (26/06), pela 3ª rodada do Grupo D, em duelo direto pela 2ª vaga às oitavas.

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Turquia enfrenta os EUA na quinta (25/06), pela 3ª rodada do Grupo D, em jogo que pode definir a classificação da chave após o grupo virar em aberto na 2ª rodada (fonte: https://www.fifa.com/pt/articles/turquia-estados-unidos-previa-jogo-copa-mundo-grupo-d)
+- Vem de derrota por 1 a 0 para o Paraguai na 2ª rodada (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
+- **Próximo jogo:** Duelo direto contra o anfitrião EUA por vaga no Grupo D, sem margem para nova derrota.
+
+
 ## 📅 2026-06-23
 - Provável escalação (4-2-3-1): Ugurcan Cakir; Ferdi Kadıoglu, Merih Demiral, Abdulkerim Bardakci, Zeki Celik; Hakan Calhanoglu, Ismail Yuksek; Arda Güler, Orkun Kökçü, Kenan Yildiz; Baris Alper Yilmaz (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/turkiye/team-news)
 - **Repercussão / Próximo jogo:** Já eliminada, encara os EUA na quinta (25/06) pela 3ª rodada do Grupo D, sem nada em jogo além da honra esportiva.

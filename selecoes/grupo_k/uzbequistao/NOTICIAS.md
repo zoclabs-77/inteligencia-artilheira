@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Uzbequistão sofreu goleada de 5 a 0 para Portugal no NRG Stadium, em Houston, com dois gols de Cristiano Ronaldo, um de Nuno Mendes, um de Rafael Leão e um contra do goleiro Nematov (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-5-x-0-uzbequistao-veja-os-melhores-momentos-do-jogo-da-copa/)
+- Resultado complica a situação da seleção uzbeque, que disputava sua primeira Copa do Mundo na história, no Grupo K (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Encerra a fase de grupos contra a RD Congo (27/06), em jogo que pode definir se sobra alguma chance de avançar como um dos melhores terceiros.
+
+
 ## 📅 2026-06-23
 - Provável escalação: Utkir Yusupov; Abdukodir Khusanov, Abdulla Abdullaev, Rustamjon Ashurmatov; Bekhruz Karimov, Akmal Mozgovoy, Otabek Shukurov, Sherzod Nasrullaev; Abbosbek Fayzullayev, Oston Urunov, Eldor Shomurodov (fonte: https://trivela.com.br/copa-do-mundo/portugal-x-uzbequistao-provaveis-escalacoes-cristiano-ronaldo-bruno-fernandes/)
 - Rustam Ashurmatov é dúvida por dores na panturrilha (fonte: mesma acima)

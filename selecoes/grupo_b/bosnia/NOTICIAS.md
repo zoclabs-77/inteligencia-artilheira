@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Bósnia chega à última rodada do Grupo B com apenas um ponto, após derrota de 4 a 1 para a Suíça, e enfrenta o Catar (também com 1 ponto) no Lumen Field, em Washington (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/bosnia-x-catar-copa-2026-onde-assistir-escalacoes/)
+- Escalação provável: Vasilj; Dedic, Katic, Hadzikadunic, Kolasinac; Alajbegovic, Sunjic, Tahirovic, Memic; Demirovic, Dzeko (fonte: mesma acima)
+- **Próximo jogo:** Só a vitória mantém chances reais de classificação no duelo direto contra o Catar pela 3ª rodada.
+
+
 ## 📅 2026-06-23
 - Provável escalação (4-4-2): Nikola Vasilj; Sead Kolasinac, Tarik Muharemovic, Nikola Katic, Amar Dedic; Kerim Alajbegovic, Benjamin Tahirovic, Ivan Sunjic, Amar Memic; Ermedin Demirovic, Edin Dzeko (fonte: https://www.ogol.com.br/jogo/2026-06-24-bosnia-catar/11832317)
 - Chega com apenas 1 ponto, atrás de Canadá e Suíça (4 pontos cada) na liderança — vitória é obrigatória para sonhar com vaga entre os melhores terceiros (fonte: mesma acima)

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Uruguai é apontado como o adversário mais forte da Espanha no Grupo H e encerra a fase de grupos contra os espanhóis em Guadalajara, na sexta (26/06), pela 3ª rodada, em duelo direto pela liderança da chave (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/previa-matchday-onze-copa-do-mundo-fifa-2026)
+- Vem de empate 1 a 1 com a Arábia Saudita na estreia (fonte: mesma acima)
+- **Próximo jogo:** Duelo de favoritos do Grupo H contra a Espanha por vaga direta nas oitavas.
+
+
 ## 📅 2026-06-23
 - Ainda sem vencer na Copa e sob comando de Marcelo Bielsa, chega à última rodada do Grupo H em situação de incerteza sobre o que esperar da equipe (fonte: https://trivela.com.br/copa-do-mundo/grupo-h-2026-espanha-cabo-verde-arabia-saudita-uruguai/)
 - **Repercussão / Próximo jogo:** Encara a Espanha na sexta (26/06), pela última rodada do Grupo H — duelo direto pela liderança da chave.

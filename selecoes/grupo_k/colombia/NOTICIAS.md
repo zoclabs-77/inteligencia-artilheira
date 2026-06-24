@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Colômbia venceu a RD Congo por 1 a 0, no Estadio Akron (Guadalajara), na 2ª rodada do Grupo K, garantindo classificação antecipada às oitavas com seis pontos e a liderança da chave (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/colombia-fura-defesa-da-rd-congo-no-final-e-se-classifica-na-copa-do-mundo,7a080f5b168ad237d924678ca8005899m9fqgo4d.html)
+- Gol decisivo saiu no fim, furando uma defesa congolesa bem postada durante boa parte da partida (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Já classificada, encara Portugal na 3ª rodada (27/06/28-06 madrugada) — um empate garante a liderança do Grupo K.
+
+
 ## 📅 2026-06-23
 - Provável escalação: Vargas; Muñoz, Sánchez, Lucumi, Mojica; Gustavo Puerta, Lerma, James Rodríguez; Jhon Arias, Luis Diaz, Luis Suárez. Técnico: Néstor Lorenzo (fonte: https://mancheteesportiva.com.br/estatisticas/previsao-colombia-x-rd-congo-previa-da-partida-da-copa-do-mundo-de-2026/26081/)
 - Chega embalada após vitória por 3 a 1 sobre o Uzbequistão na estreia, e pode garantir classificação matemática vencendo a RD Congo (fonte: mesma acima)

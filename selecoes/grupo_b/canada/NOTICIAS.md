@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-24
+- Canadá divide a liderança do Grupo B com a Suíça, ambos com quatro pontos, e joga em casa nesta quarta (24/06), 16h de Brasília, no BC Place (Vancouver), ocupando 1º lugar pelos critérios de desempate (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/suica-x-canada-veja-provaveis-escalacoes-para-duelo-pela-copa-do-mundo/)
+- Provável escalação: Maxime Crépeau; Alistair Johnston, Derek Cornelius, Luc de Fougerolles, Richie Laryea; Stephen Eustáquio, Nathan Saliba, Tajon Buchanan, Liam Millar; Jonathan David, Cyle Larin. Técnico: Jesse Marsch (fonte: mesma acima)
+- Perdeu Ismael Koné para o restante do torneio após fratura na perna contra o Catar, com cirurgia já realizada; Nathan Saliba assume a vaga no meio-campo (fonte: mesma acima)
+- **Próximo jogo:** Vitória ou empate favorável garante a liderança do Grupo B na rodada decisiva contra a Suíça.
+
+
 ## 📅 2026-06-23
 - Canadá, 30º no ranking FIFA, somou um empate 1x1 com a Bósnia e goleada por 6 a 0 sobre o Catar (que jogou com um a menos) para chegar embalado à decisão de grupo (fonte: https://www.apwin.com/br/palpites/suica-x-canada-palpite-copa-mundo-fifa-24-06-2026/)
 - **Repercussão / Próximo jogo:** Recebe a Suíça como anfitrião nesta quarta (24/06), 16h de Brasília, no BC Place, em Vancouver — vitória garante a liderança do Grupo B.

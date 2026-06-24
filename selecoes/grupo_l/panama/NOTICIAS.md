@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Panamá foi derrotado pela Croácia por 1 a 0, no BMO Field (Toronto), pela 2ª rodada do Grupo L, gol de Ante Budimir no 2º tempo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/croacia-vence-por-1-a-0-e-elimina-o-panama-da-copa-do-mundo/)
+- Com a derrota, o Panamá está matematicamente eliminado do Mundial, mesmo tendo sido elogiado pela atuação competitiva e organizada (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Já eliminado, encerra a participação na Copa contra a Inglaterra na 3ª rodada (27/06), em Nova York/Nova Jersey.
+
+
 ## 📅 2026-06-23
 - Provável escalação: Orlando Mosquera; César Blackman, José Córdoba, Jiovany Ramos; Amir Murillo, Cristian Martínez, Carlos Harvey, Andrés Andrade; Yoel Bárcenas, José Luis Rodríguez, Cecilio Waterman. Técnico: Thomas Christiansen (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/panama-x-croacia-provaveis-escalacoes-para-o-jogo-pelo-grupo-l/)
 - Chega pressionada após derrota por 1 a 0 para Gana na estreia (fonte: mesma acima)

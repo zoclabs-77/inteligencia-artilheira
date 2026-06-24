@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Haiti já está eliminado da Copa do Mundo e encerra a participação contra o Marrocos no Mercedes-Benz Stadium (Atlanta), nesta quarta (24/06), 19h de Brasília (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16887212/copa-do-mundo-marrocos-haiti-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes)
+- Escalação provável: Johnny Placide; Jean-Kévin Duverne, Ricardo Adé, Hannes Delcroix, Carlens Arcus; Ruben Providence, Bellegarde, Jean Jacques, Martin Expérience; Frantzdy Pierrot, Wilson Isidor (fonte: mesma acima)
+- **Próximo jogo:** Sem objetivo esportivo na tabela, encerra a histórica primeira participação em Copas do Mundo contra o líder Marrocos.
+
+
 ## 📅 2026-06-23
 - Vem de apenas 1 vitória nos últimos 6 jogos (4 derrotas), com 6 gols marcados contra 8 sofridos — retrato da fragilidade ofensiva e defensiva da equipe na Copa (fonte: https://tips.gg/pt/article/morocco-haiti-head-to-head-wc2026/)
 - **Repercussão / Próximo jogo:** Mesmo eliminado, encara o Marrocos nesta quarta (24/06) no primeiro confronto da história entre as duas seleções, fechando a histórica primeira campanha do país em Copas desde 1974.

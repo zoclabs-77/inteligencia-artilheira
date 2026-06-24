@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-24
+- Inglaterra empatou em 0 a 0 com Gana no Gillette Stadium (Boston), pela 2ª rodada do Grupo L, em jogo decepcionante (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/em-jogo-decepcionante-inglaterra-e-gana-empatam-sem-gols-e-adiam-classificacao-a-proxima-fase-da-copa-do-mundo,ad316b166a18ef74739b1b0f0025f24ak4eihozc.html)
+- Imprensa britânica criticou duramente a atuação: o The Guardian chamou o resultado de "choque de realidade", e o espanhol Marca disse que o "fantasma Southgate" voltou a rondar a seleção (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/imprensa-inglesa-faz-alerta-apos-empate-sem-gols-contra-gana-choque-de-realidade,69e9b70276c86c145911b94bce62115boils5o13.html)
+- Jude Bellingham, destaque na estreia, ficou neutralizado pelo esquema defensivo ganês montado por Carlos Queiroz; Kane e Anthony Gordon tiveram pouca influência (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Encara o Panamá na última rodada do Grupo L (27/06), precisando reagir após dois jogos sem vencer.
+
+
 ## 📅 2026-06-23
 - Provável escalação: Pickford; James, Stones, Guehi, O'Reilly; Anderson, Rice; Madueke, Bellingham, Gordon; Kane (fonte: https://trivela.com.br/copa-do-mundo/inglaterra-gana-provaveis-escalacoes-2026/)
 - Bellingham, confirmado como 10 entre Gordon e Madueke, foi vaiado durante o anúncio da escalação, mas marcou na vitória sobre a Croácia (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/bellingham-recebe-vaias-ao-ser-anunciado-durante-escalacao-da-inglaterra,dbd3947043c32a3b7d7d2502b1f81c46guylr19l.html)

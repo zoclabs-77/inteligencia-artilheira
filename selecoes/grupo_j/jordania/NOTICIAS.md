@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Argélia venceu a Jordânia por 2 a 1 em Santa Clara, na 2ª rodada do Grupo J, com gol de Nizar Al-Rashdan abrindo o placar para os jordanianos antes da virada argelina (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argelia-vira-no-fim-elimina-a-jordania-e-segue-viva-na-copa-do-mundo/)
+- Com a derrota, a Jordânia segue sem pontuar no grupo e está eliminada da Copa do Mundo de 2026 (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Mesmo eliminada, a seleção ainda tem compromisso na 3ª rodada contra a Argentina (28/06) — jogo de honra, sem mais objetivo de classificação.
+
+
 ## 📅 2026-06-23
 - Provável escalação: Yazeed Abulaila; Mohammad Nasib, Yousef Abualnadi, Yazan Al-Arab; Ehsan Haddad, Nizar Al-Rashdan, Noor Al-Rawabdeh, Mohannad Abu Taha; Ali Olwan, Odeh Fakhoury, Mousa Al-Tamari. Técnico: Jamal Sellami (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jordania-x-argelia-escalacoes-e-onde-assistir-ao-jogo-da-copa-do-mundo/)
 - Chega zerada em pontos na 2ª rodada do Grupo J, após derrota na estreia para a Áustria (fonte: mesma acima)

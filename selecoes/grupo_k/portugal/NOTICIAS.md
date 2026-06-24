@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Portugal goleou o Uzbequistão por 5 a 0 no NRG Stadium (Houston), com dois gols de Cristiano Ronaldo, um de Nuno Mendes, um de Rafael Leão e um contra do goleiro Nematov, conquistando a 1ª vitória no torneio (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-5-x-0-uzbequistao-veja-os-melhores-momentos-do-jogo-da-copa/)
+- Ronaldo se tornou o maior artilheiro da história de Portugal em Copas e o primeiro jogador a marcar em seis edições diferentes do Mundial (fonte: mesma acima)
+- Resultado coloca a seleção na liderança parcial do Grupo K, com quatro pontos, após o empate na estreia com a RD Congo (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta a Colômbia na 3ª rodada (28/06, madrugada) em duelo direto pela liderança do Grupo K — Colômbia já está classificada e lidera com 6 pontos.
+
 ## 📅 2026-06-23
 - Provável escalação: Diogo Costa; João Cancelo, Rúben Dias, Renato Veiga, Nuno Mendes; Vitinha, João Neves, Bruno Fernandes; Bernardo Silva, Pedro Neto, Cristiano Ronaldo (fonte: https://trivela.com.br/copa-do-mundo/portugal-x-uzbequistao-provaveis-escalacoes-cristiano-ronaldo-bruno-fernandes/)
 - Rúben Dias retorna após lesão na coxa que o tirou da estreia; Tomás Araújo é dúvida por desconforto muscular (fonte: mesma acima)

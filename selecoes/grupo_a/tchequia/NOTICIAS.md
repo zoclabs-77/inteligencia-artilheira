@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Tchéquia empatou em 1 a 1 com a África do Sul em Atlanta na 2ª rodada e enfrenta o México na quinta (25/06), 01h GMT (24/06, 20h ET), no histórico Estadio Azteca (Cidade do México), pela última rodada do Grupo A (fonte: https://www.vietnam.vn/pt/xep-hang-world-cup-2026-croatia-bam-duoi-tuyen-anh)
+- Precisa de tática adaptável e boa recuperação física após o jogo intenso contra os sul-africanos para manter ambições de avançar de fase (fonte: mesma acima)
+- **Próximo jogo:** Precisa vencer o México e torcer contra a Coreia do Sul para se classificar ao mata-mata do Grupo A.
+
+
 ## 📅 2026-06-22
 - Tchéquia foi forçada a dividir pontos em empate 1x1 com a África do Sul em Atlanta, na 2ª rodada do Grupo A (fonte: https://www.goal.com/br/not%C3%ADcias/republica-tcheca-x-mexico-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/blte3e3fb32bfa81e95)
 - Sob comando de Miroslav Koubek, aposta em contra-ataque letal liderado por Patrik Schick e Adam Hložek diante do México (fonte: mesma acima)

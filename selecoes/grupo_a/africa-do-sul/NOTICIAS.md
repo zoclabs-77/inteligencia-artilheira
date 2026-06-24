@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- África do Sul soma apenas 1 ponto e está na lanterna do Grupo A; enfrenta a Coreia do Sul no Estádio BBVA (Monterrey), nesta quarta (24/06), 22h de Brasília, na última rodada (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/africa-do-sul-coreia-do-sul-onde-assistir-copa-2026/)
+- Escalação provável: Ronwen Williams; Khuliso Mudau, Mbekezeli Mbokazi, Siyabonga Ngezana, Aubrey Modiba; Sphephelo Sithole, Thalente Mbatha, Jayden Adams; Elias Mokwana, Iqraam Rayners, Oswin Appollis (fonte: mesma acima)
+- **Próximo jogo:** Precisa vencer a Coreia do Sul e torcer por resultado paralelo para sonhar com classificação no Grupo A.
+
+
 ## 📅 2026-06-23
 - Provável escalação: Williams; Mudau, Okon, Mbokazi, Modiba; Mbatha, Sithole, Adams; Maseko, Rayners, Appollis (fonte: https://www.365scores.com/pt-br/news/magazine/africa-do-sul-x-coreia-do-sul-escalacoes-jogo/)
 - Chega na lanterna do Grupo A, com 1 ponto, e depende exclusivamente de vitória sobre a Coreia do Sul para se classificar (fonte: mesma acima)

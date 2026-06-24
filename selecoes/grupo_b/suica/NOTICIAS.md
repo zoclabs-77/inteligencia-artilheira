@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-24
+- Suíça divide a liderança do Grupo B com o Canadá, ambos com quatro pontos, em rodada decisiva nesta quarta (24/06), 16h de Brasília, no BC Place (Vancouver) (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/suica-x-canada-veja-provaveis-escalacoes-para-duelo-pela-copa-do-mundo/)
+- Provável escalação: Gregor Kobel; Silvan Widmer, Nico Elvedi, Manuel Akanji, Ricardo Rodríguez; Michel Aebischer, Remo Freuler, Granit Xhaka, Fabian Rieder, Dan Ndoye; Breel Embolo. Técnico: Murat Yakin (fonte: mesma acima)
+- Lateral Miro Muheim trata lesão na panturrilha e deve desfalcar a equipe; Denis Zakaria e Nico Elvedi estão pendurados (fonte: mesma acima)
+- **Próximo jogo:** Vencer garante a liderança do Grupo B na 3ª rodada do torneio.
+
+
 ## 📅 2026-06-23
 - Jovem Johan Manzambi (20 anos, do Freiburg) saiu do banco e marcou dois gols na goleada de 4 a 1 sobre a Bósnia, despontando como novidade do ataque suíço (fonte: https://www.apwin.com/br/palpites/suica-x-canada-palpite-copa-mundo-fifa-24-06-2026/)
 - Grupo convocado tem base em Manuel Akanji, Granit Xhaka e Remo Freuler, com Gregor Kobel no gol (fonte: mesma acima)

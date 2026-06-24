@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- França enfrenta a Noruega na sexta (26/06), 20h, pela 3ª rodada do Grupo I, em confronto direto pela liderança da chave (fonte: https://www.goal.com/en-us/news/norway-france-world-cup-preview/blt150ba978b694fe14)
+- Adversário norueguês chega embalado com Haaland e Odegaard em alto nível, exigindo atenção redobrada da defesa francesa (fonte: mesma acima)
+- **Próximo jogo:** Duelo de favoritos no Grupo I — vencer garante tranquilidade na liderança da chave.
+
+
 ## 📅 2026-06-23
 - França venceu o Iraque por 3 a 0 e garantiu classificação antecipada às oitavas, com gols de Mbappé (2, chegando a 4 na Copa) e Dembélé (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-do-mundo-por-que-franca-x-iraque-foi-suspenso/)
 - Jogo foi paralisado por mais de uma hora por protocolo de raios da FIFA na região da Filadélfia — primeira interrupção por tempestade na Copa 2026 (fonte: https://www.infomoney.com.br/esportes/franca-x-iraque-e-o-1o-jogo-da-copa-do-mundo-2026-a-ser-suspenso-por-causa-do-clima/)

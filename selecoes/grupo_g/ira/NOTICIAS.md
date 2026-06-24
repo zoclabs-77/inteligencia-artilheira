@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Irã tem dois pontos (empate 0 a 0 com a Bélgica na 2ª rodada) e enfrenta o líder Egito em 27/06 (madrugada, 03h UTC), no Lumen Field (Seattle), ansioso por vitória que o ultrapasse na tabela do Grupo G (fonte: https://www.goal.com/en-us/news/egypt-iran-world-cup-preview/bltbce2e5fc24897843)
+- Após semanas de reclamações sobre restrições de deslocamento nos EUA, a delegação recebeu autorização para viajar a Seattle dois dias antes do confronto (fonte: https://www.terra.com.br/esportes/futebol/copa-2026-eua-flexibilizam-regras-para-o-ira-antes-de-jogo-contra-egito-apos-criticas-por-logistica,24235ef94813bf9731451a1133dae849kxi82fpc.html)
+- **Próximo jogo:** Precisa vencer o Egito para ultrapassar a líder do Grupo G.
+
+
 ## 📅 2026-06-22
 - Irã empatou em 0 a 0 com a Bélgica, pela 2ª rodada do Grupo G, em Los Angeles; goleiro Beiranvand foi o destaque do confronto (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/belgica-tropeca-e-so-empata-com-ira-que-segue-sem-perder-na-copa/)
 - Seleção teve um gol anulado pelo VAR ainda no 1º tempo, mas seguiu sem perder na competição (fonte: mesma acima)

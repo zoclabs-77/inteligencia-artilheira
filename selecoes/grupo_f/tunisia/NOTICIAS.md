@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Tunísia já está eliminada da Copa do Mundo, com zero ponto após derrotas de 5 a 1 para a Suécia e 4 a 0 para o Japão (9 gols sofridos, 1 marcado); encerra a campanha contra a Holanda na quinta (25/06), 20h de Brasília, no Arrowhead Stadium (Kansas City) (fonte: https://www.goal.com/en-us/news/tunisia-netherlands-world-cup-preview/bltb895dd8baa22d968)
+- Escalação prevista: Chamakh; Yan Valery, Montassar Talbi, Omar Rekik, Ali Abdi; Rani Khedira, Ellyes Skhiri, Anis Slimane; Hannibal Mejbri, Ismaël Gharbi; Firas Chaouat. Técnico: Sabri Lamouchi (fonte: mesma acima)
+- **Próximo jogo:** Sem chances de classificação, busca apenas encerrar com dignidade contra a líder Holanda.
+
+
 ## 📅 2026-06-23
 - Tunísia está matematicamente eliminada após duas derrotas consecutivas (5-1 para a Suécia e 4-0 para o Japão), e segue sob comando interino após a saída do técnico Sabri Lamouchi (fonte: https://www.goal.com/en-us/news/tunisia-netherlands-world-cup-preview/bltb895dd8baa22d968)
 - **Repercussão / Próximo jogo:** Encara a Holanda nesta quinta (25/06), no Arrowhead Stadium, Kansas City, na última rodada do Grupo F, já sem chances de classificação.

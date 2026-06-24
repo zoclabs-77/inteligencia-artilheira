@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-24
+- Argélia venceu a Jordânia por 2 a 1 em Santa Clara, com gols de Nadhir Benbouali e Amine Gouiri (ambos de bola aérea) revertendo o placar no 2º tempo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argelia-vira-no-fim-elimina-a-jordania-e-segue-viva-na-copa-do-mundo/)
+- Com o resultado, a Argélia somou seus primeiros três pontos no Grupo J, após a derrota na estreia para a Argentina, e se igualou à Áustria na tabela (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Segue viva na briga por vaga e enfrenta a Áustria na 3ª rodada (27/06) em duelo direto por classificação no Grupo J.
+
+
 ## 📅 2026-06-23
 - Provável escalação: Zidane; Belghali, Aissa Mandi, Ramy Bensebaini, Rayan Aït-Nouri; Ramiz Zerrouki, Ibrahim Maza (ou Nabil Bentaleb), Houssem Aouar (ou Hicham Boudaoui); Riyad Mahrez, Amine Gouiri, Farès Chaïbi. Técnico: Vladimir Petkovic (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jordania-x-argelia-escalacoes-e-onde-assistir-ao-jogo-da-copa-do-mundo/)
 - Ocupa a lanterna do Grupo J sem pontos, após goleada sofrida para a Argentina na estreia (fonte: mesma acima)

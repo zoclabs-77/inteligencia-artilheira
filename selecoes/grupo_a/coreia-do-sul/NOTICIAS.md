@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-24
+- Coreia do Sul ocupa a 2ª colocação do Grupo A com três pontos e depende apenas de si para avançar — um empate contra a África do Sul já garante a vaga, desde que a Tchéquia não vença o México no outro jogo da rodada (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/africa-do-sul-coreia-do-sul-onde-assistir-copa-2026/)
+- Jogo nesta quarta (24/06), 22h de Brasília, no Estádio BBVA (Monterrey) (fonte: mesma acima)
+- Escalação provável: Kim Seung-gyu; Lee Han-Beom, Kim Min-jae, Lee Gi-Hyeok; Seol Young-woo, Hwang In-Beom, Lee Jae-Sung, Paik Seung-Ho, Lee Kang-In, Lee Tae-Seok; Son Heung-Min (fonte: mesma acima)
+- **Próximo jogo:** Empate ou vitória encaminham a classificação direta para as oitavas de final.
+
+
 ## 📅 2026-06-23
 - Provável escalação: Kim; Moon-hwan, Han-beom, Min-jae, Gi-hyuk; Hwang Inbeom, Paik, Young-woo, Jae-sung, Kang-in; Son (fonte: https://www.365scores.com/pt-br/news/magazine/africa-do-sul-x-coreia-do-sul-escalacoes-jogo/)
 - Ocupa a vice-liderança do Grupo A com 3 pontos e joga por vitória, ou até empate dependendo de resultado paralelo, para confirmar vaga no mata-mata (fonte: mesma acima)
