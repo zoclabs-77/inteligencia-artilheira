@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Capa Animada — Inteligência Artilheira</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@800;900&family=Space+Grotesk:wght@700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{height:100%;background:#05080f;display:flex;align-items:center;justify-content:center;overflow:hidden;font-family:'Archivo',sans-serif}
+  /* palco 1080x1350 escalado pra caber na tela */
+  .stage{position:relative;width:1080px;height:1350px;transform:scale(var(--s,.62));transform-origin:center;
+    background:radial-gradient(120% 80% at 50% 12%,#13243d 0%,#0a1422 45%,#060b14 100%);overflow:hidden}
+  /* grid de blueprint + glow de estádio */
+  .grid{position:absolute;inset:0;background-image:linear-gradient(rgba(46,168,255,.06) 1px,transparent 1px),linear-gradient(90deg,rgba(46,168,255,.06) 1px,transparent 1px);background-size:54px 54px;mask-image:radial-gradient(75% 60% at 50% 45%,#000 30%,transparent 80%)}
+  .arena{position:absolute;left:50%;top:38%;width:1400px;height:700px;transform:translate(-50%,-50%);
+    background:radial-gradient(closest-side,rgba(46,168,255,.18),transparent 70%);filter:blur(6px)}
+
+  /* partículas */
+  .p{position:absolute;width:6px;height:6px;border-radius:50%;background:#2ea8ff;opacity:.0;filter:blur(.5px);animation:rise linear infinite}
+  @keyframes rise{0%{transform:translateY(60px) scale(.6);opacity:0}15%{opacity:.9}100%{transform:translateY(-220px) scale(1);opacity:0}}
+
+  /* topo */
+  .badge{position:absolute;top:70px;left:50%;transform:translateX(-50%);font-family:'JetBrains Mono',monospace;
+    font-size:24px;letter-spacing:.32em;color:#cfe6ff;border:2px solid rgba(46,168,255,.5);border-radius:14px;padding:14px 28px;
+    background:rgba(10,22,40,.6);box-shadow:0 0 30px rgba(46,168,255,.25);animation:badgePulse 3s ease-in-out infinite}
+  @keyframes badgePulse{0%,100%{box-shadow:0 0 22px rgba(46,168,255,.2)}50%{box-shadow:0 0 46px rgba(46,168,255,.5)}}
+  .badge b{color:#2ea8ff}
+
+  /* título */
+  .title{position:absolute;top:150px;width:100%;text-align:center}
+  .title h1{font-weight:900;font-size:150px;line-height:.92;letter-spacing:-2px;color:#fff;text-shadow:0 6px 30px rgba(0,0,0,.5)}
+  .title .gold{background:linear-gradient(100deg,#f6c453 0%,#e8902a 30%,#fff2cf 50%,#e8902a 70%,#f6c453 100%);
+    background-size:250% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:shimmer 3.2s linear infinite}
+  @keyframes shimmer{0%{background-position:200% 0}100%{background-position:-50% 0}}
+  .sub{position:absolute;top:460px;width:100%;text-align:center}
+  .sub .pill{display:inline-block;background:#0a1422;border:2px solid rgba(255,255,255,.15);border-radius:16px;padding:14px 30px;font-size:40px;font-weight:900;color:#fff}
+  .sub .ia1{color:#2ea8ff}.sub .ia2{color:#f4861f}
+  .sub p{margin-top:18px;font-family:'Space Grotesk',sans-serif;font-size:30px;color:#9fb4cc}
+  .sub .c{color:#2ea8ff}.sub .k{color:#f4861f}
+
+  /* arena central: dois cérebros + orbe */
+  .duel{position:absolute;top:600px;left:0;width:100%;height:560px}
+  .ai{position:absolute;top:120px;width:300px;height:300px;border-radius:50%;display:flex;align-items:center;justify-content:center;
+    border:3px solid;background:rgba(8,16,28,.7)}
+  .ai.codex{left:90px;border-color:#2ea8ff;box-shadow:0 0 60px rgba(46,168,255,.35);animation:floatA 4s ease-in-out infinite, glowC 6s ease-in-out infinite}
+  .ai.claude{right:90px;border-color:#f4861f;box-shadow:0 0 60px rgba(244,134,31,.35);animation:floatB 4s ease-in-out infinite, glowK 6s ease-in-out infinite}
+  @keyframes floatA{0%,100%{transform:translateY(0)}50%{transform:translateY(-18px)}}
+  @keyframes floatB{0%,100%{transform:translateY(-18px)}50%{transform:translateY(0)}}
+  @keyframes glowC{0%,40%,100%{box-shadow:0 0 50px rgba(46,168,255,.3)}20%{box-shadow:0 0 90px rgba(46,168,255,.85)}}
+  @keyframes glowK{0%,60%,100%{box-shadow:0 0 50px rgba(244,134,31,.3)}80%{box-shadow:0 0 90px rgba(244,134,31,.85)}}
+  .ai svg{width:170px;height:170px}
+  .ai .lab{position:absolute;bottom:-46px;left:50%;transform:translateX(-50%);font-family:'JetBrains Mono',monospace;font-size:26px;letter-spacing:.2em}
+  .codex .lab{color:#2ea8ff}.claude .lab{color:#f4861f}
+
+  /* orbe central */
+  .orb{position:absolute;left:50%;top:170px;width:230px;height:230px;transform:translateX(-50%);border-radius:50%;
+    background:radial-gradient(circle at 50% 40%,rgba(255,240,200,.95),rgba(246,196,83,.5) 40%,rgba(20,40,70,.2) 70%,transparent);
+    box-shadow:0 0 80px rgba(120,200,255,.5),inset 0 0 50px rgba(255,255,255,.4);animation:orbPulse 2.6s ease-in-out infinite}
+  @keyframes orbPulse{0%,100%{transform:translateX(-50%) scale(1);filter:hue-rotate(0)}50%{transform:translateX(-50%) scale(1.08);filter:hue-rotate(8deg)}}
+  .orb .cup{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:120px;animation:cupBob 2.6s ease-in-out infinite}
+  @keyframes cupBob{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+  .ring{position:absolute;left:50%;top:170px;width:230px;height:230px;transform:translateX(-50%);border-radius:50%;border:3px dashed rgba(120,200,255,.6);animation:spin 9s linear infinite}
+  @keyframes spin{to{transform:translateX(-50%) rotate(360deg)}}
+  .vs{position:absolute;left:50%;top:250px;transform:translate(-50%,-50%);font-weight:900;font-size:70px;color:#fff;
+    text-shadow:0 0 24px rgba(46,168,255,.8),0 0 24px rgba(244,134,31,.6);animation:vsPop 2.6s ease-in-out infinite;z-index:5}
+  @keyframes vsPop{0%,100%{transform:translate(-50%,-50%) scale(1)}50%{transform:translate(-50%,-50%) scale(1.18)}}
+
+  /* faixa do jogo */
+  .match{position:absolute;top:1170px;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:18px;
+    background:#0a1422;border:2px solid rgba(244,134,31,.5);border-radius:18px;padding:18px 36px;font-weight:900;font-size:46px;color:#fff;
+    box-shadow:0 0 40px rgba(244,134,31,.25);animation:matchGlow 2.4s ease-in-out infinite}
+  @keyframes matchGlow{0%,100%{box-shadow:0 0 26px rgba(244,134,31,.2)}50%{box-shadow:0 0 50px rgba(244,134,31,.55)}}
+  .match .hoje{color:#f6c453}
+
+  /* rodapé */
+  .foot{position:absolute;bottom:54px;width:100%;text-align:center;font-family:'JetBrains Mono',monospace}
+  .foot .z{font-family:'Archivo';font-weight:900;font-size:46px;color:#fff}
+  .foot .z .dot{color:#14b8a6}.foot .z .lab{color:#14b8a6}
+  .foot .tag{margin-top:6px;font-size:22px;letter-spacing:.25em;color:#7f93a6}
+
+  /* linha de varredura */
+  .scan{position:absolute;left:0;width:100%;height:140px;background:linear-gradient(180deg,transparent,rgba(46,168,255,.08),transparent);animation:scan 5s linear infinite}
+  @keyframes scan{0%{top:-140px}100%{top:1350px}}
+</style>
+</head>
+<body>
+<div class="stage" id="stage">
+  <div class="grid"></div><div class="arena"></div>
+  <div class="scan"></div>
+
+  <div class="badge">🔮 &nbsp;<b>DESAFIO</b> DE PREVISÕES</div>
+
+  <div class="title">
+    <h1>INTELIGÊNCIA</h1>
+    <h1 class="gold">ARTILHEIRA</h1>
+  </div>
+
+  <div class="sub">
+    <span class="pill"><span class="ia1">IA</span> vs <span class="ia2">IA</span>: quem prevê melhor?</span>
+    <p><span class="c">Codex</span> × <span class="k">Claude Code</span> nas previsões dos jogos</p>
+  </div>
+
+  <div class="duel">
+    <div class="ai codex">
+      <!-- emblema estilizado Codex (azul) -->
+      <svg viewBox="0 0 100 100" fill="none" stroke="#2ea8ff" stroke-width="6" stroke-linecap="round">
+        <circle cx="50" cy="50" r="30"/><path d="M50 20v60M20 50h60M30 30l40 40M70 30l-40 40"/>
+      </svg>
+      <span class="lab">CODEX</span>
+    </div>
+    <div class="ring"></div>
+    <div class="orb"><div class="cup">🏆</div></div>
+    <div class="vs">VS</div>
+    <div class="ai claude">
+      <!-- emblema spark Claude (laranja) -->
+      <svg viewBox="0 0 100 100" stroke="#f4861f" stroke-width="7" stroke-linecap="round">
+        <g>
+          <line x1="50" y1="14" x2="50" y2="38"/><line x1="50" y1="62" x2="50" y2="86"/>
+          <line x1="14" y1="50" x2="38" y2="50"/><line x1="62" y1="50" x2="86" y2="50"/>
+          <line x1="25" y1="25" x2="40" y2="40"/><line x1="60" y1="60" x2="75" y2="75"/>
+          <line x1="75" y1="25" x2="60" y2="40"/><line x1="40" y1="60" x2="25" y2="75"/>
+        </g>
+      </svg>
+      <span class="lab">CLAUDE</span>
+    </div>
+  </div>
+
+  <div class="match"><span class="hoje">HOJE:</span> 🏴 INGLATERRA &nbsp;×&nbsp; GANA 🇬🇭</div>
+
+  <div class="foot">
+    <div class="z">Zoc<span class="lab">Labs</span><span class="dot">.</span></div>
+    <div class="tag">TECNOLOGIA NA PRÁTICA · DUELO DE PREVISÕES</div>
+  </div>
+</div>
+
+<script>
+  // partículas
+  const st=document.getElementById('stage');
+  for(let i=0;i<26;i++){const p=document.createElement('div');p.className='p';
+    p.style.left=Math.random()*1080+'px';p.style.top=(700+Math.random()*500)+'px';
+    p.style.animationDuration=(3+Math.random()*4)+'s';p.style.animationDelay=(Math.random()*4)+'s';
+    p.style.background=Math.random()>.5?'#2ea8ff':'#f4861f';st.appendChild(p);}
+  // escala responsiva pra caber na janela
+  function fit(){const s=Math.min(window.innerWidth/1080,window.innerHeight/1350)*0.98;document.documentElement.style.setProperty('--s',s);}
+  fit();addEventListener('resize',fit);
+</script>
+</body>
+</html>

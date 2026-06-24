@@ -1,91 +1,70 @@
-# 🎨 PROMPT — Carrossel diário "Inteligência Artilheira" (5 slides)
+# 🎨 PROMPT — Carrossel diário "Inteligência Artilheira" (estilo cinematográfico IA vs IA)
 
-> Cole o prompt no seu gerador de design/imagem. Troque só o **bloco de DADOS** a cada dia.
-> Para puxar os dados do dia, rode:
-> - Acumulado: `node infra/query.mjs "select modelo, sum(pontos) pts, sum(placares_exatos) exatos, round(100.0*sum(acertos_resultado)/nullif(sum(jogos_pontuados),0)) assertividade, sum(jogos_pontuados) jogos from copa.placar_geral group by modelo order by pts desc"`
-> - Resultado de ontem: `node infra/query.mjs "select partida_id,casa,fora,real_casa||'x'||real_fora real,modelo,palpite_casa||'x'||palpite_fora palpite,pontos from copa.palpites_pontuados where data_jogo='AAAA-MM-DD' order by partida_id,modelo"`
-> - Previsões de hoje: `node infra/query.mjs "select partida_id,casa,fora,modelo,gols_casa||'x'||gols_fora from copa.palpites where partida_id in (...) order by partida_id,modelo"`
+> Gerador de **imagem** (Midjourney / DALL·E / Ideogram / Nano-banana etc.). 5 slides 1080×1350 (4:5).
+> Cole a **STYLE BIBLE** + o prompt do slide. Troque só os DADOS (rode os `query.mjs` no fim).
 
 ---
 
-## 🎨 ESTILO GLOBAL (vale para os 5 slides)
+## 🎬 STYLE BIBLE (vale para os 5 slides — cole sempre junto)
 
-Carrossel de Instagram, 5 slides, **1080×1350px (4:5)**, do quadro **"Inteligência Artilheira"** do canal **ZocLabs** — duelo diário entre duas IAs (**Codex** e **Claude Code**) prevendo a Copa do Mundo 2026.
+Cinematic 3D render, premium sports-tech aesthetic — um "reality show" de IA prevendo a Copa do Mundo 2026. Iluminação dramática, alto contraste, partículas e brilho volumétrico. Fundo: estádio de futebol holográfico à noite, com pranchetas táticas e gráficos de barra flutuando como holiograma, filigrana de circuito fino nos cantos.
 
-- **Dois temas de slide:**
-  - **ESCUROS** (slides 01 e 05): fundo azul-petróleo quase preto (#0B1220). Título em sans **bold pesada MAIÚSCULA** branca, com 1 palavra-chave em **laranja (#F47A1F)**.
-  - **CLAROS** (slides 02, 03, 04): fundo **creme** (#F4EFE3), texto azul-marinho (#0E1726), 1 palavra-chave do título em laranja; conteúdo em **cards brancos** com borda fininha e cantos arredondados.
-- **Identidade dos competidores:** **Codex = teal/verde** (#16A085) + logo da OpenAI (flor). **Claude Code = laranja** (#F47A1F) + logo "spark" (estrela/sol). Use sempre essas cores pra identificar cada um.
-- **Tipografia:** títulos em grotesca pesada condensada (estilo Anton/Archivo Black); rótulos, datas e legendas em **fonte monoespaçada**; placares em número bold grande.
-- **Marcações:** ✓ teal = acertou o vencedor · ✓✓ = placar exato (3 pts) · ✗ vermelho = errou.
-- **Rodapé fixo (todos):** esquerda logo **"Z. ZocLabs · Tecnologia na Prática"**; centro **"Inteligência Artilheira"**; direita **"0X/05"**.
-- Visual clean, premium, alto contraste, pouco texto por slide, bandeiras das seleções nos jogos.
+**Os dois personagens (mascotes):**
+- **CODEX** — figura humanoide androide de **terno preto** sentada à mesa; no lugar do rosto, o **logo da OpenAI** (emblema branco tipo flor/nó) iluminado; circuitos e luz **azul-ciano**. Etiqueta "CODEX".
+- **CLAUDE** — figura humanoide de terno preto; no lugar do rosto, o **emblema "spark" do Claude** (estrela/sol radial **laranja**); circuitos e luz **laranja/âmbar**. Etiqueta "CLAUDE CODE".
+- Entre eles, no centro da mesa: uma **bola de cristal/globo brilhante com a taça dourada da Copa dentro**, energia elétrica azul crepitando.
 
----
+**Sistema de cor:** Codex = **azul elétrico**; Claude = **laranja/âmbar**; **dourado metálico** na palavra-destaque do título e na taça; slides escuros em **azul-marinho quase preto (#0A1018)**; slides claros em **papel creme texturizado (#F2EEE3)** que desbota para o estádio.
 
-## 🟦 SLIDE 01/05 — ESCURO — Capa
-- Rótulo (mono, em caixa): **DESAFIO DE PREVISÕES**
-- Título: **QUEM PREVÊ MELHOR HOJE?** (HOJE em laranja)
-- Subtítulo (mono): Codex × Claude Code
-- Centro: logo Codex (teal) — **VS** — logo Claude (laranja), com uma **bola de cristal com troféu** da Copa no meio
-- Caixa de placar: **Codex {COD_PTS} pts · líder** | **Claude {CLA_PTS} pts**
-- Linha: **Rodada {RODADA} · {HOJE}**
-- Rodapé + ícones de CTA: 🔖 Salva esse post · 💬 Comenta sua aposta · 🏆 Amanhã tem o resultado
+**Tipografia:** display **ultra-bold condensada MAIÚSCULA** (grotesca esportiva pesada); a palavra-destaque do título em **gradiente dourado escovado**; rótulos/datas em **monoespaçada techno** dentro de molduras de colchete; números gigantes e bold.
 
-## 🟨 SLIDE 02/05 — CLARO — O resultado de ontem
-- Rótulo (mono): DESAFIO DE PREVISÕES
-- Título: **O RESULTADO DE ONTEM** 🏆 (RESULTADO em laranja)
-- Subtítulo (mono): Rodada {RODADA} · {ONTEM} · {N} jogos · placar real vs palpite
-- 3 colunas: **PLACAR REAL** | **CODEX** (teal) | **CLAUDE** (laranja)
-- Um card por jogo (bandeiras + placar real ao centro; palpite de cada IA com ✓/✓✓/✗): {CARDS_ONTEM}
-- Legenda: ✓ acertou o vencedor · ✓✓ placar exato (3 pts) · ✗ errou
-- Faixa final (caixa laranja): **VENCEDOR DE ONTEM: {VENCEDOR_ONTEM}**
+**Chrome recorrente:** topo = pílula com ícone de bola-de-cristal ("DESAFIO DE PREVISÕES" / "DUELO DE PREVISÕES" / "PLACAR DO DESAFIO"); canto sup. direito = "0X / 05" em moldura tech; rodapé central = logo **"Z. ZocLabs · TECNOLOGIA NA PRÁTICA"**. Marcas: ✓ ciano = acertou vencedor · ✓✓ = placar exato (3 pts) · ✗ vermelho = errou. Bandeiras como escudos redondos.
 
-## 🟨 SLIDE 03/05 — CLARO — Quem lidera até agora
-- Título: **QUEM LIDERA ATÉ AGORA**
-- Subtítulo (mono): Acumulado · {JOGOS} jogos pontuados
-- 2 cards grandes lado a lado:
-  - **CODEX** (teal) — **{COD_PTS} PTS** · líder · Assertividade {COD_ASSERT}% · Placares exatos {COD_EXATOS}
-  - **CLAUDE CODE** (laranja) — **{CLA_PTS} PTS** · Assertividade {CLA_ASSERT}% · Placares exatos {CLA_EXATOS}
-- Faixa: ⭐ **{LIDERANCA}**
-- Nota (👁): o "Palpiteiro Cego" (chute no favorito) tem **{BASE_PTS} pts** — {BASE_NOTA}.
-- Nota (ℹ): Pontos: exato = 3 · vencedor + saldo = 2 · só vencedor = 1 · errou = 0
-
-## 🟨 SLIDE 04/05 — CLARO — As previsões de hoje
-- Título: **AS PREVISÕES DE HOJE** (HOJE em laranja)
-- Subtítulo (mono): Rodada {RODADA} · {HOJE}
-- **Card destaque (topo):** {JOGO_DESTAQUE} — Codex {x-x} | Claude {x-x} — ✓ {NOTA_DESTAQUE}
-- Cards menores (1 linha cada, bandeiras + os 2 palpites lado a lado): {CARDS_HOJE}
-- Nota (ℹ): {NOTA_DIVERGENCIA}
-
-## 🟦 SLIDE 05/05 — ESCURO — Amanhã a gente confere
-- Centro: logo Codex (teal) — **VS** — logo Claude (laranja)
-- Título: **AMANHÃ A GENTE CONFERE** (A GENTE CONFERE em laranja)
-- Subtítulo: Quem prevê melhor hoje — Codex ou Claude?
-- 2 botões: 🔖 **Salva o post** · 💬 **Comenta sua aposta**
-- Rodapé: Desafio diário · Copa do Mundo 2026 · 05/05
+⚠️ **Renderize os textos/números EXATAMENTE como escritos** (são dados reais).
 
 ---
 
-# ✅ DADOS DE HOJE — 22/06 (rodada 2) — pronto pra colar
+## 🟦 SLIDE 01/05 — CAPA (fundo creme → estádio)
+[STYLE BIBLE] Os dois androides (Codex à esquerda, azul; Claude à direita, laranja) sentados frente a frente numa mesa redonda futurista, a bola de cristal com a taça entre eles. Topo: pílula "DESAFIO DE PREVISÕES". Título gigante em duas linhas: **"INTELIGÊNCIA"** (preto) / **"ARTILHEIRA"** (dourado metálico). Subtítulo em pílula escura: **"IA vs IA: quem prevê melhor?"** (1º IA azul, 2º IA laranja). Abaixo: "Codex × Claude Code nas previsões dos jogos". Banner sobre a mesa: **"HOJE: INGLATERRA 🏴 × GANA 🇬🇭"**. Banner inferior: **"DUELO DE PREVISÕES"**. Rodapé ZocLabs.
 
-- {COD_PTS}=35 · {CLA_PTS}=30 · {BASE_PTS}=32 · {JOGOS}=39 · {RODADA}=2 · {HOJE}=22/06 · {ONTEM}=21/06
-- {COD_ASSERT}=56 · {CLA_ASSERT}=54 · {COD_EXATOS}=5 · {CLA_EXATOS}=3
-- {LIDERANCA}=Codex lidera por 5 pontos
-- {BASE_NOTA}=ainda na frente do Claude (!)
-- {VENCEDOR_ONTEM}=EMPATE · 3 a 3 pts (Codex e Claude)
+## 🟨 SLIDE 02/05 — RESULTADO DE ONTEM (fundo escuro + taça 3D à direita)
+[STYLE BIBLE] Título: **"MAS ANTES... VAMOS AO RESULTADO DE ONTEM"** ("RESULTADO" em dourado). Sub (mono): **"Rodada 2 · 22/06 · 3 jogos · placar real vs palpite de cada IA"**. Tabela com 3 colunas: **PLACAR REAL | CODEX (azul, logo OpenAI) | CLAUDE (laranja, spark)**. Linhas:
+- 01 🇦🇷 Argentina **2×0** Áustria 🇦🇹 — Codex **2-1** ✓ acertou o vencedor · Claude **2-1** ✓ acertou o vencedor
+- 02 🇫🇷 França **3×0** Iraque 🇮🇶 — Codex **3-0** ✓✓ placar exato (3 pts) · Claude **3-0** ✓✓ placar exato (3 pts)
+- 03 🇳🇴 Noruega **3×2** Senegal 🇸🇳 — Codex **2-1** ✓ vencedor + saldo (2 pts) · Claude **1-1** ✗ errou (cravou empate)
 
-**{CARDS_ONTEM}** (21/06, 5 jogos):
-1. 🇹🇳 Tunísia **0×4** Japão 🇯🇵 — Codex 0-2 ✓ · Claude 0-2 ✓ (acertaram o vencedor)
-2. 🇪🇸 Espanha **4×0** Arábia Saudita 🇸🇦 — Codex 2-0 ✓ · Claude 2-0 ✓
-3. 🇧🇪 Bélgica **0×0** Irã 🇮🇷 — Codex 2-1 ✗ · Claude 2-0 ✗ (os dois erraram — deu empate)
-4. 🇺🇾 Uruguai **2×2** Cabo Verde 🇨🇻 — Codex 1-0 ✗ · Claude 1-0 ✗ (zebra: estreante segurou o Uruguai)
-5. 🇳🇿 Nova Zelândia **1×3** Egito 🇪🇬 — Codex 1-2 ✓ · Claude 1-2 ✓
+Três caixas no rodapé: **CODEX 3/3 · 100%** | **🏆 VENCEDOR DE ONTEM: Codex · 6 a 4 pts** | **CLAUDE 2/3 · 67%**. Número "02 / 05".
 
-**{JOGO_DESTAQUE}** = 🇦🇷 Argentina × Áustria 🇦🇹 · Codex 2-1 | Claude 2-1 · {NOTA_DESTAQUE}=Ambos apontam Argentina como vencedora
+## 🟦 SLIDE 03/05 — PLACAR GERAL (fundo arena escura, embate elétrico)
+[STYLE BIBLE] Pílula "PLACAR DO DESAFIO". Título: **"QUEM ESTÁ MANDANDO MELHOR ATÉ AGORA?"** ("MANDANDO MELHOR" em dourado). Sub (mono): **"Acumulado · 43 jogos pontuados"**. Dois grandes cards VS com raio elétrico azul×laranja no meio:
+- **CODEX (OpenAI, azul) — 44 PTS · 👑 LÍDER** · Assertividade **60%** · Acertos de resultado **26/43** · Placares exatos **7**
+- **CLAUDE CODE (spark, laranja) — 37 PTS** · Assertividade **56%** · Acertos de resultado **24/43** · Placares exatos **5**
 
-**{CARDS_HOJE}** (22/06):
-- 🇫🇷 França × Iraque 🇮🇶 — Codex 3-0 | Claude 3-0
-- 🇳🇴 Noruega × Senegal 🇸🇳 — Codex 2-1 | Claude **1-1**
+Banner com taça: **"CODEX LIDERA POR 7 PONTOS"**. Nota (mono): *"* sistema de pontos: placar exato = 3 · vencedor + saldo = 2 · só vencedor = 1 · errou = 0". Nota pequena: *"👁 o 'Palpiteiro Cego' tem 36 pts (63% de acerto) — colado no Claude."* Número "03 / 05".
 
-**{NOTA_DIVERGENCIA}** = A única divergência de hoje é Noruega × Senegal: o Claude crava empate, o Codex aposta na Noruega de Haaland.
+## 🟨 SLIDE 04/05 — PREVISÕES DE HOJE (fundo claro/estádio)
+[STYLE BIBLE] Pílula "DUELO DE PREVISÕES". Título: **"AGORA, AS PREVISÕES DE HOJE"** ("PREVISÕES DE HOJE" dourado). Sub (mono): **"Rodada 2 · 23/06 · 4 jogos · o que cada IA cravou"**.
+- **Card destaque (topo, com taça):** ⭐ jogo dos líderes — **🏴 INGLATERRA × GANA 🇬🇭** · **CODEX 2-1 | CLAUDE 2-1** (as duas concordam).
+- Cards menores:
+  - 🇵🇹 Portugal × Uzbequistão 🇺🇿 · CODEX 2-0 | CLAUDE 2-0 (as duas; Portugal precisa reagir)
+  - 🇨🇴 Colômbia × RD Congo 🇨🇩 · CODEX 2-1 | CLAUDE 2-1 (as duas)
+  - 🇵🇦 Panamá × Croácia 🇭🇷 · CODEX **0-2** | CLAUDE **0-1** ← divergência de placar
+- Nota (ℹ): "Hoje elas concordam nos 4 vencedores — só divergem no placar de Panamá × Croácia (Codex crava 0-2, Claude segura 0-1)."
+- Selo bônus: **"✅ JÁ SAIU HOJE CEDO: Jordânia 1×2 Argélia — os dois cravaram o PLACAR EXATO (3 pts cada)!"**
+- Botões: **🔖 Salva pra conferir amanhã** · **💬 Comenta: quem fecha melhor a fase de grupos?** Número "04 / 05".
+
+## 🟦 SLIDE 05/05 — CTA (fundo arena escura, 3 pódios)
+[STYLE BIBLE] Pílula "DESAFIO DE PREVISÕES" + "05 / 05". Título: **"QUEM PREVÊ MELHOR HOJE?"** ("MELHOR HOJE" dourado). "Codex × Claude Code" + pílula **"IA contra IA"**. Três pódios 3D: à esquerda **CODEX** (OpenAI, azul) com painel holográfico "PREDICTIONS · Acertos 60% · Pontos 44 · Líder"; ao centro o globo com a taça; à direita **CLAUDE CODE** (spark, laranja) com painel "PREDICTIONS · Acertos 56% · Pontos 37". Faixa: **"RODADA 2 · 23/06 · fecha a fase de grupos"**. Lista de CTA: **SALVA ESSE POST · COMENTA SUA APOSTA · MANDA PARA QUEM AMA FUTEBOL + IA · AMANHÃ TEM O RESULTADO**. Rodapé: "Z. ZocLabs · Inteligência Artilheira · IA QUE ENTENDE FUTEBOL".
+
+---
+
+## 🔄 Como atualizar amanhã (troque só os dados)
+```powershell
+# Acumulado (slides 3 e 5):
+node infra/query.mjs "select modelo, sum(pontos) pts, sum(placares_exatos) exatos, sum(acertos_resultado) acertos, sum(jogos_pontuados) jogos, round(100.0*sum(acertos_resultado)/nullif(sum(jogos_pontuados),0)) assert from copa.placar_geral group by modelo order by pts desc"
+# Resultado de ontem (slide 2) — troque a data:
+node infra/query.mjs "select partida_id,casa,fora,real_casa||'x'||real_fora real,modelo,palpite_casa||'x'||palpite_fora palpite,pontos from copa.palpites_pontuados where data_jogo='AAAA-MM-DD' order by partida_id,modelo"
+# Previsões de hoje (slide 4) — troque a data:
+node infra/query.mjs "select partida_id,casa,fora,modelo,palpite_casa||'x'||palpite_fora palpite from copa.palpites_pontuados where data_jogo='AAAA-MM-DD' order by partida_id,modelo"
+```
+Regras de narrativa: destaque o **maior jogo do dia** no card grande do slide 4 (se tiver Brasil, é ele); aponte a **divergência** de placar na nota; no slide 2, "vencedor de ontem" = quem somou mais pontos no dia.

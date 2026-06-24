@@ -1,6 +1,6 @@
-# Rodada 2 — Resumo parcial (atualizado em 2026-06-23)
+# Rodada 2 — Resumo parcial (atualizado em 2026-06-24)
 
-> Rodada 2 parcial: **18 de 24 jogos** disputados (18-22/06). RESUMO será atualizado diariamente conforme os jogos acontecem.
+> Rodada 2 parcial: **22 de 24 jogos** disputados (18-23/06). RESUMO será atualizado diariamente conforme os jogos acontecem.
 
 ## Placares confirmados — 18/06
 
@@ -52,7 +52,17 @@
 - França 3 x 0 Iraque — Mbappé fez dois (chegou a 4 na Copa) e Dembélé ampliou. França garantida no mata-mata; Iraque matematicamente eliminado.
 - Noruega 3 x 2 Senegal — Pedersen e Haaland (2x) marcaram pelos noruegueses, Sarr fez os dois do Senegal. Noruega sobe para 6 pts, vice-líder do grupo I atrás da França no saldo.
 
-## Palpites × Resultado (rodada 2 — parcial, 18 jogos com palpite registrado)
+## Placares confirmados — 23/06
+
+**Grupo K**
+- Portugal 5 x 0 Uzbequistão — goleada em Houston: Nuno Mendes, Rafael Leão, gol contra de Khusanov e Cristiano Ronaldo (2x). CR7 vira o 1º a marcar em seis Copas do Mundo diferentes. Portugal assume a liderança parcial do grupo (+5 de saldo).
+- Colômbia 1 x 0 RD Congo — Daniel Muñoz decide em Guadalajara. Colômbia lidera o Grupo K com 6 pts e está classificada às oitavas.
+
+**Grupo L**
+- Inglaterra 0 x 0 Gana — jogo travado em Boston; os dois seguem com 4 pts, decisão da liderança fica para a última rodada.
+- Panamá 0 x 1 Croácia — Ante Budimir decide no 2º tempo em Toronto. Panamá está eliminado; Croácia respira com 3 pts.
+
+## Palpites × Resultado (rodada 2 — parcial, 22 jogos com palpite registrado)
 
 | # | Jogo | Claude | Codex | Real | Cla | Cdx | Base |
 |---|---|---|---|---|---|---|---|
@@ -74,16 +84,20 @@
 | 41 | Argentina x Áustria | 2-1 | 2-1 | **2-0** | 1 | 1 | 1 |
 | 42 | França x Iraque | 3-0 | 3-0 | **3-0** | 3⭐ | 3⭐ | 1 |
 | 43 | Noruega x Senegal | 1-1 | 2-1 | **3-2** | 0 | 2 | 0 |
+| 45 | Portugal x Uzbequistão | 2-0 | 2-0 | **5-0** | 1 | 1 | 1 |
+| 46 | Inglaterra x Gana | 2-1 | 2-1 | **0-0** | 0 | 0 | 0 |
+| 47 | Panamá x Croácia | 0-1 | 0-2 | **0-1** | 3⭐ | 1 | 3⭐ |
+| 48 | Colômbia x RD Congo | 2-1 | 2-1 | **1-0** | 2 | 2 | 3⭐ |
 
-⭐ = placar exato (3 pts). Jogo 28: Codex 2-1 e real 1-0, mesmo saldo (+1) = 2 pts. Jogos 25/30: todos cravaram Escócia 0x1 Marrocos. Jogo 34: Claude cravou Alemanha 2x1 — único placar exato do dia 20/06. Jogo 42: Claude e Codex cravaram França 3x0. Jogo 32 (Turquia x Paraguai) sem palpite registrado, fora da tabela.
+⭐ = placar exato (3 pts). Jogo 28: Codex 2-1 e real 1-0, mesmo saldo (+1) = 2 pts. Jogos 25/30: todos cravaram Escócia 0x1 Marrocos. Jogo 34: Claude cravou Alemanha 2x1 — único placar exato do dia 20/06. Jogo 42: Claude e Codex cravaram França 3x0. Jogo 32 (Turquia x Paraguai) sem palpite registrado, fora da tabela. Jogo 47: Claude e Baseline cravaram Croácia vencendo por 1; Baseline também cravou Colômbia 1x0 no jogo 48 (Claude e Codex só acertaram o saldo).
 
-## Placar geral — Rodada 2 (parcial, 18 jogos pontuados)
+## Placar geral — Rodada 2 (parcial, 22 jogos pontuados)
 
 | Modelo | Pts R2 | Total acum. | Placares exatos (acum.) | Acertos resultado (acum.) |
 |---|---|---|---|---|
-| **Codex** | 21 | **41** | 6 | 25 |
-| **Baseline** | 18 | **34** | 3 | 26 |
-| **Claude** | 17 | **34** | 4 | 23 |
+| **Codex** | 28 | **48** | 7 | 29 |
+| **Baseline** | 27 | **43** | 5 | 30 |
+| **Claude** | 26 | **43** | 6 | 27 |
 
 > Pontuação: placar exato = 3 · vencedor + saldo certo = 2 · só o vencedor/empate = 1 · errou = 0.
 
@@ -105,7 +119,11 @@
 - **MESSI HISTÓRICO:** dois gols na vitória da Argentina sobre a Áustria (2x0) tornaram Messi o maior artilheiro da história da Copa do Mundo (18 gols) e artilheiro da edição 2026 (5 gols). Claude e Codex acertaram o vencedor mas não o saldo (1 pt cada); Baseline também (1 pt).
 - **CLAUDE E CODEX CRAVAM FRANÇA:** os dois modelos previram exatamente França 3x0 Iraque — 3 pts cada. Baseline ficou só com o vencedor (1 pt).
 - **ZEBRA NO GRUPO DA MORTE:** Noruega 3x2 Senegal — Codex acertou o saldo (2-1 → saldo +1, real +1) e ganhou 2 pts; Claude apostou em empate (1-1) e zerou; Baseline apostou em vitória do Senegal e também zerou (mico).
-- **CODEX DISPARA NA LIDERANÇA GERAL:** com 21 pts na rodada 2 (parcial), chega a 41 pts acumulados — abre 7 pts de vantagem sobre Baseline e Claude, que empatam em 34 pts cada.
+- **CR7 NA HISTÓRIA:** Portugal 5x0 Uzbequistão — Cristiano Ronaldo marcou duas vezes e se tornou o primeiro jogador a balançar as redes em seis Copas do Mundo diferentes. Todos acertaram o vencedor, mas ninguém chegou perto da goleada (1 pt cada).
+- **EMPATE TRAVA O GRUPO L:** Inglaterra 0x0 Gana — os três modelos apostaram em vitória inglesa e zeraram; liderança do grupo fica para a última rodada.
+- **PANAMÁ ELIMINADO:** Croácia 1x0 sobre o Panamá — Claude e Baseline cravaram o placar exato (3 pts cada); Codex só acertou o vencedor com saldo errado (1 pt).
+- **BASELINE CRAVA A COLÔMBIA:** vitória simples por 1x0 sobre a RD Congo bate exatamente com a regra fixa do Baseline (sempre 1x0 ao favorito) — 3 pts; Claude e Codex previram 2x1 e ficaram com 2 pts (saldo certo).
+- **CODEX SEGUE NA LIDERANÇA GERAL:** com 28 pts na rodada 2 (parcial), chega a 48 pts acumulados — abre 5 pts de vantagem sobre Baseline e Claude, que empatam em 43 pts cada.
 
 ---
 **ZocLabs 🧪 — Inteligência Artilheira**
