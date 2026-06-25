@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-25
+- Curaçao decide vaga inédita às oitavas hoje (25/06), 17h de Brasília, no Lincoln Financial Field (Filadélfia), contra a Costa do Marfim, na última rodada do Grupo E (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16893973/curacao-x-costa-do-marfim-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-copa-do-mundo)
+- Escalação provável: Eloy Room; Joshua Brenet, Juriën Gaari, Armando Obispo, Sherel Floranus; Deveron Fonville, Livano Comenencia, Leandro Bacuna, Tahith Chong; Jürgen Locadia e Juninho Bacuna. Técnico: Dick Advocaat (fonte: mesma acima)
+- Estreante histórica chega viva à última rodada após o empate com o Equador, superando a goleada de 7x1 sofrida da Alemanha na estreia (fonte: https://massa.com.br/copa-do-mundo-2026/curacao-e-costa-do-marfim)
+- **Prévia:** Vitória simples carimba a classificação inédita de Curaçao; combinação de resultados ainda pode favorecer a menor seleção (por população) a disputar uma Copa.
+
 ## 📅 2026-06-24
 - Curaçao encerra a fase de grupos contra a Costa do Marfim na quinta (25/06), 17h de Brasília, no Lincoln Financial Field, em jogo que fecha o Grupo E (fonte: https://www.goal.com/en-us/news/curacao-ivory-coast-world-cup-preview/bltaf6ced75ec6c319b)
 - Escalação provável: E. Room; D. Fonville, A. Obispo, R. Bazoer, J. Gaari, S. Floranus; J. Bacuna, L. Comenencia, L. Bacuna, T. Chong; J. Locadia (fonte: mesma acima)

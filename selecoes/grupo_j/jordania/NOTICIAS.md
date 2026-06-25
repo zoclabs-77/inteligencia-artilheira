@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Jordânia, já matematicamente eliminada do Grupo J após a virada sofrida para a Argélia, encerra a participação na Copa contra a Argentina no domingo (28/06), no Levi's Stadium (Santa Clara) (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argelia-vira-no-fim-elimina-a-jordania-e-segue-viva-na-copa-do-mundo/)
+- Nizar Al-Rashdan, autor do gol jordaniano na derrota para a Argélia, é o único jogador a balançar as redes da seleção nesta Copa (fonte: mesma acima)
+- **Prévia:** Sem mais objetivo de classificação, encara a líder Argentina em jogo de honra esportiva na fase de grupos.
+
 ## 📅 2026-06-24
 - Argélia venceu a Jordânia por 2 a 1 em Santa Clara, na 2ª rodada do Grupo J, com gol de Nizar Al-Rashdan abrindo o placar para os jordanianos antes da virada argelina (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argelia-vira-no-fim-elimina-a-jordania-e-segue-viva-na-copa-do-mundo/)
 - Com a derrota, a Jordânia segue sem pontuar no grupo e está eliminada da Copa do Mundo de 2026 (fonte: mesma acima)

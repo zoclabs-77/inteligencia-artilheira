@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Catar foi derrotado pela Bósnia por 3x1 no Lumen Field, em Seattle, pela 2ª rodada do Grupo B (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/bosnia-vence-catar-por-3-a-1-e-encaminha-classificacao-a-proxima-fase/)
+- Com apenas 1 ponto somado em três partidas, o Catar está oficialmente eliminado da Copa do Mundo 2026 (fonte: https://www.olabahia.com.br/selecao-do-catar-e-derrotada-por-3x1-para-bosnia-e-e-eliminada-da-copa-do-mundo-2026/)
+- **Repercussão:** Eliminação confirmada do Catar no Grupo B, encerrando precocemente a campanha da seleção.
+
 ## 📅 2026-06-24
 - Catar chega com apenas um ponto após derrota de 6 a 0 para o Canadá e enfrenta a Bósnia na última rodada do Grupo B, no Lumen Field (Washington) (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/bosnia-x-catar-copa-2026-onde-assistir-escalacoes/)
 - Crise de desfalques: zagueiro Homam Ahmed e o volante Assim Madibo foram expulsos na goleada sofrida e cumprem suspensão; Lopetegui terá que improvisar a defesa e Karim Boudiaf deve assumir o meio-campo (fonte: mesma acima)

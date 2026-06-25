@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-25
+- Noruega, já classificada com 6 pontos, disputa a liderança do Grupo I contra a França nesta sexta (26/06), no Gillette Stadium (Boston) (fonte: https://www.cnnbrasil.com.br/esportes/futebol/apostas/palpites/noruega-x-franca-no-mundial-2026-horario-onde-assistir-e-analise-do-jogo/)
+- Perdeu o lateral Ryerson por lesão, desfalque significativo para o duelo mais difícil do torneio (fonte: mesma acima)
+- Erling Haaland soma 4 gols nas duas primeiras rodadas (vitórias por 4x1 sobre o Iraque e 3x2 sobre o Senegal) (fonte: mesma acima)
+- **Prévia:** Time embalado por Haaland, mas com a defesa fragilizada pela lesão de Ryerson, disputa a liderança do Grupo I.
+
 ## 📅 2026-06-24
 - Noruega volta a uma Copa do Mundo pela primeira vez desde a França 1998 e enfrenta a França na sexta (26/06), 20h, pela 3ª rodada do Grupo I, em duelo de alto nível ofensivo (fonte: https://www.goal.com/en-us/news/norway-france-world-cup-preview/blt150ba978b694fe14)
 - Ataque conta com Erling Haaland (Manchester City), Martin Odegaard (Arsenal), Alexander Sorloth (Atlético de Madrid), Antonio Nusa e Julian Ryerson, sob comando de Ståle Solbakken (fonte: mesma acima)

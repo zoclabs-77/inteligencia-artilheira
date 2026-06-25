@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Irã, com dois empates, precisa vencer o Egito no sábado (27/06), no Lumen Field (Seattle), para manter controle do próprio destino no Grupo G (fonte: https://www.meutimao.com.br/apostas/palpites/egito-x-ira-copa-do-mundo-27062026)
+- Escalação provável (3-4-2-1): Alireza Beiranvand; Hossein Kanaanizadegan, Shojae Khalilzadeh e Ali Nemati; Ramin Rezaeian, Saeid Ezatolahi, Saman Ghoddos e Milad Mohammadi; Alireza Jahanbakhsh e Mohammad Mohebi; Mehdi Taremi (fonte: https://www.goal.com/en-us/news/egypt-iran-world-cup-preview/bltbce2e5fc24897843)
+- **Prévia:** Só a vitória mantém o Irã no controle das próprias chances de classificação no Grupo G.
+
 ## 📅 2026-06-24
 - Irã tem dois pontos (empate 0 a 0 com a Bélgica na 2ª rodada) e enfrenta o líder Egito em 27/06 (madrugada, 03h UTC), no Lumen Field (Seattle), ansioso por vitória que o ultrapasse na tabela do Grupo G (fonte: https://www.goal.com/en-us/news/egypt-iran-world-cup-preview/bltbce2e5fc24897843)
 - Após semanas de reclamações sobre restrições de deslocamento nos EUA, a delegação recebeu autorização para viajar a Seattle dois dias antes do confronto (fonte: https://www.terra.com.br/esportes/futebol/copa-2026-eua-flexibilizam-regras-para-o-ira-antes-de-jogo-contra-egito-apos-criticas-por-logistica,24235ef94813bf9731451a1133dae849kxi82fpc.html)

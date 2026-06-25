@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-25
+- México venceu a Tchéquia por 3 a 0 no Estádio Azteca (Cidade do México), em jogo da última rodada do Grupo A, garantindo a liderança da chave como anfitrião (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-tchequia-resumo-grupo-a)
+- Com o resultado, o México fecha a fase de grupos com 7 pontos (2 vitórias e 1 empate), confirmando o favoritismo em casa diante de uma torcida lotada no Azteca (fonte: mesma acima)
+- A vitória elimina matematicamente a Tchéquia, que termina o grupo sem vencer nenhuma partida (fonte: mesma acima)
+- **Repercussão:** Anfitrião confirma a liderança do Grupo A com campanha invicta, embalado para as oitavas de final.
+
 ## 📅 2026-06-24
 - México vem de vitória clínica por 1 a 0 sobre a Coreia do Sul em Guadalajara e enfrenta a Tchéquia na quinta (25/06), no histórico Estadio Azteca (Cidade do México), pela última rodada do Grupo A (fonte: https://www.vietnam.vn/pt/xep-hang-world-cup-2026-croatia-bam-duoi-tuyen-anh)
 - Como anfitrião, joga em casa no Azteca em confronto que pode definir a liderança do grupo (fonte: mesma acima)

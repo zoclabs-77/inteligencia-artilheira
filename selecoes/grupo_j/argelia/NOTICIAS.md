@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Argélia, com três pontos após a virada heroica sobre a Jordânia, enfrenta a Áustria no sábado (27/06), 22h ET, em duelo direto por vaga garantida nas oitavas do Grupo J (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289273/400021497)
+- Nadhir Benbouali e Amine Gouiri, autores dos gols da virada contra a Jordânia, chegam em alta confiança para o confronto decisivo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argelia-vira-no-fim-elimina-a-jordania-e-segue-viva-na-copa-do-mundo/)
+- **Prévia:** Decisão direta contra a Áustria define o segundo classificado do Grupo J, já que a Argentina garantiu a liderança.
+
 ## 📅 2026-06-24
 - Argélia venceu a Jordânia por 2 a 1 em Santa Clara, com gols de Nadhir Benbouali e Amine Gouiri (ambos de bola aérea) revertendo o placar no 2º tempo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argelia-vira-no-fim-elimina-a-jordania-e-segue-viva-na-copa-do-mundo/)
 - Com o resultado, a Argélia somou seus primeiros três pontos no Grupo J, após a derrota na estreia para a Argentina, e se igualou à Áustria na tabela (fonte: mesma acima)

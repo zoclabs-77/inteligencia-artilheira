@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Tchéquia perdeu para o México por 3x0 no Estádio Azteca, na Cidade do México, pela última rodada do Grupo A, com gols de Mateo Chávez, Quiñones e Álvaro Fidalgo (fonte: https://www.lance.com.br/copa-do-mundo/mexico-mantem-100-de-aproveitamento-e-elimina-tchequia-da-copa-do-mundo.html)
+- México, que já estava classificado e poupou titulares, controlou o jogo do início ao fim (fonte: https://www.terra.com.br/esportes/futebol/mexico-e-tchequia-se-enfrentam-pela-ultima-rodada-do-grupo-a-da-copa-do-mundo-de-2026,22e6217b9472032922d5abfb77e2146f0kbv6ni5.html)
+- **Repercussão:** Tchéquia está eliminada da Copa do Mundo 2026 após a derrota na última rodada do Grupo A.
+
 ## 📅 2026-06-24
 - Tchéquia empatou em 1 a 1 com a África do Sul em Atlanta na 2ª rodada e enfrenta o México na quinta (25/06), 01h GMT (24/06, 20h ET), no histórico Estadio Azteca (Cidade do México), pela última rodada do Grupo A (fonte: https://www.vietnam.vn/pt/xep-hang-world-cup-2026-croatia-bam-duoi-tuyen-anh)
 - Precisa de tática adaptável e boa recuperação física após o jogo intenso contra os sul-africanos para manter ambições de avançar de fase (fonte: mesma acima)

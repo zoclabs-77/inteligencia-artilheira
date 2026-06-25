@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Bélgica busca o resultado para confirmar a 1ª colocação do Grupo G contra a Nova Zelândia, no sábado (27/06), em jogo onde os belgas são amplamente favoritos (fonte: https://www.goal.com/en-us/news/new-zealand-belgium-world-cup-preview/blt15910be7a6f8f7b9)
+- Escalação provável: T. Courtois; T. Castagne, Z. Debast, A. Theate e M. De Cuyper; A. Onana, Y. Tielemans e K. De Bruyne; J. Doku, L. Trossard e R. Lukaku (fonte: mesma acima)
+- **Prévia:** Favoritismo amplo sobre a Nova Zelândia; vitória garante a liderança isolada do Grupo G.
+
 ## 📅 2026-06-24
 - Bélgica enfrenta a Nova Zelândia na madrugada do dia 27 (sexta para sábado), pela 3ª rodada do Grupo G, como favorita do confronto (fonte: https://www.goal.com/en-us/news/new-zealand-belgium-world-cup-preview/blt15910be7a6f8f7b9)
 - Escalação provável (4-2-3-1): Thibaut Courtois; Timothy Castagne, Nathan Ngoy, Arthur Theate, Maxim De Cuyper; Amadou Onana, Youri Tielemans; Alexis Saelemaekers, Kevin De Bruyne, Jeremy Doku; Charles De Ketelaere (fonte: mesma acima)

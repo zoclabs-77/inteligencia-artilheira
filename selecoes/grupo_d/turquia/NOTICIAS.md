@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-25
+- Turquia, lanterna do Grupo D sem pontos e já sem chances de classificação, encerra a campanha hoje (25/06), 23h de Brasília, contra os EUA, no SoFi Stadium (Los Angeles) (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-25/turquia-vs-estados-unidos)
+- Escalação provável: Çakır; Muldur, Demiral, Bardakci e Kadioglu; Çalhanoğlu, Yüksek e Güler; Akgün, Yıldız e Aktürkoğlu (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/turquia-x-estados-unidos-veja-as-provaveis-escalacoes-para-o-duelo-da-copa-do-mundo/)
+- Time não conseguiu marcar gols nas duas primeiras rodadas, com derrotas para Austrália e Paraguai (fonte: https://www.goal.com/en-us/news/turkiye-usa-world-cup-preview/bltf76a14c4a45f5680)
+- **Prévia:** Sem chances de classificação, busca apenas uma despedida digna contra o anfitrião EUA, que já está garantido nas oitavas.
+
 ## 📅 2026-06-24
 - Turquia enfrenta os EUA na quinta (25/06), pela 3ª rodada do Grupo D, em jogo que pode definir a classificação da chave após o grupo virar em aberto na 2ª rodada (fonte: https://www.fifa.com/pt/articles/turquia-estados-unidos-previa-jogo-copa-mundo-grupo-d)
 - Vem de derrota por 1 a 0 para o Paraguai na 2ª rodada (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)

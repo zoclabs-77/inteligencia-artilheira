@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Suécia (3 pontos) enfrenta o Japão hoje (25/06), no Dallas Stadium (Arlington), na última rodada do Grupo F — depende de vitória para ter mais segurança na classificação (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16895756/japao-x-suecia-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-copa-do-mundo)
+- Escalação provável: Kristoffer Nordfeldt; Isak Hien, Gustaf Lagerbielke e Nilsson Lindelöf; Alexander Bernhards, Yasin Ayari, Benjamin Nygren, Jesper Karlström e Gabriel Gudmundsson; Viktor Gyökeres e Alexander Isak. Técnico: Graham Potter (fonte: mesma acima)
+- **Prévia:** Precisa vencer o Japão para garantir vaga direta nas oitavas do Grupo F.
+
 ## 📅 2026-06-24
 - Suécia soma três pontos e depende de vitória contra o Japão para ter mais segurança na briga por classificação, nesta quinta (25/06), 20h de Brasília, no AT&T Stadium (Arlington) (fonte: https://www.goal.com/en-us/news/japan-sweden-world-cup-preview/blt8a938f12b12022e4)
 - Escalação prevista: Nordfeldt; Lagerbielke, Hien, Lindelöf; Karlström, Nygren, Ayari; Bernhardsson, Gudmundsson, Isak, Gyokeres. Técnico: Graham Potter (fonte: mesma acima)

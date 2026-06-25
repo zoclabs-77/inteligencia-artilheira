@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Canadá perdeu para a Suíça por 2x1 em Vancouver (BC Place), pela 3ª rodada do Grupo B; Promise David marcou o gol canadense (fonte: https://www.gazetaesportiva.com/minuto-a-minuto/copa-do-mundo-2026/suica-x-canada/237063/)
+- Antes da derrota, o Canadá vinha de goleada de 6x0 sobre o Catar na rodada anterior (fonte: https://www.terra.com.br/esportes/futebol/internacional/suica-x-canada-saiba-tudo-sobre-a-briga-pelo-primeiro-lugar-do-grupo-b-da-copa-do-mundo,45c461d677fa544b268d7f7998ce13e1ekjm6t10.html)
+- **Repercussão:** Mesmo com a derrota, o Canadá termina o grupo na vice-liderança e deve enfrentar a Coreia do Sul nos 16 avos de final.
+
 ## 📅 2026-06-24
 - Canadá divide a liderança do Grupo B com a Suíça, ambos com quatro pontos, e joga em casa nesta quarta (24/06), 16h de Brasília, no BC Place (Vancouver), ocupando 1º lugar pelos critérios de desempate (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/suica-x-canada-veja-provaveis-escalacoes-para-duelo-pela-copa-do-mundo/)
 - Provável escalação: Maxime Crépeau; Alistair Johnston, Derek Cornelius, Luc de Fougerolles, Richie Laryea; Stephen Eustáquio, Nathan Saliba, Tajon Buchanan, Liam Millar; Jonathan David, Cyle Larin. Técnico: Jesse Marsch (fonte: mesma acima)

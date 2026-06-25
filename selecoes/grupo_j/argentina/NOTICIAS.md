@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Argentina, líder isolada do Grupo J com 6 pontos, enfrenta a já eliminada Jordânia no domingo (28/06), no Levi's Stadium (Santa Clara), sem pressão por resultado (fonte: https://copaamerica.com/en/news/argentina-path-fifa-world-cup-2026-bracket-possible-matchups)
+- Scaloni deve aproveitar o jogo de baixa pressão para testar variações no meio-campo, com Mac Allister e Enzo Fernández orientados a acelerar a transição (fonte: mesma acima)
+- **Prévia:** Já garantida na liderança do grupo, joga sem pressão contra uma Jordânia sem mais objetivos na competição.
+
 ## 📅 2026-06-24
 - Argentina já lidera o Grupo J com seis pontos e enfrenta a Jordânia (já eliminada) em 28/06, 02h GMT, no Levi's Stadium (Santa Clara); um empate garante a liderança e classificação como campeã da chave (fonte: https://copaamerica.com/en/news/argentina-path-fifa-world-cup-2026-bracket-possible-matchups)
 - Ajuste tático de Scaloni deve focar no meio-campo, com Alexis Mac Allister e Enzo Fernández orientados a acelerar a transição vertical da bola (fonte: mesma acima)

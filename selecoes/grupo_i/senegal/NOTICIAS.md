@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Senegal, sem pontos após duas derrotas (a mais competitiva foi o 3x2 para a Noruega), enfrenta o Iraque nesta sexta (26/06), 16h de Brasília, no BMO Field (Toronto), última chance de classificação entre os melhores terceiros (fonte: https://www.goal.com/en-us/news/senegal-iraq-world-cup-preview/bltd9cd15e8559290bf)
+- Escalação provável: Mory Diaw; Ismail Jakobs, Kalidou Koulibaly, Moussa Niakhaté e El Hadji Malick Diouf; Lamine Camara, Idrissa Gueye e Pape Matar Sarr; Ismaïla Sarr, Nicolas Jackson e Sadio Mané (fonte: mesma acima)
+- **Prévia:** Precisa vencer o Iraque para manter qualquer esperança de classificação no Grupo I.
+
 ## 📅 2026-06-24
 - Senegal perdeu seus dois primeiros jogos (revés de 3 a 2 para a Noruega foi o mais competitivo) e enfrenta o Iraque na sexta (26/06), 16h de Brasília, no BMO Field (Toronto), na última rodada do Grupo I (fonte: https://www.goal.com/en-us/news/senegal-iraq-world-cup-preview/bltd9cd15e8559290bf)
 - Escalação provável: Édouard Mendy; Youssouf Sabaly, Kalidou Koulibaly, Moussa Niakhaté, Ismaïl Jakobs; Pape Matar Sarr, Idrissa Gana Gueye, Lamine Camara; Ismaïla Sarr, Nicolas Jackson, Iliman Ndiaye (fonte: mesma acima)

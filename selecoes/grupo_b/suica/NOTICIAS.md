@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Suíça venceu o Canadá por 2x1 em Vancouver (BC Place) pela 3ª rodada do Grupo B, com Promise David marcando o gol de honra canadense (fonte: https://www.gazetaesportiva.com/minuto-a-minuto/copa-do-mundo-2026/suica-x-canada/237063/)
+- Resultado consolida a Suíça na liderança do Grupo B após empate com o Catar (1x1) e goleada sobre a Bósnia (4x1) nas rodadas anteriores (fonte: https://www.terra.com.br/esportes/futebol/internacional/suica-x-canada-saiba-tudo-sobre-a-briga-pelo-primeiro-lugar-do-grupo-b-da-copa-do-mundo,45c461d677fa544b268d7f7998ce13e1ekjm6t10.html)
+- **Repercussão:** Suíça encerra a fase de grupos como líder do Grupo B; Canadá garante a vice-liderança e deve enfrentar a Coreia do Sul nos 16 avos de final.
+
 ## 📅 2026-06-24
 - Suíça divide a liderança do Grupo B com o Canadá, ambos com quatro pontos, em rodada decisiva nesta quarta (24/06), 16h de Brasília, no BC Place (Vancouver) (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/suica-x-canada-veja-provaveis-escalacoes-para-duelo-pela-copa-do-mundo/)
 - Provável escalação: Gregor Kobel; Silvan Widmer, Nico Elvedi, Manuel Akanji, Ricardo Rodríguez; Michel Aebischer, Remo Freuler, Granit Xhaka, Fabian Rieder, Dan Ndoye; Breel Embolo. Técnico: Murat Yakin (fonte: mesma acima)

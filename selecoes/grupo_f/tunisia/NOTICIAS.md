@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Tunísia, já eliminada e lanterna do Grupo F sem pontos, encerra a campanha hoje (25/06), 20h de Brasília, contra a líder Holanda, no Arrowhead Stadium (Kansas City) (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/tunisia-x-holanda-copa-do-mundo-2026/)
+- Escalação provável: Aymen Dahmen; Dylan Bronn, Montassar Talbi e Omar Rekik; Yan Valery, Ellyes Skhiri, Anis Ben Slimane, Hannibal Mejbri, Elias Saad e Ali Abdi; Sebastian Tounekti. Técnico: Hervé Renard (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-tunisia-x-holanda-25-06-2026.html)
+- **Prévia:** Sem chances de classificação, joga apenas por honra contra a líder Holanda.
+
 ## 📅 2026-06-24
 - Tunísia já está eliminada da Copa do Mundo, com zero ponto após derrotas de 5 a 1 para a Suécia e 4 a 0 para o Japão (9 gols sofridos, 1 marcado); encerra a campanha contra a Holanda na quinta (25/06), 20h de Brasília, no Arrowhead Stadium (Kansas City) (fonte: https://www.goal.com/en-us/news/tunisia-netherlands-world-cup-preview/bltb895dd8baa22d968)
 - Escalação prevista: Chamakh; Yan Valery, Montassar Talbi, Omar Rekik, Ali Abdi; Rani Khedira, Ellyes Skhiri, Anis Slimane; Hannibal Mejbri, Ismaël Gharbi; Firas Chaouat. Técnico: Sabri Lamouchi (fonte: mesma acima)

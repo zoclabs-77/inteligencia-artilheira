@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Brasil venceu a Escócia por 3x0 no Hard Rock Stadium, em Miami, com dois gols de Vinícius Júnior e um de Matheus Cunha (assistência de Bruno Guimarães), fechando a fase de grupos com 7 pontos e na liderança do Grupo C (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-domina-escocia-vence-e-avanca-na-copa-do-mundo-como-lider-do-grupo/)
+- Vinícius Jr. chegou a 4 gols na competição e foi o nome do jogo; partida marcou também a estreia de Neymar na Copa do Mundo de 2026, atuando os 20 minutos finais (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-estatisticas-brasil-escocia)
+- **Repercussão:** Seleção brasileira termina a fase de grupos imbatida e como líder do Grupo C, com Vinícius Jr. em grande fase e Neymar já em campo na Copa.
+
 ## 📅 2026-06-24
 - Brasil chega embalado após golear o Haiti por 3 a 0 e lidera o Grupo C com quatro pontos (mesma pontuação do Marrocos); basta um empate contra a Escócia para garantir a liderança, dado o saldo de gols favorável (fonte: https://trivela.com.br/copa-do-mundo/escocia-x-brasil-provaveis-escalacoes-neymar-grupo-c-copa/)
 - Jogo nesta quarta (24/06), 19h de Brasília, no Hard Rock Stadium (Miami), contra a Escócia, pela 3ª e última rodada do Grupo C (fonte: mesma acima)

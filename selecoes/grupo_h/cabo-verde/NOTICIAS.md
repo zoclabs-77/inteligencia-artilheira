@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Cabo Verde chega invicto à última rodada, com dois empates contra Espanha (0x0) e Uruguai (2x2), e enfrenta a Arábia Saudita nesta sexta (26/06), 21h de Brasília, no NRG Stadium (Houston), na 3ª posição do Grupo H (fonte: https://www.meutimao.com.br/apostas/palpites/cabo-verde-x-arabia-saudita-copa-do-mundo-26062026)
+- Escalação provável: Vozinha; Steven Moreira, Sidny Cabral, Pico e Diney; Kevin Pina, Laros Duarte, Jamiro Monteiro; Jovane Cabral; Ryan Mendes e Dailon Livramento, sob o comando do técnico Bubista (fonte: mesma acima)
+- **Prévia:** Vitória sobre a Arábia Saudita encaminharia a classificação histórica e inédita do país a uma Copa do Mundo.
+
 ## 📅 2026-06-24
 - Cabo Verde empatou 0 a 0 com a Espanha na 1ª rodada e enfrenta a Arábia Saudita na sexta (26/06), 21h de Brasília, no NRG Stadium (Texas), pela 3ª rodada do Grupo H (fonte: https://www.papodebola.com.br/futebol/copa-do-mundo/jogo/26-06-2026/cabo-verde-arabia-saudita)
 - **Próximo jogo:** Vencer a Arábia Saudita pode encaminhar uma classificação histórica e inédita do país a uma Copa do Mundo.

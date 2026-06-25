@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- RD Congo, com apenas 1 ponto após a derrota para a Colômbia, enfrenta o Uzbequistão no domingo (28/06), precisando vencer e torcer por resultados paralelos para sonhar com vaga entre os melhores terceiros do Grupo K (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/colombia-fura-defesa-da-rd-congo-no-final-e-se-classifica-na-copa-do-mundo,7a080f5b168ad237d924678ca8005899m9fqgo4d.html)
+- Defesa congolesa foi elogiada pela organização contra a Colômbia, cedendo o gol decisivo apenas nos minutos finais (fonte: mesma acima)
+- **Prévia:** Precisa vencer o Uzbequistão e depender de outros resultados para manter chance de classificação.
+
 ## 📅 2026-06-24
 - RD Congo perdeu por 1 a 0 para a Colômbia no Estadio Akron (Guadalajara), na 2ª rodada do Grupo K, gol colombiano nos minutos finais (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/colombia-fura-defesa-da-rd-congo-no-final-e-se-classifica-na-copa-do-mundo,7a080f5b168ad237d924678ca8005899m9fqgo4d.html)
 - Os Leopardos somam apenas um ponto (do empate histórico 1-1 com Portugal na estreia) e caem para a 3ª posição do grupo (fonte: mesma acima)

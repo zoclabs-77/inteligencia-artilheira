@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-25
+- França e Noruega chegam já classificadas para as oitavas, ambas com 6 pontos, mas a França lidera pelo saldo de gols (+5 a +4); decisão da liderança do Grupo I é nesta sexta (26/06), no Gillette Stadium (Boston) (fonte: https://www.cnnbrasil.com.br/esportes/futebol/apostas/palpites/noruega-x-franca-no-mundial-2026-horario-onde-assistir-e-analise-do-jogo/)
+- Técnico Didier Deschamps perdeu a mãe na terça (23/6) e retornou à França para o velório; a seleção é comandada interinamente por Guy Stéphan (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-noruega-x-franca-26-06-2026.html)
+- Trio de ataque com Olise, Dembélé e Mbappé deve ser mantido; dúvida na lateral-esquerda entre Lucas Digne e Theo Hernández (fonte: mesma acima)
+- **Prévia:** Mbappé (4 gols) e Haaland (4 gols) protagonizam duelo de artilheiros pela liderança do Grupo I, com a França comandada interinamente após o luto de Deschamps.
+
 ## 📅 2026-06-24
 - França enfrenta a Noruega na sexta (26/06), 20h, pela 3ª rodada do Grupo I, em confronto direto pela liderança da chave (fonte: https://www.goal.com/en-us/news/norway-france-world-cup-preview/blt150ba978b694fe14)
 - Adversário norueguês chega embalado com Haaland e Odegaard em alto nível, exigindo atenção redobrada da defesa francesa (fonte: mesma acima)

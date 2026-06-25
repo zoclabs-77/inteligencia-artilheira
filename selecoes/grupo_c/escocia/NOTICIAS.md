@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Escócia perdeu para o Brasil por 3x0 no Hard Rock Stadium, em Miami, pela última rodada do Grupo C, com gols de Vinícius Júnior (2x) e Matheus Cunha (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/escocia-brasil-resumo-melhores-momentos-grupo-c)
+- Derrota encerra a campanha escocesa na fase de grupos, em jogo que também marcou a estreia de Neymar na Copa 2026, entrando aos 20 minutos finais (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-domina-escocia-vence-e-avanca-na-copa-do-mundo-como-lider-do-grupo/)
+- **Repercussão:** Escócia está eliminada do Grupo C após a derrota para o Brasil.
+
 ## 📅 2026-06-24
 - Escócia vem de derrota por 1 a 0 para o Marrocos e enfrenta o Brasil no Hard Rock Stadium (Miami), nesta quarta (24/06), 19h de Brasília, na última rodada do Grupo C (fonte: https://trivela.com.br/copa-do-mundo/escocia-x-brasil-provaveis-escalacoes-neymar-grupo-c-copa/)
 - Escalação provável: Angus Gunn; Nathan Patterson, Jack Hendry, Grant Hanley, Kieran Tierney, Andy Robertson; Ryan Christie, Lewis Ferguson, John McGinn, Scott McTominay; Che Adams (fonte: mesma acima)

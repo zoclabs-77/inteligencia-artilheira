@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Haiti perdeu para Marrocos por 4x2 em Atlanta, na última rodada do Grupo C, em jogo agitado: abriu o placar com gol contra a favor, viu Hakimi e Saibari empatarem e voltou a ficar na frente com Wilson Isidor antes da virada marroquina (fonte: https://trivela.com.br/copa-do-mundo/marrocos-4-2-haiti-hakimi-rahimi-el-khanouss/)
+- Mesmo eliminado sem pontuar, o Haiti fez sua partida mais competitiva do torneio e confirmou a boa impressão ofensiva das primeiras rodadas (fonte: https://aloalobahia.com/esportes/2026/06/24/marrocos-vence-haiti-por-4x2-fica-em-segundo-no-grupo-c-e-avanca-na-copa-do-mundo/)
+- **Repercussão:** Haiti se despede da Copa do Mundo 2026 sem pontos, mas com atuação elogiada na estreia histórica do país no torneio.
+
 ## 📅 2026-06-24
 - Haiti já está eliminado da Copa do Mundo e encerra a participação contra o Marrocos no Mercedes-Benz Stadium (Atlanta), nesta quarta (24/06), 19h de Brasília (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16887212/copa-do-mundo-marrocos-haiti-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes)
 - Escalação provável: Johnny Placide; Jean-Kévin Duverne, Ricardo Adé, Hannes Delcroix, Carlens Arcus; Ruben Providence, Bellegarde, Jean Jacques, Martin Expérience; Frantzdy Pierrot, Wilson Isidor (fonte: mesma acima)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Equador enfrenta a Alemanha (líder, já classificada) hoje (25/06), 17h de Brasília, no MetLife Stadium (East Rutherford), na última rodada do Grupo E, com 1 ponto e nenhum gol marcado na campanha (fonte: https://www.365scores.com/pt-br/news/magazine/equador-x-alemanha-escalacoes-analise-copa-do-mundo/)
+- Escalação prevista, sem desfalques: H. Galíndez; A. Franco, W. Pacho, P. Hincapié; J. Yeboah, M. Caicedo, J. Alcivar, P. Vite, P. Estupiñán; G. Plata, E. Valencia (fonte: https://www.umdoisesportes.com.br/palpites-de-futebol/copa-do-mundo-equador-x-alemanha-25-06-2026/)
+- **Prévia:** Equador precisa vencer e ainda torcer por resultado no outro jogo do grupo para sonhar com a classificação; Alemanha pode poupar titulares, já garantida na liderança.
+
 ## 📅 2026-06-24
 - Equador está em situação delicada no Grupo E após empatar 0 a 0 com Curaçao, com apenas um ponto e na 3ª colocação da chave; enfrenta a Alemanha na quinta (25/06), 17h de Brasília, no MetLife Stadium (Nova Jersey) (fonte: https://www.365scores.com/pt-br/news/magazine/equador-x-alemanha-escalacoes-analise-copa-do-mundo/)
 - Precisa vencer a Alemanha e torcer por vitória de Curaçao sobre a Costa do Marfim para sonhar com a 2ª colocação (fonte: mesma acima)

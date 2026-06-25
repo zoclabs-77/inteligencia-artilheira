@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Holanda lidera o Grupo F com 4 pontos e melhor ataque da chave (7 gols); enfrenta a já eliminada Tunísia hoje (25/06), 20h de Brasília, no Arrowhead Stadium (Kansas City) (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/tunisia-x-holanda-copa-do-mundo-2026/)
+- Escalação provável: Bart Verbruggen; Denzel Dumfries, Van Hecken, Van Dijk e Van de Ven; Ryan Gravenberch, De Jong e Tijjani Reijnders; Donyell Malen, Cody Gakpo e Crysencio Summerville. Técnico: Ronald Koeman (fonte: https://www.meutimao.com.br/apostas/palpites/tunisia-x-holanda-copa-do-mundo-25062026)
+- **Prévia:** Um empate basta para a Holanda confirmar a liderança do Grupo F na última rodada.
+
 ## 📅 2026-06-24
 - Holanda lidera o Grupo F com quatro pontos e precisa apenas de um empate contra a já eliminada Tunísia para garantir classificação, nesta quinta (25/06), 20h de Brasília, no Arrowhead Stadium (Kansas City) (fonte: https://www.goal.com/en-us/news/tunisia-netherlands-world-cup-preview/bltb895dd8baa22d968)
 - Escalação prevista (4-3-3): Bart Verbruggen; Denzel Dumfries, Jan Paul van Hecke, Virgil van Dijk, Micky van de Ven; Frenkie de Jong, Tijjani Reijnders, Ryan Gravenberch; Donyell Malen, Memphis Depay, Cody Gakpo. Técnico: Ronald Koeman (fonte: mesma acima)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Uruguai soma 2 pontos (empates com Arábia Saudita e Cabo Verde) e enfrenta a líder Espanha nesta sexta (26/06), 21h de Brasília, no Estádio Akron (Guadalajara), pressionado por um resultado positivo (fonte: https://www.goal.com/en-us/news/uruguay-spain-world-cup-preview/blt108f73be6b25d09d)
+- Escalação provável: Muslera; Varela, Cáceres, Olivera, Sanabria; Ugarte, Bentancur, Valverde; Canobbio, Maximiliano Araújo e Vinas. Técnico: Marcelo Bielsa (fonte: https://www.365scores.com/pt-br/news/magazine/uruguai-x-espanha-escalacoes-copa/)
+- **Prévia:** Precisa vencer a Espanha para não depender de outros cenários na briga por classificação do Grupo H.
+
 ## 📅 2026-06-24
 - Uruguai é apontado como o adversário mais forte da Espanha no Grupo H e encerra a fase de grupos contra os espanhóis em Guadalajara, na sexta (26/06), pela 3ª rodada, em duelo direto pela liderança da chave (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/previa-matchday-onze-copa-do-mundo-fifa-2026)
 - Vem de empate 1 a 1 com a Arábia Saudita na estreia (fonte: mesma acima)

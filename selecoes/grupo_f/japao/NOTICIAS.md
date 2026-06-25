@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-25
+- Japão (4 pontos) enfrenta a Suécia hoje (25/06), no Dallas Stadium (Arlington), na última rodada do Grupo F — um empate garante a vaga nas oitavas (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16895756/japao-x-suecia-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-copa-do-mundo)
+- Escalação provável: Zion Suzuki; Hiroki Ito, Shogo Taniguchi e Tsuyoshi Watanabe; Ritsu Doan, Daichi Kamada, Keito Nakamura, Kaishu Sano e Daizen Maeda; Junya Ito e Ayase Ueda. Técnico: Hajime Moriyasu (fonte: mesma acima)
+- Principal desfalque é Takefusa Kubo, lesionado no joelho esquerdo desde a estreia (fonte: mesma acima)
+- **Prévia:** Empate ou vitória garante ao Japão pelo menos a 2ª posição do Grupo F, mesmo sem Kubo disponível.
+
 ## 📅 2026-06-24
 - Japão soma quatro pontos (empate com a Holanda, vitória sobre a Tunísia) e está na 2ª posição do Grupo F; vitória ou empate contra a Suécia garante a classificação, nesta quinta (25/06), 20h de Brasília, no AT&T Stadium (Arlington) (fonte: https://www.goal.com/en-us/news/japan-sweden-world-cup-preview/blt8a938f12b12022e4)
 - Escalação prevista: Suzuki; Tomiyasu, Itakura, Hiroki Ito; Sano, Tanaka, Doan, Nakamura; Kamada, Junya Ito, Ueda. Técnico: Hajime Moriyasu (fonte: mesma acima)

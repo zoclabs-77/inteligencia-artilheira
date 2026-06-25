@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Egito lidera o Grupo G com 4 pontos e enfrenta o Irã no sábado (27/06), no Lumen Field (Seattle); um empate já garante a primeira classificação histórica da seleção às oitavas (fonte: https://www.meutimao.com.br/apostas/palpites/egito-x-ira-copa-do-mundo-27062026)
+- Escalação provável (4-2-3-1): Mostafa Shobeir; Ahmed Fatouh, Yasser Ibrahim, Ramy Rabia e Mohamed Hany; Mohanad Lasheen e Marwan Attia; Emam Ashour, Mohamed Salah e Mostafa Ziko (fonte: https://www.goal.com/en-us/news/egypt-iran-world-cup-preview/bltbce2e5fc24897843)
+- **Prévia:** Empate basta para garantir a vaga inédita do Egito nas oitavas de final.
+
 ## 📅 2026-06-24
 - Egito lidera o Grupo G com quatro pontos, após vitória clínica de 3 a 1 sobre a Nova Zelândia, e enfrenta o Irã em 27/06 (madrugada, 03h UTC), no Lumen Field (Seattle) (fonte: https://www.goal.com/en-us/news/egypt-iran-world-cup-preview/bltbce2e5fc24897843)
 - Vê o jogo como plataforma para solidificar status de líder invicta do grupo (fonte: mesma acima)

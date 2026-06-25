@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Marrocos venceu o Haiti por 4x2 em Atlanta, na última rodada do Grupo C, em jogo movimentado com gol contra do Haiti, gols de Hakimi e Saibari, e dois gols de Wilson Isidor pelo Haiti (fonte: https://aloalobahia.com/esportes/2026/06/24/marrocos-vence-haiti-por-4x2-fica-em-segundo-no-grupo-c-e-avanca-na-copa-do-mundo/)
+- Marrocos chega a 7 pontos, mesma pontuação do Brasil, mas avança em segundo lugar no saldo de gols; Hakimi foi o nome mais influente, com gol e assistência (fonte: https://trivela.com.br/copa-do-mundo/marrocos-4-2-haiti-hakimi-rahimi-el-khanouss/)
+- **Repercussão:** Marrocos garante classificação aos 16 avos de final na 2ª posição do Grupo C, atrás do Brasil.
+
 ## 📅 2026-06-24
 - Marrocos, invicto na competição, disputa a liderança do Grupo C com o Brasil e enfrenta o Haiti (já eliminado) no Mercedes-Benz Stadium (Atlanta), nesta quarta (24/06), 19h de Brasília (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16887212/copa-do-mundo-marrocos-haiti-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes)
 - Provável escalação (4-2-3-1): Yassine Bounou; Achraf Hakimi, Issa Diop, Chadi Riad, Noussair Mazraoui; Ayyoub Bouaddi, Neil El Aynaoui; Brahim Díaz, Azzedine Ounahi, Bilal El Khannouss; Ismael Saibari (fonte: mesma acima)

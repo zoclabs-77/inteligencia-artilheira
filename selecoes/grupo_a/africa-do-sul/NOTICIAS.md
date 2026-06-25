@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- África do Sul venceu a Coreia do Sul por 1x0 no Estádio de Monterrey, gol de Thapelo Maseko aos 63 minutos, pela 3ª rodada do Grupo A (fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760466/coreia-do-sul-africa-do-sul)
+- Vitória histórica garante à África do Sul, pela primeira vez na história, vaga nos 16 avos de final, terminando em 2º lugar do grupo, atrás do México (fonte: https://www.dn.pt/mundial-2026/frica-do-sul-vence-coreia-do-sul-e-est-nos-16-avos-de-final-mxico-venceu-a-repblica-checa)
+- **Repercussão:** Marco histórico para os Bafana Bafana, que disputam mata-mata de Copa do Mundo por primeira vez.
+
 ## 📅 2026-06-24
 - África do Sul soma apenas 1 ponto e está na lanterna do Grupo A; enfrenta a Coreia do Sul no Estádio BBVA (Monterrey), nesta quarta (24/06), 22h de Brasília, na última rodada (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/africa-do-sul-coreia-do-sul-onde-assistir-copa-2026/)
 - Escalação provável: Ronwen Williams; Khuliso Mudau, Mbekezeli Mbokazi, Siyabonga Ngezana, Aubrey Modiba; Sphephelo Sithole, Thalente Mbatha, Jayden Adams; Elias Mokwana, Iqraam Rayners, Oswin Appollis (fonte: mesma acima)

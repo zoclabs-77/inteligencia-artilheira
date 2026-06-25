@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Uzbequistão, em sua primeira Copa do Mundo da história e sem pontos após a goleada sofrida de Portugal, encerra a fase de grupos contra a RD Congo no domingo (28/06) (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-5-x-0-uzbequistao-veja-os-melhores-momentos-do-jogo-da-copa/)
+- Goleira Nematov, que sofreu gol contra na derrota para Portugal, é desfalque emocional do time para a decisão (fonte: mesma acima)
+- **Prévia:** Só uma vitória mantém viva qualquer chance de classificação como um dos melhores terceiros colocados.
+
 ## 📅 2026-06-24
 - Uzbequistão sofreu goleada de 5 a 0 para Portugal no NRG Stadium, em Houston, com dois gols de Cristiano Ronaldo, um de Nuno Mendes, um de Rafael Leão e um contra do goleiro Nematov (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-5-x-0-uzbequistao-veja-os-melhores-momentos-do-jogo-da-copa/)
 - Resultado complica a situação da seleção uzbeque, que disputava sua primeira Copa do Mundo na história, no Grupo K (fonte: mesma acima)

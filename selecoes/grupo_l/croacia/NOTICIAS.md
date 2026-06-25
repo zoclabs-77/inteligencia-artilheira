@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Croácia, com 3 pontos após vencer o Panamá, enfrenta Gana no sábado (27/06), em confronto direto por vaga garantida na classificação do Grupo L (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/croacia-vence-por-1-a-0-e-elimina-o-panama-da-copa-do-mundo/)
+- Luka Modric, que completou 200 jogos pela seleção contra o Panamá, é peça-chave; equipe pode variar para um 3-4-2-1 dada a idade avançada de peças-chave (fonte: mesma acima)
+- **Prévia:** Decisão direta contra Gana define o classificado do Grupo L na última rodada.
+
 ## 📅 2026-06-24
 - Croácia venceu o Panamá por 1 a 0 no BMO Field (Toronto), gol de Ante Budimir no 2º tempo, conquistando a primeira vitória no torneio e subindo para a 3ª posição do Grupo L com três pontos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/croacia-vence-por-1-a-0-e-elimina-o-panama-da-copa-do-mundo/)
 - Noite com peso histórico para Luka Modric, que completou 200 jogos pela seleção e foi substituído aos 35 minutos do 2º tempo (fonte: mesma acima)

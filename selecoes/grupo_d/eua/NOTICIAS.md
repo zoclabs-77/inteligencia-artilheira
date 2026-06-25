@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-25
+- EUA, líder isolado e já classificado às oitavas com 6 pontos, recebe a Turquia hoje (25/06), 23h de Brasília, no SoFi Stadium (Los Angeles), buscando manter 100% de aproveitamento (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-25/turquia-vs-estados-unidos)
+- Escalação provável: Freese; Freeman, Chris Richards e Tim Ream; Dest, Adams, McKennie e Robinson; Tillman, Balogun e Pulisic (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/turquia-x-estados-unidos-veja-as-provaveis-escalacoes-para-o-duelo-da-copa-do-mundo/)
+- Ataque eficiente já marcou seis gols em duas partidas na competição (fonte: https://www.goal.com/en-us/news/turkiye-usa-world-cup-preview/bltf76a14c4a45f5680)
+- **Prévia:** Anfitrião entra em campo para carimbar o 1º lugar do Grupo D contra uma Turquia já eliminada e sem gols marcados no torneio.
+
 ## 📅 2026-06-24
 - Estados Unidos venceram a Austrália por 2 a 0 na 2ª rodada e enfrentam a Turquia na quinta (25/06), como anfitrião, pela 3ª rodada do Grupo D (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
 - **Próximo jogo:** Bem posicionado no grupo, joga em casa contra a Turquia podendo selar a liderança do Grupo D.

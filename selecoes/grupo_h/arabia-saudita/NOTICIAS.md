@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Arábia Saudita, lanterna do Grupo H com 1 ponto (empate 1x1 com o Uruguai e derrota de 4x0 para a Espanha), enfrenta Cabo Verde nesta sexta (26/06), 21h de Brasília, no NRG Stadium (Houston) (fonte: https://www.meutimao.com.br/apostas/palpites/cabo-verde-x-arabia-saudita-copa-do-mundo-26062026)
+- Escalação provável: Al-Aqidi; Abdulhamid, Al-Tambakti, Al-Amri e Kadesh; Al-Khaibari, Kanno e Al-Juwayr; Mandash, Al-Brikan e Al-Dawsari, sob comando de Hervé Renard (fonte: mesma acima)
+- **Prévia:** Precisa vencer Cabo Verde para manter qualquer chance de classificação no Grupo H.
+
 ## 📅 2026-06-24
 - Arábia Saudita empatou 1 a 1 com o Uruguai na 1ª rodada (gol de Al-Amri) e enfrenta Cabo Verde na sexta (26/06), 21h de Brasília, no NRG Stadium (Texas), pela 3ª rodada do Grupo H (fonte: https://www.papodebola.com.br/futebol/copa-do-mundo/jogo/26-06-2026/cabo-verde-arabia-saudita)
 - **Próximo jogo:** Precisa de resultado positivo contra Cabo Verde para manter vivas as chances de classificação no Grupo H.

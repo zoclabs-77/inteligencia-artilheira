@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Alemanha, já líder garantida do Grupo E, enfrenta o Equador hoje (25/06), 17h de Brasília, no MetLife Stadium (East Rutherford) (fonte: https://www.365scores.com/pt-br/news/magazine/equador-x-alemanha-escalacoes-analise-copa-do-mundo/)
+- Zagueiro Nico Schlotterbeck rompeu o ligamento do tornozelo esquerdo na vitória sobre a Costa do Marfim e está fora do restante da Copa; Nagelsmann sinaliza rodízio com Nübel, Thiaw, Raum, Stiller e Goretzka ganhando minutos (fonte: https://www.umdoisesportes.com.br/palpites-de-futebol/copa-do-mundo-equador-x-alemanha-25-06-2026/)
+- **Prévia:** Sem pressão por resultado, alemães devem gerenciar minutagem de titulares visando o mata-mata, com baixa confirmada de Schlotterbeck.
+
 ## 📅 2026-06-24
 - Alemanha já está classificada às oitavas de final após vencer Curaçao na estreia e a Costa do Marfim por 2 a 1, e deve poupar titulares contra o Equador na quinta (25/06), 17h de Brasília, no MetLife Stadium (Nova Jersey) (fonte: https://www.365scores.com/pt-br/news/magazine/equador-x-alemanha-escalacoes-analise-copa-do-mundo/)
 - Escalação prevista com equipe alternativa: Baumann; Anton, Thiaw, Rüdiger, Raum; Goretzka, Stiller, Amiri, Beier, Leweling; Undav (fonte: mesma acima)

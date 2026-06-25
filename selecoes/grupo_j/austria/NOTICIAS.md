@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Áustria, com três pontos (vitória sobre a Jordânia, derrota para a Argentina), enfrenta a Argélia no sábado (27/06), 22h ET, em confronto direto por vaga garantida no mata-mata do Grupo J, já que a Argentina assegurou o 1º lugar (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289273/400021497)
+- Escalação prevista: Schlager; Posch, Danso, Alaba, Laimer; Seiwald, Schlager; Schmid, Wanner, Sabitzer; Gregoritsch (fonte: mesma acima)
+- **Prévia:** Decisão direta contra a Argélia define o segundo classificado do Grupo J.
+
 ## 📅 2026-06-24
 - Áustria perdeu por 2 a 0 para a Argentina na 2ª rodada, mas havia vencido a Jordânia por 3 a 1 na estreia, mantendo chances de classificação; enfrenta a Argélia em 27/06, 22h ET, em confronto direto por vaga garantida no mata-mata do Grupo J (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289273/400021497)
 - Escalação prevista: Schlager; Posch, Danso, Alaba, Laimer; Seiwald, Schlager; Schmid, Wanner, Sabitzer; Gregoritsch (fonte: mesma acima)

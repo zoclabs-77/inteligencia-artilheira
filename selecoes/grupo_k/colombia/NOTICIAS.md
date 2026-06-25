@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Colômbia, já classificada e líder do Grupo K com 6 pontos, enfrenta Portugal no domingo (28/06), em duelo que decide a liderança da chave — um empate garante o 1º lugar aos colombianos (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/colombia-fura-defesa-da-rd-congo-no-final-e-se-classifica-na-copa-do-mundo,7a080f5b168ad237d924678ca8005899m9fqgo4d.html)
+- Gol decisivo sobre a RD Congo saiu nos minutos finais, mostrando capacidade de decisão tardia da equipe (fonte: mesma acima)
+- **Prévia:** Já garantida nas oitavas, busca a liderança do Grupo K diante de Portugal embalado por Cristiano Ronaldo.
+
 ## 📅 2026-06-24
 - Colômbia venceu a RD Congo por 1 a 0, no Estadio Akron (Guadalajara), na 2ª rodada do Grupo K, garantindo classificação antecipada às oitavas com seis pontos e a liderança da chave (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/colombia-fura-defesa-da-rd-congo-no-final-e-se-classifica-na-copa-do-mundo,7a080f5b168ad237d924678ca8005899m9fqgo4d.html)
 - Gol decisivo saiu no fim, furando uma defesa congolesa bem postada durante boa parte da partida (fonte: mesma acima)

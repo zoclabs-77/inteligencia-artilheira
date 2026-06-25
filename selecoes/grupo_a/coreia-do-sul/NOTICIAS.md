@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Coreia do Sul perdeu para a África do Sul por 1x0 no Estádio de Monterrey, gol de Thapelo Maseko aos 63 minutos, pela última rodada do Grupo A (fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760466/coreia-do-sul-africa-do-sul)
+- Resultado deixa a Coreia do Sul fora da liderança e vice-líder do Grupo A; pode enfrentar o Canadá nos 16 avos de final (fonte: https://www.terra.com.br/esportes/futebol/internacional/suica-x-canada-saiba-tudo-sobre-a-briga-pelo-primeiro-lugar-do-grupo-b-da-copa-do-mundo,45c461d677fa544b268d7f7998ce13e1ekjm6t10.html)
+- **Repercussão:** Derrota na última rodada não impede a classificação, mas a Coreia do Sul termina em 2º lugar do Grupo A.
+
 ## 📅 2026-06-24
 - Coreia do Sul ocupa a 2ª colocação do Grupo A com três pontos e depende apenas de si para avançar — um empate contra a África do Sul já garante a vaga, desde que a Tchéquia não vença o México no outro jogo da rodada (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/africa-do-sul-coreia-do-sul-onde-assistir-copa-2026/)
 - Jogo nesta quarta (24/06), 22h de Brasília, no Estádio BBVA (Monterrey) (fonte: mesma acima)

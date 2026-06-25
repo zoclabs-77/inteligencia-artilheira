@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Inglaterra, sob forte crítica da imprensa após o 0x0 com Gana, encerra a fase de grupos contra o já eliminado Panamá no sábado (27/06), em Nova York/Nova Jersey (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/em-jogo-decepcionante-inglaterra-e-gana-empatam-sem-gols-e-adiam-classificacao-a-proxima-fase-da-copa-do-mundo,ad316b166a18ef74739b1b0f0025f24ak4eihozc.html)
+- The Guardian chamou o empate de "choque de realidade" e a imprensa espanhola falou em retorno do "fantasma Southgate"; Bellingham, Kane e Anthony Gordon tiveram pouca influência no jogo (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/imprensa-inglesa-faz-alerta-apos-empate-sem-gols-contra-gana-choque-de-realidade,69e9b70276c86c145911b94bce62115boils5o13.html)
+- **Prévia:** Sob pressão da crítica, precisa de uma vitória de reação contra o já eliminado Panamá para fechar a fase de grupos com confiança.
+
 ## 📅 2026-06-24
 - Inglaterra empatou em 0 a 0 com Gana no Gillette Stadium (Boston), pela 2ª rodada do Grupo L, em jogo decepcionante (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/em-jogo-decepcionante-inglaterra-e-gana-empatam-sem-gols-e-adiam-classificacao-a-proxima-fase-da-copa-do-mundo,ad316b166a18ef74739b1b0f0025f24ak4eihozc.html)
 - Imprensa britânica criticou duramente a atuação: o The Guardian chamou o resultado de "choque de realidade", e o espanhol Marca disse que o "fantasma Southgate" voltou a rondar a seleção (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/imprensa-inglesa-faz-alerta-apos-empate-sem-gols-contra-gana-choque-de-realidade,69e9b70276c86c145911b94bce62115boils5o13.html)

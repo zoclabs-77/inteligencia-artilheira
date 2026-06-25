@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Nova Zelândia enfrenta a Bélgica no sábado (27/06), em duelo onde os belgas aparecem como amplos favoritos no Grupo G (fonte: https://www.goal.com/en-us/news/new-zealand-belgium-world-cup-preview/blt15910be7a6f8f7b9)
+- Escalação provável: M. Crocombe; T. Payne, M. Boxall, T. Bindon, L. Cacace; J. Bell, M. Stamenić; M. Garbett, S. Singh, E. Just; C. Wood (fonte: mesma acima)
+- **Prévia:** Enfrenta o time mais forte do Grupo G como zebra; precisa de surpresa para sonhar com vaga nas oitavas.
+
 ## 📅 2026-06-24
 - Nova Zelândia, de volta a uma Copa do Mundo após 16 anos, enfrenta o tradicional e mais forte adversário do Grupo G, a Bélgica, na madrugada do dia 27 (sexta para sábado) (fonte: https://www.goal.com/en-us/news/new-zealand-belgium-world-cup-preview/blt15910be7a6f8f7b9)
 - Escalação provável (4-2-3-1): Alex Paulsen; Finn Surman, Liberato Cacace, Michael Boxall, Tim Payne; Marko Stamenic, Joe Bell; Eli Just, Sarpreet Singh, Ben Old; Chris Wood (fonte: mesma acima)

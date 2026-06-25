@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Portugal, embalado pela goleada de 5 a 0 sobre o Uzbequistão, enfrenta a líder Colômbia no domingo (28/06), em duelo direto pela liderança do Grupo K (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-5-x-0-uzbequistao-veja-os-melhores-momentos-do-jogo-da-copa/)
+- Cristiano Ronaldo, autor de dois gols na goleada e agora maior artilheiro histórico de Portugal em Copas, chega em estado de graça para o confronto decisivo (fonte: mesma acima)
+- **Prévia:** Precisa vencer a Colômbia para arrancar a liderança do Grupo K na última rodada da fase de grupos.
+
 ## 📅 2026-06-24
 - Portugal goleou o Uzbequistão por 5 a 0 no NRG Stadium (Houston), com dois gols de Cristiano Ronaldo, um de Nuno Mendes, um de Rafael Leão e um contra do goleiro Nematov, conquistando a 1ª vitória no torneio (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-5-x-0-uzbequistao-veja-os-melhores-momentos-do-jogo-da-copa/)
 - Ronaldo se tornou o maior artilheiro da história de Portugal em Copas e o primeiro jogador a marcar em seis edições diferentes do Mundial (fonte: mesma acima)

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-25
+- Paraguai (3 pontos) enfrenta a Austrália hoje (25/06), no Levi's Stadium (Santa Clara), em decisão antecipada do Grupo D — precisa vencer para não depender de combinações (fonte: https://massa.com.br/copa-do-mundo-2026/paraguai-x-australia)
+- Escalação prevista: Gatito Fernández; Juan Cáceres, Gustavo Gómez (c), Junior Alonso, Fabián Balbuena; Ramón Sosa, Andrés Cubas, Damián Bobadilla, Julio Enciso; Kaku e Antonio Sanabria. Técnico: Gustavo Alfaro (fonte: https://esportenewsmundo.com.br/paraguai-x-australia-escalacoes-desfalques-retrospecto-onde-assistir-e-palpite/)
+- Perdeu por 4x1 para os EUA na estreia, mas reagiu vencendo a Turquia por 1x0 na 2ª rodada (fonte: mesma acima)
+- **Prévia:** A Austrália tem saldo de gols melhor e pode se classificar com um simples empate; Paraguai precisa da vitória para não depender de outros resultados.
+
 ## 📅 2026-06-24
 - Paraguai venceu a Turquia por 1 a 0 na 2ª rodada e ocupa a 3ª posição do Grupo D; enfrenta a Austrália (2ª colocada) na sexta (26/06), 02h UTC, no Levi's Stadium (Santa Clara) (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
 - Escalação prevista (4-4-2): Orlando Gill; Juan Cáceres, Gustavo Gómez, Omar Alderete, Junior Alonso; Diego Gómez, Andrés Cubas, Damián Bobadilla, Miguel Almirón; Julio Enciso (Kaku), Antonio Sanabria (fonte: mesma acima)

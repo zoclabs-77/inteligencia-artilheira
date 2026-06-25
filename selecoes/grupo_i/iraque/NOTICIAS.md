@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Iraque, sem pontos após derrotas para Noruega (4x1) e França (3x0), enfrenta o Senegal nesta sexta (26/06), 16h de Brasília, no BMO Field (Toronto), na última chance de classificação entre os melhores terceiros (fonte: https://www.goal.com/en-us/news/senegal-iraq-world-cup-preview/bltd9cd15e8559290bf)
+- Aymen Hussein, autor do único gol iraquiano no torneio, tem problemas físicos e é dúvida para o jogo decisivo (fonte: mesma acima)
+- **Prévia:** Precisa vencer o Senegal e ainda torcer por combinações para manter esperança matemática de classificação.
+
 ## 📅 2026-06-24
 - Iraque chega pressionado após derrotas para Noruega (4 a 1) e França (3 a 0) e enfrenta o Senegal na sexta (26/06), 16h de Brasília, no BMO Field (Toronto), na última rodada do Grupo I (fonte: https://www.goal.com/en-us/news/senegal-iraq-world-cup-preview/bltd9cd15e8559290bf)
 - Escalação provável: Jalal Hassan; Hussein Ali, Zaid Tahseen, Akam Hashim, Merchas Doski; Ibrahim Bayesh, Amir Al-Ammari, Zidane Iqbal, Marko Farji; Ali Al-Hamadi, Ali Jasim (fonte: mesma acima)

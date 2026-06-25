@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-25
+- Austrália (3 pontos) enfrenta o Paraguai hoje (25/06), no Levi's Stadium (Santa Clara), em decisão antecipada do Grupo D — saldo de gols melhor permite classificação até com um empate (fonte: https://massa.com.br/copa-do-mundo-2026/paraguai-x-australia)
+- Escalação prevista: Mathew Ryan; Jason Geria, Harry Souttar, Milos Degenek, Jordan Bos; Jackson Irvine (c), Aiden O'Neill, Connor Metcalfe; Nestory Irankunda, Mathew Leckie e Awer Mabil. Técnico: Tony Popovic (fonte: https://esportenewsmundo.com.br/paraguai-x-australia-escalacoes-desfalques-retrospecto-onde-assistir-e-palpite/)
+- Venceu a Turquia por 2x0 na estreia, mas perdeu por 2x0 para os EUA na 2ª rodada (fonte: mesma acima)
+- **Prévia:** Um empate já garante a classificação dos australianos; vitória elimina qualquer dependência de outros resultados do grupo.
+
 ## 📅 2026-06-24
 - Austrália perdeu por 2 a 0 para os EUA na 2ª rodada e ocupa a 2ª posição do Grupo D; enfrenta o Paraguai na sexta (26/06), 02h UTC, no Levi's Stadium (Santa Clara) (fonte: https://www.goal.com/en-us/news/paraguay-australia-world-cup-preview/blt9c01b7bae1a3bfbd)
 - Escalação prevista (3-4-2-1): Mat Ryan; Alessandro Circati, Harry Souttar, Lucas Herrington; Jacob Italiano, Jackson Irvine, Aiden O'Neill, Jordan Bos; Matthew Leckie, Connor Metcalfe; Mohamed Touré (fonte: mesma acima)

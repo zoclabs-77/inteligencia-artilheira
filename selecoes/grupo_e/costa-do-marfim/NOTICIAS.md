@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-25
+- Costa do Marfim decide vaga às oitavas hoje (25/06), 17h de Brasília, no Lincoln Financial Field (Filadélfia), contra Curaçao, na última rodada do Grupo E (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16893973/curacao-x-costa-do-marfim-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-copa-do-mundo)
+- Escalação provável: Fofana; Konan, Agbadou, Kossounou, Doué; Sangare, Diomandé, Christ Oulai, Kessié; Diallo e Bonny. Técnico: Émerse Faé (fonte: mesma acima)
+- Os Elefantes mandavam no placar contra a Alemanha na rodada anterior, mas sofreram virada dolorosa por 2x1 nos minutos finais (fonte: https://massa.com.br/copa-do-mundo-2026/curacao-e-costa-do-marfim)
+- **Prévia:** Depende só das próprias forças — uma vitória simples garante a Costa do Marfim diretamente na segunda fase.
+
 ## 📅 2026-06-24
 - Costa do Marfim encerra a fase de grupos contra Curaçao na quinta (25/06), 17h de Brasília, no Lincoln Financial Field, fechando o Grupo E (fonte: https://www.goal.com/en-us/news/curacao-ivory-coast-world-cup-preview/bltaf6ced75ec6c319b)
 - Escalação provável: Y. Fofana; G. Konan, W. Singo, E. Agbadou, E. Doué; O. Diakité, F. Kessié, S. Fofana, Y. Diomande; A. Diallo, S. Adingra (fonte: mesma acima)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Panamá, já matematicamente eliminado após a derrota para a Croácia, encerra a participação na Copa contra a Inglaterra no sábado (27/06), em Nova York/Nova Jersey (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/croacia-vence-por-1-a-0-e-elimina-o-panama-da-copa-do-mundo/)
+- Equipe foi elogiada pela atuação competitiva e organizada mesmo na eliminação diante da Croácia (fonte: mesma acima)
+- **Prévia:** Sem mais objetivo de classificação, encara a Inglaterra em jogo de honra esportiva na última rodada do Grupo L.
+
 ## 📅 2026-06-24
 - Panamá foi derrotado pela Croácia por 1 a 0, no BMO Field (Toronto), pela 2ª rodada do Grupo L, gol de Ante Budimir no 2º tempo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/croacia-vence-por-1-a-0-e-elimina-o-panama-da-copa-do-mundo/)
 - Com a derrota, o Panamá está matematicamente eliminado do Mundial, mesmo tendo sido elogiado pela atuação competitiva e organizada (fonte: mesma acima)

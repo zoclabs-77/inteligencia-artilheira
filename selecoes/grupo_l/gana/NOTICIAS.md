@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Gana, com 1 ponto após empate sem gols com a Inglaterra, enfrenta a Croácia no sábado (27/06), em duelo direto por vaga no Grupo L (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/em-jogo-decepcionante-inglaterra-e-gana-empatam-sem-gols-e-adiam-classificacao-a-proxima-fase-da-copa-do-mundo,ad316b166a18ef74739b1b0f0025f24ak4eihozc.html)
+- Técnico Carlos Queiroz foi elogiado internacionalmente pela organização defensiva que neutralizou Jude Bellingham contra a Inglaterra (fonte: mesma acima)
+- **Prévia:** Resultado positivo contra a Inglaterra dá moral para a decisão direta com a Croácia por vaga na classificação.
+
 ## 📅 2026-06-24
 - Gana empatou em 0 a 0 com a Inglaterra no Gillette Stadium (Boston), pela 2ª rodada do Grupo L (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/em-jogo-decepcionante-inglaterra-e-gana-empatam-sem-gols-e-adiam-classificacao-a-proxima-fase-da-copa-do-mundo,ad316b166a18ef74739b1b0f0025f24ak4eihozc.html)
 - A seleção, comandada por Carlos Queiroz, foi elogiada internacionalmente pela organização defensiva e pela capacidade de neutralizar Jude Bellingham e limitar o espaço dos jogadores decisivos ingleses (fonte: mesma acima)

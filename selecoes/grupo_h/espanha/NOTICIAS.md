@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Espanha lidera o Grupo H com 4 pontos e enfrenta o Uruguai nesta sexta (26/06), 21h de Brasília, no Estádio Akron (Guadalajara), pela 3ª rodada (fonte: https://www.goal.com/en-us/news/uruguay-spain-world-cup-preview/blt108f73be6b25d09d)
+- Escalação provável: Simón; Pedro Porro, Cubarsí, Laporte, Cucurella; Rodri, Pedri, Dani Olmo; Lamine Yamal, Baena e Oyarzabal; fontes divergem sobre suspensão de Pedri por cartões amarelos (fonte: https://www.365scores.com/pt-br/news/magazine/uruguai-x-espanha-escalacoes-copa/)
+- **Prévia:** Líder do grupo busca confirmar a 1ª colocação contra o Uruguai, que está pressionado pelo resultado.
+
 ## 📅 2026-06-24
 - Espanha encerra o Grupo H contra o Uruguai, em Guadalajara, na sexta (26/06), pela 3ª rodada, em confronto direto pela liderança da chave (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/uruguai-espanha-previa-jogo-copa-mundo-grupo-h)
 - Escalação prevista (4-3-3): Unai Simón; Pedro Porro, Pau Cubarsí, Aymeric Laporte, Marc Cucurella; Rodri, Pedri, Fabián Ruiz; Lamine Yamal, Nico Williams, Mikel Oyarzabal (fonte: mesma acima)

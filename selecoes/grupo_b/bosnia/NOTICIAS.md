@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-25
+- Bósnia venceu o Catar por 3x1 no Lumen Field, em Seattle, pela 2ª rodada do Grupo B, com gols de Alajbegovic e Mahmic (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/bosnia-vence-catar-por-3-a-1-e-encaminha-classificacao-a-proxima-fase/)
+- Resultado garante à Bósnia, em sua primeira classificação histórica, vaga nos 16 avos de final 12 anos após a estreia em Copas (fonte: https://www.olabahia.com.br/selecao-do-catar-e-derrotada-por-3x1-para-bosnia-e-e-eliminada-da-copa-do-mundo-2026/)
+- **Repercussão:** Conquista histórica para a Bósnia, que chega a 4 pontos e segue viva na disputa pela liderança do Grupo B.
+
 ## 📅 2026-06-24
 - Bósnia chega à última rodada do Grupo B com apenas um ponto, após derrota de 4 a 1 para a Suíça, e enfrenta o Catar (também com 1 ponto) no Lumen Field, em Washington (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/bosnia-x-catar-copa-2026-onde-assistir-escalacoes/)
 - Escalação provável: Vasilj; Dedic, Katic, Hadzikadunic, Kolasinac; Alajbegovic, Sunjic, Tahirovic, Memic; Demirovic, Dzeko (fonte: mesma acima)
