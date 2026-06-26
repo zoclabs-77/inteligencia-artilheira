@@ -63,8 +63,8 @@ partida_id,fase,rodada,grupo,data_brt,casa,fora,obs
 62,grupos,3,I,2026-06-26,senegal,iraque,
 63,grupos,3,H,2026-06-26,cabo-verde,arabia-saudita,
 64,grupos,3,H,2026-06-26,uruguai,espanha,
-65,grupos,3,G,2026-06-27,nova-zelandia,belgica,
-66,grupos,3,G,2026-06-27,egito,ira,
+65,grupos,3,G,2026-06-26,nova-zelandia,belgica,
+66,grupos,3,G,2026-06-26,egito,ira,
 67,grupos,3,L,2026-06-27,panama,inglaterra,
 68,grupos,3,L,2026-06-27,croacia,gana,
 69,grupos,3,J,2026-06-27,argentina,jordania,confronto deduzido; data a confirmar pela routine
