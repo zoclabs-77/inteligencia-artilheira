@@ -23,7 +23,7 @@ Faixa final: **"🏆 VENCEDOR DE ONTEM: EMPATE no topo — Codex e o Palpiteiro 
 Faixa (dourada): **"A IA mais cautelosa ficou ATRÁS do chute no favorito."** Nota (mono): "* exato = 3 · vencedor + saldo = 2 · só vencedor = 1 · errou = 0". Número "03 / 05".
 
 ## 🟨 SLIDE 04/05 — PREVISÕES DE HOJE (claro/estádio, destaque divergência)
-[STYLE BIBLE] Pílula "DUELO DE PREVISÕES". Título: **"AGORA, AS PREVISÕES DE HOJE"** ("DE HOJE" dourado). Sub (mono): "Rodada 3 · 25/06 · e hoje elas DISCORDARAM muito".
+[STYLE BIBLE] Pílula "DUELO DE PREVISÕES". Título: **"AGORA, AS PREVISÕES DE HOJE"** ("DE HOJE" dourado). Sub (mono): "Rodada 3 · 25/06 · 8 jogos (incl. 2 da meia-noite) · elas DISCORDARAM muito".
 - **Card destaque (topo, com taça):** ⚡ A MAIOR TRETA — **🇪🇨 EQUADOR × ALEMANHA 🇩🇪** · **CLAUDE crava 1-0 (zebra do Equador!)** | **CODEX fica com a Alemanha 0-1**.
 - Cards menores (com os 2 palpites):
   - 🇯🇵 Japão × Suécia 🇸🇪 · CLAUDE 2-1 (Japão) | CODEX 1-1 (empate)
@@ -31,8 +31,10 @@ Faixa (dourada): **"A IA mais cautelosa ficou ATRÁS do chute no favorito."** No
   - 🇵🇾 Paraguai × Austrália 🇦🇺 · CLAUDE 1-0 (Paraguai) | CODEX 1-1 (empate)
   - 🇹🇳 Tunísia × Holanda 🇳🇱 · CLAUDE 0-2 | CODEX 0-3 (as duas na Holanda)
   - 🇨🇼 Curaçao × Costa do Marfim 🇨🇮 · CLAUDE 0-1 | CODEX 0-1 (as duas na CIV)
-- Nota (ℹ): "Das 6, elas discordaram do VENCEDOR em 4 — raro! O destaque é o Equador: o Claude acredita na zebra contra a Alemanha já classificada."
+  - 🌙 **MEIA-NOITE (Grupo G):** 🇳🇿 Nova Zelândia × Bélgica 🇧🇪 · CLAUDE 0-2 | CODEX 0-2 (as duas na Bélgica)
+  - 🌙 **MEIA-NOITE (Grupo G):** 🇪🇬 Egito × Irã 🇮🇷 · CLAUDE 1-0 (Egito) | CODEX 1-1 (empate)
+- Nota (ℹ): "8 jogos hoje! Elas discordaram do VENCEDOR em 5 — o destaque é o Equador (Claude crava a zebra contra a Alemanha) e, à meia-noite, o Egito × Irã (Claude no Egito, Codex no empate)."
 - Botões: **🔖 Salva pra conferir amanhã** · **💬 Comenta: o Equador derruba a Alemanha?** Número "04 / 05".
 
 ## 🟦 SLIDE 05/05 — CTA (escuro, 3 pódios)
-[STYLE BIBLE] Pílula "DESAFIO DE PREVISÕES" + "05 / 05". Título: **"QUEM PREVÊ MELHOR?"** ("MELHOR" dourado). "Codex × Claude Code" + pílula "IA contra IA". Três pódios: **CODEX (azul) — 53 pts · líder** | globo com taça | **CLAUDE CODE (laranja) — 47 pts**. Faixa quente (mono): **"plot twist: o Palpiteiro Cego (48) tá na frente do Claude!"**. Lista CTA: **SALVA ESSE POST · COMENTA SUA APOSTA · MANDA PRA QUEM AMA FUTEBOL + IA · AMANHÃ TEM O RESULTADO**. Rodapé "Z. ZocLabs · Inteligência Artilheira · IA QUE ENTENDE FUTEBOL".
+[STYLE BIBLE] Pílula "DESAFIO DE PREVISÕES" + "05 / 05". Título: **"QUEM PREVÊ MELHOR?"** ("MELHOR" dourado). "Codex × Claude Code" + pílula "IA contra IA". Três pódios: **CODEX (teal) — 53 pts · líder** | globo com taça | **CLAUDE CODE (âmbar) — 47 pts**. Faixa quente (mono): **"plot twist: o Palpiteiro Cego (48) tá na frente do Claude!"**. Lista CTA: **SALVA ESSE POST · COMENTA SUA APOSTA · MANDA PRA QUEM AMA FUTEBOL + IA · AMANHÃ TEM O RESULTADO**. Rodapé "Z. ZocLabs · Inteligência Artilheira · IA QUE ENTENDE FUTEBOL".

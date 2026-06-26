@@ -5,22 +5,27 @@
 
 ---
 
-## 🎬 STYLE BIBLE (vale para os 5 slides — cole sempre junto)
+## 🎬 STYLE BIBLE v2 — "clean Copa do Mundo" (vale para os 5 slides — cole sempre junto)
 
-Cinematic 3D render, premium sports-tech aesthetic — um "reality show" de IA prevendo a Copa do Mundo 2026. Iluminação dramática, alto contraste, partículas e brilho volumétrico. Fundo: estádio de futebol holográfico à noite, com pranchetas táticas e gráficos de barra flutuando como holiograma, filigrana de circuito fino nos cantos.
+Render **clean e editorial premium**, luz suave de estúdio (NÃO neon, NÃO fundo preto, NÃO alto contraste agressivo). Visual respirado, geométrico, com leve textura de papel e finas linhas douradas. Clima de **Copa do Mundo**: gramado, taça, sofisticação esportiva.
 
-**Os dois personagens (mascotes):**
-- **CODEX** — figura humanoide androide de **terno preto** sentada à mesa; no lugar do rosto, o **logo da OpenAI** (emblema branco tipo flor/nó) iluminado; circuitos e luz **azul-ciano**. Etiqueta "CODEX".
-- **CLAUDE** — figura humanoide de terno preto; no lugar do rosto, o **emblema "spark" do Claude** (estrela/sol radial **laranja**); circuitos e luz **laranja/âmbar**. Etiqueta "CLAUDE CODE".
-- Entre eles, no centro da mesa: uma **bola de cristal/globo brilhante com a taça dourada da Copa dentro**, energia elétrica azul crepitando.
+**Paleta (cores da Copa — suaves):**
+- Fundo principal: **creme/off-white `#F7F4EC`** ou **verde-campo suave** em gradiente `#1B9E57 → #0C7A43`.
+- **Dourado da taça `#E8B14C`** = acento nobre (palavra-destaque do título, molduras finas).
+- Texto: **azul-marinho macio `#13243B`** (nunca preto puro).
+- Codex = **teal calmo `#1AA89A`** · Claude = **âmbar quente `#E08A3C`** (tons foscos, dessaturados — só pra identificar cada um, sem berrar).
+Use verde + dourado + creme como base (≈85%); teal e âmbar só nos detalhes dos personagens e nos placares.
 
-**Sistema de cor:** Codex = **azul elétrico**; Claude = **laranja/âmbar**; **dourado metálico** na palavra-destaque do título e na taça; slides escuros em **azul-marinho quase preto (#0A1018)**; slides claros em **papel creme texturizado (#F2EEE3)** que desbota para o estádio.
+**Os dois personagens (mascotes) — mantidos, porém clean:**
+- **CODEX** — androide simpático de **terno claro/cinza fosco** (acabamento fosco, sem neon); no lugar do rosto, o **logo da OpenAI**; detalhes em **teal calmo**. Etiqueta "CODEX".
+- **CLAUDE** — androide de terno claro; rosto = **emblema "spark" do Claude**; detalhes em **âmbar**. Etiqueta "CLAUDE CODE".
+- Entre eles, numa mesa clara: a **taça dourada da Copa** dentro de um globo de vidro translúcido, com luz dourada suave (sem raios elétricos).
 
-**Tipografia:** display **ultra-bold condensada MAIÚSCULA** (grotesca esportiva pesada); a palavra-destaque do título em **gradiente dourado escovado**; rótulos/datas em **monoespaçada techno** dentro de molduras de colchete; números gigantes e bold.
+**Tipografia:** display **bold condensada MAIÚSCULA** esportiva; palavra-destaque do título em **dourado** ou **verde-campo** (sólido, não escovado); rótulos/datas em **monoespaçada** discreta; números grandes em azul-marinho.
 
-**Chrome recorrente:** topo = pílula com ícone de bola-de-cristal ("DESAFIO DE PREVISÕES" / "DUELO DE PREVISÕES" / "PLACAR DO DESAFIO"); canto sup. direito = "0X / 05" em moldura tech; rodapé central = logo **"Z. ZocLabs · TECNOLOGIA NA PRÁTICA"**. Marcas: ✓ ciano = acertou vencedor · ✓✓ = placar exato (3 pts) · ✗ vermelho = errou. Bandeiras como escudos redondos.
+**Chrome recorrente:** topo = pílula clara com ícone de bola-de-cristal/taça ("DESAFIO DE PREVISÕES" / "DUELO DE PREVISÕES" / "PLACAR DO DESAFIO"); canto sup. direito = "0X / 05" em moldura fina dourada; rodapé central = logo **"Z. ZocLabs · TECNOLOGIA NA PRÁTICA"**. Marcas: ✓ verde = acertou vencedor · ✓✓ dourado = placar exato (3 pts) · ✗ vermelho suave = errou. Bandeiras como escudos redondos.
 
-⚠️ **Renderize os textos/números EXATAMENTE como escritos** (são dados reais).
+⚠️ **Renderize os textos/números EXATAMENTE como escritos** (são dados reais). Mantenha tudo arejado e legível — menos elementos, mais respiro.
 
 ---
 
