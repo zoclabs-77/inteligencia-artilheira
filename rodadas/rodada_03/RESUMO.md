@@ -1,6 +1,6 @@
-# Rodada 3 — Resumo parcial (atualizado em 2026-06-26)
+# Rodada 3 — Resumo parcial (atualizado em 2026-06-27)
 
-> Rodada 3 parcial: **12 de 24 jogos** disputados (23-25/06). RESUMO será atualizado diariamente conforme os jogos acontecem.
+> Rodada 3 parcial: **18 de 24 jogos** disputados (23-26/06). Faltam os 6 jogos finais dos Grupos J, K e L (27/06). RESUMO atualizado diariamente conforme os jogos acontecem.
 
 ## Placares confirmados — 23-24/06
 
@@ -30,47 +30,54 @@
 - Turquia 3 x 2 EUA — já eliminada, Turquia vira no fim com gol de Ayhan nos acréscimos. EUA lidera o grupo com 6 pts e já está classificado.
 - Paraguai 0 x 0 Austrália — empate cagado em Santa Clara; Austrália avança em 2º no saldo de gols, Paraguai termina com 4 pts e aguarda vaga de melhor 3º colocado.
 
-## Palpites × Resultado (rodada 3 — parcial, 12 jogos pontuados)
+## Placares confirmados — 26/06 🆕
+
+**Grupo I**
+- Noruega 1 x 4 França — Ousmane Dembélé fez hat-trick e Désiré Doué fechou a goleada no Gillette Stadium, Boston. França encerra a fase de grupos com 100% de aproveitamento e lidera o Grupo I. Maignan ainda defendeu pênalti de Strand Larsen.
+- Senegal 5 x 0 Iraque — atropelo no BMO Field, Toronto, com Pape Gueye (2x), Diarra, Sarr e Ndiaye. Senegal entra forte na briga pelas melhores terceiras colocadas; Iraque eliminado.
+
+**Grupo H**
+- Cabo Verde 0 x 0 Arábia Saudita — empate no NRG Stadium, Houston, garante classificação histórica e inédita de Cabo Verde às oitavas (2º lugar). Arábia Saudita eliminada na lanterna.
+- Uruguai 0 x 1 Espanha — gol de Baena após frango de Muslera em Guadalajara; Espanha lidera o Grupo H com 7 pts e elimina o Uruguai, jogando Cabo Verde para a Argentina nas oitavas.
+
+**Grupo G**
+- Nova Zelândia 1 x 5 Bélgica — Trossard (2x), De Bruyne, Lukaku e Saelemaekers marcaram; Elijah Just descontou. Bélgica avança em 1º no Grupo G; Nova Zelândia eliminada.
+- Egito 1 x 1 Irã — Saber marcou para o Egito e Rezaeian empatou para o Irã, em Seattle. Egito avança em 2º (5 pts); Irã (3 pts) aguarda vaga de melhor terceiro.
+
+## Palpites × Resultado — lote 26/06 (jogos 61-66) 🆕
 
 | # | Jogo | Claude | Codex | Real | Cla | Cdx | Base |
 |---|---|---|---|---|---|---|---|
-| 49 | Suíça x Canadá | 1-1 | 1-1 | **2-1** | 0 | 0 | 2 |
-| 50 | Bósnia x Catar | 2-1 | 2-1 | **3-1** | 1 | 1 | 0 |
-| 51 | Marrocos x Haiti | 3-0 | 2-0 | **4-2** | 1 | 2 | 1 |
-| 52 | Escócia x Brasil | 0-2 | 1-2 | **0-3** | 1 | 1 | 1 |
-| 53 | África do Sul x Coreia do Sul | 1-2 | 0-1 | **1-0** | 0 | 0 | 0 |
-| 54 | Tchéquia x México | 1-2 | 1-2 | **0-3** | 1 | 1 | 1 |
-| 55 | Curaçao x Costa do Marfim | 0-1 | 0-1 | **0-2** | 1 | 1 | 1 |
-| 56 | Equador x Alemanha | 1-0 | 0-1 | **2-1** | 2 | 0 | 0 |
-| 57 | Tunísia x Holanda | 0-2 | 0-3 | **1-3** | 2 | 1 | 1 |
-| 58 | Japão x Suécia | 2-1 | 1-1 | **1-1** | 0 | 3⭐ | 0 |
-| 59 | Turquia x EUA | 1-1 | 0-2 | **3-2** | 0 | 0 | 0 |
-| 60 | Paraguai x Austrália | 1-0 | 1-1 | **0-0** | 0 | 2 | 0 |
+| 61 | Noruega x França | 1-2 | 1-2 | **1-4** | 1 | 1 | 1 |
+| 62 | Senegal x Iraque | 2-0 | 2-0 | **5-0** | 1 | 1 | 1 |
+| 63 | Cabo Verde x Arábia Saudita | 1-0 | 1-1 | **0-0** | 0 | 2 | 0 |
+| 64 | Uruguai x Espanha | 0-1 | 1-2 | **0-1** | 3⭐ | 2 | 3⭐ |
+| 65 | Nova Zelândia x Bélgica | 0-2 | 0-2 | **1-5** | 1 | 1 | 1 |
+| 66 | Egito x Irã | 1-0 | 1-1 | **1-1** | 0 | 3⭐ | 0 |
+| | **Total do lote** | | | | **6** | **10** | **6** |
 
-⭐ = placar exato (3 pts). Codex cravou o 1-1 de Japão x Suécia.
+⭐ = placar exato (3 pts). Claude e Baseline cravaram o 0-1 de Uruguai x Espanha; Codex cravou o 1-1 de Egito x Irã.
 
-## Placar geral — Rodada 3 (parcial, 12 jogos pontuados)
+## Placar geral acumulado (após 18 jogos da rodada 3)
 
-| Modelo | Pts neste lote (55-60) | Total acum. | Placares exatos (acum.) | Acertos resultado (acum.) |
+| Modelo | Pts neste lote (61-66) | Total acum. | Placares exatos (acum.) | Acertos resultado (acum.) |
 |---|---|---|---|---|
-| **Codex** | 7 | **60** | 8 | 37 |
-| **Claude** | 5 | **52** | 6 | 34 |
-| **Baseline** | 2 | **50** | 5 | 36 |
+| **Codex** | 10 | **70** | 9 | 43 |
+| **Claude** | 6 | **58** | 7 | 38 |
+| **Baseline** | 6 | **56** | 6 | 40 |
 
 > Pontuação: placar exato = 3 · vencedor + saldo certo = 2 · só o vencedor/empate = 1 · errou = 0.
 
 ## Destaques
 
-- **BÓSNIA FAZ HISTÓRIA:** vitória por 3x1 sobre o Catar garante a primeira classificação às oitavas de final da história da seleção bósnia. Catar é eliminado na lanterna do grupo com só 1 ponto.
-- **MICO GERAL NO SUÍÇA X CANADÁ:** Claude e Codex previram empate 1-1; saiu vitória suíça por 2-1. Só o Baseline (1x0 fixo ao favorito) pontuou, acertando vencedor e saldo (2 pts).
-- **BRASIL FECHA A FASE DE GRUPOS COM CHAVE DE ORO:** goleada por 3x0 sobre a Escócia, com 2 gols de Vinícius Jr. e estreia de Neymar na Copa. Brasil lidera o Grupo C com 7 pts. Todos os três modelos acertaram o vencedor (1 pt cada), mas ninguém chegou perto do 3x0.
-- **MÉXICO SEGUE 100%:** goleada de 3x0 sobre a Tchéquia elimina os tchecos. Todos acertaram o vencedor (1 pt cada).
-- **ÁFRICA DO SUL SURPREENDE:** vitória simples por 1x0 sobre a Coreia do Sul em contra-ataque decisivo de Thapelo Maseko — nenhum dos três modelos pontuou (todos previram vitória ou empate da Coreia).
-- **CODEX CRAVA O PLACAR EXATO:** acertou 1-1 em Japão x Suécia, único placar exato do lote (3 pts).
-- **EQUADOR VIRA SOBRE A ALEMANHA:** de 0x1 para 2x1 com gol de Plata aos 77 min; só Claude (1-0) acertou o vencedor neste jogo — Codex e Baseline cravaram vitória alemã e zeraram.
-- **MICO GERAL EM TURQUIA X EUA:** Turquia, já eliminada, vira no fim por 3x2; nenhum dos três modelos previu vitória turca — todos zeraram.
-- **PARAGUAI X AUSTRÁLIA TRAVADO NO 0X0:** só o Codex (que palpitou 1-1) pontuou parcialmente (2 pts, saldo certo); Claude e Baseline zeraram.
-- **CODEX AMPLIA A LIDERANÇA GERAL:** com 60 pts acumulados, abre vantagem de 8 pts sobre Claude (52) e 10 sobre o Baseline (50) — o Baseline cai para 3º lugar pela primeira vez no experimento.
+- **CODEX DISPARA NA LIDERANÇA:** melhor lote do dia (10 pts contra 6 de Claude e Baseline), abrindo 12 pts de vantagem geral (70 × 58 × 56). O modelo da OpenAI cravou um placar exato (Egito 1-1 Irã) e pontuou em TODOS os 6 jogos do dia — único a acertar o empate em Cabo Verde x Arábia Saudita.
+- **CABO VERDE FAZ HISTÓRIA:** o empate 0x0 com a Arábia Saudita classifica Cabo Verde às oitavas em sua primeira Copa do Mundo. Só o Codex (1-1) pontuou no jogo (2 pts, saldo certo); Claude e Baseline apostaram em vencedor e zeraram.
+- **EMPATE DE MILHÕES PRO CODEX:** Egito 1x1 Irã foi o único placar exato do dia — e foi do Codex (3 pts). Claude e Baseline previram vitória de um dos lados e zeraram.
+- **DEMBÉLÉ HAT-TRICK, FRANÇA 100%:** goleada de 4x1 sobre a Noruega fecha a fase de grupos francesa com aproveitamento máximo. Todos os três modelos acertaram o vencedor (1 pt cada), mas ninguém chegou perto do 1-4.
+- **SENEGAL ATROPELA (5x0):** maior goleada do dia. Os três modelos previram vitória do Senegal por placar magro e levaram só 1 pt cada — o saldo de +5 explodiu qualquer palpite.
+- **CLAUDE E BASELINE CRAVAM JUNTOS:** Uruguai 0x1 Espanha foi o único jogo em que os dois bateram o placar exato (3 pts). O Codex foi de 1-2 e ficou com 2 pts (saldo certo).
+- **BASELINE SEGUE EM 3º:** mesmo empatando o lote com Claude (6 pts), o Baseline (56) continua atrás de Claude (58) no geral. Curiosamente o Baseline lidera em "acertos de resultado" acumulados (40 × 38 de Claude), mas perde em placares exatos e na pontuação total — o preço de sempre cravar 1x0 no favorito.
+- **FALTAM 6 JOGOS:** os Grupos J (Argentina, Áustria...), K (Portugal, RD Congo...) e L (Inglaterra, Croácia...) fecham a fase de grupos no dia 27/06. A rodada 3 ainda pode mudar — mas a liderança do Codex está cada vez mais sólida.
 
 ---
 **ZocLabs 🧪 — Inteligência Artilheira**
