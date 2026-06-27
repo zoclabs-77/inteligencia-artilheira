@@ -1,3 +1,7 @@
 partida_id,casa,fora,gols_casa,gols_fora,prob_casa,prob_empate,prob_fora,confianca,justificativa
-65,nova-zelandia,belgica,0,2,16,23,61,62,"Bélgica (rank 8) bem superior e obrigada a vencer; NZ é a mais fraca e só tem Chris Wood. Apatia ofensiva belga pede leve cautela."
-66,egito,ira,1,0,40,31,29,50,"Egito líder: empate já classifica e tem Salah/Marmoush; Irã precisa vencer e abrir espaço, mas defende bem. Truncado, leve favor egípcio."
+67,panama,inglaterra,0,2,10,22,68,60,"Inglaterra obrigada a reagir e bem superior; Panamá eliminado mas compacto e não toma goleada. Ataque inglês irregular pede placar contido."
+68,croacia,gana,2,1,44,29,27,49,"Croácia obrigada a vencer e com mais hierarquia; Gana sólido (0x0 c/ Inglaterra) e perigoso no contra. Jogo aberto, leve favor croata."
+69,argentina,jordania,2,0,72,18,10,63,"Argentina já classificada poupa (Messi no banco, sem Romero), mas o abismo técnico decide contra a Jordânia eliminada."
+70,austria,argelia,1,1,34,35,31,44,"Decisão da 2ª vaga: Áustria avança no empate e controla; Argélia precisa vencer e ataca. Jogo tenso e parelho, empate plausível."
+71,portugal,colombia,2,1,42,28,30,47,"Decisão do 1º lugar entre dois fortes; CR7 embalado dá leve borda a Portugal sobre a Colômbia de Luís Díaz e James. Jogo aberto."
+72,rd-congo,uzbequistao,2,0,51,27,22,52,"RD Congo mais forte que o ranking e defesa sólida; Uzbequistão já tomou 8 gols. Congoleses precisam vencer e devem prevalecer."
