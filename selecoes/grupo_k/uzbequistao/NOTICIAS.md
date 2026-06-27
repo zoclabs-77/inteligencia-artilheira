@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-27
+- Uzbequistão, sem pontos após a goleada sofrida de Portugal, encara a RD Congo no Mercedes-Benz Stadium (Geórgia), 20h30 de Brasília, na última rodada do Grupo K — só uma vitória combinada com resultados paralelos mantém viva a chance de avançar como um dos melhores terceiros (fonte: https://massa.com.br/copa-do-mundo-2026/rd-congo-x-usbequistao-ao-vivo)
+- Escalação provável: Abduvohid Nematov; Abdukodir Khusanov, Rustam Ashurmatov, Abdulla Abdullaev; Bekhruz Karimov, Akmal Mozgovoy, Otabek Shukurov, Khojiakbar Alijonov; Abbosbek Fayzullaev, Azizjon Ganiev; Eldor Shomurodov, sob comando de Fabio Cannavaro (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/rd-congo-x-uzbequistao-copa-2026-onde-assistir/)
+- Será o primeiro confronto da história entre as duas seleções (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Decisão de honra contra a RD Congo, em jogo sem outros pontos somados na fase de grupos.
+
 ## 📅 2026-06-25
 - Uzbequistão, em sua primeira Copa do Mundo da história e sem pontos após a goleada sofrida de Portugal, encerra a fase de grupos contra a RD Congo no domingo (28/06) (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-5-x-0-uzbequistao-veja-os-melhores-momentos-do-jogo-da-copa/)
 - Goleira Nematov, que sofreu gol contra na derrota para Portugal, é desfalque emocional do time para a decisão (fonte: mesma acima)

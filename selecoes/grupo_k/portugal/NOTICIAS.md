@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-27
+- Portugal encara a Colômbia no Miami Stadium pela última rodada do Grupo K, em duelo que define quem termina em 1º lugar da chave e o caminho no mata-mata (fonte: https://www.sportsmole.co.uk/football/portugal/world-cup-2026/predicted-lineups/will-ronaldo-start-how-portugal-could-line-up-against-colombia_600101.html)
+- Cristiano Ronaldo é esperado como titular novamente após o duplo gol contra o Uzbequistão (10º gol dele em Copas, 145º pela seleção); Tomás Araújo é dúvida e tende a ficar no banco por precaução (fonte: mesma acima)
+- Escalação possível: D. Costa; Cancelo, Dias, Veiga, Mendes; Vitinha, B. Fernandes, J. Neves; Neto, Ronaldo, Félix, sob comando de Roberto Martínez (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Precisa vencer a Colômbia para terminar em 1º no Grupo K, com Ronaldo em alta confiança pela artilharia recente.
+
 ## 📅 2026-06-25
 - Portugal, embalado pela goleada de 5 a 0 sobre o Uzbequistão, enfrenta a líder Colômbia no domingo (28/06), em duelo direto pela liderança do Grupo K (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-5-x-0-uzbequistao-veja-os-melhores-momentos-do-jogo-da-copa/)
 - Cristiano Ronaldo, autor de dois gols na goleada e agora maior artilheiro histórico de Portugal em Copas, chega em estado de graça para o confronto decisivo (fonte: mesma acima)

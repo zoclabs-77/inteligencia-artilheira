@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-27
+- Gana enfrenta a Croácia em decisão direta pela classificação na última rodada do Grupo L, no Lincoln Financial Field (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-croacia-x-gana-27-06-2026.html)
+- Croácia chega com 3 pontos (vitória sobre o Panamá) e deve escalar Kramaric e Budimir mais avançados pela necessidade de gols, o que tende a abrir espaço para o ataque ganês explorar (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Depois do empate sem gols com a Inglaterra, Gana decide a vaga no Grupo L contra a Croácia neste sábado (27/06).
+
 ## 📅 2026-06-25
 - Gana, com 1 ponto após empate sem gols com a Inglaterra, enfrenta a Croácia no sábado (27/06), em duelo direto por vaga no Grupo L (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/em-jogo-decepcionante-inglaterra-e-gana-empatam-sem-gols-e-adiam-classificacao-a-proxima-fase-da-copa-do-mundo,ad316b166a18ef74739b1b0f0025f24ak4eihozc.html)
 - Técnico Carlos Queiroz foi elogiado internacionalmente pela organização defensiva que neutralizou Jude Bellingham contra a Inglaterra (fonte: mesma acima)

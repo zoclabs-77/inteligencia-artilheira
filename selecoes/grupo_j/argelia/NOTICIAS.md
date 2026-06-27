@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-27
+- Argélia precisa vencer a Áustria para garantir classificação sem depender de outros resultados, já que as duas equipes somam 3 pontos no Grupo J e a Áustria avança até com empate pelo saldo de gols (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/argelia-x-austria-onde-assistir-copa-2026/)
+- Escalação provável: Luca Zidane; Belghali, Mandi, Bensebaini e Aït-Nouri; Boudaoui e Bentaleb; Chaïbi, Maza e Mahrez; Gouiri, sob comando de Vladimir Petkovic (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Decisão direta com a Áustria neste sábado (27/06), 23h de Brasília, no Arrowhead Stadium (Kansas City), pela 3ª rodada do Grupo J.
+
 ## 📅 2026-06-25
 - Argélia, com três pontos após a virada heroica sobre a Jordânia, enfrenta a Áustria no sábado (27/06), 22h ET, em duelo direto por vaga garantida nas oitavas do Grupo J (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289273/400021497)
 - Nadhir Benbouali e Amine Gouiri, autores dos gols da virada contra a Jordânia, chegam em alta confiança para o confronto decisivo (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argelia-vira-no-fim-elimina-a-jordania-e-segue-viva-na-copa-do-mundo/)

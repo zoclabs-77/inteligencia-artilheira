@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-27
+- Panamá chega já eliminada matematicamente e apenas cumpre tabela na última rodada do Grupo L (fonte: https://www.correio24horas.com.br/copa-do-mundo/panama-x-inglaterra-onde-assistir-ao-vivo-e-provaveis-escalacoes-pela-copa-do-mundo-2026-0626)
+- Escalação provável: Orlando Mosquera; Amir Murillo, Jiovany Ramos, José Córdoba, Andrés Andrade e César Blackman; Cristian Martínez, Carlos Harvey, Yoel Barcenas e José Luis Rodríguez; Cecilio Waterman (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Encara a Inglaterra neste sábado (27/06), 18h de Brasília, no MetLife Stadium (Nova Jersey), em jogo de honra esportiva pela 3ª rodada do Grupo L.
+
 ## 📅 2026-06-25
 - Panamá, já matematicamente eliminado após a derrota para a Croácia, encerra a participação na Copa contra a Inglaterra no sábado (27/06), em Nova York/Nova Jersey (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/croacia-vence-por-1-a-0-e-elimina-o-panama-da-copa-do-mundo/)
 - Equipe foi elogiada pela atuação competitiva e organizada mesmo na eliminação diante da Croácia (fonte: mesma acima)

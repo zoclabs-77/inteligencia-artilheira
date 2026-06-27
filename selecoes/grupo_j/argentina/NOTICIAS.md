@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-27
+- Com vaga e liderança do Grupo J já asseguradas, Scaloni deve poupar titulares de olho no mata-mata contra a Jordânia neste sábado (27/06), 23h de Brasília, no AT&T Stadium (Dallas) (fonte: https://www.gazetaesportiva.com/times/argentina/scaloni-confirma-messi-banco-jordania-copa-do-mundo/)
+- Scaloni confirmou que Messi começa no banco, mas entra no segundo tempo; Cristian Romero é desfalque confirmado por lesão, abrindo espaço para Marcos Senesi ao lado de Otamendi (fonte: mesma acima)
+- Escalação inicial anunciada: Musso; Molina, Senesi, Otamendi e Tagliafico; Palacios, De Paul e Mac Allister; Enzo Fernández, Lautaro Martínez e outro titular no lugar de Messi (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-argentina-jordania-escalacoes-horario-assistir)
+- **Repercussão / Próximo jogo:** Encara a já eliminada Jordânia poupando força para as oitavas, com Messi reservado para o segundo tempo.
+
 ## 📅 2026-06-25
 - Argentina, líder isolada do Grupo J com 6 pontos, enfrenta a já eliminada Jordânia no domingo (28/06), no Levi's Stadium (Santa Clara), sem pressão por resultado (fonte: https://copaamerica.com/en/news/argentina-path-fifa-world-cup-2026-bracket-possible-matchups)
 - Scaloni deve aproveitar o jogo de baixa pressão para testar variações no meio-campo, com Mac Allister e Enzo Fernández orientados a acelerar a transição (fonte: mesma acima)

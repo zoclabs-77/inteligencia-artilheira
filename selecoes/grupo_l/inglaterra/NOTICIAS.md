@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-27
+- Inglaterra busca confirmar a liderança do Grupo L e recuperar a confiança após a atuação abaixo do esperado no 0x0 com Gana (fonte: https://massa.com.br/copa-do-mundo-2026/inglaterra-x-panama-ao-vivo)
+- Preocupação com lesões: Declan Rice não está 100% desde o início do torneio por dores nas costas e saiu do jogo com Gana com novo problema; Reece James surgiu com desconforto muscular na coxa; Bukayo Saka segue em controle por tendinite no Aquiles e tem sido poupado, entrando só no 2º tempo (fonte: https://trivela.com.br/copa-do-mundo/inglaterra-x-panama-escalacoes-provaveis-copa/)
+- Escalação provável: Jordan Pickford; Reece James, Ezri Konsa, Marc Guehi e Nico O'Reilly; Elliot Anderson e Kobbie Mainoo; Noni Madueke, Jude Bellingham e Marcus Rashford; Harry Kane (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Enfrenta o já eliminado Panamá neste sábado (27/06), 18h de Brasília, no MetLife Stadium (Nova Jersey), na 3ª rodada do Grupo L, em busca de reação após o tropeço com Gana.
+
 ## 📅 2026-06-25
 - Inglaterra, sob forte crítica da imprensa após o 0x0 com Gana, encerra a fase de grupos contra o já eliminado Panamá no sábado (27/06), em Nova York/Nova Jersey (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/em-jogo-decepcionante-inglaterra-e-gana-empatam-sem-gols-e-adiam-classificacao-a-proxima-fase-da-copa-do-mundo,ad316b166a18ef74739b1b0f0025f24ak4eihozc.html)
 - The Guardian chamou o empate de "choque de realidade" e a imprensa espanhola falou em retorno do "fantasma Southgate"; Bellingham, Kane e Anthony Gordon tiveram pouca influência no jogo (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/imprensa-inglesa-faz-alerta-apos-empate-sem-gols-contra-gana-choque-de-realidade,69e9b70276c86c145911b94bce62115boils5o13.html)

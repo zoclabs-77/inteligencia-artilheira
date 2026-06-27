@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-27
+- Jordânia, já eliminada, encara a Argentina neste sábado (27/06), 23h de Brasília, no AT&T Stadium (Dallas), pela última rodada do Grupo J (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-argentina-jordania-escalacoes-horario-assistir)
+- Escalação provável: Abulaila; Abu Dahab, Nasib e Al-Arab; Haddad, Al-Rashdan, Al-Rawabdeh e Abu Taha; Al-Tamari, Olwan e Al-Mardi, sob comando de Jamal Sellami (fonte: mesma acima)
+- Cenário favorável: Argentina já garantiu vaga e liderança e deve poupar titulares, incluindo Messi no banco até o intervalo (fonte: https://www.gazetaesportiva.com/times/argentina/scaloni-confirma-messi-banco-jordania-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Joga sem objetivo de classificação, mas pode aproveitar o time argentino desfalcado de Messi no 1º tempo para buscar resultado histórico.
+
 ## 📅 2026-06-25
 - Jordânia, já matematicamente eliminada do Grupo J após a virada sofrida para a Argélia, encerra a participação na Copa contra a Argentina no domingo (28/06), no Levi's Stadium (Santa Clara) (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argelia-vira-no-fim-elimina-a-jordania-e-segue-viva-na-copa-do-mundo/)
 - Nizar Al-Rashdan, autor do gol jordaniano na derrota para a Argélia, é o único jogador a balançar as redes da seleção nesta Copa (fonte: mesma acima)

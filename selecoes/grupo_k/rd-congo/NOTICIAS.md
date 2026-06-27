@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-27
+- RD Congo, com 1 ponto após a derrota para a Colômbia, enfrenta o Uzbequistão no Mercedes-Benz Stadium (Geórgia), 20h30 de Brasília, na última rodada do Grupo K (fonte: https://massa.com.br/copa-do-mundo-2026/rd-congo-x-usbequistao-ao-vivo)
+- Escalação provável: Lionel Mpasi; Steve Kapuadi, Chancel Mbemba, Axel Tuanzebe; Aaron Wan-Bissaka, Noah Sadiki, Samuel Moutoussamy, Edo Kayembe, Arthur Masuaku; Cédric Bakambu, Yoane Wissa, sob comando de Sébastien Desabre (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/rd-congo-x-uzbequistao-copa-2026-onde-assistir/)
+- Será o primeiro confronto da história entre as duas seleções (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Precisa vencer o Uzbequistão e torcer por resultados paralelos para sonhar com vaga entre os melhores terceiros do Grupo K.
+
 ## 📅 2026-06-25
 - RD Congo, com apenas 1 ponto após a derrota para a Colômbia, enfrenta o Uzbequistão no domingo (28/06), precisando vencer e torcer por resultados paralelos para sonhar com vaga entre os melhores terceiros do Grupo K (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/colombia-fura-defesa-da-rd-congo-no-final-e-se-classifica-na-copa-do-mundo,7a080f5b168ad237d924678ca8005899m9fqgo4d.html)
 - Defesa congolesa foi elogiada pela organização contra a Colômbia, cedendo o gol decisivo apenas nos minutos finais (fonte: mesma acima)
