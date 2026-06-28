@@ -1,6 +1,6 @@
-# Rodada 3 — Resumo parcial (atualizado em 2026-06-27)
+# Rodada 3 — Resumo final (atualizado em 2026-06-28)
 
-> Rodada 3 parcial: **18 de 24 jogos** disputados (23-26/06). Faltam os 6 jogos finais dos Grupos J, K e L (27/06). RESUMO atualizado diariamente conforme os jogos acontecem.
+> Rodada 3 **encerrada: 24 de 24 jogos** disputados (23-27/06). Fase de grupos da Copa 2026 concluída.
 
 ## Placares confirmados — 23-24/06
 
@@ -44,6 +44,44 @@
 - Nova Zelândia 1 x 5 Bélgica — Trossard (2x), De Bruyne, Lukaku e Saelemaekers marcaram; Elijah Just descontou. Bélgica avança em 1º no Grupo G; Nova Zelândia eliminada.
 - Egito 1 x 1 Irã — Saber marcou para o Egito e Rezaeian empatou para o Irã, em Seattle. Egito avança em 2º (5 pts); Irã (3 pts) aguarda vaga de melhor terceiro.
 
+## Placares confirmados — 27/06 🆕 (fecha a fase de grupos)
+
+**Grupo L**
+- Panamá 0 x 2 Inglaterra — Bellingham e Kane (de cabeça) marcam no segundo tempo, no MetLife Stadium. Inglaterra fecha o grupo na liderança com 7 pts; Panamá eliminado sem pontuar.
+- Croácia 2 x 1 Gana — Sučić abre, Luckassen empata para Gana, Vlašić decide nos 83' de cabeça em escanteio de Modrić. Croácia avança em 2º; Gana garante a histórica vaga inédita desde 2010 mesmo perdendo.
+
+**Grupo J**
+- Jordânia 1 x 3 Argentina — Lo Celso e Lautaro no 1º tempo, Al-Taamari descontou, Messi (que começou no banco) fechou de falta. Argentina encerra com 100% de aproveitamento (9 pts).
+- Áustria 3 x 3 Argélia — Arnautovic abre, Belghali empata, Sabitzer e Mahrez (2x) trocam gols, Kalajdzic empata nos 51' do 2º tempo. Resultado classifica as duas seleções — Áustria em 2º, Argélia entre os melhores terceiros.
+
+**Grupo K**
+- Colômbia 0 x 0 Portugal — empate no Hard Rock Stadium garante a liderança colombiana do grupo; Portugal avança em 2º.
+- RD Congo 3 x 1 Uzbequistão — Shomurodov abre para os uzbeques, Wissa empata de pênalti, Mayele vira e Wissa fecha a conta. RD Congo avança ao mata-mata pela 1ª vez na história; Uzbequistão eliminado sem pontos.
+
+## Palpites × Resultado — lote 27/06 (jogos 67-72, fecha a rodada) 🆕
+
+| # | Jogo | Claude | Codex | Baseline | Real | Cla | Cdx | Base |
+|---|---|---|---|---|---|---|---|---|
+| 67 | Panamá x Inglaterra | 0-2 | 0-2 | 0-1 | **0-2** | 3⭐ | 3⭐ | 1 |
+| 68 | Croácia x Gana | 2-1 | 1-1 | 1-0 | **2-1** | 3⭐ | 0 | 2 |
+| 69 | Jordânia x Argentina | 2-0* | 2-0* | 1-0 | **1-3** | 0 | 0 | 0 |
+| 70 | Áustria x Argélia | 1-1 | 1-1 | 1-0 | **3-3** | 2 | 2 | 0 |
+| 71 | Colômbia x Portugal | 2-1* | 2-1* | 1-0 | **0-0** | 0 | 0 | 0 |
+| 72 | RD Congo x Uzbequistão | 2-0 | 2-1 | 0-1 | **3-1** | 2 | 1 | 0 |
+| | **Total do lote** | | | | | **10** | **6** | **3** |
+
+⭐ = placar exato (3 pts). *Claude/Codex registraram o palpite na perspectiva "argentina/portugal casa" (formato original do CSV); os pontos consideram o confronto real (Jordânia e Colômbia como mandantes). Claude cravou 2 placares exatos no lote (Panamá-Inglaterra e Croácia-Gana) e foi o único a pontuar nos 6 jogos.
+
+## Placar geral acumulado — RODADA 3 ENCERRADA (24 jogos)
+
+| Modelo | Pts na rodada 3 | Total acum. (r1+r2+r3) | Placares exatos (acum.) | Acertos resultado (acum.) |
+|---|---|---|---|---|
+| **Codex** | 28 | **76** | 10 | 46 |
+| **Claude** | 25 | **68** | 9 | 42 |
+| **Baseline** | 16 | **59** | 6 | 42 |
+
+> Pontuação: placar exato = 3 · saldo certo = 2 · só o vencedor/empate = 1 · errou = 0. Totais acumulados via `copa.placar_geral`.
+
 ## Palpites × Resultado — lote 26/06 (jogos 61-66) 🆕
 
 | # | Jogo | Claude | Codex | Real | Cla | Cdx | Base |
@@ -78,6 +116,15 @@
 - **CLAUDE E BASELINE CRAVAM JUNTOS:** Uruguai 0x1 Espanha foi o único jogo em que os dois bateram o placar exato (3 pts). O Codex foi de 1-2 e ficou com 2 pts (saldo certo).
 - **BASELINE SEGUE EM 3º:** mesmo empatando o lote com Claude (6 pts), o Baseline (56) continua atrás de Claude (58) no geral. Curiosamente o Baseline lidera em "acertos de resultado" acumulados (40 × 38 de Claude), mas perde em placares exatos e na pontuação total — o preço de sempre cravar 1x0 no favorito.
 - **FALTAM 6 JOGOS:** os Grupos J (Argentina, Áustria...), K (Portugal, RD Congo...) e L (Inglaterra, Croácia...) fecham a fase de grupos no dia 27/06. A rodada 3 ainda pode mudar — mas a liderança do Codex está cada vez mais sólida.
+
+## Destaques do lote final (27/06) e fechamento da fase de grupos
+
+- **CLAUDE VENCE O ÚLTIMO LOTE:** 10 pts contra 6 do Codex e 3 do Baseline — cravou 2 placares exatos (Panamá-Inglaterra 0-2 e Croácia-Gana 2-1) e foi o único modelo a pontuar nos 6 jogos do dia.
+- **MICOS GERAIS EM JORDÂNIA X ARGENTINA:** os três modelos zeraram. Argentina goleou por 3-1 (Messi saiu do banco e fechou de falta), mas mesmo prevendo a vitória argentina certa, Claude e Codex erraram o saldo (2-0) e o Baseline cravou só 1x0 pro lado errado (apostou na Jordânia).
+- **ZEBRA NO EMPATE DE COLÔMBIA X PORTUGAL:** 0x0 fechou a liderança colombiana do Grupo K — nenhum modelo pontuou; todos previram vitória de um dos lados.
+- **ÁUSTRIA 3X3 ARGÉLIA, GOLEADA PARTIDA:** Claude e Codex empataram no palpite (1-1) e levaram 2 pts cada pelo saldo zerado batendo com o real; o Baseline (sempre 1x0 no favorito) zerou.
+- **CODEX FECHA A FASE DE GRUPOS NA LIDERANÇA GERAL:** 76 pts acumulados, contra 68 do Claude e 59 do Baseline. Mesmo perdendo o último lote para o Claude, a vantagem aberta nas rodadas 1 e 2 garantiu a ponta antes do mata-mata.
+- **FASE DE GRUPOS ENCERRADA:** 72 jogos concluídos no total (3 rodadas completas). Próxima etapa: mata-mata, com novo formato de palpites a definir.
 
 ---
 **ZocLabs 🧪 — Inteligência Artilheira**
