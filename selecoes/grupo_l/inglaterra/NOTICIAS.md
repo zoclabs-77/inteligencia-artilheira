@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-28
+- Inglaterra venceu o Panamá por 2 a 0 no sábado, com gols de Jude Bellingham e Harry Kane, que se isolou como maior artilheiro inglês em Copas; equipe insistiu no 1º tempo contra a retranca panamenha e deslanchou na etapa final (fonte: https://www.lance.com.br/copa-do-mundo/inglaterra-vence-panama-e-se-classifica-na-lideranca-do-grupo-l-da-copa.html)
+- Resultado confirmou a liderança do Grupo L com 7 pontos (mesma pontuação de Gana, mas saldo de gols melhor) (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Avança às oitavas com autoridade e encara a RD Congo no mata-mata.
+
 ## 📅 2026-06-27
 - Inglaterra busca confirmar a liderança do Grupo L e recuperar a confiança após a atuação abaixo do esperado no 0x0 com Gana (fonte: https://massa.com.br/copa-do-mundo-2026/inglaterra-x-panama-ao-vivo)
 - Preocupação com lesões: Declan Rice não está 100% desde o início do torneio por dores nas costas e saiu do jogo com Gana com novo problema; Reece James surgiu com desconforto muscular na coxa; Bukayo Saka segue em controle por tendinite no Aquiles e tem sido poupado, entrando só no 2º tempo (fonte: https://trivela.com.br/copa-do-mundo/inglaterra-x-panama-escalacoes-provaveis-copa/)

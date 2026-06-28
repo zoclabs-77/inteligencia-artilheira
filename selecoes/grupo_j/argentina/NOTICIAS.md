@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-28
+- Argentina venceu a Jordânia por 3 a 1 em Dallas, com gols de Giovani Lo Celso, Lautaro Martínez e Lionel Messi (entrou no 2º tempo); Al-Tamari descontou para os jordanianos (fonte: https://www.skysports.com/football/jordan-vs-argentina/report/549833)
+- Messi se tornou o primeiro jogador a marcar em sete jogos consecutivos de Copa do Mundo, somando seis gols nesta edição e 19 no total — novo recorde histórico (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Fecha a fase de grupos com 100% de aproveitamento e enfrenta Cabo Verde nas oitavas, em Miami, no dia 03/07.
+
 ## 📅 2026-06-27
 - Com vaga e liderança do Grupo J já asseguradas, Scaloni deve poupar titulares de olho no mata-mata contra a Jordânia neste sábado (27/06), 23h de Brasília, no AT&T Stadium (Dallas) (fonte: https://www.gazetaesportiva.com/times/argentina/scaloni-confirma-messi-banco-jordania-copa-do-mundo/)
 - Scaloni confirmou que Messi começa no banco, mas entra no segundo tempo; Cristian Romero é desfalque confirmado por lesão, abrindo espaço para Marcos Senesi ao lado de Otamendi (fonte: mesma acima)

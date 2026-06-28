@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-28
+- Colômbia empatou em 0 a 0 com Portugal no Hard Rock Stadium (Miami) e confirmou a liderança do Grupo K; teve gol anulado por impedimento e jogo movimentado mesmo sem placar (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/colombia-empata-com-portugal-termina-em-1o-e-avanca-na-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Fecha a fase de grupos na 1ª colocação; mata-mata ainda a definir.
+
 ## 📅 2026-06-27
 - Colômbia, já classificada, encara Portugal no Miami Stadium na última rodada do Grupo K, em jogo que decide o 1º lugar da chave (fonte: https://www.sportsmole.co.uk/football/portugal/world-cup-2026/predicted-lineups/will-ronaldo-start-how-portugal-could-line-up-against-colombia_600101.html)
 - Adversário chega embalado: Cristiano Ronaldo marcou dois gols na goleada anterior sobre o Uzbequistão e é esperado titular em alta confiança (fonte: mesma acima)

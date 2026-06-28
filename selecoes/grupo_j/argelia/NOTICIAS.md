@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-28
+- Argélia empatou em 3 a 3 com a Áustria em Kansas City, em jogo frenético: Belghali e Mahrez (2x, um deles nos acréscimos para virar o placar) marcaram, mas a Áustria respondeu no lance seguinte com gol de Kalajdzic (fonte: https://trivela.com.br/copa-do-mundo/argelia-austria-jogo-comadres-empate-frenetico-classifica/)
+- **Repercussão / Próximo jogo:** Avança como uma das melhores terceiras colocadas do torneio, resultado que tirou o Irã da zona de classificação; mata-mata ainda a definir.
+
 ## 📅 2026-06-27
 - Argélia precisa vencer a Áustria para garantir classificação sem depender de outros resultados, já que as duas equipes somam 3 pontos no Grupo J e a Áustria avança até com empate pelo saldo de gols (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/argelia-x-austria-onde-assistir-copa-2026/)
 - Escalação provável: Luca Zidane; Belghali, Mandi, Bensebaini e Aït-Nouri; Boudaoui e Bentaleb; Chaïbi, Maza e Mahrez; Gouiri, sob comando de Vladimir Petkovic (fonte: mesma acima)

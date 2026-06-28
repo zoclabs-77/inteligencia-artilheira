@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-28
+- Panamá perdeu por 2 a 0 para a Inglaterra (gols de Bellingham e Kane) e fechou a fase de grupos sem pontuar, com cinco derrotas em cinco jogos somando as participações de 2018 e 2026 (fonte: https://www.lance.com.br/copa-do-mundo/inglaterra-vence-panama-e-se-classifica-na-lideranca-do-grupo-l-da-copa.html)
+- **Repercussão / Próximo jogo:** Eliminação confirma jejum histórico do Panamá em Copas do Mundo — nunca pontuou na competição.
+
 ## 📅 2026-06-27
 - Panamá chega já eliminada matematicamente e apenas cumpre tabela na última rodada do Grupo L (fonte: https://www.correio24horas.com.br/copa-do-mundo/panama-x-inglaterra-onde-assistir-ao-vivo-e-provaveis-escalacoes-pela-copa-do-mundo-2026-0626)
 - Escalação provável: Orlando Mosquera; Amir Murillo, Jiovany Ramos, José Córdoba, Andrés Andrade e César Blackman; Cristian Martínez, Carlos Harvey, Yoel Barcenas e José Luis Rodríguez; Cecilio Waterman (fonte: mesma acima)

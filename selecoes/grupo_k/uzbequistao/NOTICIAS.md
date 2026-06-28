@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-28
+- Uzbequistão perdeu por 3 a 1 para a RD Congo em Atlanta, mesmo abrindo o placar com Shomurodov; sofreu a virada com gols de Wissa (2, um de pênalti) e Mayele (fonte: https://trivela.com.br/copa-do-mundo/rd-congo-3-x-1-uzbequistao-wissa-desafiando-historia/)
+- **Repercussão / Próximo jogo:** Encerra a participação na Copa sem pontuar, com três derrotas e 11 gols sofridos em três jogos.
+
 ## 📅 2026-06-27
 - Uzbequistão, sem pontos após a goleada sofrida de Portugal, encara a RD Congo no Mercedes-Benz Stadium (Geórgia), 20h30 de Brasília, na última rodada do Grupo K — só uma vitória combinada com resultados paralelos mantém viva a chance de avançar como um dos melhores terceiros (fonte: https://massa.com.br/copa-do-mundo-2026/rd-congo-x-usbequistao-ao-vivo)
 - Escalação provável: Abduvohid Nematov; Abdukodir Khusanov, Rustam Ashurmatov, Abdulla Abdullaev; Bekhruz Karimov, Akmal Mozgovoy, Otabek Shukurov, Khojiakbar Alijonov; Abbosbek Fayzullaev, Azizjon Ganiev; Eldor Shomurodov, sob comando de Fabio Cannavaro (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/rd-congo-x-uzbequistao-copa-2026-onde-assistir/)

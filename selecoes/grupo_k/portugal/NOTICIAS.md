@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-28
+- Portugal empatou em 0 a 0 com a Colômbia em Miami e avançou em 2º lugar do Grupo K; Cristiano Ronaldo ficou apagado e teve gol anulado por impedimento, enquanto João Félix desperdiçou chance após cruzamento de Dalot (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/com-cristiano-ronaldo-apagado-portugal-e-colombia-empatam-sem-gols-e-se-classificam-para-o-mata-mata,f4e8a9b8fdf1cc4c04d6fc0542ec8385s9s0le28.html)
+- **Repercussão / Próximo jogo:** Avança ao mata-mata em 2º lugar; resultado mantém viva a possibilidade teórica de um duelo CR7 x Messi numa eventual final.
+
 ## 📅 2026-06-27
 - Portugal encara a Colômbia no Miami Stadium pela última rodada do Grupo K, em duelo que define quem termina em 1º lugar da chave e o caminho no mata-mata (fonte: https://www.sportsmole.co.uk/football/portugal/world-cup-2026/predicted-lineups/will-ronaldo-start-how-portugal-could-line-up-against-colombia_600101.html)
 - Cristiano Ronaldo é esperado como titular novamente após o duplo gol contra o Uzbequistão (10º gol dele em Copas, 145º pela seleção); Tomás Araújo é dúvida e tende a ficar no banco por precaução (fonte: mesma acima)

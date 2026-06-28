@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-28
+- Gana perdeu por 2 a 1 para a Croácia (gol de Derrick Luckassen), terminando o Grupo L na 3ª posição com 4 pontos sob comando de Otto Addo (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/croacia-x-gana-copa-do-mundo-2026/)
+- **Repercussão / Próximo jogo:** Segue na competição dependendo da classificação entre os melhores terceiros colocados do torneio.
+
 ## 📅 2026-06-27
 - Gana enfrenta a Croácia em decisão direta pela classificação na última rodada do Grupo L, no Lincoln Financial Field (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-croacia-x-gana-27-06-2026.html)
 - Croácia chega com 3 pontos (vitória sobre o Panamá) e deve escalar Kramaric e Budimir mais avançados pela necessidade de gols, o que tende a abrir espaço para o ataque ganês explorar (fonte: mesma acima)

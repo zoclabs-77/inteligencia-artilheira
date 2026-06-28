@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-28
+- Jordânia perdeu por 3 a 1 para a Argentina em Dallas, mas teve momento histórico: o substituto Mousa Al-Tamari fechou bela jogada coletiva para descontar no 2º tempo (fonte: https://www.skysports.com/football/jordan-vs-argentina/report/549833)
+- **Repercussão / Próximo jogo:** Encerra sua primeira participação em Copas do Mundo eliminada na fase de grupos, mas deixa o gol de Al-Tamari como marca da estreia histórica.
+
 ## 📅 2026-06-27
 - Jordânia, já eliminada, encara a Argentina neste sábado (27/06), 23h de Brasília, no AT&T Stadium (Dallas), pela última rodada do Grupo J (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-argentina-jordania-escalacoes-horario-assistir)
 - Escalação provável: Abulaila; Abu Dahab, Nasib e Al-Arab; Haddad, Al-Rashdan, Al-Rawabdeh e Abu Taha; Al-Tamari, Olwan e Al-Mardi, sob comando de Jamal Sellami (fonte: mesma acima)

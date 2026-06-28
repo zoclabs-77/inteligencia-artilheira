@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-28
+- RD Congo venceu o Uzbequistão por 3 a 1 no Mercedes-Benz Stadium (Atlanta), em virada: Shomurodov abriu o placar para os uzbeques, Wissa empatou de pênalti, Mayele virou e Wissa fechou a conta (fonte: https://trivela.com.br/copa-do-mundo/rd-congo-3-x-1-uzbequistao-wissa-desafiando-historia/)
+- Resultado garante a 3ª colocação no Grupo K com 4 pontos (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Avança ao mata-mata e encara a Inglaterra nas oitavas.
+
 ## 📅 2026-06-27
 - RD Congo, com 1 ponto após a derrota para a Colômbia, enfrenta o Uzbequistão no Mercedes-Benz Stadium (Geórgia), 20h30 de Brasília, na última rodada do Grupo K (fonte: https://massa.com.br/copa-do-mundo-2026/rd-congo-x-usbequistao-ao-vivo)
 - Escalação provável: Lionel Mpasi; Steve Kapuadi, Chancel Mbemba, Axel Tuanzebe; Aaron Wan-Bissaka, Noah Sadiki, Samuel Moutoussamy, Edo Kayembe, Arthur Masuaku; Cédric Bakambu, Yoane Wissa, sob comando de Sébastien Desabre (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/rd-congo-x-uzbequistao-copa-2026-onde-assistir/)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-28
+- Croácia venceu Gana por 2 a 1 no Lincoln Financial Field (Filadélfia), com gols de Petar Sucic e Nikola Vlasic; Gana descontou com Derrick Luckassen (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/croacia-x-gana-copa-do-mundo-2026/)
+- Resultado garante à Croácia a 2ª colocação do Grupo L, com 6 pontos (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Avança à fase eliminatória na vice-liderança do grupo, mata-mata ainda a definir.
+
 ## 📅 2026-06-27
 - Croácia precisa vencer Gana para garantir a classificação e depende só de si, somando 3 pontos no Grupo L (após derrota por 4x2 da Inglaterra na estreia e vitória por 1x0 sobre o Panamá) (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-croacia-x-gana-27-06-2026.html)
 - Escalação provável tende ao 4-2-3-1 usado contra o Panamá: Livaković; Stanišić, Šutalo, Gvardiol e Ćaleta-Car; Kovačić, Modrić e Pašalić; Perišić, Kramarić e Budimir; Kramaric e Budimir devem ganhar espaço no time titular pela necessidade de gols (fonte: mesma acima)

@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-06-28
+- Áustria empatou em 3 a 3 com a Argélia em Kansas City, num final caótico: Arnautovic e Sabitzer marcaram, e Kalajdzic decretou o 3x3 nos acréscimos de cabeça, no lance seguinte ao gol da virada argelina (fonte: https://trivela.com.br/copa-do-mundo/argelia-austria-jogo-comadres-empate-frenetico-classifica/)
+- **Repercussão / Próximo jogo:** Avança em 2º lugar no Grupo J e volta à segunda fase de uma Copa pela primeira vez desde 1982; mata-mata ainda a definir.
+
 ## 📅 2026-06-27
 - Áustria e Argélia somam 3 pontos cada no Grupo J; Áustria ocupa a 2ª posição pelo saldo de gols (zero contra dois negativos da Argélia) e avança com um empate, enquanto a Argélia precisa vencer para garantir vaga sem depender de outros resultados (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/argelia-x-austria-onde-assistir-copa-2026/)
 - Escalação provável: Schlager; Posch, Danso, Alaba e Laimer; Xaver Schlager e Seiwald; Schmid, Wanner e Sabitzer; Arnautovic (fonte: mesma acima)
