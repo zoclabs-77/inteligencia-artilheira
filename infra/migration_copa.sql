@@ -19,7 +19,7 @@ create table if not exists copa.selecoes (
 
 create table if not exists copa.partidas (
   id          int primary key,                  -- = partida_id do calendario.csv
-  fase        text not null default 'grupos',   -- grupos | 32avos | oitavas | quartas | semi | final ...
+  fase        text not null default 'grupos',   -- grupos | 16avos | oitavas | quartas | semi | final ...
   rodada      int,                              -- 1..3 na fase de grupos
   grupo       char(1),
   data_jogo   date not null,

@@ -1,6 +1,6 @@
-# Oitavas de final — Resumo (atualizado em 2026-06-29)
+# 16 avos de final — Resumo (atualizado em 2026-06-29)
 
-> Início do mata-mata da Copa 2026. **1 de 8 jogos** das oitavas disputado até agora.
+> Início do mata-mata da Copa 2026. **1 de 16 jogos** dos 16 avos de final disputado até agora.
 
 ## Placares confirmados — 28/06 🆕
 
@@ -15,9 +15,9 @@
 
 ⭐ = placar exato (3 pts). O Baseline (sempre 1x0 no favorito do ranking) cravou o placar exato e foi quem mais pontuou no primeiro jogo do mata-mata. Claude e Codex acertaram o vencedor com saldo certo (palpite +1, real +1) e levaram 2 pts cada.
 
-## Placar geral acumulado — após 1º jogo das oitavas (73 jogos no total)
+## Placar geral acumulado — após 1º jogo dos 16 avos (73 jogos no total)
 
-| Modelo | Pts nas oitavas | Total acum. (grupos + oitavas) | Placares exatos (acum.) | Acertos resultado (acum.) |
+| Modelo | Pts nos 16 avos | Total acum. (grupos + 16 avos) | Placares exatos (acum.) | Acertos resultado (acum.) |
 |---|---|---|---|---|
 | **Codex** | 2 | **80** | 10 | 48 |
 | **Claude** | 2 | **72** | 9 | 44 |

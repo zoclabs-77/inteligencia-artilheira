@@ -1,0 +1,4 @@
+partida_id,casa,fora,gols_casa,gols_fora,prob_casa,prob_empate,prob_fora,confianca,justificativa
+74,alemanha,paraguai,2,0,61,24,15,63,"Alemanha tem ataque e ranking superiores; Paraguai baixa bloco e cria pouco."
+75,holanda,marrocos,2,1,45,27,28,49,"Ranking proximo e Marrocos e duro em mata-mata; ataque holandes chega mais quente."
+76,brasil,japao,2,1,54,24,22,58,"Brasil chega solido e Vini em alta; Japao e organizado, mas sente Kubo fora."

@@ -61,7 +61,7 @@ dashboard/           ← app React (repo próprio, deploy Vercel)
 
 ## 🗓️ Copa 2026 — referência rápida
 
-- **Fase de grupos:** 11–27/jun (3 rodadas) · **Mata-mata:** 32-avos a partir de 28/jun · **Final:** 19/jul (MetLife, NY)
+- **Fase de grupos:** 11–27/jun (3 rodadas) · **Mata-mata:** 16 avos a partir de 28/jun (32 times: 2 de cada grupo + 8 melhores 3ºs) · **Final:** 19/jul (MetLife, NY)
 - **Grupos:** A: México, África do Sul, Coreia do Sul, Tchéquia · B: Canadá, Bósnia, Catar, Suíça · **C: BRASIL, Marrocos, Haiti, Escócia** · D: EUA, Paraguai, Austrália, Turquia · E: Alemanha, Curaçao, Costa do Marfim, Equador · F: Holanda, Japão, Suécia, Tunísia · G: Bélgica, Egito, Irã, Nova Zelândia · H: Espanha, Cabo Verde, Arábia Saudita, Uruguai · I: França, Senegal, Iraque, Noruega · J: Argentina, Argélia, Áustria, Jordânia · K: Portugal, RD Congo, Uzbequistão, Colômbia · L: Inglaterra, Croácia, Gana, Panamá
 
 ---
