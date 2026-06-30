@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-30
+- Portugal avançou em 2º lugar do Grupo K e terá o primeiro compromisso do mata-mata contra a Croácia, 2ª colocada do Grupo L, na quinta-feira, 2 de julho, no Estádio de Toronto, às 20h (Brasília) (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-portugal-mata-mata)
+- Equipe chega de empate sem gols com a Colômbia em Miami, partida na qual Cristiano Ronaldo ficou apagado e teve gol anulado por impedimento (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/com-cristiano-ronaldo-apagado-portugal-e-colombia-empatam-sem-gols-e-se-classificam-para-o-mata-mata,f4e8a9b8fdf1cc4c04d6fc0542ec8385s9s0le28.html)
+- **Repercussão / Próximo jogo:** Confronto europeu direto contra a Croácia de Luka Modric nas oitavas de final, em 02/07, em Toronto — Portugal busca recuperar o rendimento ofensivo de Ronaldo após atuação discreta na última rodada de grupos.
+
 ## 📅 2026-06-28
 - Portugal empatou em 0 a 0 com a Colômbia em Miami e avançou em 2º lugar do Grupo K; Cristiano Ronaldo ficou apagado e teve gol anulado por impedimento, enquanto João Félix desperdiçou chance após cruzamento de Dalot (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/com-cristiano-ronaldo-apagado-portugal-e-colombia-empatam-sem-gols-e-se-classificam-para-o-mata-mata,f4e8a9b8fdf1cc4c04d6fc0542ec8385s9s0le28.html)
 - **Repercussão / Próximo jogo:** Avança ao mata-mata em 2º lugar; resultado mantém viva a possibilidade teórica de um duelo CR7 x Messi numa eventual final.

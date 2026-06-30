@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-30
+- Costa do Marfim enfrenta a Noruega hoje (30/06), às 14h (Brasília), no AT&T Stadium, em Arlington, pelos 16 avos de final (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289287/400021514)
+- Escalação prevista (4-2-3-1): Yahia Fofana; Ghislain Konan, Odilon Kossounou, Ousmane Diomandé, Guéla Doué; Ibrahim Sangaré; Yan Diomandé, Christ Inao Oulaï, Franck Kessié; Amad Diallo; Nicolas Pépé. Técnico: Émerse Faé (fonte: https://www.ogol.com.br/jogo/2026-06-30-costa-do-marfim-noruega/11841293)
+- Costa do Marfim chega pela primeira vez em sua história à fase eliminatória de uma Copa, avançando em 2º lugar do Grupo E com duas vitórias e seis pontos (fonte: https://www.netflu.com.br/costa-do-marfim-x-noruega-onde-assistir-ao-vivo-horario-palpites-e-provaveis-escalacoes-pelos-16-avos-de-final-da-copa-do-mundo/)
+- Noruega, comandada por Ståle Solbakken, retorna a uma Copa após 28 anos de ausência, com ataque liderado por Erling Haaland, Alexander Sørloth e Martin Ødegaard (fonte: https://www.ogol.com.br/jogo/2026-06-30-costa-do-marfim-noruega/11841293)
+- **Repercussão / Próximo jogo:** Estreia histórica dos Elefantes em mata-mata de Mundial diante de uma Noruega que marcou oito gols na fase de grupos — maior teste defensivo da campanha marfinense até aqui.
+
 ## 📅 2026-06-25
 - Costa do Marfim decide vaga às oitavas hoje (25/06), 17h de Brasília, no Lincoln Financial Field (Filadélfia), contra Curaçao, na última rodada do Grupo E (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16893973/curacao-x-costa-do-marfim-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-copa-do-mundo)
 - Escalação provável: Fofana; Konan, Agbadou, Kossounou, Doué; Sangare, Diomandé, Christ Oulai, Kessié; Diallo e Bonny. Técnico: Émerse Faé (fonte: mesma acima)

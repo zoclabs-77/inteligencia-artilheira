@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-30
+- Colômbia avançou às oitavas de final na liderança do Grupo K e enfrenta Gana na sexta-feira, 3 de julho, às 22h30 (Brasília) (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings)
+- Técnico Néstor Lorenzo admitiu cautela com o adversário: "Hoje sei pouco sobre Gana porque havia 48 seleções e qualquer uma delas poderia ser nossa adversária, mas sei que é uma boa seleção. Conheço alguns jogadores que estão em bons clubes da Europa (...) vai ser um adversário difícil. Não há adversários fáceis, então tomaremos as precauções necessárias, mantendo sempre também a nossa identidade" (fonte: https://rr.pt/bola-branca/noticia/mundial-2026/2026/06/28/colombia-correu-sempre-atras-da-vitoria/476219/)
+- Colômbia chega como uma das sensações da Copa, ganhando força nas apostas de avançar fases (fonte: https://playmakerbrasil.com.br/colombia-sensacao-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Encara Gana nas oitavas de final em 03/07, em confronto inédito entre as seleções, com Lorenzo pregando respeito ao adversário africano sem abrir mão da identidade ofensiva da equipe.
+
 ## 📅 2026-06-28
 - Colômbia empatou em 0 a 0 com Portugal no Hard Rock Stadium (Miami) e confirmou a liderança do Grupo K; teve gol anulado por impedimento e jogo movimentado mesmo sem placar (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/colombia-empata-com-portugal-termina-em-1o-e-avanca-na-copa-do-mundo/)
 - **Repercussão / Próximo jogo:** Fecha a fase de grupos na 1ª colocação; mata-mata ainda a definir.

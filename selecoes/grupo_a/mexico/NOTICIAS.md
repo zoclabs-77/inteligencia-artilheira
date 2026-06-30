@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-30
+- México enfrenta o Equador hoje (30/06), às 22h (Brasília), no Estádio Azteca (Cidade do México), pelos 16 avos de final da Copa (fonte: https://www.gazetaesportiva.com/times/mexico/mexico-x-equador-onde-assistir-escalacoes-copa-2026/)
+- Escalação prevista: Rangel; Sánchez, Álvarez, Vásquez, Gallardo; Erik Lira, Romo, Gutiérrez; Alvarado, Quiñones e Raúl Jiménez. Técnico: Javier Aguirre (fonte: https://www.gazetaesportiva.com/times/mexico/mexico-x-equador-onde-assistir-escalacoes-copa-2026/)
+- México avançou como líder do Grupo A com campanha 100% (9 pontos), enquanto o Equador se classificou em 3º lugar do Grupo E, com 4 pontos, após buscar virada sobre a Alemanha (fonte: https://www.goal.com/en-us/news/mexico-ecuador-world-cup-preview/blt3e5e16bf513deef8)
+- **Repercussão / Próximo jogo:** México estreia no mata-mata como anfitrião e favorito diante de uma torcida lotada no Azteca, contra um Equador que chega mais irregular na fase de grupos — primeiro teste real da pressão de jogar em casa numa eliminatória.
+
 ## 📅 2026-06-25
 - México venceu a Tchéquia por 3 a 0 no Estádio Azteca (Cidade do México), em jogo da última rodada do Grupo A, garantindo a liderança da chave como anfitrião (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-tchequia-resumo-grupo-a)
 - Com o resultado, o México fecha a fase de grupos com 7 pontos (2 vitórias e 1 empate), confirmando o favoritismo em casa diante de uma torcida lotada no Azteca (fonte: mesma acima)

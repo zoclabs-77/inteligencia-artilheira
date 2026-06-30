@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-30
+- Inglaterra avançou na liderança do Grupo L e enfrenta a RD Congo nas oitavas de final na quarta-feira, 1º de julho, no Mercedes-Benz Stadium, em Atlanta — primeiro confronto da história entre as duas seleções (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/inglaterra-rd-congo-previa-jogo-copa-mundo-16-avos)
+- Equipe de Thomas Tuchel não contará com o lateral-direito Jarell Quansah, que sofreu entorse no tornozelo na vitória sobre o Panamá; Spence aparece como favorito para a vaga, com a alternativa de deslocar Ezri Konsa para a lateral e promover John Stones à zaga ao lado de Marc Guéhi (fonte: https://www.lance.com.br/copa-do-mundo/inglaterra-perde-titular-para-jogo-contra-a-rd-congo-no-mata-mata-da-copa.html)
+- Lateral direita segue como ponto de atenção na Copa inglesa: além de Quansah, Tino Livramento já havia sofrido lesão muscular antes do torneio e Reece James teve problema na coxa durante os treinos (fonte: https://www.lance.com.br/copa-do-mundo/inglaterra-perde-titular-para-jogo-contra-a-rd-congo-no-mata-mata-da-copa.html)
+- Harry Kane chega em boa fase após marcar três gols na fase de grupos; Jude Bellingham também se destacou com dois gols e uma assistência (fonte: https://www.goal.com/br/not%C3%ADcias/inglaterra-x-republica-democratica-do-congo-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/blt5d30fa324b3ac0ec)
+- **Repercussão / Próximo jogo:** Estreia nas oitavas de final contra a RD Congo, em 01/07, em Atlanta — Tuchel lida com desfalques na lateral direita às vésperas do mata-mata, mas conta com Kane e Bellingham em boa forma ofensiva.
+
 ## 📅 2026-06-28
 - Inglaterra venceu o Panamá por 2 a 0 no sábado, com gols de Jude Bellingham e Harry Kane, que se isolou como maior artilheiro inglês em Copas; equipe insistiu no 1º tempo contra a retranca panamenha e deslanchou na etapa final (fonte: https://www.lance.com.br/copa-do-mundo/inglaterra-vence-panama-e-se-classifica-na-lideranca-do-grupo-l-da-copa.html)
 - Resultado confirmou a liderança do Grupo L com 7 pontos (mesma pontuação de Gana, mas saldo de gols melhor) (fonte: mesma acima)

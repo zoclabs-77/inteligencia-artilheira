@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-30
+- Equador avançou em 3º lugar do Grupo E, com 4 pontos, após vitória de virada por 2 a 1 sobre a Alemanha na última rodada (fonte: https://jornaldaparaiba.com.br/esportes/copa-do-mundo-2026-selecoes-grupo-e)
+- Técnico Sebastián Beccacece não registrou lesões ou suspensões na fase de grupos e tem o elenco completo à disposição para a sequência (fonte: https://www.goal.com/en-us/news/mexico-ecuador-world-cup-preview/blt3e5e16bf513deef8)
+- Provável escalação (4-3-3): Hernán Galíndez; Alan Franco, Joel Ordóñez, Willian Pacho e Piero Hincapié; Nilson Angulo, Moisés Caicedo e Pedro Vite; Gonzalo Plata, Enner Valencia e John Yeboah (fonte: https://www.goal.com/en-us/lists/ecuador-squad-world-cup-2026/blt0d6faa95026c07f5)
+- México chega embalado, com 100% de aproveitamento e nove pontos na liderança do Grupo A, após vitória por 3 a 0 sobre a República Tcheca na última rodada (fonte: https://www.gazetaesportiva.com/times/mexico/mexico-x-equador-onde-assistir-escalacoes-copa-2026/)
+- **Repercussão / Próximo jogo:** Equador enfrenta o México, anfitrião e líder do Grupo A, nesta terça-feira (30/06), pela fase de 16 avos de final, em confronto entre seleções com momentos opostos na fase de grupos.
+
 ## 📅 2026-06-25
 - Equador enfrenta a Alemanha (líder, já classificada) hoje (25/06), 17h de Brasília, no MetLife Stadium (East Rutherford), na última rodada do Grupo E, com 1 ponto e nenhum gol marcado na campanha (fonte: https://www.365scores.com/pt-br/news/magazine/equador-x-alemanha-escalacoes-analise-copa-do-mundo/)
 - Escalação prevista, sem desfalques: H. Galíndez; A. Franco, W. Pacho, P. Hincapié; J. Yeboah, M. Caicedo, J. Alcivar, P. Vite, P. Estupiñán; G. Plata, E. Valencia (fonte: https://www.umdoisesportes.com.br/palpites-de-futebol/copa-do-mundo-equador-x-alemanha-25-06-2026/)

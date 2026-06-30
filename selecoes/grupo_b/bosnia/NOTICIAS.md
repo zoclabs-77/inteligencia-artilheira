@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-30
+- Bósnia enfrenta os EUA na quarta-feira (01/07), às 21h (Brasília), no Levi's Stadium, em San Francisco, pelos 16 avos de final (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/eua-bosnia-herzegovina-previa-jogo-copa-mundo-16-avos)
+- Escalação prevista: Vasilj; Malić, Muharemović, Katić e Kolasinac; Bajraktarević, Tahirović, Basic e Alajbegović; Demirović e Džeko. Técnico: Sergej Barbarez (fonte: https://www.365scores.com/pt-br/news/magazine/eua-bosnia-escalacoes-analise/)
+- Será a primeira vez na história que a Bósnia disputa uma fase eliminatória de Copa do Mundo, após classificação histórica no Grupo B (fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760494/bosnia-e-herzegovina-estados-unidos)
+- **Repercussão / Próximo jogo:** Confronto com o anfitrião EUA marca a estreia bósnia em mata-mata de Mundiais — Edin Džeko (40 anos) busca repetir a referência ofensiva que teve na fase de grupos diante de uma defesa americana comandada por Pochettino.
+
 ## 📅 2026-06-25
 - Bósnia venceu o Catar por 3x1 no Lumen Field, em Seattle, pela 2ª rodada do Grupo B, com gols de Alajbegovic e Mahmic (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/bosnia-vence-catar-por-3-a-1-e-encaminha-classificacao-a-proxima-fase/)
 - Resultado garante à Bósnia, em sua primeira classificação histórica, vaga nos 16 avos de final 12 anos após a estreia em Copas (fonte: https://www.olabahia.com.br/selecao-do-catar-e-derrotada-por-3x1-para-bosnia-e-e-eliminada-da-copa-do-mundo-2026/)

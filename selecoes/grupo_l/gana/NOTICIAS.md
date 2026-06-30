@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-30
+- Gana terminou o Grupo L na 3ª posição com 4 pontos, sob comando de Otto Addo, após derrota por 2 a 1 para a Croácia na última rodada (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/croacia-x-gana-copa-do-mundo-2026/)
+- Seguiu na competição como um dos melhores terceiros colocados e enfrenta a Colômbia nas oitavas de final, na sexta-feira, 3 de julho, às 22h30 (Brasília) (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings)
+- **Repercussão / Próximo jogo:** Confronto inédito contra a Colômbia nas oitavas, em 03/07 — Gana chega de campanha equilibrada no Grupo L, tendo segurado a Inglaterra no 0 a 0 antes do tropeço diante da Croácia.
+
 ## 📅 2026-06-28
 - Gana perdeu por 2 a 1 para a Croácia (gol de Derrick Luckassen), terminando o Grupo L na 3ª posição com 4 pontos sob comando de Otto Addo (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/croacia-x-gana-copa-do-mundo-2026/)
 - **Repercussão / Próximo jogo:** Segue na competição dependendo da classificação entre os melhores terceiros colocados do torneio.

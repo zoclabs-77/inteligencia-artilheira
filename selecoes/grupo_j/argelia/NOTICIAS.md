@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-30
+- Argélia enfrenta a Suíça na sexta-feira (03/07), em Vancouver, pelos 16-avos de final, após avançar como uma das melhores terceiras colocadas do torneio com o empate em 3 a 3 contra a Áustria (fonte: https://www.goal.com/br/listas/divisao-na-argelia-por-causa-de-zidane-e-petkovic-prepara-uma-aventura-ousada/bltdd05dbcbe615d20f)
+- Técnico Vladimir Petković, suíço-bósnio de 62 anos, comandou a seleção da Suíça por sete anos e a levou às quartas de final da Euro 2020, o que lhe dá repertório tático e conhecimento do adversário que agora enfrenta com a Argélia (fonte: mesma acima)
+- Há controvérsia na escolha do goleiro titular argelino, com Petković avaliando opções entre Luka Zidane e Osama Benbout antes do confronto (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Confronto especial para Petković, que reencontra a seleção suíça que comandou por anos, agora no banco da Argélia na briga pelas quartas de final.
+
 ## 📅 2026-06-28
 - Argélia empatou em 3 a 3 com a Áustria em Kansas City, em jogo frenético: Belghali e Mahrez (2x, um deles nos acréscimos para virar o placar) marcaram, mas a Áustria respondeu no lance seguinte com gol de Kalajdzic (fonte: https://trivela.com.br/copa-do-mundo/argelia-austria-jogo-comadres-empate-frenetico-classifica/)
 - **Repercussão / Próximo jogo:** Avança como uma das melhores terceiras colocadas do torneio, resultado que tirou o Irã da zona de classificação; mata-mata ainda a definir.

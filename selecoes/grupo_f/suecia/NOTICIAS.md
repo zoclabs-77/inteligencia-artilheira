@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-30
+- Suécia avançou como uma das melhores terceiras colocadas do Grupo F, somando 4 pontos após goleada de 5 a 1 sobre a Tunísia, derrota por 5 a 1 para a Holanda e empate em 1 a 1 com o Japão (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tecnico-da-suecia-projeta-embate-contra-franca/)
+- Zagueiro Isak Hien é desfalque confirmado, com lesão no isquiotibial esquerdo sofrida no empate com o Japão, e está cortado do restante do Mundial (fonte: https://www.golmates.com/pt/copa/2026/selecao/suecia/convocados)
+- Capitão Victor Lindelöf é dúvida após sentir dores no fim do jogo contra o Japão e ser substituído aos 87 minutos (fonte: https://www.golmates.com/pt/copa/2026/selecao/suecia/convocados)
+- Técnico Graham Potter projetou o confronto direto contra a França afirmando que a equipe precisa "chegar perto da perfeição" para buscar a classificação (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tecnico-da-suecia-projeta-embate-contra-franca/)
+- **Repercussão / Próximo jogo:** Suécia enfrenta a França, nesta terça-feira (30/06), no MetLife Stadium (Nova Jersey), pela fase de 16 avos de final, desfalcada de Isak Hien e com a presença de Lindelöf sob dúvida.
+
 ## 📅 2026-06-25
 - Suécia (3 pontos) enfrenta o Japão hoje (25/06), no Dallas Stadium (Arlington), na última rodada do Grupo F — depende de vitória para ter mais segurança na classificação (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16895756/japao-x-suecia-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-copa-do-mundo)
 - Escalação provável: Kristoffer Nordfeldt; Isak Hien, Gustaf Lagerbielke e Nilsson Lindelöf; Alexander Bernhards, Yasin Ayari, Benjamin Nygren, Jesper Karlström e Gabriel Gudmundsson; Viktor Gyökeres e Alexander Isak. Técnico: Graham Potter (fonte: mesma acima)

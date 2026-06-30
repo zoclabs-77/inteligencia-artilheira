@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-30
+- Mohamed Salah foi diagnosticado com estiramento no músculo posterior da coxa após deixar o jogo contra o Irã sentindo dores; lesão confirmada pela Associação Egípcia de Futebol (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fora-das-oitavas-da-copa-do-mundo-salah-tem-lesao-na-coxa-confirmada/)
+- Capitão é dúvida para o duelo com a Austrália, mas já iniciou tratamento intensivo e a comissão técnica trabalha para recuperá-lo a tempo, já que o Egito tem seis dias de intervalo até a partida (fonte: https://br.bolavip.com/copa-do-mundo/salah-vira-duvida-para-egito-x-australia-pela-copa-do-mundo-apos-lesao-detectada)
+- Zagueiro Mohamed Abdelmonem também trata lesão no tornozelo, mas ainda mantém chances de ser relacionado (fonte: https://br.bolavip.com/copa-do-mundo/salah-vira-duvida-para-egito-x-australia-pela-copa-do-mundo-apos-lesao-detectada)
+- Egito havia terminado a fase de grupos na liderança do Grupo G, à frente de Bélgica, Irã e Nova Zelândia (fonte: https://www.365scores.com/pt-br/news/magazine/belgica-x-senegal-escalacoes-analise-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Egito enfrenta a Austrália na sexta-feira (03/07), às 15h de Brasília, no estádio AT&T (Dallas/Arlington), pela fase de 16 avos de final, com a situação física de Salah como principal incógnita.
+
 ## 📅 2026-06-25
 - Egito lidera o Grupo G com 4 pontos e enfrenta o Irã no sábado (27/06), no Lumen Field (Seattle); um empate já garante a primeira classificação histórica da seleção às oitavas (fonte: https://www.meutimao.com.br/apostas/palpites/egito-x-ira-copa-do-mundo-27062026)
 - Escalação provável (4-2-3-1): Mostafa Shobeir; Ahmed Fatouh, Yasser Ibrahim, Ramy Rabia e Mohamed Hany; Mohanad Lasheen e Marwan Attia; Emam Ashour, Mohamed Salah e Mostafa Ziko (fonte: https://www.goal.com/en-us/news/egypt-iran-world-cup-preview/bltbce2e5fc24897843)

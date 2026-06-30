@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-30
+- Cabo Verde fez história ao se classificar pela primeira vez para o mata-mata de uma Copa do Mundo, encerrando a fase de grupos invicto (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/a-historia-continua-cabo-verde-empata-com-arabia-saudita-e-avanca-na-copa/)
+- Convocação de 26 jogadores foi anunciada pelo técnico Pedro Leitão Brito, o "Bubista", com destaque para o goleiro Vozinha, o zagueiro Roberto "Pico" Lopes e o atacante Dailon Livramento (fonte: https://www.terra.com.br/esportes/cabo-verde-na-copa-do-mundo-2026-confira-a-lista-completa-com-os-26-convocados,7bbce4708b6c2ed623edc5d9fd170d78kc5av590.html)
+- Argentina avança como uma das favoritas ao título e é a próxima adversária da campanha histórica cabo-verdiana (fonte: https://www.lance.com.br/copa-do-mundo/argentina-enfrenta-cabo-verde-na-segunda-fase-da-copa-do-mundo.html)
+- **Repercussão / Próximo jogo:** Cabo Verde enfrenta a Argentina na sexta-feira (03/07), às 19h de Brasília, no Hard Rock Stadium (Miami), pela fase de 16 avos de final — maior desafio da história recente da seleção.
+
 ## 📅 2026-06-25
 - Cabo Verde chega invicto à última rodada, com dois empates contra Espanha (0x0) e Uruguai (2x2), e enfrenta a Arábia Saudita nesta sexta (26/06), 21h de Brasília, no NRG Stadium (Houston), na 3ª posição do Grupo H (fonte: https://www.meutimao.com.br/apostas/palpites/cabo-verde-x-arabia-saudita-copa-do-mundo-26062026)
 - Escalação provável: Vozinha; Steven Moreira, Sidny Cabral, Pico e Diney; Kevin Pina, Laros Duarte, Jamiro Monteiro; Jovane Cabral; Ryan Mendes e Dailon Livramento, sob o comando do técnico Bubista (fonte: mesma acima)

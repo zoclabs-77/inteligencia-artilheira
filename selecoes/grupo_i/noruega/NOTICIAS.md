@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-30
+- Noruega enfrenta a Costa do Marfim nesta terça (30/06), 14h de Brasília, no AT&T Stadium (Arlington), pelos 16-avos de final (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/haaland-retorna-para-jogo-da-noruega-contra-costa-do-marfim/)
+- Erling Haaland retorna à equipe titular para o confronto; soma 4 gols em duas partidas na Copa (dois contra o Iraque e dois sobre o Senegal) (fonte: mesma acima)
+- Técnico Ståle Solbakken classificou Haaland como "um dos melhores jogadores do mundo", destacando liderança, força física e faro de gol do atacante (fonte: mesma acima)
+- Noruega terminou em 2º lugar no Grupo I, com seis pontos, após entrar com equipe alternativa e perder por 4 a 1 para a França já classificada (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Duelo geracional contra a Costa do Marfim de Diomandé marca a estreia da Noruega no mata-mata, com Haaland de volta ao time titular.
+
 ## 📅 2026-06-25
 - Noruega, já classificada com 6 pontos, disputa a liderança do Grupo I contra a França nesta sexta (26/06), no Gillette Stadium (Boston) (fonte: https://www.cnnbrasil.com.br/esportes/futebol/apostas/palpites/noruega-x-franca-no-mundial-2026-horario-onde-assistir-e-analise-do-jogo/)
 - Perdeu o lateral Ryerson por lesão, desfalque significativo para o duelo mais difícil do torneio (fonte: mesma acima)

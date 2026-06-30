@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-30
+- Austrália enfrenta o Egito na sexta-feira (03/07), às 15h (Brasília), no AT&T Stadium, no Texas, pelos 16 avos de final (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289287/400021515)
+- Escalação prevista: Ryan; Circati, Souttar e Burgess; Jacob Italiano, O'Neill, Irvine, Bos, Metcalfe e Volpato; Touré. Técnico: Tony Popović (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289287/400021515)
+- Uma onda de lesões atingiu o elenco australiano antes do confronto, incluindo o desfalque de Matthew Leckie, lesionado durante o jogo contra os EUA na fase de grupos (fonte: https://www.goal.com/br/not%C3%ADcias/uma-onda-de-lesoes-atinge-a-australia-antes-do-confronto-contra-o-egito-na-copa-do-mundo/blt196c6c8fdeb30b5e)
+- Egito classificou-se com elenco ofensivo liderado por Mohamed Salah e Marmoush, peças centrais do ataque egípcio (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/convocao-egito-copa)
+- **Repercussão / Próximo jogo:** Austrália chega desfalcada por lesões para encarar um Egito ofensivo puxado por Salah — primeiro mata-mata dos Socceroos nesta Copa, em busca de repetir a campanha surpreendente da fase de grupos.
+
 ## 📅 2026-06-25
 - Austrália (3 pontos) enfrenta o Paraguai hoje (25/06), no Levi's Stadium (Santa Clara), em decisão antecipada do Grupo D — saldo de gols melhor permite classificação até com um empate (fonte: https://massa.com.br/copa-do-mundo-2026/paraguai-x-australia)
 - Escalação prevista: Mathew Ryan; Jason Geria, Harry Souttar, Milos Degenek, Jordan Bos; Jackson Irvine (c), Aiden O'Neill, Connor Metcalfe; Nestory Irankunda, Mathew Leckie e Awer Mabil. Técnico: Tony Popovic (fonte: https://esportenewsmundo.com.br/paraguai-x-australia-escalacoes-desfalques-retrospecto-onde-assistir-e-palpite/)

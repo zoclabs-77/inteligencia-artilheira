@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-30
+- RD Congo avançou pela 1ª vez na história a uma fase eliminatória de Copa do Mundo, terminando o Grupo K na 3ª posição, e enfrenta a Inglaterra nas oitavas de final na quarta-feira, 1º de julho, no Mercedes-Benz Stadium, em Atlanta (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/inglaterra-rd-congo-previa-jogo-copa-mundo-16-avos)
+- Equipe aposta em organização defensiva, intensidade física e no talento de Yoane Wissa como principais armas contra o adversário mais tradicional; capitão Chancel Mbemba lidera a defesa ao lado de Aaron Wan-Bissaka, Axel Tuanzebe e Arthur Masuaku, todos com rotina na Premier League e em competições europeias (fonte: https://www.365scores.com/pt-br/news/magazine/inglaterra-x-rd-congo-escalacoes-analise-copa-do-mundo/)
+- Será o primeiro confronto da história entre as duas seleções (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/inglaterra-rd-congo-previa-jogo-copa-mundo-16-avos)
+- **Repercussão / Próximo jogo:** Estreia inédita em oitavas de final diante da Inglaterra, em 01/07, em Atlanta — missão é repetir a solidez defensiva mostrada na fase de grupos contra um ataque inglês embalado por Kane e Bellingham.
+
 ## 📅 2026-06-28
 - RD Congo venceu o Uzbequistão por 3 a 1 no Mercedes-Benz Stadium (Atlanta), em virada: Shomurodov abriu o placar para os uzbeques, Wissa empatou de pênalti, Mayele virou e Wissa fechou a conta (fonte: https://trivela.com.br/copa-do-mundo/rd-congo-3-x-1-uzbequistao-wissa-desafiando-historia/)
 - Resultado garante a 3ª colocação no Grupo K com 4 pontos (fonte: mesma acima)

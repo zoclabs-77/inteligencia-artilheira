@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-06-30
+- Croácia avançou em 2º lugar do Grupo L e enfrenta Portugal nas oitavas de final na quinta-feira, 2 de julho, no Estádio de Toronto, às 20h (Brasília) (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-portugal-mata-mata)
+- Equipe chega de vitória por 2 a 1 sobre Gana na última rodada de grupos, com gols de Petar Sucic e Nikola Vlasic (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/croacia-x-gana-copa-do-mundo-2026/)
+- **Repercussão / Próximo jogo:** Confronto europeu direto contra Portugal e Cristiano Ronaldo nas oitavas de final, em 02/07, em Toronto — Luka Modric segue como peça-chave na armação da equipe nesta que pode ser sua última Copa do Mundo.
+
 ## 📅 2026-06-28
 - Croácia venceu Gana por 2 a 1 no Lincoln Financial Field (Filadélfia), com gols de Petar Sucic e Nikola Vlasic; Gana descontou com Derrick Luckassen (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/croacia-x-gana-copa-do-mundo-2026/)
 - Resultado garante à Croácia a 2ª colocação do Grupo L, com 6 pontos (fonte: mesma acima)

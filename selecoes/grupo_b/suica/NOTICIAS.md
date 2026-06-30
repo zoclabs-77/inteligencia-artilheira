@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-30
+- Suíça enfrenta a Argélia na sexta-feira (03/07), à meia-noite (horário local)/Brasília a confirmar, no BC Place, em Vancouver, pelos 16 avos de final (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings)
+- Escalação prevista: Kobel; Widmer, Jaquez, Akanji, Rodríguez; Aebischer, Xhaka, Freuler; Ndoye, Embolo, Vargas. Técnico: Murat Yakin (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings)
+- Suíça chega como líder invicta do Grupo B (vitórias sobre Bósnia e Canadá, empate com Catar), enquanto detalhes da escalação e situação física da Argélia ainda não foram confirmados pela imprensa nesta busca (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings)
+- **Repercussão / Próximo jogo:** Suíça chega embalada e com elenco profundo (Manzambi e Vargas decisivos saindo do banco na fase de grupos) para a estreia em mata-mata contra a Argélia.
+
 ## 📅 2026-06-25
 - Suíça venceu o Canadá por 2x1 em Vancouver (BC Place) pela 3ª rodada do Grupo B, com Promise David marcando o gol de honra canadense (fonte: https://www.gazetaesportiva.com/minuto-a-minuto/copa-do-mundo-2026/suica-x-canada/237063/)
 - Resultado consolida a Suíça na liderança do Grupo B após empate com o Catar (1x1) e goleada sobre a Bósnia (4x1) nas rodadas anteriores (fonte: https://www.terra.com.br/esportes/futebol/internacional/suica-x-canada-saiba-tudo-sobre-a-briga-pelo-primeiro-lugar-do-grupo-b-da-copa-do-mundo,45c461d677fa544b268d7f7998ce13e1ekjm6t10.html)

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-30
+- França encara a Suécia nesta terça (30/06), 18h de Brasília, no MetLife Stadium (Nova Jersey), pelos 16-avos de final, após liderar o Grupo I com 100% de aproveitamento e dez gols marcados (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/franca-x-suecia-copa-2026-onde-assistir/)
+- Escalação prevista: Maignan; Koundé, Upamecano, Lacroix e Theo Hernández; Tchouaméni e Manu Koné; Ousmane Dembélé, Michael Olise e Doué; Kylian Mbappé (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/franca-x-suecia-onde-assistir-horario-e-escalacoes-pela-copa-do-mundo,9081608609411470e3500cf2cd3368e0ektl771j.html)
+- Suécia, comandada por Graham Potter, chega como uma das melhores terceiras colocadas e reorganizou a defesa após lesão grave do zagueiro Hien, recuando Victor Lindelof para a linha de três e promovendo a entrada de Bergvall (Tottenham) (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Estreia da fase eliminatória para os franceses, favoritos diante de uma Suécia que chegou ao mata-mata pelo caminho dos melhores terceiros colocados.
+
 ## 📅 2026-06-25
 - França e Noruega chegam já classificadas para as oitavas, ambas com 6 pontos, mas a França lidera pelo saldo de gols (+5 a +4); decisão da liderança do Grupo I é nesta sexta (26/06), no Gillette Stadium (Boston) (fonte: https://www.cnnbrasil.com.br/esportes/futebol/apostas/palpites/noruega-x-franca-no-mundial-2026-horario-onde-assistir-e-analise-do-jogo/)
 - Técnico Didier Deschamps perdeu a mãe na terça (23/6) e retornou à França para o velório; a seleção é comandada interinamente por Guy Stéphan (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-noruega-x-franca-26-06-2026.html)

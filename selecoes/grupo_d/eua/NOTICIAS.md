@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-30
+- EUA enfrenta a Bósnia na quarta-feira (01/07), às 21h (Brasília), no Levi's Stadium, em San Francisco, pelos 16 avos de final (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/eua-bosnia-herzegovina-previa-jogo-copa-mundo-16-avos)
+- Escalação prevista: Freese; Freeman, Ream, Richards; Dest, Tyler Adams, Tillman e Robinson; Pulisic e McKennie; Balogun. Técnico: Mauricio Pochettino (fonte: https://www.365scores.com/pt-br/news/magazine/eua-bosnia-escalacoes-analise/)
+- EUA venceram o Grupo D com vitórias sobre Paraguai e Austrália antes de perder para a Turquia nos minutos finais na última rodada (fonte: https://www.365scores.com/pt-br/news/magazine/eua-bosnia-escalacoes-analise/)
+- Anfitrião já chegou ao mata-mata em sete oportunidades anteriores em Copas, enquanto a Bósnia disputa sua primeira fase eliminatória mundial (fonte: https://www.365scores.com/pt-br/news/magazine/eua-bosnia-escalacoes-analise/)
+- **Repercussão / Próximo jogo:** Pressão de jogar em casa pelos 16 avos contra uma Bósnia estreante em mata-mata, que tenta repetir o fôlego defensivo mostrado contra o Catar na fase de grupos.
+
 ## 📅 2026-06-25
 - EUA, líder isolado e já classificado às oitavas com 6 pontos, recebe a Turquia hoje (25/06), 23h de Brasília, no SoFi Stadium (Los Angeles), buscando manter 100% de aproveitamento (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-06-25/turquia-vs-estados-unidos)
 - Escalação provável: Freese; Freeman, Chris Richards e Tim Ream; Dest, Adams, McKennie e Robinson; Tillman, Balogun e Pulisic (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/turquia-x-estados-unidos-veja-as-provaveis-escalacoes-para-o-duelo-da-copa-do-mundo/)

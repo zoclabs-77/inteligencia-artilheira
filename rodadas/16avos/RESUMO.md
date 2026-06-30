@@ -1,35 +1,39 @@
-# 16 avos de final — Resumo (atualizado em 2026-06-29)
+# 16 avos de final — Resumo (atualizado em 2026-06-30)
 
-> Início do mata-mata da Copa 2026. **1 de 16 jogos** dos 16 avos de final disputado até agora.
+> Mata-mata da Copa 2026 a todo vapor. **4 de 16 jogos** dos 16 avos de final disputados até agora.
 
-## Placares confirmados — 28/06 🆕
+## Placares confirmados — 29/06 🆕
 
-- **Canadá 1 x 0 África do Sul** — Stephen Eustáquio dominou no peito e bateu da entrada da área nos acréscimos (90'+2) para decidir um jogo muito equilibrado no SoFi Stadium, Los Angeles. O Canadá vence sua primeira partida de mata-mata em Copas do Mundo e avança às oitavas pela 1ª vez na história. Agora espera o vencedor de Marrocos x Holanda.
+- **Alemanha 1 x 1 Paraguai (Paraguai venceu nos pênaltis, 4-3)** — Julio Enciso abriu para o Paraguai aos 41' do 1º tempo, Havertz empatou aos 8' do 2º. Sem gols na prorrogação, foi para os pênaltis: Orlando Gill defendeu duas cobranças alemãs e foi o herói da classificação paraguaia. Primeira zebra do mata-mata — tetracampeã alemã eliminada, Brasil segue como único pentacampeão na disputa.
+- **Holanda 1 x 1 Marrocos (Marrocos venceu nos pênaltis, 3-2)** — Cody Gakpo colocou a Holanda na frente, Issa Diop empatou de cabeça nos acréscimos do 2º tempo (90'+5). Prorrogação sem gols, pênaltis para o Marrocos: o goleiro Bono defendeu uma cobrança holandesa e selou a segunda zebra do dia.
+- **Brasil 2 x 1 Japão** — Kaishu Sano abriu o placar para o Japão aos 28' do 1º tempo, mas a Seleção virou no 2º tempo com gols de Casemiro e Gabriel Martinelli (este nos acréscimos). Brasil avança às oitavas.
 
-## Palpites × Resultado — 28/06 (jogo 73) 🆕
+## Palpites × Resultado — 29/06 (jogos 74-76) 🆕
 
 | # | Jogo | Claude | Codex | Baseline | Real | Cla | Cdx | Base |
 |---|---|---|---|---|---|---|---|---|
-| 73 | Canadá x África do Sul | 2-1 | 2-1 | 1-0 | **1-0** | 2 | 2 | 3⭐ |
-| | **Total do lote** | | | | | **2** | **2** | **3** |
+| 74 | Alemanha x Paraguai | 2-0 | 2-0 | 1-0 | **1-1** (pên: Paraguai) | 0 | 0 | 0 |
+| 75 | Holanda x Marrocos | 1-0 | 2-1 | 1-0 | **1-1** (pên: Marrocos) | 0 | 0 | 0 |
+| 76 | Brasil x Japão | 2-1 | 2-1 | 1-0 | **2-1** | 3⭐ | 3⭐ | 2 |
+| | **Total do lote** | | | | | **3** | **3** | **2** |
 
-⭐ = placar exato (3 pts). O Baseline (sempre 1x0 no favorito do ranking) cravou o placar exato e foi quem mais pontuou no primeiro jogo do mata-mata. Claude e Codex acertaram o vencedor com saldo certo (palpite +1, real +1) e levaram 2 pts cada.
+⭐ = placar exato (3 pts). Lote duro pros três modelos: ninguém previu nenhum dos dois empates que foram pra pênaltis (74 e 75) — todos apostaram em vitória do "favorito" no tempo normal. Só o jogo do Brasil rendeu pontos: Claude e Codex cravaram o 2-1 exato (3 pts cada), Baseline acertou só o vencedor com saldo errado (2 pts).
 
-## Placar geral acumulado — após 1º jogo dos 16 avos (73 jogos no total)
+## Placar geral acumulado — após 4 jogos dos 16 avos (76 jogos no total)
 
 | Modelo | Pts nos 16 avos | Total acum. (grupos + 16 avos) | Placares exatos (acum.) | Acertos resultado (acum.) |
 |---|---|---|---|---|
-| **Codex** | 2 | **80** | 10 | 48 |
-| **Claude** | 2 | **72** | 9 | 44 |
-| **Baseline** | 3 | **63** | 7 | 44 |
+| **Codex** | 5 | **83** | 11 | 49 |
+| **Claude** | 5 | **75** | 10 | 45 |
+| **Baseline** | 5 | **65** | 7 | 45 |
 
 > Pontuação: placar exato = 3 · vencedor + saldo certo = 2 · só o vencedor/empate = 1 · errou = 0. Totais via `copa.placar_geral`.
 
 ## Destaques
 
-- **CANADÁ FAZ HISTÓRIA:** primeira vitória canadense em mata-mata de Copas. Eustáquio decidiu nos acréscimos (90'+2) e classificou os anfitriões às oitavas pela 1ª vez. Próximo adversário sai de Marrocos x Holanda.
-- **BASELINE ABRE O MATA-MATA CRAVANDO:** a régua "1x0 no favorito do ranking" bateu em cheio no único jogo do dia — placar exato e 3 pts, o melhor do lote. Claude e Codex ficaram com 2 pts cada (vencedor + saldo certo).
-- **CODEX SEGUE NA LIDERANÇA GERAL:** 80 pts acumulados, contra 72 do Claude e 63 do Baseline. A vantagem construída na fase de grupos segue intacta no início do mata-mata.
+- **DUPLA ZEBRA NOS PÊNALTIS:** Alemanha e Holanda, duas das favoritas ao título, caíram no mesmo dia — ambas empatando 1-1 e perdendo nos pênaltis (Paraguai 4-3 sobre a Alemanha, Marrocos 3-2 sobre a Holanda). Os três modelos previram vitória dos favoritos nos dois jogos e zeraram em ambos — nenhum enxergou o empate.
+- **BRASIL SOFRE MAS CLASSIFICA:** Japão saiu na frente com Kaishu Sano, mas Casemiro e Martinelli (este nos acréscimos) viraram para o Brasil. Claude e Codex cravaram o 2-1 exato — o melhor lote de pontuação dos dois modelos no mata-mata até agora.
+- **CODEX SEGUE NA LIDERANÇA GERAL:** 83 pts acumulados, contra 75 do Claude e 65 do Baseline. Claude e Codex empataram no lote do dia (3 pts cada) e mantiveram a distância para o Baseline, que sofreu mais com os dois empates inesperados.
 
 ---
 **ZocLabs 🧪 — Inteligência Artilheira**

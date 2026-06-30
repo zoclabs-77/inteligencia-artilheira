@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-30
+- Bélgica terminou a fase de grupos na liderança do Grupo G, com 5 pontos, após empates contra Egito (1x1) e Irã (0x0) e goleada de 5x1 sobre a Nova Zelândia (fonte: https://www.365scores.com/pt-br/news/magazine/belgica-x-senegal-escalacoes-analise-copa-do-mundo/)
+- Técnico francês Rudi Garcia segue no comando da seleção desde janeiro de 2025, após passagens por Lille, Roma, Marselha, Lyon, Al-Nassr e Napoli (fonte: https://www.goal.com/en-us/news/belgium-senegal-world-cup-preview/blt1c958015a91eebc7)
+- Jérémy Doku surge como principal destaque ofensivo da equipe, com Kevin De Bruyne mantendo papel de referência técnica do elenco (fonte: https://www.goal.com/en-us/news/belgium-senegal-world-cup-preview/blt1c958015a91eebc7)
+- Senegal, comandado por Pape Thiaw, avançou como um dos melhores terceiros colocados do grupo, com uma vitória e dois empates na fase de grupos (fonte: https://www.365scores.com/pt-br/news/magazine/belgica-x-senegal-escalacoes-analise-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Bélgica enfrenta o Senegal nesta quarta-feira (01/07), às 17h de Brasília, no Lumen Field (Seattle), pela fase de 16 avos de final — possivelmente uma das últimas Copas da "Geração de Ouro" belga.
+
 ## 📅 2026-06-25
 - Bélgica busca o resultado para confirmar a 1ª colocação do Grupo G contra a Nova Zelândia, no sábado (27/06), em jogo onde os belgas são amplamente favoritos (fonte: https://www.goal.com/en-us/news/new-zealand-belgium-world-cup-preview/blt15910be7a6f8f7b9)
 - Escalação provável: T. Courtois; T. Castagne, Z. Debast, A. Theate e M. De Cuyper; A. Onana, Y. Tielemans e K. De Bruyne; J. Doku, L. Trossard e R. Lukaku (fonte: mesma acima)

@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-30
+- Senegal enfrenta a Bélgica na quarta-feira (01/07), 17h de Brasília, no Lumen Field (Seattle), pelos 16-avos de final (fonte: https://www.365scores.com/pt-br/news/magazine/belgica-x-senegal-escalacoes-analise-copa-do-mundo/)
+- Escalação provável: Mory Diaw; Seck, Niakhaté e E. Diouf; Diatta, Pape Gueye, Camara e I. Gueye; Mané, Sarr e I. Ndiaye (fonte: https://www.ogol.com.br/jogo/2026-07-01-belgica-senegal/11841297)
+- Os Leões de Teranga avançaram pelo caminho mais difícil, como um dos melhores terceiros colocados, somando apenas três pontos no Grupo I (derrotas para França e Noruega, seguidas de goleada por 5 a 0 sobre o Iraque) (fonte: https://www.365scores.com/pt-br/news/magazine/belgica-x-senegal-escalacoes-analise-copa-do-mundo/)
+- Bélgica avançou como líder do Grupo G com cinco pontos, em campanha que começou com empates (1x1 com Egito, 0x0 com Irã) e terminou com goleada de 5 a 1 sobre a Nova Zelândia (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Senegal chega ao mata-mata como um dos azarões entre os melhores terceiros e enfrenta uma Bélgica que cresceu de produção ao longo da fase de grupos.
+
 ## 📅 2026-06-25
 - Senegal, sem pontos após duas derrotas (a mais competitiva foi o 3x2 para a Noruega), enfrenta o Iraque nesta sexta (26/06), 16h de Brasília, no BMO Field (Toronto), última chance de classificação entre os melhores terceiros (fonte: https://www.goal.com/en-us/news/senegal-iraq-world-cup-preview/bltd9cd15e8559290bf)
 - Escalação provável: Mory Diaw; Ismail Jakobs, Kalidou Koulibaly, Moussa Niakhaté e El Hadji Malick Diouf; Lamine Camara, Idrissa Gueye e Pape Matar Sarr; Ismaïla Sarr, Nicolas Jackson e Sadio Mané (fonte: mesma acima)
