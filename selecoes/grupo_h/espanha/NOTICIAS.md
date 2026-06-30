@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-30
+- Espanha encerrou a fase de grupos na liderança do Grupo H, com 7 pontos, melhor campanha entre as quatro seleções da chave (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-espanha-x-austria-02-07-26.html)
+- Técnico Luis de la Fuente convocou 26 jogadores, com Lamine Yamal entre oito atletas do Barcelona na lista — pela primeira vez a Espanha disputa um Mundial sem nenhum jogador do Real Madrid (fonte: https://www.goal.com/en-us/lists/spain-2026-world-cup-squad-confirmed-lamine-yamal-one-of-eight-barcelona-stars-in-26-man-list-real-madrid-suffer-historic-snub/blt8ecbc23082cce5c0)
+- Áustria avançou como segunda colocada do Grupo J, com 4 pontos, e deve apostar em postura mais defensiva, explorando transições rápidas com Arnautovic, Sabitzer e Laimer (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-espanha-x-austria-02-07-26.html)
+- Espanha chega favorita ao confronto por ter apresentado o melhor desempenho na fase de grupos e contar com elenco mais qualificado para decidir partidas de mata-mata (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-espanha-x-austria-02-07-26.html)
+- **Repercussão / Próximo jogo:** Espanha enfrenta a Áustria na quinta-feira (02/07), às 16h de Brasília, em Los Angeles, pela fase de 16 avos de final.
+
 ## 📅 2026-06-25
 - Espanha lidera o Grupo H com 4 pontos e enfrenta o Uruguai nesta sexta (26/06), 21h de Brasília, no Estádio Akron (Guadalajara), pela 3ª rodada (fonte: https://www.goal.com/en-us/news/uruguay-spain-world-cup-preview/blt108f73be6b25d09d)
 - Escalação provável: Simón; Pedro Porro, Cubarsí, Laporte, Cucurella; Rodri, Pedri, Dani Olmo; Lamine Yamal, Baena e Oyarzabal; fontes divergem sobre suspensão de Pedri por cartões amarelos (fonte: https://www.365scores.com/pt-br/news/magazine/uruguai-x-espanha-escalacoes-copa/)

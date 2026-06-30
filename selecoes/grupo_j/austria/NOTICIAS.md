@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-06-30
+- Áustria enfrenta a Espanha na quinta-feira (02/07), às 21h de Brasília, em Los Angeles, pelos 16-avos de final, após avançar em 2º lugar no Grupo J com o empate em 3 a 3 contra a Argélia (fonte: https://www.futbol24.com/pt/apostas-palpites/previa/02-07-2026-espanha-austria-dica/)
+- Espanha, comandada por Luis de la Fuente, terminou líder do Grupo H com 7 pontos e ainda não sofreu gols na fase de grupos; Áustria, de Ralf Rangnick, classificou-se com 4 pontos mas sofreu seis gols em três jogos, evidenciando fragilidade defensiva (fonte: mesma acima)
+- Mercado de apostas aponta a Espanha como ampla favorita para o confronto (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Áustria tenta seguir viva no torneio diante de uma Espanha sólida defensivamente, em desafio que opõe a melhor defesa do Mundial ao ataque dinâmico austríaco.
+
 ## 📅 2026-06-28
 - Áustria empatou em 3 a 3 com a Argélia em Kansas City, num final caótico: Arnautovic e Sabitzer marcaram, e Kalajdzic decretou o 3x3 nos acréscimos de cabeça, no lance seguinte ao gol da virada argelina (fonte: https://trivela.com.br/copa-do-mundo/argelia-austria-jogo-comadres-empate-frenetico-classifica/)
 - **Repercussão / Próximo jogo:** Avança em 2º lugar no Grupo J e volta à segunda fase de uma Copa pela primeira vez desde 1982; mata-mata ainda a definir.

@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-06-30
+- Argentina inicia a preparação para o duelo com Cabo Verde, marcado para sexta-feira (03/07), no Hard Rock Stadium (Miami), às 19h de Brasília, pelos 16-avos de final (fonte: https://www.gazetaesportiva.com/times/argentina/com-duvidas-argentina-inicia-preparacao-para-duelo-contra-cabo-verde-na-copa/)
+- Equipe encerrou a fase de grupos com 100% de aproveitamento; Messi é o artilheiro do torneio com seis gols, balançando as redes em todos os jogos disputados até aqui (fonte: mesma acima)
+- Scaloni tem três dúvidas a resolver: se Cristian "Cuti" Romero (recuperando-se de pancada no joelho direito) estará 100% — o zagueiro já treina no ritmo dos companheiros — e quem joga ao lado de Messi no ataque, entre Lautaro Martínez (titular contra a Jordânia, marcou de pênalti) e Julián Álvarez (atuação discreta na última partida) (fonte: mesma acima)
+- Técnico quer evitar excesso de confiança e planeja escalar a força máxima possível diante de Cabo Verde (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Mesmo favorita, a Argentina trata o confronto com cautela, com Scaloni reavaliando a dupla de ataque ao lado de Messi para as oitavas.
+
 ## 📅 2026-06-28
 - Argentina venceu a Jordânia por 3 a 1 em Dallas, com gols de Giovani Lo Celso, Lautaro Martínez e Lionel Messi (entrou no 2º tempo); Al-Tamari descontou para os jordanianos (fonte: https://www.skysports.com/football/jordan-vs-argentina/report/549833)
 - Messi se tornou o primeiro jogador a marcar em sete jogos consecutivos de Copa do Mundo, somando seis gols nesta edição e 19 no total — novo recorde histórico (fonte: mesma acima)
