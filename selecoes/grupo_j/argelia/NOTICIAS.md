@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Argélia se prepara para o duelo com a Suíça na madrugada de sexta-feira (3 de julho, 00h de Brasília), em Vancouver — escalação prevista: Benbot; Belghali, Mandi, Bensebaini e Ait Nouri; Bentaleb, Aouar e Ibrahim Maza; Mahrez, Fares Chaibi e Amine Gouiri (fonte: https://www.365scores.com/pt-br/news/magazine/suica-x-argelia-escalacoes-copa/)
+- Riyad Mahrez, camisa 10 e principal estrela da seleção, chega ao mata-mata carregando a expectativa de toda uma nação que reviveu a paixão pelo futebol com a campanha histórica até esta fase (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-suica-x-argelia-03-07-2026.html)
+- Argélia avançou como uma das melhores 3ªs colocadas do Grupo J (com 4 pontos: 1 vitória, 1 empate e 1 derrota), passando pela chave que incluía a Argentina campeã do mundo; técnico Graham Potter aposta em contra-ataques rápidos (fonte: https://www.365scores.com/pt-br/news/magazine/suica-x-argelia-escalacoes-copa/)
+- Aissa Mandi na zaga e Ramy Bensebaini na lateral esquerda (jogador do Borussia Dortmund) dão peso europeu à defesa argelina — chave para suportar a pressão suíça (fonte: https://www.sofascore.com/football/match/switzerland-algeria/QTbsZTb)
+- **Repercussão / Próximo jogo:** Argélia entra como azarão na madrugada de sexta (3 de julho) em Vancouver — Mahrez precisa ser decisivo para a seleção norte-africana seguir surpreendendo.
+
 ## 📅 2026-06-30
 - Argélia enfrenta a Suíça na sexta-feira (03/07), em Vancouver, pelos 16-avos de final, após avançar como uma das melhores terceiras colocadas do torneio com o empate em 3 a 3 contra a Áustria (fonte: https://www.goal.com/br/listas/divisao-na-argelia-por-causa-de-zidane-e-petkovic-prepara-uma-aventura-ousada/bltdd05dbcbe615d20f)
 - Técnico Vladimir Petković, suíço-bósnio de 62 anos, comandou a seleção da Suíça por sete anos e a levou às quartas de final da Euro 2020, o que lhe dá repertório tático e conhecimento do adversário que agora enfrenta com a Argélia (fonte: mesma acima)

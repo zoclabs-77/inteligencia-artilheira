@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Escalação provável para o duelo com a Inglaterra: Mpasi; Wan-Bissaka, Mbemba, Tuanzebe e Masuaku; Sadiki, Moutoussamy e Mbuku; Cipenga; Wissa e Bakambu — defesa experiente no futebol europeu será testada por Kane e Bellingham (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/inglaterra-x-rd-congo-veja-as-provaveis-escalacoes-para-o-confronto-202606301908)
+- Yoane Wissa, artilheiro dos Leopardos com 3 gols na fase de grupos, é a principal esperança ofensiva para surpreender a defesa inglesa no mata-mata de hoje (fonte: https://www.goal.com/br/not%C3%ADcias/Inglaterra-x-RD%20Congo-onde-assistir-ao-vivo-transmissao-escalacao-que-horas-comeca-e-mais-do-competition/blt7d12554bb2cbb2b3)
+- Equipe médica da RD Congo não registrou novos problemas físicos; elenco completo à disposição do técnico Sébastien Desabre para a estreia histórica no mata-mata mundialista (fonte: https://www.365scores.com/pt-br/news/magazine/inglaterra-x-rd-congo-escalacoes-analise-copa-do-mundo/)
+- Capitão Chancel Mbemba lidera a defesa ao lado de Wan-Bissaka e Tuanzebe — todos com passagem pela Premier League, o que reduz o impacto do fator nível de jogo europeu dos ingleses (fonte: https://almapreta.com.br/sessao/africa-diaspora/rd-congo-inglaterra-onde-assistir-copa-2026/)
+- **Repercussão / Próximo jogo:** RD Congo entra como azarão hoje (01/07), às 13h de Brasília, em Atlanta, mas chega compacta e com Wissa em fogo — qualquer classificação seria histórica para o futebol congolês.
+
 ## 📅 2026-06-30
 - RD Congo avançou pela 1ª vez na história a uma fase eliminatória de Copa do Mundo, terminando o Grupo K na 3ª posição, e enfrenta a Inglaterra nas oitavas de final na quarta-feira, 1º de julho, no Mercedes-Benz Stadium, em Atlanta (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/inglaterra-rd-congo-previa-jogo-copa-mundo-16-avos)
 - Equipe aposta em organização defensiva, intensidade física e no talento de Yoane Wissa como principais armas contra o adversário mais tradicional; capitão Chancel Mbemba lidera a defesa ao lado de Aaron Wan-Bissaka, Axel Tuanzebe e Arthur Masuaku, todos com rotina na Premier League e em competições europeias (fonte: https://www.365scores.com/pt-br/news/magazine/inglaterra-x-rd-congo-escalacoes-analise-copa-do-mundo/)

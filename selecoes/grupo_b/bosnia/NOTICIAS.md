@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Escalação provável para o jogo de hoje contra os EUA: Vasilj; Malić, Muharemović, Katić e Kolasinac; Bajraktarević, Tahirović, Basic e Alajbegović; Demirović e Džeko — técnico Sergej Barbarez mantém a linha que classificou a Bósnia como um dos melhores terceiros colocados (fonte: https://www.365scores.com/pt-br/news/magazine/eua-bosnia-escalacoes-analise/)
+- Edin Džeko (40 anos), capitão e principal referência ofensiva, chega para sua última Copa do Mundo buscando protagonizar o maior resultado da história do futebol bósnio (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/eua-bosnia-herzegovina-previa-jogo-copa-mundo-16-avos)
+- Partida acontece hoje (01/07), às 21h de Brasília, no Levi's Stadium, em San Francisco — Bósnia joga na condição de visitante e precisa superar o fator casa americano (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-eua-x-bosnia-e-herzegovina-01-07-2026.html)
+- Ermedin Demirović é a chave criativa que alimenta Džeko na frente; Barbarez aposta na compactação defensiva para segurar os EUA e explorar os contra-ataques (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-bosnia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-300626-1344.html)
+- **Repercussão / Próximo jogo:** Bósnia entra hoje como azarão em San Francisco, mas a estreia histórica no mata-mata de um Mundial já é motivo de orgulho nacional — Džeko quer deixar uma última marca épica.
+
 ## 📅 2026-06-30
 - Bósnia enfrenta os EUA na quarta-feira (01/07), às 21h (Brasília), no Levi's Stadium, em San Francisco, pelos 16 avos de final (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/eua-bosnia-herzegovina-previa-jogo-copa-mundo-16-avos)
 - Escalação prevista: Vasilj; Malić, Muharemović, Katić e Kolasinac; Bajraktarević, Tahirović, Basic e Alajbegović; Demirović e Džeko. Técnico: Sergej Barbarez (fonte: https://www.365scores.com/pt-br/news/magazine/eua-bosnia-escalacoes-analise/)

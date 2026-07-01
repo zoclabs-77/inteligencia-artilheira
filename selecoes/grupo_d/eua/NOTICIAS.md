@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Escalação provável para o jogo de hoje contra a Bósnia: Freese; Freeman, Ream, Richards e Robinson; Adams e Tillman; Dest, McKennie e Pulisic; Balogun — Pochettino mantém a base que liderou o Grupo D (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-bosnia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-300626-1344.html)
+- Desfalques avaliados: Christian Roldan (muscular), Mark McKenzie (pé) e Auston Trusty (tornozelo) estão em dúvida, mas nenhuma baixa confirmada de grande impacto no time titular (fonte: https://www.365scores.com/pt-br/news/magazine/eua-bosnia-escalacoes-analise/)
+- Partida hoje (01/07), às 21h de Brasília, no Levi's Stadium, em San Francisco — EUA jogam em casa nesta Copa e carregam a expectativa de avançar às quartas como nação-sede (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/eua-bosnia-herzegovina-previa-jogo-copa-mundo-16-avos)
+- Christian Pulisic é a grande referência técnica americana e o principal jogador que Sébastien Desabre da Bósnia precisa neutralizar para se classificar (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-eua-x-bosnia-e-herzegovina-01-07-2026.html)
+- **Repercussão / Próximo jogo:** EUA estreia no mata-mata como favorita hoje, sob enorme pressão do torcedor local — Pochettino sabe que avançar é o mínimo esperado pela nação-sede.
+
 ## 📅 2026-06-30
 - EUA enfrenta a Bósnia na quarta-feira (01/07), às 21h (Brasília), no Levi's Stadium, em San Francisco, pelos 16 avos de final (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/eua-bosnia-herzegovina-previa-jogo-copa-mundo-16-avos)
 - Escalação prevista: Freese; Freeman, Ream, Richards; Dest, Tyler Adams, Tillman e Robinson; Pulisic e McKennie; Balogun. Técnico: Mauricio Pochettino (fonte: https://www.365scores.com/pt-br/news/magazine/eua-bosnia-escalacoes-analise/)

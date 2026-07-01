@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Argentina confirma preparação intensificada para o duelo com Cabo Verde na sexta-feira (03/07), às 19h de Brasília, no Hard Rock Stadium em Miami — Scaloni trabalha para definir as três dúvidas que mantêm a escalação em aberto (fonte: https://www.lance.com.br/copa-do-mundo/titular-volta-aos-treinos-e-argentina-tem-tres-duvidas-para-encarar-cabo-verde.html)
+- Cristian "Cuti" Romero voltou a treinar no ritmo da equipe após a pancada no joelho direito — Scaloni avalia se titular ou escalar Otamendi ao lado de Lisandro Martínez na zaga (fonte: https://www.lance.com.br/copa-do-mundo/titular-volta-aos-treinos-e-argentina-tem-tres-duvidas-para-encarar-cabo-verde.html)
+- Messi é artilheiro do torneio com seis gols — balançou as redes em todos os jogos da fase de grupos — e chega a Miami como principal ameaça para a seleção africana (fonte: https://www.gazetaesportiva.com/times/argentina/com-duvidas-argentina-inicia-preparacao-para-duelo-contra-cabo-verde-na-copa/)
+- Terceira dúvida é quem será o parceiro de Messi no ataque: Lautaro Martínez (titular contra a Jordânia, marcou de pênalti) ou Julián Álvarez (atuação discreta na última partida) (fonte: https://www.gazetaesportiva.com/times/argentina/com-duvidas-argentina-inicia-preparacao-para-duelo-contra-cabo-verde-na-copa/)
+- **Repercussão / Próximo jogo:** Argentina joga sexta (03/07) em Miami como grande favorita, mas Scaloni mantém cautela — Cabo Verde é a maior surpresa do torneio e pode explorar qualquer descuido da Albiceleste.
+
 ## 📅 2026-06-30
 - Argentina inicia a preparação para o duelo com Cabo Verde, marcado para sexta-feira (03/07), no Hard Rock Stadium (Miami), às 19h de Brasília, pelos 16-avos de final (fonte: https://www.gazetaesportiva.com/times/argentina/com-duvidas-argentina-inicia-preparacao-para-duelo-contra-cabo-verde-na-copa/)
 - Equipe encerrou a fase de grupos com 100% de aproveitamento; Messi é o artilheiro do torneio com seis gols, balançando as redes em todos os jogos disputados até aqui (fonte: mesma acima)

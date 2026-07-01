@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Portugal inicia a preparação final para o duelo com a Croácia amanhã (02/07), em Toronto, às 20h de Brasília — Roberto Martínez não registra lesionados nem suspensos no elenco (fonte: https://www.goal.com/br/not%C3%ADcias/portugal-x-croacia-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/blt9fb0907531786204)
+- Cristiano Ronaldo tem dois gols no torneio, ambos marcados contra o Uzbequistão — tornou-se o primeiro jogador a marcar em seis Copas do Mundo e ultrapassou Eusébio como maior artilheiro português em fases finais (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-cristiano-ronaldo-portugal-divulga-convocados-para-a-copa-do-mundo/)
+- Portugal encerrou o Grupo K invicto, com 5 pontos, 6 gols marcados e apenas 1 sofrido — apesar de Ronaldo ter ficado apagado no 0x0 com a Colômbia na última rodada (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/portugal-proximo-jogo-copa)
+- Histórico de confrontos favorece Portugal: 5 vitórias, 2 empates e 1 derrota nos oito duelos anteriores com a Croácia — Bruno Fernandes e Bernardo Silva sustentam o meio-campo enquanto o técnico aguarda Ronaldo de volta ao melhor nível (fonte: https://tips.gg/pt/article/portugal-vs-croatia-world-cup-2026-lineups-story/)
+- **Repercussão / Próximo jogo:** Portugal joga amanhã (02/07) em Toronto — sem desfalques, mas com a cobrança de Ronaldo para fazer grande partida após sumir no último jogo da fase de grupos.
+
 ## 📅 2026-06-30
 - Portugal avançou em 2º lugar do Grupo K e terá o primeiro compromisso do mata-mata contra a Croácia, 2ª colocada do Grupo L, na quinta-feira, 2 de julho, no Estádio de Toronto, às 20h (Brasília) (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-portugal-mata-mata)
 - Equipe chega de empate sem gols com a Colômbia em Miami, partida na qual Cristiano Ronaldo ficou apagado e teve gol anulado por impedimento (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/com-cristiano-ronaldo-apagado-portugal-e-colombia-empatam-sem-gols-e-se-classificam-para-o-mata-mata,f4e8a9b8fdf1cc4c04d6fc0542ec8385s9s0le28.html)

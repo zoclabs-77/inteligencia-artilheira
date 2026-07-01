@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Croácia prepara-se para o duelo com Portugal amanhã (02/07), em Toronto, às 20h de Brasília — é a terceira participação consecutiva dos croatas em fases eliminatórias da Copa, após 2ª posição em 2018 e 3ª posição em 2022 (fonte: https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2026/portugal/detalhe/portugal-vai-defrontar-a-croacia-nos-16-avos-de-final-do-mundial-a-data-e-a-hora-do-jogo)
+- Luka Modric (40 anos) continua na liderança técnica da seleção e busca encerrar a carreira mundial com mais uma campanha épica — Croácia sem desfalques confirmados para o confronto com Portugal (fonte: https://tips.gg/pt/article/portugal-vs-croatia-world-cup-2026-lineups-story/)
+- Adversário direto Portugal tem retrospecto favorável no histórico de confrontos (5 vitórias, 2 empates e 1 derrota), mas a Croácia sabe como jogar eliminatórias — equipe valoriza a pressão constante e os duelos físicos (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-portugal-mata-mata)
+- Croácia avançou como 2ª colocada do Grupo L — perdeu para a Inglaterra no início e reconstruiu a campanha para chegar às oitavas, tradição consolidada na era Modric (fonte: https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2026/portugal/detalhe/portugal-vai-defrontar-a-croacia-nos-16-avos-de-final-do-mundial-a-data-e-a-hora-do-jogo)
+- **Repercussão / Próximo jogo:** Croácia enfrenta Portugal amanhã (02/07) em Toronto — Modric lidera uma equipe experiente que sabe como superar favoritos no mata-mata e pode dar a última surpresa da geração.
+
 ## 📅 2026-06-30
 - Croácia avançou em 2º lugar do Grupo L e enfrenta Portugal nas oitavas de final na quinta-feira, 2 de julho, no Estádio de Toronto, às 20h (Brasília) (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-portugal-mata-mata)
 - Equipe chega de vitória por 2 a 1 sobre Gana na última rodada de grupos, com gols de Petar Sucic e Nikola Vlasic (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/croacia-x-gana-copa-do-mundo-2026/)

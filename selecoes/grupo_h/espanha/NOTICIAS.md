@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Espanha prepara-se para o duelo com a Áustria amanhã (02/07) em Los Angeles — escalação provável: Simón; Llorente, Cubarsí, Laporte e Cucurella; Merino e Rodri; Baena, Pedri e Yamal; Oyarzabal (fonte: https://trivela.com.br/copa-do-mundo/provaveis-escalacoes-espanha-x-austria-copa/)
+- Lesões preocupam: Yeremy Pino (problema no ombro), Nico Williams (estiramento na coxa) e Víctor Muñoz (desconforto muscular na coxa) estão em avaliação — eventual ausência de Williams pode forçar adaptação tática no setor ofensivo (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-espanha-x-austria-02-07-26.html)
+- La Furia Roja liderou o Grupo H com 7 pontos (melhor campanha entre as quatro seleções da chave) e chega ao mata-mata como uma das grandes candidatas ao título (fonte: https://www.goal.com/en-us/news/spain-austria-world-cup-preview/bltd6228bcab13b7c80)
+- Lamine Yamal (19 anos), Pedri e Rodri formam o tripé técnico que dá à Espanha superior posse de bola — combinação que dificulta o adversário e cria oportunidades com consistência (fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760498/espanha-austria)
+- **Repercussão / Próximo jogo:** Espanha em Los Angeles amanhã (02/07) como grande favorita — mas a imprevisibilidade austríaca e os desfalques no ataque colocam atenção no plano-B de Luis de la Fuente.
+
 ## 📅 2026-06-30
 - Espanha encerrou a fase de grupos na liderança do Grupo H, com 7 pontos, melhor campanha entre as quatro seleções da chave (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-espanha-x-austria-02-07-26.html)
 - Técnico Luis de la Fuente convocou 26 jogadores, com Lamine Yamal entre oito atletas do Barcelona na lista — pela primeira vez a Espanha disputa um Mundial sem nenhum jogador do Real Madrid (fonte: https://www.goal.com/en-us/lists/spain-2026-world-cup-squad-confirmed-lamine-yamal-one-of-eight-barcelona-stars-in-26-man-list-real-madrid-suffer-historic-snub/blt8ecbc23082cce5c0)

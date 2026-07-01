@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Escalação confirmada para o duelo com a RD Congo: Pickford; Konsa, Stones, Guehi e O'Reilly; Rice e Anderson; Saka, Bellingham e Rashford; Kane — Tuchel opta por Konsa na lateral direita para cobrir as ausências de Reece James e Quansah (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/inglaterra-x-rd-congo-veja-as-provaveis-escalacoes-para-o-confronto-202606301908)
+- Reece James, lesionado no jogo anterior, já é considerado dúvida para as oitavas de final; Jarell Quansah também não estará disponível, mantendo lateral direita como o grande ponto fraco da equipe (fonte: https://www.365scores.com/pt-br/news/magazine/inglaterra-x-rd-congo-escalacoes-analise-copa-do-mundo/)
+- Partida acontece hoje (01/07), às 13h de Brasília, no Mercedes-Benz Stadium, em Atlanta — primeiro mata-mata entre as duas seleções na história das Copas (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/inglaterra-rd-congo-previa-jogo-copa-mundo-16-avos)
+- Kane e Bellingham chegam em grande momento: Kane com 3 gols na fase de grupos e Bellingham com 2 gols e 1 assistência, mas a Inglaterra precisa mostrar mais consistência defensiva do que no 0x0 com Gana (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/inglaterra-x-rd-congo-onde-assistir-escalacoes-copa-2026/)
+- **Repercussão / Próximo jogo:** Inglaterra estreia nas oitavas TODAY contra a RD Congo — equipe entra como grande favorita, mas lateral direita fragilizada é alerta para Tuchel; vitória abre caminho a uma chave favorável no mata-mata.
+
 ## 📅 2026-06-30
 - Inglaterra avançou na liderança do Grupo L e enfrenta a RD Congo nas oitavas de final na quarta-feira, 1º de julho, no Mercedes-Benz Stadium, em Atlanta — primeiro confronto da história entre as duas seleções (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/inglaterra-rd-congo-previa-jogo-copa-mundo-16-avos)
 - Equipe de Thomas Tuchel não contará com o lateral-direito Jarell Quansah, que sofreu entorse no tornozelo na vitória sobre o Panamá; Spence aparece como favorito para a vaga, com a alternativa de deslocar Ezri Konsa para a lateral e promover John Stones à zaga ao lado de Marc Guéhi (fonte: https://www.lance.com.br/copa-do-mundo/inglaterra-perde-titular-para-jogo-contra-a-rd-congo-no-mata-mata-da-copa.html)

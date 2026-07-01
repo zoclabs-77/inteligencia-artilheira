@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Austrália sofre onda de lesões antes do duelo com o Egito na sexta-feira (03/07), às 15h de Brasília, no AT&T Stadium em Dallas — técnico Tony Popović conta com elenco reduzido (fonte: https://www.goal.com/br/not%C3%ADcias/uma-onda-de-lesoes-atinge-a-australia-antes-do-confronto-contra-o-egito-na-copa-do-mundo/blt196c6c8fdeb30b5e)
+- Matthew Leckie, atacante experiente e referência ofensiva, está fora do jogo contra o Egito após se machucar contra os EUA na 2ª rodada — ausência que tira criatividade e profundidade ao ataque dos Socceroos (fonte: https://www.goal.com/br/not%C3%ADcias/uma-onda-de-lesoes-atinge-a-australia-antes-do-confronto-contra-o-egito-na-copa-do-mundo/blt196c6c8fdeb30b5e)
+- Jacob Itagliano sofreu lesão no músculo posterior da coxa durante os treinos coletivos e também está descartado; regulamento da Copa proíbe substituições de lesionados após a primeira partida (fonte: mesma acima)
+- Escalação prevista com os recursos disponíveis: Ryan; Circati, Souttar e Burgess; Jacob Italiano, O'Neill, Irvine, Bos, Metcalfe e Volpato; Touré — seleção terá que superar as baixas com coletivo (fonte: https://www.sofascore.com/football/match/egypt-australia/QUbsiVb)
+- **Repercussão / Próximo jogo:** Austrália chega ao mata-mata de sexta (03/07) fragilizada por lesões — Tony Popović precisa montar um plano-B eficiente para não deixar a falta de Leckie pesar no confronto com o Egito.
+
 ## 📅 2026-06-30
 - Austrália enfrenta o Egito na sexta-feira (03/07), às 15h (Brasília), no AT&T Stadium, no Texas, pelos 16 avos de final (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289287/400021515)
 - Escalação prevista: Ryan; Circati, Souttar e Burgess; Jacob Italiano, O'Neill, Irvine, Bos, Metcalfe e Volpato; Touré. Técnico: Tony Popović (fonte: https://www.fifa.com/pt/match-centre/match/17/285023/289287/400021515)

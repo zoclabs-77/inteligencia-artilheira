@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Egito enfrenta a Austrália na sexta-feira (03/07), às 15h de Brasília, no AT&T Stadium em Dallas — seleção chega ao mata-mata sem poder contar com Mohamed Salah, já confirmado fora do torneio por lesão na coxa (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fora-das-oitavas-da-copa-do-mundo-salah-tem-lesao-na-coxa-confirmada/)
+- Omar Marmoush (Eintracht Frankfurt) assume o protagonismo ofensivo egípcio na ausência de Salah — artilheiro da Bundesliga na última temporada europeia, tem a responsabilidade de ser o fator decisivo diante da Austrália (fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760499/egito-australia)
+- A ausência de Salah é um golpe enorme, mas o Egito tem como vantagem enfrentar uma Austrália também castigada por lesões — Matthew Leckie e Jacob Itagliano desfalcam os Socceroos no jogo de sexta-feira (fonte: https://www.goal.com/br/not%C3%ADcias/uma-onda-de-lesoes-atinge-a-australia-antes-do-confronto-contra-o-egito-na-copa-do-mundo/blt196c6c8fdeb30b5e)
+- Escalação prevista: Shobeir; Hany, Ibrahim, Fathy e Fatouh; Attia e Lasheen; Zico e Ashour; Marmoush — compacta e organizada por trás (fonte: https://www.sofascore.com/football/match/egypt-australia/QUbsiVb)
+- **Repercussão / Próximo jogo:** Egito vai ao AT&T Stadium sexta (03/07) sem Salah, mas com a esperança de Marmoush — clássico de dois times castigados por lesões que vai até o limite do coletivo.
+
 ## 📅 2026-06-30
 - Mohamed Salah foi diagnosticado com estiramento no músculo posterior da coxa após deixar o jogo contra o Irã sentindo dores; lesão confirmada pela Associação Egípcia de Futebol (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fora-das-oitavas-da-copa-do-mundo-salah-tem-lesao-na-coxa-confirmada/)
 - Capitão é dúvida para o duelo com a Austrália, mas já iniciou tratamento intensivo e a comissão técnica trabalha para recuperá-lo a tempo, já que o Egito tem seis dias de intervalo até a partida (fonte: https://br.bolavip.com/copa-do-mundo/salah-vira-duvida-para-egito-x-australia-pela-copa-do-mundo-apos-lesao-detectada)

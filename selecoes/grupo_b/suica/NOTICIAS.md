@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Suíça prepara o duelo com a Argélia para amanhã à madrugada/sexta-feira (3 de julho, 00h de Brasília) em Vancouver — escalação prevista: Kobel; Jaquez, Elvedi, Akanji e Ricardo Rodriguez; Freuler e Xhaka; Ndoye, Manzambi e Ruben Vargas; Embolo (fonte: https://www.365scores.com/pt-br/news/magazine/suica-x-argelia-escalacoes-copa/)
+- Suíça liderou o Grupo B com 7 pontos (2 vitórias, 1 empate) e venceu o Canadá por 2x1 no duelo direto pelo topo da chave — chega ao mata-mata com confiança e solidez defensiva (fonte: https://www.365scores.com/pt-br/news/magazine/suica-x-argelia-escalacoes-copa/)
+- Granit Xhaka e Remo Freuler formam a dupla de volantes mais experiente da Copa — dão controle e organização ao meio-campo helvético, essencial para ditar o ritmo do jogo (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-suica-x-argelia-03-07-2026.html)
+- Breel Embolo é a referência ofensiva que a Suíça mais aposta na linha de pressão alta; técnico Murat Yakin manteve uma equipe coesa ao longo do torneio sem rotação excessiva (fonte: https://www.sofascore.com/football/match/switzerland-algeria/QTbsZTb)
+- **Repercussão / Próximo jogo:** Suíça é favorita contra a Argélia na madrugada de sexta (3 de julho, 00h BRT) — Xhaka e Embolo são as maiores referências para a classificação às quartas.
+
 ## 📅 2026-06-30
 - Suíça enfrenta a Argélia na sexta-feira (03/07), à meia-noite (horário local)/Brasília a confirmar, no BC Place, em Vancouver, pelos 16 avos de final (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings)
 - Escalação prevista: Kobel; Widmer, Jaquez, Akanji, Rodríguez; Aebischer, Xhaka, Freuler; Ndoye, Embolo, Vargas. Técnico: Murat Yakin (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings)

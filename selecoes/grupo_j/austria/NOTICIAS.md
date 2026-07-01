@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Áustria finaliza preparação para o duelo com a Espanha amanhã (02/07) em Los Angeles — escalação prevista: A. Schlager; Posch, Lienhart, Alaba e Mwene; Seiwald, X. Schlager; Sabitzer, Laimer e Baumgartner; Gregoritsch (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-espanha-x-austria-02-07-26.html)
+- David Alaba é dúvida para o confronto de amanhã: lenda do futebol austríaco, o zagueiro do Real Madrid vem sendo gerenciado pela comissão técnica após os altos e baixos físicos durante a fase de grupos (fonte: https://www.goal.com/en-us/news/spain-austria-world-cup-preview/bltd6228bcab13b7c80)
+- Áustria avançou em 2º lugar no Grupo J com 4 pontos, após empate dramático de 3x3 com a Argélia na última rodada — campanha que misturou gols e instabilidade defensiva (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-espanha-x-austria-02-07-26.html)
+- Ralf Rangnick aposta no pressing intenso e no alto ritmo físico como armas para perturbar a circulação espanhola — Marcel Sabitzer é o principal fio condutor no meio-campo austríaco (fonte: https://www.goal.com/en-us/news/spain-austria-world-cup-preview/bltd6228bcab13b7c80)
+- **Repercussão / Próximo jogo:** Áustria entra amanhã (02/07) em LA como azarão, mas já mostrou poder ofensivo na fase de grupos — Rangnick precisa ajustar a defesa para conter Yamal e Pedri.
+
 ## 📅 2026-06-30
 - Áustria enfrenta a Espanha na quinta-feira (02/07), às 21h de Brasília, em Los Angeles, pelos 16-avos de final, após avançar em 2º lugar no Grupo J com o empate em 3 a 3 contra a Argélia (fonte: https://www.futbol24.com/pt/apostas-palpites/previa/02-07-2026-espanha-austria-dica/)
 - Espanha, comandada por Luis de la Fuente, terminou líder do Grupo H com 7 pontos e ainda não sofreu gols na fase de grupos; Áustria, de Ralf Rangnick, classificou-se com 4 pontos mas sofreu seis gols em três jogos, evidenciando fragilidade defensiva (fonte: mesma acima)

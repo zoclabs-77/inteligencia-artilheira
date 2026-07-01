@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Escalação provável para o jogo de hoje contra o Senegal: Courtois; Castagne, Mechele, Ngoy e De Cuyper; Vanaken e Tielemans; Doku, De Bruyne e Trossard; De Ketelaere — técnico Rudi Garcia mantém a força máxima (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/belgica-x-senegal-provaveis-escalacoes-horario-e-como-assistir-202606301934)
+- Doku, principal destaque ofensivo na fase de grupos, chega como o jogador mais desequilibrante do confronto de hoje em Seattle — capaz de criar situações pela velocidade nas extremidades (fonte: https://www.goal.com/en-us/news/belgium-senegal-world-cup-preview/blt1c958015a91eebc7)
+- Kevin De Bruyne mantém papel de engrenagem central no meio-campo e deve ser peça decisiva para ditar o ritmo e criar as oportunidades no mata-mata (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-belgica-x-senegal-01-07-2026.html)
+- Sem lesionados confirmados no elenco; Bélgica chega ao mata-mata mais sólida do que na abertura da fase de grupos — goleada de 5x1 sobre a Nova Zelândia trouxe confiança ao grupo (fonte: https://massa.com.br/copa-do-mundo-2026/belgica-x-senegal-ao-vivo)
+- **Repercussão / Próximo jogo:** Bélgica joga HOJE (01/07), às 17h de Brasília, no Lumen Field (Seattle) — Geração de Ouro na última chance de fazer história em um Mundial, com De Bruyne e Courtois como últimos baluartes do grupo de ouro.
+
 ## 📅 2026-06-30
 - Bélgica terminou a fase de grupos na liderança do Grupo G, com 5 pontos, após empates contra Egito (1x1) e Irã (0x0) e goleada de 5x1 sobre a Nova Zelândia (fonte: https://www.365scores.com/pt-br/news/magazine/belgica-x-senegal-escalacoes-analise-copa-do-mundo/)
 - Técnico francês Rudi Garcia segue no comando da seleção desde janeiro de 2025, após passagens por Lille, Roma, Marselha, Lyon, Al-Nassr e Napoli (fonte: https://www.goal.com/en-us/news/belgium-senegal-world-cup-preview/blt1c958015a91eebc7)

@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Escalação provável para o jogo de hoje contra a Bélgica: Mory Diaw; Seck, Niakhaté e E. Diouf; Diatta, Pape Gueye, Camara e I. Gueye; Mané, Sarr e I. Ndiaye — técnico Pape Thiaw mantém o 4-3-3 compacto que levou o Senegal à fase eliminatória (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/belgica-x-senegal-provaveis-escalacoes-para-o-jogo-da-copa/)
+- Sadio Mané, capitão e principal referência técnica, chega ao mata-mata buscando emplacar uma Copa memorável após encerrar sua carreira europeia — o atacante foi decisivo na vitória de 5x0 sobre o Iraque (fonte: https://tips.gg/pt/article/belgium-vs-senegal-01-07-2026/)
+- Senegal entra como azarão em Seattle hoje (01/07), às 17h de Brasília — mas a goleada sobre o Iraque mostrou que os Leões de Teranga são perigosos quando ligam o modo ofensivo (fonte: https://www.ogol.com.br/jogo/2026-07-01-belgica-senegal/11841297)
+- Ismaïla Sarr e Iliman Ndiaye são os jogadores mais desequilibrantes nas pontas; Pape Gueye e Idrissa Gueye dão proteção e volume no meio-campo (fonte: https://www.365scores.com/pt-br/news/magazine/belgica-x-senegal-escalacoes-analise-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Senegal tem a missão de deter De Bruyne e Doku hoje; Mané lidera os Leões de Teranga em busca de uma classificação heroica nas oitavas.
+
 ## 📅 2026-06-30
 - Senegal enfrenta a Bélgica na quarta-feira (01/07), 17h de Brasília, no Lumen Field (Seattle), pelos 16-avos de final (fonte: https://www.365scores.com/pt-br/news/magazine/belgica-x-senegal-escalacoes-analise-copa-do-mundo/)
 - Escalação provável: Mory Diaw; Seck, Niakhaté e E. Diouf; Diatta, Pape Gueye, Camara e I. Gueye; Mané, Sarr e I. Ndiaye (fonte: https://www.ogol.com.br/jogo/2026-07-01-belgica-senegal/11841297)

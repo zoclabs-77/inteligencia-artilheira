@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Gana prepara o duelo com a Colômbia na sexta-feira (03/07), às 22h30 de Brasília, no Arrowhead Stadium em Kansas City — seleção avançou como um dos melhores terceiros colocados após 4 pontos no Grupo L (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/classificados-confrontos-oitavas-copa-do-mundo-2026/)
+- Mohammed Kudus é o principal atleta ganês e terá a missão de desequilibrar a defesa colombiana — meia/avante do West Ham que mostrou personalidade ao longo da fase de grupos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-os-confrontos-das-oitavas-de-final-da-copa-do-mundo-2026/)
+- Técnico Otto Addo manteve a organização defensiva que garantiu o empate de 0x0 com a Inglaterra (favorita do grupo), principal resultado da fase de grupos para as Estrelas Negras (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/croacia-x-gana-copa-do-mundo-2026/)
+- Gana perdeu para a Croácia (2x1) na última rodada mas avançou pela vaga de melhor terceiro — é a 5ª vez na história que a seleção africana disputa a Copa do Mundo, mas a 1ª vez que alcança as oitavas de final (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/copa-do-mundo-2026-veja-classificados-e-confrontos-das-oitavas-de-final/)
+- **Repercussão / Próximo jogo:** Gana vai a Kansas City sexta (03/07) como azarão contra a Colômbia de James Rodríguez — Kudus é a chave para criar a surpresa e garantir uma classificação histórica às quartas.
+
 ## 📅 2026-06-30
 - Gana terminou o Grupo L na 3ª posição com 4 pontos, sob comando de Otto Addo, após derrota por 2 a 1 para a Croácia na última rodada (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/croacia-x-gana-copa-do-mundo-2026/)
 - Seguiu na competição como um dos melhores terceiros colocados e enfrenta a Colômbia nas oitavas de final, na sexta-feira, 3 de julho, às 22h30 (Brasília) (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings)

@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Colômbia enfrenta Gana na sexta-feira (03/07), às 22h30 de Brasília, no Arrowhead Stadium em Kansas City — equipe avançou na liderança do Grupo K e chega como favorita ao confronto (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-os-confrontos-das-oitavas-de-final-da-copa-do-mundo-2026/)
+- James Rodríguez, camisa 10 e referência criativa da seleção colombiana, liderou a campanha da fase de grupos com sua capacidade de gerir o ritmo das partidas — retorno ao mata-mata de uma Copa após 2014 (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-james-rodriguez-colombia-divulga-convocados-para-a-copa-do-mundo/)
+- Colômbia venceu Uzbequistão (3x1) e Gana (1x0) antes do empate com Portugal — campanha consistente que justifica o favoritismo nas oitavas de final (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/colombia-classificada-2026)
+- O vencedor de Colômbia x Gana enfrenta o vencedor de Suíça x Argélia nas quartas de final — chave acessível para quem avançar (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-os-confrontos-das-oitavas-de-final-da-copa-do-mundo-2026/)
+- **Repercussão / Próximo jogo:** Colômbia vai a Kansas City sexta (03/07) como favorita para avançar — James Rodríguez e companhia buscam repetir a magia da Copa de 2014 e chegar às quartas de final.
+
 ## 📅 2026-06-30
 - Colômbia avançou às oitavas de final na liderança do Grupo K e enfrenta Gana na sexta-feira, 3 de julho, às 22h30 (Brasília) (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings)
 - Técnico Néstor Lorenzo admitiu cautela com o adversário: "Hoje sei pouco sobre Gana porque havia 48 seleções e qualquer uma delas poderia ser nossa adversária, mas sei que é uma boa seleção. Conheço alguns jogadores que estão em bons clubes da Europa (...) vai ser um adversário difícil. Não há adversários fáceis, então tomaremos as precauções necessárias, mantendo sempre também a nossa identidade" (fonte: https://rr.pt/bola-branca/noticia/mundial-2026/2026/06/28/colombia-correu-sempre-atras-da-vitoria/476219/)

@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-01
+- Cabo Verde aguarda o maior jogo de sua história futebolística: enfrenta a Argentina campeã do mundo na sexta-feira (03/07), às 19h de Brasília, no Hard Rock Stadium em Miami (fonte: https://www.lance.com.br/copa-do-mundo/cabo-verde-x-argentina-data-horario-e-local-do-duelo-decisivo-na-copa-do-mundo.html)
+- Seleção arquipelágica terminou a fase de grupos invicta no Grupo H, eliminando Uruguay (bicampeão do mundo) e Saudi Arabia, e conquistando a classificação histórica inédita para o mata-mata mundialista (fonte: https://deportv.gob.ar/futbol/cabo-verde-sorpresa-mundial-2026-historico-cruce-16avos-argentina-nid:14590)
+- O feito impressiona: Cabo Verde superou duas seleções fortes como Uruguai e Arábia Saudita no mesmo grupo — a delegação chegou a Miami como a maior surpresa da Copa e tem mobilizado toda a diáspora africana e cabo-verdiana (fonte: https://www.lanacion.com.ar/deportes/futbol/argentina-vs-cabo-verde-por-los-16vos-de-final-del-mundial-2026-cuando-se-juega-el-partido-nid26062026/)
+- Será o primeiro confronto da história entre Argentina e Cabo Verde — a seleção africana tem como missão conter Messi (6 gols na fase de grupos) e fazer valer a organização defensiva que a manteve invicta até aqui (fonte: https://www.tudn.com/mundial-2026/argentina-vs-cabo-verde/cuando-juega-argentina-cabo-verde-partido-dieciseisavos-final-copa-mundo-2026)
+- **Repercussão / Próximo jogo:** Cabo Verde enfrenta sexta (03/07) a Argentina em Miami — entrar em campo contra Messi e companhia já é capítulo histórico para o futebol do arquipélago; agora o sonho é a classificação.
+
 ## 📅 2026-06-30
 - Cabo Verde fez história ao se classificar pela primeira vez para o mata-mata de uma Copa do Mundo, encerrando a fase de grupos invicto (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/a-historia-continua-cabo-verde-empata-com-arabia-saudita-e-avanca-na-copa/)
 - Convocação de 26 jogadores foi anunciada pelo técnico Pedro Leitão Brito, o "Bubista", com destaque para o goleiro Vozinha, o zagueiro Roberto "Pico" Lopes e o atacante Dailon Livramento (fonte: https://www.terra.com.br/esportes/cabo-verde-na-copa-do-mundo-2026-confira-a-lista-completa-com-os-26-convocados,7bbce4708b6c2ed623edc5d9fd170d78kc5av590.html)
