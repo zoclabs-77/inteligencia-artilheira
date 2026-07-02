@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-02
+- Croácia enfrenta Portugal HOJE (2/7), às 20h de Brasília, no BMO Field, em Toronto — escalação provável: Livaković; Stanišić, Šutalo, Pongračić e Perišić; Modrić, Kovačić, Sučić, Baturina e Vlašić; Budimir (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-portugal-croacia)
+- Joško Gvardiol deve reassumir a lateral esquerda, permitindo que Ivan Perišić jogue mais avançado — ajuste tático de Zlatko Dalić para o confronto direto (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Croácia decide vaga nas quartas HOJE contra Portugal em Toronto — Modrić, aos 40 anos, lidera possivelmente sua última campanha de Copa numa escalação remodelada na zaga.
+
 ## 📅 2026-07-01
 - Croácia prepara-se para o duelo com Portugal amanhã (02/07), em Toronto, às 20h de Brasília — é a terceira participação consecutiva dos croatas em fases eliminatórias da Copa, após 2ª posição em 2018 e 3ª posição em 2022 (fonte: https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2026/portugal/detalhe/portugal-vai-defrontar-a-croacia-nos-16-avos-de-final-do-mundial-a-data-e-a-hora-do-jogo)
 - Luka Modric (40 anos) continua na liderança técnica da seleção e busca encerrar a carreira mundial com mais uma campanha épica — Croácia sem desfalques confirmados para o confronto com Portugal (fonte: https://tips.gg/pt/article/portugal-vs-croatia-world-cup-2026-lineups-story/)

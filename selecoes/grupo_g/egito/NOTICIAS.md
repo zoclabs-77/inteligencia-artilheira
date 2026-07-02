@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-02
+- Mohamed Salah voltou a treinar parcialmente com o grupo e passou a ser tratado como dúvida — não mais como "confirmado fora" — para o duelo de sexta-feira (3/7) contra a Austrália, segundo boletim da Federação Egípcia (fonte: https://www.goal.com/br/not%C3%ADcias/um-novo-desdobramento-alimenta-as-especulacoes-sobre-a-participacao-de-mohamed-salah-contra-a-australia/blt872c36129ebdefab)
+- Departamento médico egípcio mantém tratamento intensivo com expectativa de que o capitão tenha condições de atuar no confronto decisivo (fonte: mesma acima)
+- Escalação prevista já lista Salah entre os relacionados: Shobeir; Hany, Ibrahim, Rabia e Hafez; Attia e Saber; Ziko, Salah e Ashour; Marmoush (fonte: https://www.365scores.com/pt-br/news/magazine/australia-egito-escalacoes-analise/)
+- **Repercussão / Próximo jogo:** Situação de Salah melhora às vésperas do duelo com a Austrália — de "fora confirmado" para "dúvida", o retorno do capitão seria um alívio enorme para o ataque egípcio.
+
 ## 📅 2026-07-01
 - Egito enfrenta a Austrália na sexta-feira (03/07), às 15h de Brasília, no AT&T Stadium em Dallas — seleção chega ao mata-mata sem poder contar com Mohamed Salah, já confirmado fora do torneio por lesão na coxa (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fora-das-oitavas-da-copa-do-mundo-salah-tem-lesao-na-coxa-confirmada/)
 - Omar Marmoush (Eintracht Frankfurt) assume o protagonismo ofensivo egípcio na ausência de Salah — artilheiro da Bundesliga na última temporada europeia, tem a responsabilidade de ser o fator decisivo diante da Austrália (fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760499/egito-australia)

@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-02
+- Argélia divulga escalação prevista para enfrentar a Suíça na madrugada de sexta-feira (3/7, 0h de Brasília), em Vancouver: Luca Zidane; Rafik Belghali, Aïssa Mandi, Ramy Bensebaini e Rayan Aït-Nouri; Nabil Bentaleb e Farès Chaïbi; Riyad Mahrez, Ibrahim Maza e Houssem Aouar; Amine Gouiri (fonte: https://www.365scores.com/pt-br/news/magazine/suica-x-argelia-escalacoes-copa/)
+- Luca Zidane, filho do ex-jogador e técnico Zinedine Zidane, é o goleiro confirmado da Argélia para o confronto (fonte: mesma acima)
+- Riyad Mahrez, autor de dois gols contra a Áustria na fase de grupos, segue como principal referência ofensiva argelina (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Argélia confirma escalação com Luca Zidane no gol para enfrentar a Suíça na madrugada de sexta — Mahrez, artilheiro do time na fase de grupos, é a esperança de mais uma zebra.
+
 ## 📅 2026-07-01
 - Argélia se prepara para o duelo com a Suíça na madrugada de sexta-feira (3 de julho, 00h de Brasília), em Vancouver — escalação prevista: Benbot; Belghali, Mandi, Bensebaini e Ait Nouri; Bentaleb, Aouar e Ibrahim Maza; Mahrez, Fares Chaibi e Amine Gouiri (fonte: https://www.365scores.com/pt-br/news/magazine/suica-x-argelia-escalacoes-copa/)
 - Riyad Mahrez, camisa 10 e principal estrela da seleção, chega ao mata-mata carregando a expectativa de toda uma nação que reviveu a paixão pelo futebol com a campanha histórica até esta fase (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-suica-x-argelia-03-07-2026.html)

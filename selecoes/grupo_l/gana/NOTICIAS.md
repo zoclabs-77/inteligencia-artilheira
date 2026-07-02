@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-07-02
+- Gana divulga escalação prevista para enfrentar a Colômbia na sexta-feira (3/7), às 22h30 de Brasília, em Kansas City: Ati-Zigi; Alidu Seidu, Alexander Djiku, Mohammed Salisu e Gideon Mensah; Thomas Partey, Salis Abdul Samed e Mohammed Kudus; Ernest Nuamah, Jordan Ayew e Iñaki Williams, sob comando de Carlos Queiroz (fonte: https://www.365scores.com/pt-br/news/magazine/colombia-x-gana-escalacoes-copa/)
+- **Repercussão / Próximo jogo:** Gana confirma Thomas Partey e Mohammed Kudus no time titular para o duelo de sexta contra a Colômbia — aposta na experiência da dupla para tentar a zebra em Kansas City.
+
 ## 📅 2026-07-01
 - Gana prepara o duelo com a Colômbia na sexta-feira (03/07), às 22h30 de Brasília, no Arrowhead Stadium em Kansas City — seleção avançou como um dos melhores terceiros colocados após 4 pontos no Grupo L (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/classificados-confrontos-oitavas-copa-do-mundo-2026/)
 - Mohammed Kudus é o principal atleta ganês e terá a missão de desequilibrar a defesa colombiana — meia/avante do West Ham que mostrou personalidade ao longo da fase de grupos (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-os-confrontos-das-oitavas-de-final-da-copa-do-mundo-2026/)

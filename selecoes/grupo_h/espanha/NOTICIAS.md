@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-02
+- Espanha enfrenta a Áustria HOJE (2/7), no SoFi Stadium, em Inglewood (Los Angeles) — escalação confirmada: Unai Simón; Pedro Porro, Pau Cubarsí, Aymeric Laporte e Marc Cucurella; Rodri, Pedri e Dani Olmo; Lamine Yamal, Mikel Oyarzabal e Álex Baena (fonte: https://www.opovo.com.br/esportes/futebol/copa-do-mundo/2026/07/01/invicta-espanha-enfrenta-austria-para-provar-favoritismo-e-avancar-as-oitavas.html)
+- Nico Williams está confirmado como desfalque: lesão muscular no adutor direito após pancada sofrida no jogo passado o tira da lista de relacionados (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Espanha entra em campo HOJE contra a Áustria sem Nico Williams — Lamine Yamal assume ainda mais protagonismo ofensivo ao lado de Pedri e Rodri no meio-campo.
+
 ## 📅 2026-07-01
 - Espanha prepara-se para o duelo com a Áustria amanhã (02/07) em Los Angeles — escalação provável: Simón; Llorente, Cubarsí, Laporte e Cucurella; Merino e Rodri; Baena, Pedri e Yamal; Oyarzabal (fonte: https://trivela.com.br/copa-do-mundo/provaveis-escalacoes-espanha-x-austria-copa/)
 - Lesões preocupam: Yeremy Pino (problema no ombro), Nico Williams (estiramento na coxa) e Víctor Muñoz (desconforto muscular na coxa) estão em avaliação — eventual ausência de Williams pode forçar adaptação tática no setor ofensivo (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-espanha-x-austria-02-07-26.html)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-02
+- Cristian "Cuti" Romero voltou a treinar normalmente com o grupo nas últimas três sessões e é forte candidato a retornar à titularidade contra Cabo Verde, na sexta-feira (3/7), no Hard Rock Stadium, em Miami (fonte: https://onefootball.com/en/news/cuti-romero-back-in-training-as-scaloni-picks-argentina-xi-v-cabo-verde-43084543)
+- Escalação provável (4-3-3): Emiliano "Dibu" Martínez; Molina, Cuti Romero, Lisandro Martínez e Medina; De Paul, Mac Allister e Enzo Fernández; Almada, Messi e Lautaro Martínez (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Argentina caminha para recuperar sua base titular com o retorno de Cuti Romero contra Cabo Verde nesta sexta — Scaloni ganha mais uma opção defensiva de hierarquia para o mata-mata.
+
 ## 📅 2026-07-01
 - Argentina confirma preparação intensificada para o duelo com Cabo Verde na sexta-feira (03/07), às 19h de Brasília, no Hard Rock Stadium em Miami — Scaloni trabalha para definir as três dúvidas que mantêm a escalação em aberto (fonte: https://www.lance.com.br/copa-do-mundo/titular-volta-aos-treinos-e-argentina-tem-tres-duvidas-para-encarar-cabo-verde.html)
 - Cristian "Cuti" Romero voltou a treinar no ritmo da equipe após a pancada no joelho direito — Scaloni avalia se titular ou escalar Otamendi ao lado de Lisandro Martínez na zaga (fonte: https://www.lance.com.br/copa-do-mundo/titular-volta-aos-treinos-e-argentina-tem-tres-duvidas-para-encarar-cabo-verde.html)

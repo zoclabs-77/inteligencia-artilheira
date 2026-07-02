@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-07-02
+- Colômbia divulga escalação prevista para enfrentar Gana na sexta-feira (3/7), às 22h30 de Brasília, no Arrowhead Stadium, em Kansas City: Camilo Vargas; Daniel Muñoz, Davinson Sánchez, Jhon Lucumí e Johan Mojica; Jefferson Lerma, Gustavo Puerta, Jhon Arias, James Rodríguez e Luis Díaz; Jhon Córdoba, sob comando de Néstor Lorenzo (fonte: https://www.365scores.com/pt-br/news/magazine/colombia-x-gana-escalacoes-copa/)
+- **Repercussão / Próximo jogo:** Colômbia confirma força máxima com James Rodríguez e Luis Díaz titulares para o duelo de sexta contra Gana — segue favorita para avançar às quartas.
+
 ## 📅 2026-07-01
 - Colômbia enfrenta Gana na sexta-feira (03/07), às 22h30 de Brasília, no Arrowhead Stadium em Kansas City — equipe avançou na liderança do Grupo K e chega como favorita ao confronto (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-os-confrontos-das-oitavas-de-final-da-copa-do-mundo-2026/)
 - James Rodríguez, camisa 10 e referência criativa da seleção colombiana, liderou a campanha da fase de grupos com sua capacidade de gerir o ritmo das partidas — retorno ao mata-mata de uma Copa após 2014 (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-james-rodriguez-colombia-divulga-convocados-para-a-copa-do-mundo/)

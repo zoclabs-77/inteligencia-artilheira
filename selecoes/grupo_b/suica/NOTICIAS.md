@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-07-02
+- Suíça finaliza a preparação para enfrentar a Argélia na madrugada de sexta-feira (3/7, 0h de Brasília), no BC Place, em Vancouver — escalação mantida: Kobel; Jaquez, Elvedi, Akanji e Ricardo Rodriguez; Freuler e Xhaka; Ndoye, Manzambi e Ruben Vargas; Embolo (fonte: https://www.365scores.com/pt-br/news/magazine/suica-x-argelia-escalacoes-copa/)
+- **Repercussão / Próximo jogo:** Suíça mantém a base que garantiu a liderança do Grupo B para o confronto de sexta contra a Argélia — Yakin não sinaliza mudanças na equipe titular.
+
 ## 📅 2026-07-01
 - Suíça prepara o duelo com a Argélia para amanhã à madrugada/sexta-feira (3 de julho, 00h de Brasília) em Vancouver — escalação prevista: Kobel; Jaquez, Elvedi, Akanji e Ricardo Rodriguez; Freuler e Xhaka; Ndoye, Manzambi e Ruben Vargas; Embolo (fonte: https://www.365scores.com/pt-br/news/magazine/suica-x-argelia-escalacoes-copa/)
 - Suíça liderou o Grupo B com 7 pontos (2 vitórias, 1 empate) e venceu o Canadá por 2x1 no duelo direto pelo topo da chave — chega ao mata-mata com confiança e solidez defensiva (fonte: https://www.365scores.com/pt-br/news/magazine/suica-x-argelia-escalacoes-copa/)

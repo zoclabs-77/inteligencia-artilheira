@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-02
+- Cabo Verde finaliza a preparação para o histórico confronto com a Argentina nesta sexta-feira (3/7), às 19h de Brasília, no Hard Rock Stadium, em Miami — será o primeiro duelo da história entre as duas seleções (fonte: https://www.tudn.com/mundial-2026/argentina-vs-cabo-verde/cuando-juega-argentina-cabo-verde-partido-dieciseisavos-final-copa-mundo-2026)
+- Missão declarada da equipe é conter Lionel Messi, artilheiro do torneio com seis gols, e sustentar a organização defensiva que manteve a seleção invicta na fase de grupos (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Cabo Verde chega a Miami embalado pela campanha histórica e mobilizando a diáspora cabo-verdiana — o duelo de sexta contra Messi e a Argentina já é o maior jogo da história do futebol do arquipélago.
+
 ## 📅 2026-07-01
 - Cabo Verde aguarda o maior jogo de sua história futebolística: enfrenta a Argentina campeã do mundo na sexta-feira (03/07), às 19h de Brasília, no Hard Rock Stadium em Miami (fonte: https://www.lance.com.br/copa-do-mundo/cabo-verde-x-argentina-data-horario-e-local-do-duelo-decisivo-na-copa-do-mundo.html)
 - Seleção arquipelágica terminou a fase de grupos invicta no Grupo H, eliminando Uruguay (bicampeão do mundo) e Saudi Arabia, e conquistando a classificação histórica inédita para o mata-mata mundialista (fonte: https://deportv.gob.ar/futbol/cabo-verde-sorpresa-mundial-2026-historico-cruce-16avos-argentina-nid:14590)

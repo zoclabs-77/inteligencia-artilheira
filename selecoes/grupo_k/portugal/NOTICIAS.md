@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-02
+- Portugal enfrenta a Croácia HOJE (2/7), às 20h de Brasília, no BMO Field, em Toronto, pelos 16 avos de final — João Neves desponta como favorito a retornar ao time titular no meio-campo (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-portugal-croacia)
+- Cristiano Ronaldo é a referência do ataque português e busca o terceiro gol da campanha na Copa, depois de marcar duas vezes contra o Uzbequistão (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-portugal-croacia)
+- **Repercussão / Próximo jogo:** Portugal decide vaga nas quartas HOJE contra a Croácia em Toronto — Martínez aposta no retorno de João Neves para reforçar o meio-campo e dar mais apoio a Ronaldo.
+
 ## 📅 2026-07-01
 - Portugal inicia a preparação final para o duelo com a Croácia amanhã (02/07), em Toronto, às 20h de Brasília — Roberto Martínez não registra lesionados nem suspensos no elenco (fonte: https://www.goal.com/br/not%C3%ADcias/portugal-x-croacia-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/blt9fb0907531786204)
 - Cristiano Ronaldo tem dois gols no torneio, ambos marcados contra o Uzbequistão — tornou-se o primeiro jogador a marcar em seis Copas do Mundo e ultrapassou Eusébio como maior artilheiro português em fases finais (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-cristiano-ronaldo-portugal-divulga-convocados-para-a-copa-do-mundo/)

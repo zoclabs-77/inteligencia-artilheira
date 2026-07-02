@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-02
+- Austrália divulga escalação prevista para enfrentar o Egito na sexta-feira (3/7), às 15h de Brasília, no AT&T Stadium, em Dallas: Patrick Beach; Lucas Herrington, Alessandro Circati e Harry Souttar; Aziz Behich, Jackson Irvine, Aiden O'Neill e Jordan Bos; Cristian Volpato e Connor Metcalfe; Nestory Irankunda (fonte: https://www.365scores.com/pt-br/news/magazine/australia-egito-escalacoes-analise/)
+- Escalação confirma os desfalques de Matthew Leckie e Jacob Italiano, ambos fora do restante do torneio por lesão, forçando Tony Popović a reorganizar o ataque em torno de Irankunda (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Austrália vai a campo sexta contra o Egito com escalação alternativa após a onda de lesões — Irankunda assume o protagonismo ofensivo no lugar de Leckie.
+
 ## 📅 2026-07-01
 - Austrália sofre onda de lesões antes do duelo com o Egito na sexta-feira (03/07), às 15h de Brasília, no AT&T Stadium em Dallas — técnico Tony Popović conta com elenco reduzido (fonte: https://www.goal.com/br/not%C3%ADcias/uma-onda-de-lesoes-atinge-a-australia-antes-do-confronto-contra-o-egito-na-copa-do-mundo/blt196c6c8fdeb30b5e)
 - Matthew Leckie, atacante experiente e referência ofensiva, está fora do jogo contra o Egito após se machucar contra os EUA na 2ª rodada — ausência que tira criatividade e profundidade ao ataque dos Socceroos (fonte: https://www.goal.com/br/not%C3%ADcias/uma-onda-de-lesoes-atinge-a-australia-antes-do-confronto-contra-o-egito-na-copa-do-mundo/blt196c6c8fdeb30b5e)

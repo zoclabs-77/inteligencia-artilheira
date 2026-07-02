@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-02
+- Áustria enfrenta a Espanha HOJE (2/7), em Los Angeles — escalação confirmada no 4-2-3-1: Alexander Schlager; Stefan Posch, David Alaba, Philipp Lienhart e Phillipp Mwene; Xaver Schlager e Nicolas Seiwald; Konrad Laimer, Romano Schmid e Marcel Sabitzer; Marko Arnautovic (fonte: https://tips.gg/pt/article/spain-austria-predicted-lineups-story/)
+- David Alaba, que vinha como dúvida por desgaste físico, está confirmado como titular na zaga — reforço importante para a solidez defensiva austríaca (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Áustria tem a confirmação de Alaba titular para o duelo de hoje contra a Espanha — Rangnick mantém a aposta no pressing alto para tentar surpreender a favorita.
+
 ## 📅 2026-07-01
 - Áustria finaliza preparação para o duelo com a Espanha amanhã (02/07) em Los Angeles — escalação prevista: A. Schlager; Posch, Lienhart, Alaba e Mwene; Seiwald, X. Schlager; Sabitzer, Laimer e Baumgartner; Gregoritsch (fonte: https://www.opovo.com.br/apostas/copa-do-mundo/palpite-espanha-x-austria-02-07-26.html)
 - David Alaba é dúvida para o confronto de amanhã: lenda do futebol austríaco, o zagueiro do Real Madrid vem sendo gerenciado pela comissão técnica após os altos e baixos físicos durante a fase de grupos (fonte: https://www.goal.com/en-us/news/spain-austria-world-cup-preview/bltd6228bcab13b7c80)
