@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-03
+- Escalação confirmada para o duelo desta sexta (3/7), às 15h de Brasília, no AT&T Stadium (Arlington/Dallas): Patrick Beach; Lucas Herrington, Alessandro Circati e Harry Souttar; Aziz Behich, Jackson Irvine, Aiden O'Neill e Jordan Bos; Cristian Volpato e Connor Metcalfe; Nestory Irankunda, sob comando de Tony Popovic (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/australia-x-egito-provaveis-escalacoes-para-o-jogo-da-copa/)
+- Time segue sem Matthew Leckie e Jacob Italiano, ambos fora do restante do torneio por lesão, reduzindo as opções ofensivas de Popovic (fonte: mesma acima)
+- Adversário egípcio também tem desfalque certo: o volante Mohanad Lasheen cumpre suspensão automática por cartões amarelos (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Escalação alternativa de Popovic se confirma para o mata-mata desta sexta em Dallas — Austrália aposta no coletivo mesmo desfalcada, contra um Egito que também perde uma peça do meio-campo por suspensão.
+
 ## 📅 2026-07-02
 - Austrália divulga escalação prevista para enfrentar o Egito na sexta-feira (3/7), às 15h de Brasília, no AT&T Stadium, em Dallas: Patrick Beach; Lucas Herrington, Alessandro Circati e Harry Souttar; Aziz Behich, Jackson Irvine, Aiden O'Neill e Jordan Bos; Cristian Volpato e Connor Metcalfe; Nestory Irankunda (fonte: https://www.365scores.com/pt-br/news/magazine/australia-egito-escalacoes-analise/)
 - Escalação confirma os desfalques de Matthew Leckie e Jacob Italiano, ambos fora do restante do torneio por lesão, forçando Tony Popović a reorganizar o ataque em torno de Irankunda (fonte: mesma acima)

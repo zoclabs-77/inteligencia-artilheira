@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-03
+- Escalação confirmada para o duelo desta sexta (3/7), às 22h30 de Brasília, no Arrowhead Stadium (Kansas City): Benjamin Asare; Maxime Senaya, Jonas Adjetey, Jonathan Opoku e Gideon Mensah; Thomas Partey, Caleb Yirenkyi, Iñaki Williams e Kwasi Sibo; Antoine Semenyo e Jordan Ayew, sob comando de Carlos Queiroz (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16942976/colombia-x-gana-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-copa-do-mundo)
+- Queiroz manteve a mesma base tática usada na fase de grupos e, em coletiva na véspera, elogiou o rival mas prometeu explorar falhas: "A Colômbia é uma equipe muito bem organizada (...) Não há equipas perfeitas e a Colômbia não é perfeita. É uma grande equipa, mas não é perfeita" (fonte: https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2026/gana/detalhe/carlos-queiroz-elogia-colombia-mas-o-gana-quer-aproveitar-fragilidades)
+- Técnico avisou que Gana vai dar à Colômbia "mais problemas" do que Portugal deu na fase de grupos (fonte: https://www.gazetaesportiva.com/times/gana/gana-dara-a-colombia-mais-problemas-do-que-portugal-antecipa-queiroz/)
+- **Repercussão / Próximo jogo:** Escalação confirmada mantém Thomas Partey como referência do meio-campo; Queiroz aposta em explorar as fragilidades de uma Colômbia que ele mesmo elogia como "grande equipe, mas não perfeita" nesta sexta em Kansas City.
+
 ## 📅 2026-07-02
 - Gana divulga escalação prevista para enfrentar a Colômbia na sexta-feira (3/7), às 22h30 de Brasília, em Kansas City: Ati-Zigi; Alidu Seidu, Alexander Djiku, Mohammed Salisu e Gideon Mensah; Thomas Partey, Salis Abdul Samed e Mohammed Kudus; Ernest Nuamah, Jordan Ayew e Iñaki Williams, sob comando de Carlos Queiroz (fonte: https://www.365scores.com/pt-br/news/magazine/colombia-x-gana-escalacoes-copa/)
 - **Repercussão / Próximo jogo:** Gana confirma Thomas Partey e Mohammed Kudus no time titular para o duelo de sexta contra a Colômbia — aposta na experiência da dupla para tentar a zebra em Kansas City.

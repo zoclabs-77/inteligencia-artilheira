@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-03
+- Situação de Mohamed Salah segue indefinida às vésperas do jogo desta sexta (3/7), às 15h de Brasília, no AT&T Stadium: o técnico Hossam Hassan não garantiu a titularidade do camisa 10 e afirmou que não vai correr nenhum risco, a menos que tenha certeza de que ele está em plenas condições físicas (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-tecnico-do-egito-nao-garante-titularidade-de-salah-contra-australia/)
+- Capitão retornou aos treinos em Spokane após intenso programa de reabilitação da lesão muscular na coxa sofrida contra o Irã, e a federação chegou a publicar vídeo com a legenda "O Rei está de volta" — mas a cautela ainda predomina no departamento médico (fonte: https://www.terra.com.br/esportes/futebol/o-misterio-de-salah-e-as-marcas-que-australia-e-egito-esperam-bater-na-copa-do-mundo,1eaff355baa6937440018ded2aa2186cyqaimrne.html)
+- Volante Mohanad Lasheen está fora por suspensão automática (cartões amarelos), forçando Hassan a mexer no meio-campo independentemente da decisão sobre Salah (fonte: https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-do-mundo/australia-x-egito-provaveis-escalacoes-para-o-jogo-da-copa/)
+- **Repercussão / Próximo jogo:** "Mistério Salah" segue sem solução até poucas horas do apito inicial desta sexta em Dallas — Egito só saberá se poderá contar com o capitão minutos antes do jogo contra a Austrália.
+
 ## 📅 2026-07-02
 - Mohamed Salah voltou a treinar parcialmente com o grupo e passou a ser tratado como dúvida — não mais como "confirmado fora" — para o duelo de sexta-feira (3/7) contra a Austrália, segundo boletim da Federação Egípcia (fonte: https://www.goal.com/br/not%C3%ADcias/um-novo-desdobramento-alimenta-as-especulacoes-sobre-a-participacao-de-mohamed-salah-contra-a-australia/blt872c36129ebdefab)
 - Departamento médico egípcio mantém tratamento intensivo com expectativa de que o capitão tenha condições de atuar no confronto decisivo (fonte: mesma acima)

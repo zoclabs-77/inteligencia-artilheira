@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-03
+- Escalação confirmada para o duelo desta sexta (3/7), às 22h30 de Brasília, no Arrowhead Stadium (Kansas City): Camilo Vargas; Daniel Muñoz, Davinson Sánchez, Jhon Lucumí e Johan Mojica; Jefferson Lerma, Gustavo Puerta, Jhon Arias, James Rodríguez e Luis Díaz; Jhon Córdoba, sob comando de Néstor Lorenzo (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16942976/colombia-x-gana-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-copa-do-mundo)
+- Mudança em relação à fase de grupos: Muñoz retorna à lateral direita e Jhon Córdoba entra como centroavante (fonte: mesma acima)
+- Lorenzo, na véspera, evitou o rótulo de favorita mesmo destacando a evolução da equipe no torneio (fonte: https://www.gazetaesportiva.com/times/colombia/nestor-lorenzo-descarta-favoritismo-da-colombia-na-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Escalação confirmada com retorno de Muñoz e entrada de Córdoba no ataque; Lorenzo prega cautela mesmo com a melhor defesa do torneio a favor da Colômbia nesta sexta em Kansas City.
+
 ## 📅 2026-07-02
 - Colômbia divulga escalação prevista para enfrentar Gana na sexta-feira (3/7), às 22h30 de Brasília, no Arrowhead Stadium, em Kansas City: Camilo Vargas; Daniel Muñoz, Davinson Sánchez, Jhon Lucumí e Johan Mojica; Jefferson Lerma, Gustavo Puerta, Jhon Arias, James Rodríguez e Luis Díaz; Jhon Córdoba, sob comando de Néstor Lorenzo (fonte: https://www.365scores.com/pt-br/news/magazine/colombia-x-gana-escalacoes-copa/)
 - **Repercussão / Próximo jogo:** Colômbia confirma força máxima com James Rodríguez e Luis Díaz titulares para o duelo de sexta contra Gana — segue favorita para avançar às quartas.
