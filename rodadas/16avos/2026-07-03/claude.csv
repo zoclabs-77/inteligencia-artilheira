@@ -1,0 +1,4 @@
+partida_id,casa,fora,gols_casa,gols_fora,prob_casa,prob_empate,prob_fora,confianca,justificativa
+86,argentina,cabo-verde,2,0,78,15,7,74,"Gap de ranking enorme; Argentina 100% e base recuperada. Cabo Verde invicto e muito defensivo segura, mas Messi decide."
+87,colombia,gana,2,1,60,22,18,62,"Colombia tem a melhor defesa do torneio, James e Diaz em alta. Gana (Kudus/Semenyo) e zebra real e marca, mas nao segura."
+88,australia,egito,1,0,40,30,30,44,"Jogo truncado e 50/50: Salah duvida e Lasheen suspenso pesam no Egito; Australia leva na bola parada e na decisao."
