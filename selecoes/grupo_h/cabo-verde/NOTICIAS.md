@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-03
+- Escalação confirmada para encarar a Argentina nesta sexta (3/7), às 19h de Brasília, no Hard Rock Stadium (Miami): Vozinha; Steven Moreira, Diney Borges, Pico Lopes e Sidny Lopes Cabral; Kevin Pina; Ryan Mendes, Deroy Duarte, Jamiro Monteiro e Willy Semedo; Dailon Livramento (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-argentina-x-cabo-verde-escalacoes-horario)
+- Técnico Pedro "Bubista" Brito rejeitou o discurso de resignação diante da favorita: "É o jogo das nossas vidas (...) não há nada a recear. Estamos nesta competição por mérito próprio" (fonte: https://www.abola.pt/noticias/cabo-verde-sonha-sem-medo-e-o-jogo-das-nossas-vidas-diz-bubista-2026070222153141515)
+- Bubista evitou entrar em polêmica sobre suposto favorecimento arbitral à Argentina no torneio: "Preferimos encarar os jogos com concentração e pensar no que podemos fazer" (fonte: https://noataque.com.br/futebol/copa-do-mundo/time/cabo-verde/noticia/2026/07/03/argentina-favorecida-tecnico-de-cabo-verde-reage-antes-de-jogo-da-copa/)
+- **Repercussão / Próximo jogo:** Escalação confirmada e discurso de confiança de Bubista embalam a estreia histórica de Cabo Verde no mata-mata, encarando a atual campeã nesta sexta em Miami.
+
 ## 📅 2026-07-02
 - Cabo Verde finaliza a preparação para o histórico confronto com a Argentina nesta sexta-feira (3/7), às 19h de Brasília, no Hard Rock Stadium, em Miami — será o primeiro duelo da história entre as duas seleções (fonte: https://www.tudn.com/mundial-2026/argentina-vs-cabo-verde/cuando-juega-argentina-cabo-verde-partido-dieciseisavos-final-copa-mundo-2026)
 - Missão declarada da equipe é conter Lionel Messi, artilheiro do torneio com seis gols, e sustentar a organização defensiva que manteve a seleção invicta na fase de grupos (fonte: mesma acima)

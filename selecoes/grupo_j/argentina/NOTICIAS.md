@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-03
+- Escalação confirmada para o duelo desta sexta (3/7), às 19h de Brasília, no Hard Rock Stadium (Miami): Emiliano Martínez; Nahuel Molina, Cristian Romero, Lisandro Martínez e Nicolás Tagliafico; Rodrigo De Paul, Enzo Fernández e Alexis Mac Allister; Lionel Messi, Lautaro Martínez e Thiago Almada (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-argentina-x-cabo-verde-escalacoes-horario)
+- Scaloni chega ao seu 100º jogo à frente da seleção e evitou minimizar Cabo Verde em coletiva: "Não vai ser fácil (...) Jogam bem e sabem contra-atacar. É uma boa equipe, já a analisávamos como possível adversária" (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/tecnico-da-argentina-avalia-partida-contra-cabo-verde-nao-vai-ser-facil-202607021919)
+- Técnico reconheceu o mérito do adversário, lembrando que a seleção africana não perdeu nenhum jogo na competição e "mereceu vencer a Arábia Saudita" (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Escalação confirmada mantém a base titular que fechou a fase de grupos com 100%; Scaloni chega ao 100º jogo pedindo respeito a Cabo Verde antes do duelo desta sexta em Miami.
+
 ## 📅 2026-07-02
 - Cristian "Cuti" Romero voltou a treinar normalmente com o grupo nas últimas três sessões e é forte candidato a retornar à titularidade contra Cabo Verde, na sexta-feira (3/7), no Hard Rock Stadium, em Miami (fonte: https://onefootball.com/en/news/cuti-romero-back-in-training-as-scaloni-picks-argentina-xi-v-cabo-verde-43084543)
 - Escalação provável (4-3-3): Emiliano "Dibu" Martínez; Molina, Cuti Romero, Lisandro Martínez e Medina; De Paul, Mac Allister e Enzo Fernández; Almada, Messi e Lautaro Martínez (fonte: mesma acima)
