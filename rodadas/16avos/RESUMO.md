@@ -1,6 +1,6 @@
-# 16 avos de final — Resumo (atualizado em 2026-07-03)
+# 16 avos de final — Resumo (atualizado em 2026-07-04)
 
-> Mata-mata da Copa 2026 a todo vapor. **13 de 16 jogos** dos 16 avos de final disputados até agora.
+> Fase concluída! **16 de 16 jogos** dos 16 avos de final disputados — mata-mata encerrado, torneio segue para as oitavas de final.
 
 ## Placares confirmados — 29/06
 
@@ -20,11 +20,17 @@
 - **EUA 2 x 0 Bósnia** — Anfitriões dominaram mesmo com um a menos: Balogun abriu o placar e foi expulso aos 18' por entrada dura no zagueiro Muharemovic; Tillman ampliou de falta no 2º tempo, aproveitando falha do goleiro Vasilj. EUA avança para pegar a Bélgica nas oitavas (06/07, Seattle).
 - **Bélgica 3 x 2 Senegal** — Clássico dramático em Seattle: Senegal saiu na frente com Habib Diarra e ampliou com Ismaila Sarr, a Bélgica buscou o empate com Lukaku e Tielemans, e no último minuto da prorrogação Tielemans converteu pênalti sofrido por Lamine Camara e decretou a virada nos acréscimos.
 
-## Placares confirmados — 02/07 🆕
+## Placares confirmados — 02/07
 
 - **Portugal 2 x 1 Croácia** — Croácia abriu o placar com Perisic aos 7' do 2º tempo, mas Cristiano Ronaldo empatou de pênalti (seu primeiro gol em mata-mata de Mundial) e Gonçalo Ramos decretou a virada nos acréscimos, em Toronto. Portugal avança para enfrentar a Espanha nas oitavas (06/07).
 - **Espanha 3 x 0 Áustria** — Sem sustos em Los Angeles: Oyarzabal marcou duas vezes e Porro completou a goleada. Espanha aguarda Portugal ou Croácia nas oitavas.
 - **Suíça 2 x 0 Argélia** — Breel Embolo abriu o placar logo no início, Dan Ndoye ampliou na etapa final, em Vancouver. Suíça avança para as oitavas.
+
+## Placares confirmados — 03/07 🆕
+
+- **Argentina 3 x 2 Cabo Verde (prorrogação)** — Jogo dramático no Hard Rock Stadium (Miami): 1-1 no tempo normal levou a decisão para a prorrogação, onde Messi e Lisandro Martínez (além de gol contra de Diney Borges) superaram Deroy Duarte e Cabral. Argentina avança para enfrentar o Egito nas oitavas.
+- **Colômbia 1 x 0 Gana** — Jhon Arias decidiu ainda no 1º tempo, no Arrowhead Stadium (Kansas City). Colômbia fecha os 16 avos com a melhor defesa do torneio e aguarda a Suíça nas oitavas.
+- **Austrália 1 x 1 Egito (Egito venceu nos pênaltis, 4-2)** — Emam Ashour abriu para o Egito, Mohamed Hany fez contra e empatou para a Austrália; sem gols na prorrogação, os egípcios converteram todas as cobranças e eliminaram os australianos no AT&T Stadium (Arlington/Dallas). Egito encerra os 16 avos das seleções africanas.
 
 ## Palpites × Resultado — 29/06 (jogos 74-76)
 
@@ -57,7 +63,7 @@
 
 ⭐ = placar exato (3 pts). Codex foi o único a cravar um placar exato no lote (2-1 na virada de Kane sobre a RD Congo) e lidera o dia com 6 pts, seguido por Baseline (5) e Claude (4). Nenhuma zebra ou mico hoje — os três favoritos (rankeados acima) venceram os três jogos. Baseline e Claude acertaram o saldo de gols em Bélgica x Senegal (+1) mas erraram o saldo em EUA x Bósnia.
 
-## Palpites × Resultado — 02/07 (jogos 83-85) 🆕
+## Palpites × Resultado — 02/07 (jogos 83-85)
 
 | # | Jogo | Claude | Codex | Baseline | Real | Cla | Cdx | Base |
 |---|---|---|---|---|---|---|---|---|
@@ -68,13 +74,24 @@
 
 ⭐ = placar exato (3 pts). Claude e Codex cravaram o 2-1 exato de Portugal x Croácia, virada nos acréscimos. Os três modelos acertaram o vencedor nas três partidas, mas erraram o saldo em Espanha x Áustria (3-0 real vs 2-0/2-0/1-0 previstos) e em Suíça x Argélia (2-0 real vs 2-1/2-1/1-0 previstos).
 
-## Placar geral acumulado — após 13 jogos dos 16 avos (85 jogos no total)
+## Palpites × Resultado — 03/07 (jogos 86-88) 🆕
+
+| # | Jogo | Claude | Codex | Baseline | Real | Cla | Cdx | Base |
+|---|---|---|---|---|---|---|---|---|
+| 86 | Argentina x Cabo Verde | 2-0 | 2-0 | 1-0 | **3-2** | 1 | 1 | 2 |
+| 87 | Colômbia x Gana | 2-1 | 1-0 | 1-0 | **1-0** | 2 | 3⭐ | 3⭐ |
+| 88 | Austrália x Egito | 1-0 | 1-2 | 1-0 | **1-1** (pên: Egito) | 0 | 0 | 0 |
+| | **Total do lote** | | | | | **3** | **4** | **5** |
+
+⭐ = placar exato (3 pts). Codex e Baseline cravaram o 1-0 exato de Colômbia x Gana. Nenhum dos três modelos previu o empate de Austrália x Egito (todos apostaram em vitória australiana, a melhor rankeada no FIFA), zerando na única partida decidida nos pênaltis do dia. Baseline levou a melhor no lote (5 pts) puxado pelo saldo certo em Argentina x Cabo Verde.
+
+## Placar geral acumulado — 16 avos de final encerrados (88 jogos no total)
 
 | Modelo | Pts nos 16 avos | Total acum. (grupos + 16 avos) | Placares exatos (acum.) | Acertos resultado (acum.) |
 |---|---|---|---|---|
-| **Codex** | 21 | **99** | 14 | 58 |
-| **Claude** | 19 | **89** | 12 | 54 |
-| **Baseline** | 18 | **78** | 7 | 54 |
+| **Codex** | 25 | **103** | 15 | 60 |
+| **Claude** | 22 | **92** | 12 | 56 |
+| **Baseline** | 23 | **83** | 8 | 56 |
 
 > Pontuação: placar exato = 3 · vencedor + saldo certo = 2 · só o vencedor/empate = 1 · errou = 0. Totais via `copa.placar_geral`.
 
@@ -89,7 +106,10 @@
 - **VIRADA NOS ACRÉSCIMOS DA PRORROGAÇÃO (01/07):** Bélgica estava perdendo por 2x1 até os 40' do 2º tempo, buscou o empate com Lukaku e Tielemans e converteu pênalti no último minuto da prorrogação para eliminar o Senegal.
 - **RONALDO E A DESPEDIDA DE MODRIC (02/07):** Croácia saiu na frente com Perisic, mas Cristiano Ronaldo empatou de pênalti — seu primeiro gol em mata-mata de Mundial — e Gonçalo Ramos decidiu nos acréscimos, encerrando o Mundial de Luka Modric. Claude e Codex cravaram o 2-1 exato.
 - **ESPANHA SEM SUSTOS (02/07):** Oyarzabal (2x) e Porro fizeram 3x0 sobre a Áustria em Los Angeles, sem sofrer gols na fase.
-- **CODEX NA LIDERANÇA:** 99 pts acumulados, contra 89 do Claude e 78 do Baseline. Codex também lidera em placares exatos (14) e em acertos de resultado (58), com Claude e Baseline empatados em 54.
+- **MESSI NA PRORROGAÇÃO (03/07):** Cabo Verde, estreante zebra da fase de grupos, levou a Argentina para a prorrogação após empate em 1-1. Messi e Lisandro Martínez (mais um gol contra de Diney Borges) sacramentaram o 3x2 em Miami. Baseline foi o único a acertar o saldo de gols (+1).
+- **EGITO ELIMINA A AUSTRÁLIA NOS PÊNALTIS (03/07):** Empate em 1-1 sem gols na prorrogação; Egito (33º no ranking FIFA) converteu as quatro cobranças e superou a Austrália (25ª), avançando para enfrentar a Argentina nas oitavas. Nenhum dos três modelos previu o empate — mico coletivo no jogo.
+- **COLÔMBIA FECHA OS 16 AVOS COM GOL DE ARIAS (03/07):** Jhon Arias decidiu 1x0 sobre Gana ainda no 1º tempo. Codex e Baseline cravaram o placar exato; Colômbia aguarda a Suíça nas oitavas.
+- **FIM DOS 16 AVOS DE FINAL:** Com os 16 jogos encerrados, a fase eliminatória avança para as oitavas de final. Codex lidera com 103 pts acumulados, contra 92 do Claude e 83 do Baseline. Codex também lidera em placares exatos (15) e em acertos de resultado (60), com Claude e Baseline empatados em 56.
 
 ---
 **ZocLabs 🧪 — Inteligência Artilheira**
