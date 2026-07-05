@@ -4,6 +4,14 @@
 
 ---
 
+## 📅 2026-07-05
+- Marrocos venceu o Canadá por 3 a 0 em Houston e se tornou a primeira seleção a garantir vaga nas quartas de final desta Copa (fonte: https://www.espn.com/soccer/story/_/id/49270266/morocco-defeat-co-hosts-canada-first-team-world-cup-quarterfinals-azzedine-ounahi-soufiane-rahimi)
+- Azzedine Ounahi marcou duas vezes (aos 50 e 82 minutos) — a 1ª após cobrança de falta de Achraf Hakimi, a 2ª em contra-ataque com assistência de Brahim Díaz — e foi o grande nome do jogo (fonte: mesma acima)
+- Soufiane Rahimi ampliou o placar para 3 a 0 já nos acréscimos finais (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/marrocos-vence-canada-com-show-de-ounahi-e-avanca-as-quartas-da-copa-2026/)
+- O meio-campista Ismael Saibari saiu lesionado aos 22 minutos, ainda no 1º tempo (fonte: https://www.espn.com/soccer/story/_/id/49270266/morocco-defeat-co-hosts-canada-first-team-world-cup-quarterfinals-azzedine-ounahi-soufiane-rahimi)
+- O técnico Mohamed Ouahbi declarou: "Não somos mais surpresa... agora quando falam de Marrocos somos candidatos importantes e é motivo de orgulho" (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Marrocos avança pela 2ª vez a uma quarta de final de Copa (repetindo o feito de 2022) e enfrenta a França em Boston na quinta-feira (09/07).
+
 ## 📅 2026-06-25
 - Marrocos venceu o Haiti por 4x2 em Atlanta, na última rodada do Grupo C, em jogo movimentado com gol contra do Haiti, gols de Hakimi e Saibari, e dois gols de Wilson Isidor pelo Haiti (fonte: https://aloalobahia.com/esportes/2026/06/24/marrocos-vence-haiti-por-4x2-fica-em-segundo-no-grupo-c-e-avanca-na-copa-do-mundo/)
 - Marrocos chega a 7 pontos, mesma pontuação do Brasil, mas avança em segundo lugar no saldo de gols; Hakimi foi o nome mais influente, com gol e assistência (fonte: https://trivela.com.br/copa-do-mundo/marrocos-4-2-haiti-hakimi-rahimi-el-khanouss/)

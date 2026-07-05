@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- Escalação provável: Alisson; Danilo, Marquinhos, Gabriel Magalhães e Douglas Santos; Casemiro, Bruno Guimarães e Danilo Santos; Rayan, Matheus Cunha e Vini Jr., sob comando de Carlo Ancelotti (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-x-noruega-veja-provavel-escalacao-da-selecao-para-duelo-das-oitavas/)
+- Lucas Paquetá sofreu lesão na coxa esquerda e está fora da partida; Rayan deve seguir no ataque no lugar de Raphinha (fonte: mesma acima)
+- Vinícius Júnior marcou nos três jogos da fase de grupos, somando quatro gols no torneio até aqui (fonte: mesma acima)
+- Jogo: Brasil x Noruega, domingo (05/07), 17h (Brasília), MetLife Stadium (East Rutherford, NJ) (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Brasil enfrenta a Noruega de Erling Haaland nas oitavas de final; imprensa destaca o desfalque de Paquetá como principal ponto de atenção na montagem do time por Ancelotti.
+
 ## 📅 2026-06-25
 - Brasil venceu a Escócia por 3x0 no Hard Rock Stadium, em Miami, com dois gols de Vinícius Júnior e um de Matheus Cunha (assistência de Bruno Guimarães), fechando a fase de grupos com 7 pontos e na liderança do Grupo C (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-domina-escocia-vence-e-avanca-na-copa-do-mundo-como-lider-do-grupo/)
 - Vinícius Jr. chegou a 4 gols na competição e foi o nome do jogo; partida marcou também a estreia de Neymar na Copa do Mundo de 2026, atuando os 20 minutos finais (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-estatisticas-brasil-escocia)

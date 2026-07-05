@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- Escalação provável (4-3-3): Thibaut Courtois; Timothy Castagne, Arthur Theate, Brandon Mechele e Maxim De Cuyper; Amadou Onana, Youri Tielemans e Kevin De Bruyne; Leandro Trossard, Romelu Lukaku e Jérémy Doku (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-belgica-x-senegal-01-07-2026.html)
+- Zeno Debast segue como principal desfalque; o zagueiro voltou parcialmente aos treinos, mas ainda sem presença confirmada para o confronto (fonte: https://www.365scores.com/pt-br/news/magazine/estados-unidos-x-belgica-escalacoes-analise-copa-do-mundo/)
+- Nathan Ngoy já cumpriu suspensão e está novamente disponível para o técnico Rudi Garcia (fonte: mesma acima)
+- Há dúvida sobre o comando do ataque: Garcia usou Charles De Ketelaere como falso 9 nos primeiros jogos, mas a pressão para que Lukaku comece como titular é grande (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Bélgica enfrenta os EUA nas oitavas, dia 06/07, no Lumen Field (Seattle), com a definição do titular do ataque (De Ketelaere x Lukaku) como principal ponto em aberto na formação de Rudi Garcia.
+
 ## 📅 2026-07-01
 - Escalação provável para o jogo de hoje contra o Senegal: Courtois; Castagne, Mechele, Ngoy e De Cuyper; Vanaken e Tielemans; Doku, De Bruyne e Trossard; De Ketelaere — técnico Rudi Garcia mantém a força máxima (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/belgica-x-senegal-provaveis-escalacoes-horario-e-como-assistir-202606301934)
 - Doku, principal destaque ofensivo na fase de grupos, chega como o jogador mais desequilibrante do confronto de hoje em Seattle — capaz de criar situações pela velocidade nas extremidades (fonte: https://www.goal.com/en-us/news/belgium-senegal-world-cup-preview/blt1c958015a91eebc7)

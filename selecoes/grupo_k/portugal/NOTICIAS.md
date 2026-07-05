@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- Escalação provável: Diogo Costa; João Cancelo, Rúben Dias, Renato Veiga e Nuno Mendes; João Neves e Vitinha; Pedro Neto, Bruno Fernandes e Rafael Leão; Cristiano Ronaldo (fonte: https://www.lance.com.br/copa-do-mundo/portugal-x-espanha-nas-oitavas-de-final-da-copa-do-mundo-veja-data-e-horario.html)
+- Nuno Mendes apresentou fadiga muscular na coxa esquerda e treinou sob restrições; sua presença na lateral esquerda é vista como crucial para conter o avanço espanhol (fonte: mesma acima)
+- Técnico Roberto Martínez projetou o confronto: "Será fantástico. [...] São duas equipes que querem a bola e buscam gols rápidos", destacando que as seleções se conhecem muito bem (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/tecnico-de-portugal-projeta-oitavas-contra-espanha-sera-fantastico-202607030145)
+- O duelo é um "reencontro" com a final da Liga das Nações da UEFA 2024/25, quando Portugal venceu a Espanha nos pênaltis após empate (fonte: https://www.lance.com.br/copa-do-mundo/portugal-x-espanha-nas-oitavas-de-final-da-copa-do-mundo-veja-data-e-horario.html)
+- **Repercussão / Próximo jogo:** Portugal enfrenta a Espanha nas oitavas de final, dia 06/07, no AT&T Stadium (Arlington/Dallas) — confronto entre seleções de estilo semelhante (posse de bola e transições rápidas) que já protagonizaram uma decisão recente na Liga das Nações.
+
 ## 📅 2026-07-02
 - Portugal enfrenta a Croácia HOJE (2/7), às 20h de Brasília, no BMO Field, em Toronto, pelos 16 avos de final — João Neves desponta como favorito a retornar ao time titular no meio-campo (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-portugal-croacia)
 - Cristiano Ronaldo é a referência do ataque português e busca o terceiro gol da campanha na Copa, depois de marcar duas vezes contra o Uzbequistão (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-portugal-croacia)

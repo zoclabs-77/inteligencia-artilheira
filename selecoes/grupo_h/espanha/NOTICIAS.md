@@ -4,6 +4,14 @@
 
 ---
 
+## 📅 2026-07-05
+- Escalação provável: Unai Simón; Pedro Porro, Laporte, Cubarsí e Cucurella; Álex Baena, Rodri e Pedri; Dani Olmo, Lamine Yamal e Oyarzabal (fonte: https://www.lance.com.br/copa-do-mundo/portugal-x-espanha-nas-oitavas-de-final-da-copa-do-mundo-veja-data-e-horario.html)
+- Laporte cumpre protocolo de concussão leve e é dúvida para a partida (fonte: mesma acima)
+- Lamine Yamal, que sofreu lesão muscular na coxa esquerda no fim de abril, teve minutagem controlada na fase de grupos e garantiu estar recuperado para o duelo com Portugal (fonte: https://www.vietnam.vn/pt/vong-1-16-world-cup-2026-tay-ban-nha-san-sang-hlv-ao-co-ke-hoach-khoa-chat-lamine-yamal)
+- Fermín López sofreu fratura no quinto metatarso do pé direito, passou por cirurgia e está fora da Copa (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-yamal-e-mais-estrelas-espanha-divulga-26-convocados-para-a-copa-veja/)
+- Técnico Luis de la Fuente ainda não confirmou o time titular para o duelo contra Portugal (fonte: https://www.goal.com/br/not%C3%ADcias/portugal-x-espanha-previsao-da-copa-do-mundo-da-fifa-2026-tudo-o-que-voce-precisa-saber/bltb67a97e9f9bd403f)
+- **Repercussão / Próximo jogo:** Espanha encara Portugal nas oitavas, dia 06/07, em Arlington (Dallas) — duelo marcado por dúvidas físicas nos dois elencos (Laporte de um lado, Nuno Mendes do outro) e pela rivalidade recente entre as seleções ibéricas.
+
 ## 📅 2026-07-02
 - Espanha enfrenta a Áustria HOJE (2/7), no SoFi Stadium, em Inglewood (Los Angeles) — escalação confirmada: Unai Simón; Pedro Porro, Pau Cubarsí, Aymeric Laporte e Marc Cucurella; Rodri, Pedri e Dani Olmo; Lamine Yamal, Mikel Oyarzabal e Álex Baena (fonte: https://www.opovo.com.br/esportes/futebol/copa-do-mundo/2026/07/01/invicta-espanha-enfrenta-austria-para-provar-favoritismo-e-avancar-as-oitavas.html)
 - Nico Williams está confirmado como desfalque: lesão muscular no adutor direito após pancada sofrida no jogo passado o tira da lista de relacionados (fonte: mesma acima)

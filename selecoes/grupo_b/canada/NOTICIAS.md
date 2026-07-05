@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- Canadá perdeu por 0 a 3 para o Marrocos em Houston, em 04/07, e foi eliminado nas oitavas de final (fonte: https://www.espn.com/soccer/match/_/gameId/760502/morocco-canada)
+- Tornou-se o primeiro país-sede eliminado do torneio, encerrando campanha que incluiu a primeira vitória do país em mata-mata de Copa (1 a 0 sobre a África do Sul) (fonte: https://www.tsn.ca/soccer/fifa-world-cup/article/canadas-magical-world-cup-run-ends-in-loss-to-morocco-in-the-round-of-16/)
+- O técnico Jesse Marsch disse ser "um privilégio" ver a seleção competir nesse nível e afirmou que, na próxima Copa, qualquer coisa aquém das oitavas será considerado fracasso; avaliou que o Canadá foi a melhor equipe em campo, lamentando a eficiência marroquina (fonte: mesma acima)
+- O meio-campista Stephen Eustáquio afirmou que o Canadá jogou bem no 1º tempo, mas sofreu nas transições defensivas no 2º tempo diante do Marrocos (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Canadá eliminado nas oitavas como país-sede; cobertura local tem tom de orgulho apesar da queda, destacando o avanço do futebol canadense.
+
 ## 📅 2026-06-25
 - Canadá perdeu para a Suíça por 2x1 em Vancouver (BC Place), pela 3ª rodada do Grupo B; Promise David marcou o gol canadense (fonte: https://www.gazetaesportiva.com/minuto-a-minuto/copa-do-mundo-2026/suica-x-canada/237063/)
 - Antes da derrota, o Canadá vinha de goleada de 6x0 sobre o Catar na rodada anterior (fonte: https://www.terra.com.br/esportes/futebol/internacional/suica-x-canada-saiba-tudo-sobre-a-briga-pelo-primeiro-lugar-do-grupo-b-da-copa-do-mundo,45c461d677fa544b268d7f7998ce13e1ekjm6t10.html)

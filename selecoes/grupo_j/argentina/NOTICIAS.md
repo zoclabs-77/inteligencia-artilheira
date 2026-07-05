@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- Scaloni elogiou a conexão entre Messi e Lautaro Martínez e destacou a atuação de Facundo Medina na vitória sobre Cabo Verde por 3-2 na prorrogação, mesmo com a saída do zagueiro por câimbras (fonte: https://www.eltribuno.com/deportes/2026-7-3-22-1-0-messi-sigue-haciendo-historia-llego-a-20-goles-y-sigue-como-maximo-goleador-de-los-mundiales)
+- A seleção já lida com desgaste físico e lesões acumuladas envolvendo Messi, Cristian Romero, Dibu Martínez e Nico Paz, sem conseguir emendar uma sequência de jogos com time completo (fonte: https://trivela.com.br/copa-do-mundo/selecao-argentina-sem-lesoes-messi-scaloni/)
+- Scaloni criticou o calendário da Copa, reclamando do curto intervalo entre a fase de grupos e o mata-mata — apenas 3 dias e meio de recuperação antes de enfrentar o Egito (fonte: https://www.beinsports.com/es-us/football/copa-mundial-de-la-fifa-2026/articles/lionel-scaloni-explota-contra-el-calendario-de-la-copa-del-mundo-antes-del-duelo-entre-argentina-y-egipto-2026-07-04)
+- Scaloni reconheceu que a equipe "sofreu demais" contra Cabo Verde, mas destacou o caráter do grupo como sua maior virtude ("este equipo nunca se rinde") (fonte: https://www.canal26.com/deportes/2026/07/04/el-aviso-que-recibio-scaloni-antes-de-octavos-los-cambios-que-pide-la-seleccion-para-no-sufrir-ante-egipto/)
+- **Repercussão / Próximo jogo:** Argentina enfrenta o Egito nas oitavas de final, terça-feira (07/07), 13h (Brasília), no Mercedes-Benz Stadium (Atlanta) — segue lidando com desgaste físico após a prorrogação contra Cabo Verde.
+
 ## 📅 2026-07-03
 - Escalação confirmada para o duelo desta sexta (3/7), às 19h de Brasília, no Hard Rock Stadium (Miami): Emiliano Martínez; Nahuel Molina, Cristian Romero, Lisandro Martínez e Nicolás Tagliafico; Rodrigo De Paul, Enzo Fernández e Alexis Mac Allister; Lionel Messi, Lautaro Martínez e Thiago Almada (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-argentina-x-cabo-verde-escalacoes-horario)
 - Scaloni chega ao seu 100º jogo à frente da seleção e evitou minimizar Cabo Verde em coletiva: "Não vai ser fácil (...) Jogam bem e sabem contra-atacar. É uma boa equipe, já a analisávamos como possível adversária" (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/tecnico-da-argentina-avalia-partida-contra-cabo-verde-nao-vai-ser-facil-202607021919)

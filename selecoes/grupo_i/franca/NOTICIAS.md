@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- França venceu o Paraguai por 1 a 0, com gol de pênalti de Kylian Mbappé aos 70 minutos, e avançou às quartas de final (fonte: https://www.espn.com/soccer/story/_/id/49269293/paraguay-france-live-world-cup-2026-latest-updates-commentary-score-result)
+- Jogo truncado e de clima quente ("bad-tempered"), com arbitragem criticada por não coibir faltas duras dos paraguaios; ESPN descreveu como o teste mais difícil da França na competição até aqui (fonte: https://www.espn.com/soccer/story/_/id/49272197/france-kylian-mbappe-paraguay-world-cup-reaction-analysis)
+- Désiré Doué entrou no lugar de Bradley Barcola aos 61 minutos e foi decisivo, driblando e sofrendo o pênalti que definiu o jogo; imprensa francesa descreveu Barcola como "decepcionante" antes da substituição (fonte: https://www.eurosport.fr/football/coupe-du-monde/2026/coupe-du-monde-2026-grace-a-un-penalty-de-kylian-mbappe-lequipe-de-france-sort-du-piege-paraguayen-1-0-et-file-en-quarts-de-finale_sto23316344/story.shtml)
+- Com o resultado, a França chegou a cinco vitórias consecutivas nesta edição, sendo a segunda seleção a garantir vaga nas quartas de final (fonte: https://www.espn.com/soccer/story/_/id/49272197/france-kylian-mbappe-paraguay-world-cup-reaction-analysis)
+- **Repercussão / Próximo jogo:** França avança e enfrenta o Marrocos nas quartas de final, em Boston, na quinta-feira (09/07).
+
 ## 📅 2026-06-30
 - França encara a Suécia nesta terça (30/06), 18h de Brasília, no MetLife Stadium (Nova Jersey), pelos 16-avos de final, após liderar o Grupo I com 100% de aproveitamento e dez gols marcados (fonte: https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/franca-x-suecia-copa-2026-onde-assistir/)
 - Escalação prevista: Maignan; Koundé, Upamecano, Lacroix e Theo Hernández; Tchouaméni e Manu Koné; Ousmane Dembélé, Michael Olise e Doué; Kylian Mbappé (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/franca-x-suecia-onde-assistir-horario-e-escalacoes-pela-copa-do-mundo,9081608609411470e3500cf2cd3368e0ektl771j.html)

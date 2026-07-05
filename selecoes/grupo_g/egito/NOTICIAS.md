@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- Mohamed Salah deixou o jogo contra o Irã sentindo dores e foi diagnosticado com estiramento no músculo posterior da coxa; retomou treinos parcialmente em 1º de julho (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fora-das-oitavas-da-copa-do-mundo-salah-tem-lesao-na-coxa-confirmada/)
+- Técnico Hossam Hassan disse que a decisão sobre escalar Salah seria tomada só após avaliação final: "está desesperado para jogar e ajudar a equipe", mas "só será utilizado se eu estiver 100% convencido de que está totalmente apto" (fonte: https://www.lance.com.br/copa-do-mundo/egito-deposita-esperancas-em-salah-mas-vive-dilema-para-enfrentar-a-australia.html)
+- Salah voltou a treinar e esteve entre os titulares no duelo contra a Austrália, que classificou o Egito nos pênaltis (4-2) (fonte: https://www.portaltela.com/esporte/futebol/2026/07/02/salah-esta-apto-para-enfrentar-os-socceroos-nas-oitavas-apos-lesao-na-coxa/)
+- O auxiliar/ex-técnico Ibrahim Hassan minimizou a comparação com a Argentina: "não vemos o Messi... temos 26 jogadores como ele na seleção egípcia" (fonte: https://www.goal.com/br/not%C3%ADcias/ibrahim-hassan-nao-vemos-o-messi-temos-26-jogadores-como-ele-na-selecao-egipcia/blt3a5df19847402998)
+- **Repercussão / Próximo jogo:** Egito enfrenta a Argentina nas oitavas de final, terça-feira (07/07), em Atlanta, chegando com Salah recuperado da lesão na coxa mas ainda sob acompanhamento médico.
+
 ## 📅 2026-07-03
 - Situação de Mohamed Salah segue indefinida às vésperas do jogo desta sexta (3/7), às 15h de Brasília, no AT&T Stadium: o técnico Hossam Hassan não garantiu a titularidade do camisa 10 e afirmou que não vai correr nenhum risco, a menos que tenha certeza de que ele está em plenas condições físicas (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-tecnico-do-egito-nao-garante-titularidade-de-salah-contra-australia/)
 - Capitão retornou aos treinos em Spokane após intenso programa de reabilitação da lesão muscular na coxa sofrida contra o Irã, e a federação chegou a publicar vídeo com a legenda "O Rei está de volta" — mas a cautela ainda predomina no departamento médico (fonte: https://www.terra.com.br/esportes/futebol/o-misterio-de-salah-e-as-marcas-que-australia-e-egito-esperam-bater-na-copa-do-mundo,1eaff355baa6937440018ded2aa2186cyqaimrne.html)

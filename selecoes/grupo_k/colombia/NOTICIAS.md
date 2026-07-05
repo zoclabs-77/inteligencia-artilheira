@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- Técnico Néstor Lorenzo mantém como titulares Camilo Vargas; Daniel Muñoz, Davinson Sánchez, Jhon Lucumí e Johan Mojica; Jefferson Lerma, Gustavo Puerta, Jhon Arias, James Rodríguez e Luis Díaz; Jhon Córdoba (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16758307/com-james-arias-carrascal-colombia-confirma-26-convocados-copa-do-mundo-veja-lista)
+- Um quadro viral/gripal afetou vários jogadores, incluindo o capitão James Rodríguez; segundo Lorenzo, isso influenciou substituições no jogo contra Gana (fonte: https://www.eltiempo.com/deportes/futbol-internacional/alerta-en-la-seleccion-colombia-tras-partido-con-ghana-james-rodriguez-confirma-un-virus-gripal-antes-del-partido-contra-suiza-3569119)
+- James Rodríguez confirmou o quadro viral ("hay un virus ahí dentro que está duro y hay muchos que estamos así"), mas descartou lesão e disse estar em boas condições para seguir competindo (fonte: https://www.futbolred.com/seleccion-colombia/preocupante-enfermedad-en-seleccion-colombia-en-pleno-mundial-james-y-otros-jugadores-afectados-269915)
+- Lorenzo e a comissão técnica optaram por administrar cargas físicas do elenco gripado, dado o curto tempo de recuperação entre as fases do torneio (fonte: https://www.deportesrcn.com/futbol/seleccion-colombia/lorenzo-destapo-la-enfermedad-que-afecto-a-los-jugadores-de-colombia-153565)
+- **Repercussão / Próximo jogo:** Colômbia enfrenta a Suíça nas oitavas de final, terça-feira (07/07), 17h (Brasília), no BC Place (Vancouver), com parte do elenco ainda se recuperando de um quadro viral.
+
 ## 📅 2026-07-03
 - Escalação confirmada para o duelo desta sexta (3/7), às 22h30 de Brasília, no Arrowhead Stadium (Kansas City): Camilo Vargas; Daniel Muñoz, Davinson Sánchez, Jhon Lucumí e Johan Mojica; Jefferson Lerma, Gustavo Puerta, Jhon Arias, James Rodríguez e Luis Díaz; Jhon Córdoba, sob comando de Néstor Lorenzo (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16942976/colombia-x-gana-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-copa-do-mundo)
 - Mudança em relação à fase de grupos: Muñoz retorna à lateral direita e Jhon Córdoba entra como centroavante (fonte: mesma acima)

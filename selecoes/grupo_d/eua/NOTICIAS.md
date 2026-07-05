@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- Escalação provável (3-4-3): Matt Freese; Alex Freeman, Chris Richards e Tim Ream; Sergiño Dest, Tyler Adams, Malik Tillman e Antonee Robinson; Weston McKennie, Christian Pulisic e Ricardo Pepi (fonte: https://www.365scores.com/pt-br/news/magazine/estados-unidos-x-belgica-escalacoes-analise-copa-do-mundo/)
+- Folarin Balogun, artilheiro da seleção na Copa, cumpre suspensão automática após cartão vermelho recebido contra a Bósnia e Herzegovina, desfalcando o ataque (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/pochettino-critica-expulsao-de-balogun-e-celebra-classificacao-dos-eua/)
+- Mark McKenzie, Auston Trusty e Cristian Roldan seguem indisponíveis por lesão, reduzindo as opções na defesa e no meio-campo (fonte: https://www.365scores.com/pt-br/news/magazine/estados-unidos-x-belgica-escalacoes-analise-copa-do-mundo/)
+- Técnico Mauricio Pochettino descartou favoritismo diante da Bélgica ("Não somos") e destacou a maturidade do grupo: "A forma como crescemos nas últimas cinco ou seis semanas é muito positiva" (fonte: https://www.lance.com.br/copa-do-mundo/pochettino-descarta-favoritismo-dos-estados-unidos-nao-somos.html)
+- **Repercussão / Próximo jogo:** EUA enfrentam a Bélgica nas oitavas, dia 06/07, às 21h (Brasília), no Lumen Field (Seattle) — reencontro entre as seleções após 12 anos, com Pochettino lidando com o desfalque de Balogun no ataque.
+
 ## 📅 2026-07-01
 - Escalação provável para o jogo de hoje contra a Bósnia: Freese; Freeman, Ream, Richards e Robinson; Adams e Tillman; Dest, McKennie e Pulisic; Balogun — Pochettino mantém a base que liderou o Grupo D (fonte: https://apostas.betfair.bet.br/sports/futebol/palpites-copa-do-mundo-2026/estados-unidos-x-bosnia---copa-do-mundo-2026-dicas-palpites-odds-escalacoes-horario-onde-assistir-300626-1344.html)
 - Desfalques avaliados: Christian Roldan (muscular), Mark McKenzie (pé) e Auston Trusty (tornozelo) estão em dúvida, mas nenhuma baixa confirmada de grande impacto no time titular (fonte: https://www.365scores.com/pt-br/news/magazine/eua-bosnia-escalacoes-analise/)

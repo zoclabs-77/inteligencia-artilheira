@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- Escalação provável, sob comando de Javier Aguirre: Raúl Rangel; Jorge Sánchez, César Montes, Johan Vásquez e Jesús Gallardo; Erik Lira, Luis Romo e Gilberto Mora; Roberto Alvarado, Julián Quiñones e Raúl Jiménez (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/mexico-x-equador-onde-assistir-horario-e-escalacoes-pela-copa-do-mundo-2026,6c3c04079aea3f8375d85b96932ae4178hie36si.html)
+- Aguirre tem o elenco completo disponível, sem suspensos confirmados para o jogo; Quiñones e Jiménez seguem como referências de ataque (fonte: https://www.eluniversal.com.mx/deportes/javier-aguirre-y-la-seleccion-mexicana-no-se-achican-ante-inglaterra-el-vasco-ya-tiene-un-plan/?outputType=amp)
+- Aguirre disse que a prioridade tática é neutralizar Harry Kane, e sobre a altitude no Azteca declarou: "isso eu deixo de lado, são homens e somos 11 contra 11, somos 11 mexicanos que têm que fazer gols" (fonte: https://www.gazetaesportiva.com/times/mexico/javier-aguirre-neutralizar-harry-kane-mexico-inglaterra/ e https://www.tvazteca.com/aztecadeportes/javier-aguirre-descarta-que-el-estadio-y-la-altitud-afecten-a-inglaterra-mexico/)
+- México manteve 100% de aproveitamento na fase de grupos e eliminou o Equador por 2-0 nas oitavas, sem sofrer gols na Copa até aqui, ampliando invencibilidade para 12 partidas (fonte: https://www.olympics.com/en/news/fifa-world-cup-2026-azteca-altitude-england-disadvantage-mexico-clash)
+- **Repercussão / Próximo jogo:** México recebe a Inglaterra no Estádio Azteca (altitude de 2.240m) neste domingo (05/07); Aguirre nega que a altitude seja fator determinante e foca o plano tático em conter Harry Kane.
+
 ## 📅 2026-06-30
 - México enfrenta o Equador hoje (30/06), às 22h (Brasília), no Estádio Azteca (Cidade do México), pelos 16 avos de final da Copa (fonte: https://www.gazetaesportiva.com/times/mexico/mexico-x-equador-onde-assistir-escalacoes-copa-2026/)
 - Escalação prevista: Rangel; Sánchez, Álvarez, Vásquez, Gallardo; Erik Lira, Romo, Gutiérrez; Alvarado, Quiñones e Raúl Jiménez. Técnico: Javier Aguirre (fonte: https://www.gazetaesportiva.com/times/mexico/mexico-x-equador-onde-assistir-escalacoes-copa-2026/)

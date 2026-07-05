@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- Técnico Ståle Solbakken, no cargo desde 2020, comandou a classificação da Noruega para sua 1ª Copa do Mundo em 28 anos, com um 4-3-3 ofensivo (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/norway)
+- Escalação provável: Nyland; Pedersen, Kristoffer Ajer, Heggem e David Wolfe; Sander Berge, Patrick Berg e Martin Odegaard; Antonio Nusa, Sorloth e Erling Haaland (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-x-noruega-veja-provavel-escalacao-da-selecao-para-duelo-das-oitavas/)
+- Capitão Martin Odegaard sobre o confronto: "Espero um jogo muito difícil. Eles têm um grande time, vários grandes jogadores (...) Eu os conheço do Arsenal (Gabriel Martinelli e Gabriel Magalhães), são jogadores tops" (fonte: https://www.terra.com.br/esportes/futebol/haaland-e-odegaard-analisam-desafio-da-noruega-diante-do-brasil-na-copa-pequenas-possibilidades,9db4f8e9eb67129a8f4513318e36f390gem2lwu9.html)
+- Erling Haaland foi mais cauteloso, dizendo que enfrentar o Brasil dá à Noruega "pequenas possibilidades" (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Noruega enfrenta o Brasil neste domingo (05/07) buscando a 1ª vaga em quartas de final da história da seleção; duelo individual entre os "arsenalianos" Odegaard/Haaland e a defesa brasileira é destaque da prévia.
+
 ## 📅 2026-06-30
 - Noruega enfrenta a Costa do Marfim nesta terça (30/06), 14h de Brasília, no AT&T Stadium (Arlington), pelos 16-avos de final (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/haaland-retorna-para-jogo-da-noruega-contra-costa-do-marfim/)
 - Erling Haaland retorna à equipe titular para o confronto; soma 4 gols em duas partidas na Copa (dois contra o Iraque e dois sobre o Senegal) (fonte: mesma acima)

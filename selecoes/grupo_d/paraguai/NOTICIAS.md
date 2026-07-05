@@ -4,6 +4,14 @@
 
 ---
 
+## 📅 2026-07-05
+- Paraguai perdeu por 0 a 1 para a França nas oitavas de final, no Lincoln Financial Field (Filadélfia), em 04/07, e foi eliminado da Copa (fonte: https://www.abc.com.py/deportes/futbol/seleccion-paraguaya/2026/07/04/paraguay-dejo-el-alma-pero-francia-freno-el-sueno-mundialista/)
+- O técnico Gustavo Alfaro montou linha de cinco defensores (Cáceres, Velázquez, Gustavo Gómez, Alderete e Junior Alonso), neutralizando a França por quase todo o 1º tempo (fonte: mesma acima)
+- O gol da eliminação saiu de pênalti cobrado por Kylian Mbappé aos 70 minutos, após falta de Diego Gómez sobre Désiré Doué (fonte: https://www.espn.com/soccer/story/_/id/49272197/france-kylian-mbappe-paraguay-world-cup-reaction-analysis)
+- França teve 76% de posse e 15 finalizações (5 no alvo) diante de um Paraguai postado na defesa (fonte: https://forbes.com.br/forbes-life/forbes-sport/2026/07/franca-elimina-paraguai-copa-2026/)
+- Após o jogo, Alfaro colocou em dúvida sua continuidade no comando da seleção, dizendo estar "com a cabeça queimada" e que precisa de tempo para decidir o futuro (fonte: https://www.abc.com.py/deportes/futbol/seleccion-paraguaya/2026/07/05/gustavo-alfaro-puso-en-duda-su-continuidad-en-paraguay-necesito-un-tiempo-tengo-la-cabeza-quemada/)
+- **Repercussão / Próximo jogo:** Paraguai eliminado nas oitavas; imprensa local destaca queda "de cabeça erguida" após surpreender ao eliminar a Alemanha nos pênaltis na fase anterior, mas o futuro do técnico Alfaro é incerto.
+
 ## 📅 2026-06-25
 - Paraguai (3 pontos) enfrenta a Austrália hoje (25/06), no Levi's Stadium (Santa Clara), em decisão antecipada do Grupo D — precisa vencer para não depender de combinações (fonte: https://massa.com.br/copa-do-mundo-2026/paraguai-x-australia)
 - Escalação prevista: Gatito Fernández; Juan Cáceres, Gustavo Gómez (c), Junior Alonso, Fabián Balbuena; Ramón Sosa, Andrés Cubas, Damián Bobadilla, Julio Enciso; Kaku e Antonio Sanabria. Técnico: Gustavo Alfaro (fonte: https://esportenewsmundo.com.br/paraguai-x-australia-escalacoes-desfalques-retrospecto-onde-assistir-e-palpite/)

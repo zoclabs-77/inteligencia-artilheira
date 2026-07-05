@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- Bukayo Saka não sente mais dor no tendão de Aquiles e treinou em alto nível, estando pronto para jogar; Jude Bellingham está apto, elogiado por Tuchel por "comprar a ideia" do trabalho em equipe; Reece James e Jarell Quansah seguem em recuperação (fonte: https://www.espn.com/soccer/story/_/id/48701061/england-world-cup-2026-schedule-fixtures-results-scores-group-l-how-watch-uk-news-analysis-injuries e https://www.football365.com/news/england-ghana-saka-all-players-fit)
+- Tino Livramento havia se retirado da convocação na fase de grupos por lesão na panturrilha, substituído por Trevoh Chalobah (fonte: https://www.espn.com/soccer/story/_/id/48701061/england-world-cup-2026-schedule-fixtures-results-scores-group-l-how-watch-uk-news-analysis-injuries)
+- Tuchel chamou o confronto de "um lugar icônico, um estádio icônico, um jogo enorme, eliminatório contra o México no Azteca", negando motivação de revanche: "Não estamos aqui por vingança. Estamos aqui para escrever nossos próprios capítulos" (fonte: https://www.prokerala.com/news/articles/a1783936.html)
+- Tuchel avaliou o México como "hoje um time do top-10 do ranking da FIFA" que "pode alternar entre sistemas defensivos, de um bloco baixo a uma pressão alta" e alertou que os primeiros 15-20 minutos serão "os mais difíceis" por causa da altitude (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Inglaterra enfrenta o México no Estádio Azteca neste domingo (05/07) com Saka e Bellingham recuperados; Tuchel trata o duelo como teste histórico e físico, citando a altitude como ponto central de atenção.
+
 ## 📅 2026-07-01
 - Escalação confirmada para o duelo com a RD Congo: Pickford; Konsa, Stones, Guehi e O'Reilly; Rice e Anderson; Saka, Bellingham e Rashford; Kane — Tuchel opta por Konsa na lateral direita para cobrir as ausências de Reece James e Quansah (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/inglaterra-x-rd-congo-veja-as-provaveis-escalacoes-para-o-confronto-202606301908)
 - Reece James, lesionado no jogo anterior, já é considerado dúvida para as oitavas de final; Jarell Quansah também não estará disponível, mantendo lateral direita como o grande ponto fraco da equipe (fonte: https://www.365scores.com/pt-br/news/magazine/inglaterra-x-rd-congo-escalacoes-analise-copa-do-mundo/)

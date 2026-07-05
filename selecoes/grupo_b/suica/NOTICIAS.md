@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-05
+- No confronto anterior (x Argélia), a Suíça foi a campo com Kobel; Elvedi, Akanji e Rodriguez; Zakaria, Freuler, Manzambi e Xhaka; Embolo, Ndoye e Vargas, sob comando de Murat Yakin (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/suica-x-argelia-escalacoes-definidas-com-retorno-de-goleiro-contestado-202607022254)
+- Venceu a Argélia por 2-0, com gols de Breel Embolo e Dan Ndoye, garantindo vaga nas oitavas (fonte: https://www.conmebol.com/pt-br/noticias-pt-br/colombia-bate-gana-e-garante-vaga-nas-oitavas/)
+- Murat Yakin acompanhou de perto a vitória da Colômbia sobre Gana e elogiou o rival: "Colombia is a team with a lot of football quality. They are technically strong, have fast and creative attacking players, and can be dangerous at any moment thanks to their intensity" (fonte: https://www.winsports.co/seleccion-colombia/noticias/dt-de-suiza-destaca-la-intensidad-de-colombia-antes-de-los-octavos-443419)
+- Yakin destacou que "em um jogo de oitavas, os pequenos detalhes costumam fazer a diferença", citando a atuação da própria equipe contra a Argélia como referência (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Suíça enfrenta a Colômbia nas oitavas de final, terça-feira (07/07), 17h (Brasília), no BC Place (Vancouver) — um dos confrontos mais equilibrados da fase, com os suíços destacando a própria regularidade defensiva.
+
 ## 📅 2026-07-02
 - Suíça finaliza a preparação para enfrentar a Argélia na madrugada de sexta-feira (3/7, 0h de Brasília), no BC Place, em Vancouver — escalação mantida: Kobel; Jaquez, Elvedi, Akanji e Ricardo Rodriguez; Freuler e Xhaka; Ndoye, Manzambi e Ruben Vargas; Embolo (fonte: https://www.365scores.com/pt-br/news/magazine/suica-x-argelia-escalacoes-copa/)
 - **Repercussão / Próximo jogo:** Suíça mantém a base que garantiu a liderança do Grupo B para o confronto de sexta contra a Argélia — Yakin não sinaliza mudanças na equipe titular.
