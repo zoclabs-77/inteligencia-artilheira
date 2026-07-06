@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-06
+- Portugal e Espanha fecharam a preparação para o duelo desta segunda (06/07), às 16h de Brasília, no AT&T Stadium (Arlington/Dallas) — Roberto Martínez mantém a base que venceu a Croácia (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/espanha-e-portugal-fecham-preparacao-para-duelo-veja-provaveis-escalacoes-202607051410)
+- Escalação mantida: Diogo Costa; João Cancelo, Rúben Dias, Renato Veiga e Nuno Mendes; João Neves e Vitinha; Pedro Neto, Bruno Fernandes e Rafael Leão; Cristiano Ronaldo (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Portugal entra em campo hoje (06/07) contra a Espanha nas oitavas, em Dallas, com Cristiano Ronaldo buscando manter o bom momento da vitória sobre a Croácia.
+
 ## 📅 2026-07-05
 - Escalação provável: Diogo Costa; João Cancelo, Rúben Dias, Renato Veiga e Nuno Mendes; João Neves e Vitinha; Pedro Neto, Bruno Fernandes e Rafael Leão; Cristiano Ronaldo (fonte: https://www.lance.com.br/copa-do-mundo/portugal-x-espanha-nas-oitavas-de-final-da-copa-do-mundo-veja-data-e-horario.html)
 - Nuno Mendes apresentou fadiga muscular na coxa esquerda e treinou sob restrições; sua presença na lateral esquerda é vista como crucial para conter o avanço espanhol (fonte: mesma acima)

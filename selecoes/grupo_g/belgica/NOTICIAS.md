@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-06
+- Bélgica entra em campo hoje (06/07) contra os EUA irritada com a decisão da Fifa de anular a suspensão automática de Folarin Balogun, expulso contra a Bósnia (fonte: https://www.goal.com/br/listas/copa-do-mundo-reviravolta-para-balogun-a-fifa-anula-a-suspensao-pela-expulsao-contra-a-bosnia-ele-podera-jogar-as-oitavas-de-final-contra-a-belgica/bltad2f5086e62a5428)
+- Técnico Rudi Garcia criticou a decisão com ironia em coletiva: "Eu não sabia que o dia 5 de julho aqui equivalia ao 1º de abril na Europa" (fonte: https://br.bolavip.com/copa-do-mundo/tecnico-da-belgica-ironiza-caso-balogun-e-dispara-eu-nao-sabia-que-o-dia-5-de-julho-aqui-era-equivalente-ao-1o-de-abril-na-europa)
+- **Repercussão / Próximo jogo:** Bélgica encara os EUA hoje (06/07), 21h de Brasília, em Seattle, já lidando com a repercussão negativa da reversão da suspensão de Balogun às vésperas do jogo.
+
 ## 📅 2026-07-05
 - Escalação provável (4-3-3): Thibaut Courtois; Timothy Castagne, Arthur Theate, Brandon Mechele e Maxim De Cuyper; Amadou Onana, Youri Tielemans e Kevin De Bruyne; Leandro Trossard, Romelu Lukaku e Jérémy Doku (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-belgica-x-senegal-01-07-2026.html)
 - Zeno Debast segue como principal desfalque; o zagueiro voltou parcialmente aos treinos, mas ainda sem presença confirmada para o confronto (fonte: https://www.365scores.com/pt-br/news/magazine/estados-unidos-x-belgica-escalacoes-analise-copa-do-mundo/)

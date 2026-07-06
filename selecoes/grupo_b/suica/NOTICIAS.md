@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-07-06
+- Murat Yakin comanda a Suíça desde agosto de 2021 e já a levou às oitavas da Copa de 2022 e às quartas da Eurocopa 2024; agora busca a primeira classificação suíça a uma quarta de final de Copa do Mundo desde 1954 (fonte: https://www.portaltela.com/esporte/futebol/2026/07/04/colombia-derrota-gana-1-0-e-enfrenta-suica-nas-oitavas-da-copa/)
+- **Repercussão / Próximo jogo:** Suíça enfrenta a Colômbia amanhã (07/07), 17h de Brasília, em Vancouver, com Yakin em busca de um feito histórico: levar o país às quartas de final de um Mundial pela primeira vez desde 1954.
+
 ## 📅 2026-07-05
 - No confronto anterior (x Argélia), a Suíça foi a campo com Kobel; Elvedi, Akanji e Rodriguez; Zakaria, Freuler, Manzambi e Xhaka; Embolo, Ndoye e Vargas, sob comando de Murat Yakin (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/suica-x-argelia-escalacoes-definidas-com-retorno-de-goleiro-contestado-202607022254)
 - Venceu a Argélia por 2-0, com gols de Breel Embolo e Dan Ndoye, garantindo vaga nas oitavas (fonte: https://www.conmebol.com/pt-br/noticias-pt-br/colombia-bate-gana-e-garante-vaga-nas-oitavas/)

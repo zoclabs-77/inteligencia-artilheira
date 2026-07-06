@@ -4,6 +4,10 @@
 
 ---
 
+## 📅 2026-07-06
+- James Rodríguez segue na escalação prevista (4-2-3-1) da Colômbia para o confronto com a Suíça, indicando recuperação do quadro viral que afetou o elenco na rodada anterior (fonte: https://www.portaltela.com/esporte/futebol/2026/07/04/colombia-derrota-gana-1-0-e-enfrenta-suica-nas-oitavas-da-copa/)
+- **Repercussão / Próximo jogo:** Colômbia encara a Suíça amanhã (07/07), 17h de Brasília, em Vancouver, com James Rodríguez recuperado do vírus e mantido na escalação titular.
+
 ## 📅 2026-07-05
 - Técnico Néstor Lorenzo mantém como titulares Camilo Vargas; Daniel Muñoz, Davinson Sánchez, Jhon Lucumí e Johan Mojica; Jefferson Lerma, Gustavo Puerta, Jhon Arias, James Rodríguez e Luis Díaz; Jhon Córdoba (fonte: https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16758307/com-james-arias-carrascal-colombia-confirma-26-convocados-copa-do-mundo-veja-lista)
 - Um quadro viral/gripal afetou vários jogadores, incluindo o capitão James Rodríguez; segundo Lorenzo, isso influenciou substituições no jogo contra Gana (fonte: https://www.eltiempo.com/deportes/futbol-internacional/alerta-en-la-seleccion-colombia-tras-partido-con-ghana-james-rodriguez-confirma-un-virus-gripal-antes-del-partido-contra-suiza-3569119)

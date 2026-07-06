@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-06
+- Lionel Scaloni completou 100 jogos como técnico da Argentina, consolidando-se como um dos treinadores mais vitoriosos da história da seleção (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/do-interinato-a-gloria-lionel-scaloni-completa-100-jogos-pela-argentina/)
+- Messi segue como maior artilheiro histórico de Copas do Mundo, com 20 gols acumulados no torneio (fonte: https://www.lance.com.br/copa-do-mundo/quem-e-o-jornalista-que-cobriu-18-copas-e-obrigou-scaloni-a-fazer-revelacao-sobre-messi.html)
+- **Repercussão / Próximo jogo:** Argentina se prepara para enfrentar o Egito amanhã (07/07), 13h de Brasília, em Atlanta, embalada pelo marco histórico dos 100 jogos de Scaloni no comando e pela artilharia recorde de Messi.
+
 ## 📅 2026-07-05
 - Scaloni elogiou a conexão entre Messi e Lautaro Martínez e destacou a atuação de Facundo Medina na vitória sobre Cabo Verde por 3-2 na prorrogação, mesmo com a saída do zagueiro por câimbras (fonte: https://www.eltribuno.com/deportes/2026-7-3-22-1-0-messi-sigue-haciendo-historia-llego-a-20-goles-y-sigue-como-maximo-goleador-de-los-mundiales)
 - A seleção já lida com desgaste físico e lesões acumuladas envolvendo Messi, Cristian Romero, Dibu Martínez e Nico Paz, sem conseguir emendar uma sequência de jogos com time completo (fonte: https://trivela.com.br/copa-do-mundo/selecao-argentina-sem-lesoes-messi-scaloni/)

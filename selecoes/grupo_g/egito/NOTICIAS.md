@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-06
+- Egito finaliza a preparação para enfrentar a Argentina amanhã (07/07), em Atlanta, com Mohamed Salah seguindo em recuperação acompanhada da lesão na coxa sofrida contra o Irã (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fora-das-oitavas-da-copa-do-mundo-salah-tem-lesao-na-coxa-confirmada/)
+- Comissão técnica egípcia minimiza o favoritismo argentino e destaca a força coletiva do grupo diante da estrela de Messi (fonte: https://www.goal.com/br/not%C3%ADcias/ibrahim-hassan-nao-vemos-o-messi-temos-26-jogadores-como-ele-na-selecao-egipcia/blt3a5df19847402998)
+- **Repercussão / Próximo jogo:** Egito enfrenta a Argentina amanhã (07/07), 13h de Brasília, em Atlanta, apostando na recuperação física do grupo e no estado físico de Salah para buscar a zebra.
+
 ## 📅 2026-07-05
 - Mohamed Salah deixou o jogo contra o Irã sentindo dores e foi diagnosticado com estiramento no músculo posterior da coxa; retomou treinos parcialmente em 1º de julho (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fora-das-oitavas-da-copa-do-mundo-salah-tem-lesao-na-coxa-confirmada/)
 - Técnico Hossam Hassan disse que a decisão sobre escalar Salah seria tomada só após avaliação final: "está desesperado para jogar e ajudar a equipe", mas "só será utilizado se eu estiver 100% convencido de que está totalmente apto" (fonte: https://www.lance.com.br/copa-do-mundo/egito-deposita-esperancas-em-salah-mas-vive-dilema-para-enfrentar-a-australia.html)

@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-06
+- A véspera do duelo com a Bélgica foi marcada por polêmica: a Fifa anulou a suspensão automática de Folarin Balogun (expulso contra a Bósnia), liberando o artilheiro americano para jogar hoje (fonte: https://www.goal.com/br/listas/copa-do-mundo-reviravolta-para-balogun-a-fifa-anula-a-suspensao-pela-expulsao-contra-a-bosnia-ele-podera-jogar-as-oitavas-de-final-contra-a-belgica/bltad2f5086e62a5428)
+- A decisão da Fifa irritou a federação belga; o técnico Rudi Garcia ironizou em coletiva: "Eu não sabia que o dia 5 de julho aqui equivalia ao 1º de abril na Europa" (fonte: https://br.bolavip.com/copa-do-mundo/tecnico-da-belgica-ironiza-caso-balogun-e-dispara-eu-nao-sabia-que-o-dia-5-de-julho-aqui-era-equivalente-ao-1o-de-abril-na-europa)
+- **Repercussão / Próximo jogo:** EUA enfrentam a Bélgica hoje (06/07), 21h de Brasília, em Seattle, com Balogun liberado de última hora após a Fifa reverter sua suspensão — desfalque que os belgas reclamavam ter perdido.
+
 ## 📅 2026-07-05
 - Escalação provável (3-4-3): Matt Freese; Alex Freeman, Chris Richards e Tim Ream; Sergiño Dest, Tyler Adams, Malik Tillman e Antonee Robinson; Weston McKennie, Christian Pulisic e Ricardo Pepi (fonte: https://www.365scores.com/pt-br/news/magazine/estados-unidos-x-belgica-escalacoes-analise-copa-do-mundo/)
 - Folarin Balogun, artilheiro da seleção na Copa, cumpre suspensão automática após cartão vermelho recebido contra a Bósnia e Herzegovina, desfalcando o ataque (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/pochettino-critica-expulsao-de-balogun-e-celebra-classificacao-dos-eua/)

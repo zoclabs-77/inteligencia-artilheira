@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-06
+- Espanha e Portugal fecharam a preparação para o confronto desta segunda (06/07), às 16h de Brasília, no AT&T Stadium — De la Fuente confirma força máxima, com Laporte recuperado do protocolo de concussão (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/espanha-e-portugal-fecham-preparacao-para-duelo-veja-provaveis-escalacoes-202607051410)
+- Escalação mantida: Unai Simón; Pedro Porro, Laporte, Cubarsí e Cucurella; Álex Baena, Rodri e Pedri; Dani Olmo, Lamine Yamal e Oyarzabal (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Espanha estreia nas oitavas hoje (06/07) contra Portugal, em Dallas, com Lamine Yamal confirmado como principal arma ofensiva.
+
 ## 📅 2026-07-05
 - Escalação provável: Unai Simón; Pedro Porro, Laporte, Cubarsí e Cucurella; Álex Baena, Rodri e Pedri; Dani Olmo, Lamine Yamal e Oyarzabal (fonte: https://www.lance.com.br/copa-do-mundo/portugal-x-espanha-nas-oitavas-de-final-da-copa-do-mundo-veja-data-e-horario.html)
 - Laporte cumpre protocolo de concussão leve e é dúvida para a partida (fonte: mesma acima)
