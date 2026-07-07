@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-07
+- Espanha venceu Portugal por 1x0 em Dallas, gol de Mikel Merino aos 90 minutos após passe de Ferran Torres, e avançou às quartas de final (fonte: https://www.correiobraziliense.com.br/esportes/copa-2026/2026/07/7455923-espanha-marca-no-final-e-elimina-portugal-por-1-x-0-na-copa.html)
+- É a primeira vez que a Espanha chega às quartas de final desde 2010, ano em que conquistou o título mundial (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-espanha-elimina-portugal-em-possivel-adeus-de-cristiano-ronaldo/)
+- O resultado também marcou a despedida de Cristiano Ronaldo em Copas do Mundo (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** La Roja avança e enfrentará a Bélgica nas quartas de final, em Los Angeles, após os belgas eliminarem os EUA por 4x1.
+
 ## 📅 2026-07-06
 - Espanha e Portugal fecharam a preparação para o confronto desta segunda (06/07), às 16h de Brasília, no AT&T Stadium — De la Fuente confirma força máxima, com Laporte recuperado do protocolo de concussão (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/espanha-e-portugal-fecham-preparacao-para-duelo-veja-provaveis-escalacoes-202607051410)
 - Escalação mantida: Unai Simón; Pedro Porro, Laporte, Cubarsí e Cucurella; Álex Baena, Rodri e Pedri; Dani Olmo, Lamine Yamal e Oyarzabal (fonte: mesma acima)

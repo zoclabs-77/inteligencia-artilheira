@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-07
+- Colômbia enfrenta a Suíça hoje (07/07), 17h de Brasília, no BC Place, em Vancouver, pelas oitavas de final (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/suica-x-colombia-confira-provaveis-escalacoes-horario-e-onde-assistir-202607061723)
+- Desfalque confirmado: o centroavante Jhon Córdoba está fora por lesão muscular grave na coxa (fonte: mesma acima)
+- Escalação provável: Vargas; Muñoz, Sánchez, Lucumí e Mojica; Lerma, Puerta e James Rodríguez; Arias, Luis Díaz e Luis Suárez, sob comando de Néstor Lorenzo (fonte: https://www.goal.com/en-us/news/switzerland-colombia-world-cup-preview/blt0192e703fb9da60d)
+- **Repercussão / Próximo jogo:** Colômbia segue invicta na Copa e busca vaga inédita nas quartas diante da líder do Grupo B.
+
 ## 📅 2026-07-06
 - James Rodríguez segue na escalação prevista (4-2-3-1) da Colômbia para o confronto com a Suíça, indicando recuperação do quadro viral que afetou o elenco na rodada anterior (fonte: https://www.portaltela.com/esporte/futebol/2026/07/04/colombia-derrota-gana-1-0-e-enfrenta-suica-nas-oitavas-da-copa/)
 - **Repercussão / Próximo jogo:** Colômbia encara a Suíça amanhã (07/07), 17h de Brasília, em Vancouver, com James Rodríguez recuperado do vírus e mantido na escalação titular.

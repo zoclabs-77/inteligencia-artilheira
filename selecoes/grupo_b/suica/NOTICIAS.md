@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-07
+- Suíça enfrenta a Colômbia hoje (07/07), 17h de Brasília, no BC Place, em Vancouver, pelas oitavas de final (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/suica-x-colombia-confira-provaveis-escalacoes-horario-e-onde-assistir-202607061723)
+- Escalação provável: Kobel; Zakaria, Akanji, Elvedi e Rodriguez; Freuler e Xhaka; Ndoye, Manzambi e Vargas; Embolo, sob comando de Murat Yakin (fonte: https://www.goal.com/en-us/news/switzerland-colombia-world-cup-preview/blt0192e703fb9da60d)
+- Michel Aebischer e Luca Jaquez treinaram separados do grupo e seguem como dúvidas para o confronto (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Suíça chega embalada, líder invicta do Grupo B, buscando a primeira vaga em quartas de final desde 1954 diante da Colômbia.
+
 ## 📅 2026-07-06
 - Murat Yakin comanda a Suíça desde agosto de 2021 e já a levou às oitavas da Copa de 2022 e às quartas da Eurocopa 2024; agora busca a primeira classificação suíça a uma quarta de final de Copa do Mundo desde 1954 (fonte: https://www.portaltela.com/esporte/futebol/2026/07/04/colombia-derrota-gana-1-0-e-enfrenta-suica-nas-oitavas-da-copa/)
 - **Repercussão / Próximo jogo:** Suíça enfrenta a Colômbia amanhã (07/07), 17h de Brasília, em Vancouver, com Yakin em busca de um feito histórico: levar o país às quartas de final de um Mundial pela primeira vez desde 1954.

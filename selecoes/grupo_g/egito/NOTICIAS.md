@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-07
+- Egito enfrenta a Argentina nesta terça (07/07), 13h de Brasília, no Mercedes-Benz Stadium, em Atlanta, pelas oitavas de final (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-argentina-x-egito-07-07-2026.html)
+- Escalação provável em 4-2-3-1: Mostafa Shobeir; Mohamed Hany, Yasser Ibrahim, Ramy Rabia e Karim Hafez; Marwan Attia e Hamdi Fathy; Emam Ashour, Mohamed Salah e Mostafa Ziko; Omar Marmoush (fonte: https://www.ogol.com.br/jogo/2026-07-07-argentina-egipto/11841311)
+- Scaloni respondeu à provocação da comissão egípcia sobre Messi destacando que "Salah não é a única ameaça" da equipe africana (fonte: https://www.goal.com/br/listas/scaloni-se-pronuncia-sobre-a-situacao-de-messi-espero-que-cheguemos-a-essa-final-e-salah-nao-e-a-unica-ameaca/blt88b4df49edc09e51)
+- **Repercussão / Próximo jogo:** Egito tenta a zebra contra a Argentina hoje em Atlanta, com Salah recuperado da lesão na coxa e escalado entre os titulares.
+
 ## 📅 2026-07-06
 - Egito finaliza a preparação para enfrentar a Argentina amanhã (07/07), em Atlanta, com Mohamed Salah seguindo em recuperação acompanhada da lesão na coxa sofrida contra o Irã (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fora-das-oitavas-da-copa-do-mundo-salah-tem-lesao-na-coxa-confirmada/)
 - Comissão técnica egípcia minimiza o favoritismo argentino e destaca a força coletiva do grupo diante da estrela de Messi (fonte: https://www.goal.com/br/not%C3%ADcias/ibrahim-hassan-nao-vemos-o-messi-temos-26-jogadores-como-ele-na-selecao-egipcia/blt3a5df19847402998)

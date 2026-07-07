@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-07
+- Argentina enfrenta o Egito nesta terça (07/07), 13h de Brasília, no Mercedes-Benz Stadium, em Atlanta, pelas oitavas de final (fonte: https://www.terra.com.br/esportes/futebol/scaloni-usa-eliminacao-do-brasil-como-alerta-e-confirma-messi-para-duelo-contra-o-egito,5ba3e46ac33da48849b47d9375de50a18s8fke64.html)
+- Scaloni confirmou Messi titular e sem desgaste físico apesar dos 120 minutos disputados contra Cabo Verde: "Lionel está bem e vai jogar. Ele jogou os 120 minutos completos e não reclamou de nenhum cansaço" (fonte: mesma acima)
+- O técnico usou a eliminação do Brasil para a Noruega como alerta sobre como pequenos detalhes decidem jogos de mata-mata, e voltou a criticar o desgaste do calendário da temporada europeia (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Argentina joga hoje contra o Egito com Messi confirmado titular e Scaloni pedindo atenção máxima após ver o exemplo da eliminação brasileira.
+
 ## 📅 2026-07-06
 - Lionel Scaloni completou 100 jogos como técnico da Argentina, consolidando-se como um dos treinadores mais vitoriosos da história da seleção (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/do-interinato-a-gloria-lionel-scaloni-completa-100-jogos-pela-argentina/)
 - Messi segue como maior artilheiro histórico de Copas do Mundo, com 20 gols acumulados no torneio (fonte: https://www.lance.com.br/copa-do-mundo/quem-e-o-jornalista-que-cobriu-18-copas-e-obrigou-scaloni-a-fazer-revelacao-sobre-messi.html)

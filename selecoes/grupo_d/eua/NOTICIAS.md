@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-07
+- Estados Unidos foram eliminados nas oitavas de final ao perder por 4x1 para a Bélgica, em Seattle; Charles De Ketelaere (2), Hans Vanaken e Romelu Lukaku marcaram para os belgas, enquanto Malik Tillman descontou de falta (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/apos-polemica-belgica-goleia-e-elimina-estados-unidos-nas-oitavas-da-copa/)
+- Jogo foi marcado por polêmica extracampo: a expulsão de Folarin Balogun contra a Bósnia havia sido revertida após o presidente Donald Trump ligar para Gianni Infantino pedindo revisão da punição (fonte: https://www.lance.com.br/copa-do-mundo/jogadores-da-belgica-provocam-trump-apos-eliminacao-dos-eua-na-copa.html)
+- Com a eliminação dos EUA, todos os três países-sede (EUA, México e Canadá) estão fora da Copa 2026 (fonte: https://www.lance.com.br/copa-do-mundo/com-a-queda-dos-eua-todos-os-paises-sede-da-copa-estao-eliminados.html)
+- **Repercussão / Próximo jogo:** Eliminação precoce do anfitrião expõe o debate sobre influência política no futebol e encerra a campanha americana na Copa 2026.
+
 ## 📅 2026-07-06
 - A véspera do duelo com a Bélgica foi marcada por polêmica: a Fifa anulou a suspensão automática de Folarin Balogun (expulso contra a Bósnia), liberando o artilheiro americano para jogar hoje (fonte: https://www.goal.com/br/listas/copa-do-mundo-reviravolta-para-balogun-a-fifa-anula-a-suspensao-pela-expulsao-contra-a-bosnia-ele-podera-jogar-as-oitavas-de-final-contra-a-belgica/bltad2f5086e62a5428)
 - A decisão da Fifa irritou a federação belga; o técnico Rudi Garcia ironizou em coletiva: "Eu não sabia que o dia 5 de julho aqui equivalia ao 1º de abril na Europa" (fonte: https://br.bolavip.com/copa-do-mundo/tecnico-da-belgica-ironiza-caso-balogun-e-dispara-eu-nao-sabia-que-o-dia-5-de-julho-aqui-era-equivalente-ao-1o-de-abril-na-europa)

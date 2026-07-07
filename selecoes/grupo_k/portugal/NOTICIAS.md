@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-07
+- Portugal foi eliminado nas oitavas de final ao perder por 1x0 para a Espanha, gol de Mikel Merino nos acréscimos, em Dallas (fonte: https://www.correiobraziliense.com.br/esportes/copa-2026/2026/07/7455923-espanha-marca-no-final-e-elimina-portugal-por-1-x-0-na-copa.html)
+- A derrota marcou a despedida de Cristiano Ronaldo em Copas do Mundo: aos 41 anos, ele deixou o campo chorando e encerrou a 6ª e última participação sem o título que lhe faltava (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/cristiano-ronaldo-deixa-o-campo-chorando-apos-eliminacao-de-portugal-em-sua-despedida-da-copa,0300b0b521a956fe6c4a8d797cae46f65gr8utpb.html)
+- Jornais portugueses criticaram a eliminação e a atuação da equipe, com destaque para o termo "nova desilusão" (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/jornal-portugues-critica-eliminacao-apos-derrota-para-a-espanha-e-cutuca-cr7-nova-desilusao,dd775f2b15a4386f39f2eb58171904fbepu2btha.html)
+- **Repercussão / Próximo jogo:** Eliminação encerra o ciclo de Ronaldo em Mundiais e a campanha portuguesa na Copa 2026; Portugal está fora do torneio.
+
 ## 📅 2026-07-06
 - Portugal e Espanha fecharam a preparação para o duelo desta segunda (06/07), às 16h de Brasília, no AT&T Stadium (Arlington/Dallas) — Roberto Martínez mantém a base que venceu a Croácia (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/espanha-e-portugal-fecham-preparacao-para-duelo-veja-provaveis-escalacoes-202607051410)
 - Escalação mantida: Diogo Costa; João Cancelo, Rúben Dias, Renato Veiga e Nuno Mendes; João Neves e Vitinha; Pedro Neto, Bruno Fernandes e Rafael Leão; Cristiano Ronaldo (fonte: mesma acima)

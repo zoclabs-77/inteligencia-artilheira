@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-07
+- Bélgica goleou os Estados Unidos por 4x1 em Seattle e avançou às quartas de final; gols de Charles De Ketelaere (2), Hans Vanaken e Romelu Lukaku (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/apos-polemica-belgica-goleia-e-elimina-estados-unidos-nas-oitavas-da-copa/)
+- A vitória veio em meio a polêmica extracampo pela reversão da suspensão de Folarin Balogun após intervenção de Donald Trump junto à Fifa; jogadores belgas provocaram Trump após o apito final (fonte: https://www.lance.com.br/copa-do-mundo/jogadores-da-belgica-provocam-trump-apos-eliminacao-dos-eua-na-copa.html)
+- **Repercussão / Próximo jogo:** Bélgica enfrentará a Espanha nas quartas de final, em Los Angeles, em confronto entre duas seleções embaladas após vitórias nas oitavas.
+
 ## 📅 2026-07-06
 - Bélgica entra em campo hoje (06/07) contra os EUA irritada com a decisão da Fifa de anular a suspensão automática de Folarin Balogun, expulso contra a Bósnia (fonte: https://www.goal.com/br/listas/copa-do-mundo-reviravolta-para-balogun-a-fifa-anula-a-suspensao-pela-expulsao-contra-a-bosnia-ele-podera-jogar-as-oitavas-de-final-contra-a-belgica/bltad2f5086e62a5428)
 - Técnico Rudi Garcia criticou a decisão com ironia em coletiva: "Eu não sabia que o dia 5 de julho aqui equivalia ao 1º de abril na Europa" (fonte: https://br.bolavip.com/copa-do-mundo/tecnico-da-belgica-ironiza-caso-balogun-e-dispara-eu-nao-sabia-que-o-dia-5-de-julho-aqui-era-equivalente-ao-1o-de-abril-na-europa)
