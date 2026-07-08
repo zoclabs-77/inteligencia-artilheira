@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-08
+- Noruega enfrenta a Inglaterra nas quartas de final no sábado (11/07), às 18h, no Hard Rock Stadium, em Miami — vaga direta às semifinais (fonte: https://www.lance.com.br/copa-do-mundo/noruega-x-inglaterra-data-horario-e-local-do-duelo-decisivo-na-copa-do-mundo.html)
+- Chega embalada após eliminar o Brasil por 2 a 0 nas oitavas, com dois gols de Erling Haaland, que soma 7 gols na competição e divide a artilharia com Messi e Mbappé (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/proximo-jogo-da-noruega-na-copa-do-mundo-2026-saiba-data-horario-e-adversario,dbc2655a10f4a2ecc837919c51b5cc81umw4xp8n.html)
+- Alerta médico: parte do elenco norueguês apresenta quadro de doença contagiosa (tosse e mal-estar) às vésperas do confronto (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/copa-2026-time-da-noruega-tem-surto-de-doenca-contagiosa-antes-de-jogo-contra-inglaterra-web-cita-virginia-e-provoca-remaram-e-nao-se-enxugaram,f6fb327fb71241f21ad0b521e20de548oucdeads.html)
+- **Repercussão / Próximo jogo:** Noruega busca sua melhor campanha desde o retorno às Copas após 28 anos de ausência, mas o surto de doença no grupo é a principal preocupação da comissão técnica antes do duelo com a Inglaterra.
+
 ## 📅 2026-07-05
 - Técnico Ståle Solbakken, no cargo desde 2020, comandou a classificação da Noruega para sua 1ª Copa do Mundo em 28 anos, com um 4-3-3 ofensivo (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams/norway)
 - Escalação provável: Nyland; Pedersen, Kristoffer Ajer, Heggem e David Wolfe; Sander Berge, Patrick Berg e Martin Odegaard; Antonio Nusa, Sorloth e Erling Haaland (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-x-noruega-veja-provavel-escalacao-da-selecao-para-duelo-das-oitavas/)

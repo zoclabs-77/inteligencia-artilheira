@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-08
+- Egito foi eliminado nas oitavas de final ao perder de virada por 3 a 2 para a Argentina, terça (07/07), no Mercedes-Benz Stadium (Atlanta) (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argentina-3-x-2-egito-veja-os-melhores-momentos-de-jogo-da-copa-do-mundo/)
+- Os Faraós chegaram a vencer por 2 a 0 com gols de Yasser Ibrahim e Mostafa Zico, e ainda contaram com pênalti perdido por Messi, mas cederam a virada nos minutos finais (fonte: mesma acima)
+- Postura mais reativa ficou evidente nos números: apenas 2 finalizações no gol contra 8 da Argentina, com 48 rebatidas defensivas ao longo da partida (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argentina-3-x-2-egito-veja-os-melhores-momentos-de-jogo-da-copa-do-mundo/)
+- **Repercussão / Próximo jogo:** Eliminação encerra a participação do Egito na Copa 2026, mas fecha uma campanha histórica — primeira vez que a seleção disputa oitavas de final de um Mundial.
+
 ## 📅 2026-07-07
 - Egito enfrenta a Argentina nesta terça (07/07), 13h de Brasília, no Mercedes-Benz Stadium, em Atlanta, pelas oitavas de final (fonte: https://www.lance.com.br/sites-de-apostas/palpites/copa-do-mundo-argentina-x-egito-07-07-2026.html)
 - Escalação provável em 4-2-3-1: Mostafa Shobeir; Mohamed Hany, Yasser Ibrahim, Ramy Rabia e Karim Hafez; Marwan Attia e Hamdi Fathy; Emam Ashour, Mohamed Salah e Mostafa Ziko; Omar Marmoush (fonte: https://www.ogol.com.br/jogo/2026-07-07-argentina-egipto/11841311)

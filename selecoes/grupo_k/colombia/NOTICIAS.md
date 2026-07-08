@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-08
+- Colômbia foi eliminada nas oitavas de final pela Suíça, após 0 a 0 no tempo normal e na prorrogação e derrota nos pênaltis por 4 a 3, terça (07/07), no BC Place (Vancouver) (fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760508/colombia-suica)
+- Davinson Sánchez acertou a trave e Cucho Hernández teve a cobrança defendida por Gregor Kobel, decidindo a eliminação nos pênaltis (fonte: mesma acima)
+- Jaminton Campaz desperdiçou a melhor chance da prorrogação, ficando cara a cara com o goleiro suíço e chutando para fora no 2º tempo extra (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/suica-x-colombia-veja-os-melhores-momentos-e-penaltis-do-jogo-da-copa/)
+- **Repercussão / Próximo jogo:** Fim de campanha da Colômbia na Copa 2026, após atuação de maior volume ofensivo no tempo normal mas falência na disputa de pênaltis.
+
 ## 📅 2026-07-07
 - Colômbia enfrenta a Suíça hoje (07/07), 17h de Brasília, no BC Place, em Vancouver, pelas oitavas de final (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/suica-x-colombia-confira-provaveis-escalacoes-horario-e-onde-assistir-202607061723)
 - Desfalque confirmado: o centroavante Jhon Córdoba está fora por lesão muscular grave na coxa (fonte: mesma acima)

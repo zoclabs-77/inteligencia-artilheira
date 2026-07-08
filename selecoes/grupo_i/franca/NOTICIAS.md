@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-08
+- França enfrenta o Marrocos nas quartas de final nesta quinta (09/07), às 17h de Brasília, no Gillette Stadium, em Boston (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/franca-marrocos-previa-jogo-copa-mundo-quartas)
+- Escalação provável: Mike Maignan; Jules Koundé, Dayot Upamecano, William Saliba e Lucas Digne; Manu Koné e Adrien Rabiot; Ousmane Dembélé, Michael Olise e Bradley Barcola; Kylian Mbappé (fonte: https://www.lance.com.br/copa-do-mundo/franca-pode-perder-astro-do-real-madrid-por-lesao-contra-marrocos-na-copa.html)
+- Desfalque confirmado: Aurélien Tchouaméni está fora por lesão na coxa (fonte: mesma acima)
+- Histórico do confronto favorece a França, com 4 vitórias e 2 empates em 6 jogos contra o Marrocos, incluindo o 2 a 0 na semifinal de 2022 (fonte: https://forbes.com.br/forbes-life/forbes-sport/2026/07/oitavas-copa-mundo-2026-franca-marrocos/)
+- **Repercussão / Próximo jogo:** França chega como favorita (odd 1.56 na Betfair) para o confronto de quinta contra o Marrocos, mesmo vindo de vitória sofrida por 1 a 0 sobre o Paraguai nas oitavas.
+
 ## 📅 2026-07-05
 - França venceu o Paraguai por 1 a 0, com gol de pênalti de Kylian Mbappé aos 70 minutos, e avançou às quartas de final (fonte: https://www.espn.com/soccer/story/_/id/49269293/paraguay-france-live-world-cup-2026-latest-updates-commentary-score-result)
 - Jogo truncado e de clima quente ("bad-tempered"), com arbitragem criticada por não coibir faltas duras dos paraguaios; ESPN descreveu como o teste mais difícil da França na competição até aqui (fonte: https://www.espn.com/soccer/story/_/id/49272197/france-kylian-mbappe-paraguay-world-cup-reaction-analysis)

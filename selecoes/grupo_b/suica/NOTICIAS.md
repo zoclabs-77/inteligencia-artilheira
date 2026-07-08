@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-08
+- Suíça avançou às quartas de final ao empatar em 0 a 0 com a Colômbia (tempo normal e prorrogação) e vencer nos pênaltis por 4 a 3, terça (07/07), no BC Place (Vancouver) (fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760508/colombia-suica)
+- Ruben Vargas converteu a cobrança decisiva depois de Davinson Sánchez acertar a trave e Cucho Hernández ter a cobrança defendida por Gregor Kobel (fonte: mesma acima)
+- Resultado leva a seleção suíça à sua primeira quarta de final de Copa do Mundo em mais de sete décadas (fonte: https://www.espn.com.br/futebol/partida/_/jogoId/760508/colombia-suica)
+- **Repercussão / Próximo jogo:** Suíça enfrenta a Argentina nas quartas de final, seleção que eliminou o Egito por 3 a 2 de virada.
+
 ## 📅 2026-07-07
 - Suíça enfrenta a Colômbia hoje (07/07), 17h de Brasília, no BC Place, em Vancouver, pelas oitavas de final (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/suica-x-colombia-confira-provaveis-escalacoes-horario-e-onde-assistir-202607061723)
 - Escalação provável: Kobel; Zakaria, Akanji, Elvedi e Rodriguez; Freuler e Xhaka; Ndoye, Manzambi e Vargas; Embolo, sob comando de Murat Yakin (fonte: https://www.goal.com/en-us/news/switzerland-colombia-world-cup-preview/blt0192e703fb9da60d)

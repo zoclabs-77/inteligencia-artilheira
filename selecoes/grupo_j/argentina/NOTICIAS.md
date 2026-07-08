@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-08
+- Argentina venceu o Egito por 3 a 2 de virada nas oitavas de final, terça (07/07), no Mercedes-Benz Stadium (Atlanta) — Egito chegou a vencer por 2 a 0 (Yasser Ibrahim e Mostafa Zico), mas Cristian Romero, Messi e Enzo Fernández viraram o placar (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argentina-3-x-2-egito-veja-os-melhores-momentos-de-jogo-da-copa-do-mundo/)
+- Messi desperdiçou um pênalti no primeiro tempo (defendido por Mostafa Shobeir), mas se redimiu empatando a partida aos 37 do 2º tempo antes da virada de Enzo Fernández (fonte: mesma acima)
+- Repercussão de torcedores nas redes foi dominada por críticas à arbitragem, com acusações de favorecimento à Argentina em lances polêmicos ("roubo", "assalto") (fonte: https://www.lance.com.br/fora-de-campo/decisao-de-arbitragem-em-argentina-x-egito-revolta-torcedores-roubo.html)
+- **Repercussão / Próximo jogo:** Classificada às quartas de final, a Argentina volta a campo contra a Suíça, que eliminou a Colômbia nos pênaltis (4-3) após 0 a 0.
+
 ## 📅 2026-07-07
 - Argentina enfrenta o Egito nesta terça (07/07), 13h de Brasília, no Mercedes-Benz Stadium, em Atlanta, pelas oitavas de final (fonte: https://www.terra.com.br/esportes/futebol/scaloni-usa-eliminacao-do-brasil-como-alerta-e-confirma-messi-para-duelo-contra-o-egito,5ba3e46ac33da48849b47d9375de50a18s8fke64.html)
 - Scaloni confirmou Messi titular e sem desgaste físico apesar dos 120 minutos disputados contra Cabo Verde: "Lionel está bem e vai jogar. Ele jogou os 120 minutos completos e não reclamou de nenhum cansaço" (fonte: mesma acima)

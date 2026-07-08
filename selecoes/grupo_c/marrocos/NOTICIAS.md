@@ -4,6 +4,13 @@
 
 ---
 
+## 📅 2026-07-08
+- Marrocos enfrenta a França nas quartas de final nesta quinta (09/07), às 17h de Brasília, no Gillette Stadium, em Boston (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/franca-marrocos-previa-jogo-copa-mundo-quartas)
+- Escalação provável: Yassine Bounou; Achraf Hakimi, Issa Diop, Halhal e Noussair Mazraoui; Ayyoub Bouaddi e Neil El Aynaoui; Brahim Díaz, Azzedine Ounahi e Bilal El Khannouss; Soufiane Rahimi (fonte: https://www.lance.com.br/copa-do-mundo/franca-pode-perder-astro-do-real-madrid-por-lesao-contra-marrocos-na-copa.html)
+- Dúvida física envolvendo Ismael Saibari para o confronto (fonte: mesma acima)
+- Marrocos chega embalado como a 1ª seleção a garantir vaga nas quartas desta Copa, mas o histórico do confronto pesa contra: 4 vitórias e 2 empates da França em 6 jogos, incluindo o 2 a 0 na semifinal de 2022 (fonte: https://forbes.com.br/forbes-life/forbes-sport/2026/07/oitavas-copa-mundo-2026-franca-marrocos/)
+- **Repercussão / Próximo jogo:** Apesar do momento positivo, Marrocos entra como azarão nas casas de apostas (odd 6.50 de vitória na Betfair) diante da favorita França.
+
 ## 📅 2026-07-05
 - Marrocos venceu o Canadá por 3 a 0 em Houston e se tornou a primeira seleção a garantir vaga nas quartas de final desta Copa (fonte: https://www.espn.com/soccer/story/_/id/49270266/morocco-defeat-co-hosts-canada-first-team-world-cup-quarterfinals-azzedine-ounahi-soufiane-rahimi)
 - Azzedine Ounahi marcou duas vezes (aos 50 e 82 minutos) — a 1ª após cobrança de falta de Achraf Hakimi, a 2ª em contra-ataque com assistência de Brahim Díaz — e foi o grande nome do jogo (fonte: mesma acima)

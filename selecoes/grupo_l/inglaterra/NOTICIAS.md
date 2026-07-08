@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-08
+- Inglaterra enfrenta a Noruega nas quartas de final no sábado (11/07), às 18h, no Hard Rock Stadium, em Miami — vaga direta às semifinais (fonte: https://www.lance.com.br/copa-do-mundo/noruega-x-inglaterra-data-horario-e-local-do-duelo-decisivo-na-copa-do-mundo.html)
+- Equipe de Tuchel chega após vencer o México por 3 a 2 nas oitavas, depois de liderar o Grupo L com vitórias sobre Croácia e Panamá e empate com Gana (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/proximo-jogo-da-noruega-na-copa-do-mundo-2026-saiba-data-horario-e-adversario,dbc2655a10f4a2ecc837919c51b5cc81umw4xp8n.html)
+- Principal ameaça do lado adversário é Erling Haaland, que soma 7 gols na competição e divide a artilharia com Messi e Mbappé, após eliminar o Brasil com dois gols nas oitavas (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Inglaterra chega em boa fase para o confronto direto por vaga nas semifinais, enquanto a Noruega lida com um surto de doença contagiosa no elenco às vésperas do jogo.
+
 ## 📅 2026-07-05
 - Bukayo Saka não sente mais dor no tendão de Aquiles e treinou em alto nível, estando pronto para jogar; Jude Bellingham está apto, elogiado por Tuchel por "comprar a ideia" do trabalho em equipe; Reece James e Jarell Quansah seguem em recuperação (fonte: https://www.espn.com/soccer/story/_/id/48701061/england-world-cup-2026-schedule-fixtures-results-scores-group-l-how-watch-uk-news-analysis-injuries e https://www.football365.com/news/england-ghana-saka-all-players-fit)
 - Tino Livramento havia se retirado da convocação na fase de grupos por lesão na panturrilha, substituído por Trevoh Chalobah (fonte: https://www.espn.com/soccer/story/_/id/48701061/england-world-cup-2026-schedule-fixtures-results-scores-group-l-how-watch-uk-news-analysis-injuries)
