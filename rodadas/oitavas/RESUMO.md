@@ -1,4 +1,11 @@
-# Oitavas de final — Resumo (atualizado em 2026-07-07)
+# Oitavas de final — Resumo (atualizado em 2026-07-08) — FASE ENCERRADA
+
+## Placares confirmados — 07/07 (últimos jogos da fase)
+
+- **Argentina 3 x 2 Egito** — Virada dramática no Mercedes-Benz Stadium (Atlanta). Egito saiu na frente com Yasser Ibrahim (14') e ampliou com Zico (66'), mas a Argentina buscou com Cuti Romero (79'), empatou com Messi (83') e virou com Enzo Fernández nos acréscimos (91'). Argentina avança às quartas.
+- **Suíça 0 x 0 Colômbia (Suíça venceu nos pênaltis por 4-3)** — Sem gols no tempo normal, em Vancouver. Davinson Sánchez desperdiçou a primeira cobrança colombiana (bola na trave) e a Suíça converteu para fechar a série em 4-3. Suíça avança às quartas 72 anos depois.
+
+Com esses dois jogos, a fase de oitavas está encerrada (8 confrontos, ids 89-96).
 
 ## Placares confirmados — 06/07
 
@@ -14,6 +21,16 @@
 
 - **Paraguai 0 x 1 França** — Único gol da partida saiu de pênalti convertido por Mbappé aos 25' do 2º tempo, no Lincoln Financial Field (Filadélfia). Paraguai jogou fechado, mas não teve poder de fogo para reagir e encerra sua histórica campanha na Copa. França avança às quartas.
 - **Canadá 0 x 3 Marrocos** — Azzedine Ounahi fez dois gols (aos 50' e 82') e Soufiane Rahimi fechou a conta nos acréscimos (98'), em Houston. Canadá, um dos anfitriões do Mundial, é o primeiro país-sede eliminado na Copa de 2026.
+
+## Palpites × Resultado — 07/07 (jogos 95-96)
+
+| # | Jogo | Claude | Codex | Baseline | Real | Cla | Cdx | Base |
+|---|---|---|---|---|---|---|---|---|
+| 95 | Argentina x Egito | 2-1 | 2-1 | 1-0 | **3-2** | 2 | 2 | 2 |
+| 96 | Suíça x Colômbia | 0-1 | 1-2 | 0-1 | **0-0** (pen. Suíça) | 0 | 0 | 0 |
+| | **Total do lote** | | | | | **2** | **2** | **2** |
+
+Nenhum modelo cravou placar exato no lote — os três acertaram o saldo de Argentina x Egito (+1), mas nenhum previu o 0-0 no tempo normal de Suíça x Colômbia (todos apostaram em vitória colombiana). Como o jogo foi para os pênaltis, o Baseline — que vinha de sequência sólida sempre no favorito do ranking — também zerou e virou "mico" da rodada.
 
 ## Palpites × Resultado — 06/07 (jogos 93-94)
 
@@ -45,25 +62,26 @@ A zebra do dia: **os três modelos cravaram vitória do Brasil sobre a Noruega**
 
 ⭐ = placar exato (3 pts). Baseline cravou o 0-1 exato de Paraguai x França e lidera o lote (4 pts). Os três modelos acertaram o vencedor nas duas partidas, mas subestimaram a margem de Marrocos sobre o Canadá (3-0 real vs 1-1 previsto por Claude/Codex e 0-1 pelo Baseline). Sem zebras no dia — os dois favoritos (França e Marrocos) confirmaram o favoritismo.
 
-## Placar geral acumulado (grupos + 16avos + oitavas)
+## Placar geral acumulado (grupos + 16avos + oitavas — fase encerrada)
 
-| Modelo | Pts nas oitavas | Total acumulado | Placares exatos (acum.) | Acertos resultado (acum.) |
+| Modelo | Pts nas oitavas (8 jogos) | Total acumulado | Placares exatos (acum.) | Acertos resultado (acum.) |
 |---|---|---|---|---|
-| **Codex** | 6 | **109** | 15 | 64 |
-| **Claude** | 6 | **98** | 12 | 60 |
-| **Baseline** | 10 | **93** | 10 | 61 |
+| **Codex** | 8 | **111** | 15 | 65 |
+| **Claude** | 8 | **100** | 12 | 61 |
+| **Baseline** | 12 | **95** | 10 | 62 |
 
 > Pontuação: placar exato = 3 · vencedor + saldo certo = 2 · só o vencedor/empate = 1 · errou = 0. Totais via `copa.placar_geral`.
 
 ## Destaques
 
+- **OITAVAS ENCERRADAS — ARGENTINA E SUÍÇA CONFIRMAM VAGA NAS QUARTAS (07/07):** Argentina venceu de virada por 3x2 o Egito, com gol de Enzo Fernández nos acréscimos após Messi buscar o empate. Suíça e Colômbia não saíram do 0x0 no tempo normal, e a Suíça avançou nos pênaltis (4-3) — Davinson Sánchez desperdiçou a primeira cobrança colombiana. Os três modelos acertaram o saldo de Argentina x Egito, mas nenhum previu o empate/disputa de pênaltis em Suíça x Colômbia; o Baseline, favorito da fase, zerou nesse confronto e fechou como "mico" do último lote.
 - **BÉLGICA GOLEIA E ELIMINA OS EUA EM CASA (06/07):** De Ketelaere (2), Vanaken e Lukaku (acréscimos) fizeram 4x1 em Seattle, com Tillman anotando o único gol americano. Claude e Codex cravaram vitória dos EUA por 2-1 e zeraram; só o Baseline (favorito do ranking) acertou o vencedor.
 - **ESPANHA CONFIRMA FAVORITISMO NO CLÁSSICO IBÉRICO (06/07):** 1x0 sobre Portugal em Arlington/TX elimina CR7 da Copa; Baseline cravou o placar exato, Claude e Codex acertaram o saldo.
 - **ZEBRA: BRASIL CAI PARA A NORUEGA (05/07):** Haaland decidiu nos minutos finais e eliminou o Brasil, favorito nas casas de aposta e nos três modelos — Claude, Codex e Baseline apostaram todos em vitória brasileira e zeraram a partida. Bruno Guimarães perdeu pênalti antes de Neymar descontar já nos acréscimos.
 - **MÉXICO CAI EM CASA PELA 1ª VEZ EM COPAS (05/07):** Inglaterra bateu o México por 3x2 no Azteca mesmo com um jogador a menos boa parte do 2º tempo. Bellingham (2), Kane e Jiménez de pênalti movimentaram o placar; os três modelos acertaram o saldo, mas nenhum cravou o 2-3 exato.
 - **MBAPPÉ DE NOVO (04/07):** Único gol da partida contra o Paraguai saiu de pênalti convertido por Mbappé, que segue artilheiro isolado do mata-mata. França avança sem sustos.
 - **CANADÁ, PRIMEIRO ANFITRIÃO ELIMINADO (04/07):** Ounahi brilhou com dois gols e Marrocos goleou por 3x0 em Houston, encerrando a campanha canadense como país-sede. Nenhum modelo previu a goleada — todos cravaram vitória marroquina apertada.
-- Próximos jogos das oitavas: Argentina x Egito e Suíça x Colômbia (07/07) — últimos confrontos da fase.
+- Próxima fase: quartas de final. França x Marrocos (09/07) e Noruega x Inglaterra (10/07) já confirmados no calendário; os confrontos de Espanha x Bélgica e Argentina/Suíça ainda serão cadastrados.
 
 ---
 **ZocLabs 🧪 — Inteligência Artilheira**
