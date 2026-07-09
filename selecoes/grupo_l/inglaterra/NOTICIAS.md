@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-09
+- Tuchel, em coletiva após a vitória sobre o México, já projetou o duelo com a Noruega, destacando a importância de o grupo descansar bem nos próximos dias para chegar em condições físicas ao confronto (fonte: https://br.bolavip.com/copa-do-mundo/tuchel-enaltece-vitoria-da-inglaterra-contra-o-mexico-e-projeta-duelo-diante-da-noruega-pela-copa-do-mundo)
+- Escalação provável: Pickford; Spence, Konsa, Guéhi e O'Reilly; Rice, Anderson, Saka, Gordon e Bellingham; Kane (fonte: https://www.365scores.com/pt-br/news/magazine/noruega-x-inglaterra-escalacoes-analise-copa/)
+- Noruega, adversária de sábado, lida com surto de gripe no elenco às vésperas do jogo, com o atacante Jorgen Strand Larsen como caso mais sensível (febre) (fonte: https://www.infomoney.com.br/esportes/noruega-tem-surto-de-gripe-apos-eliminar-brasil-e-antes-de-enfrentar-inglaterra/)
+- **Repercussão / Próximo jogo:** Inglaterra encara a Noruega no sábado (11/07), 18h de Brasília, no Hard Rock Stadium (Miami), em confronto direto por vaga na semifinal — Tuchel prioriza a recuperação física do grupo após o jogo contra o México.
+
 ## 📅 2026-07-08
 - Inglaterra enfrenta a Noruega nas quartas de final no sábado (11/07), às 18h, no Hard Rock Stadium, em Miami — vaga direta às semifinais (fonte: https://www.lance.com.br/copa-do-mundo/noruega-x-inglaterra-data-horario-e-local-do-duelo-decisivo-na-copa-do-mundo.html)
 - Equipe de Tuchel chega após vencer o México por 3 a 2 nas oitavas, depois de liderar o Grupo L com vitórias sobre Croácia e Panamá e empate com Gana (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/proximo-jogo-da-noruega-na-copa-do-mundo-2026-saiba-data-horario-e-adversario,dbc2655a10f4a2ecc837919c51b5cc81umw4xp8n.html)

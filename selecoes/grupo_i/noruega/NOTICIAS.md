@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-09
+- Surto de gripe no elenco segue sendo monitorado às vésperas do jogo com a Inglaterra: técnico Ståle Solbakken confirmou sintomas como tosse, rouquidão e febre em parte do grupo (fonte: https://www.infomoney.com.br/esportes/noruega-tem-surto-de-gripe-apos-eliminar-brasil-e-antes-de-enfrentar-inglaterra/)
+- O atacante Jorgen Strand Larsen foi o caso mais sensível, com febre e ausência de sessões de treino, mas Solbakken afirmou que a situação "vem evoluindo positivamente" (fonte: https://www.goal.com/en-us/lists/norway-team-doctor-provides-update-on-sickness-bug-reports-as-thunderstorms-threat-looms-over-england-world-cup-quarter-final-clash/blte712c3eeb6c6ff7a)
+- Escalação provável: Nyland; Ryerson, Ajer, Heggem e Wolfe; Berge, Odegaard e Berg; Sorloth, Nusa e Haaland (fonte: https://www.365scores.com/pt-br/news/magazine/noruega-x-inglaterra-escalacoes-analise-copa/)
+- **Repercussão / Próximo jogo:** Noruega enfrenta a Inglaterra no sábado (11/07), 18h de Brasília, no Hard Rock Stadium (Miami), lidando com o surto de gripe no grupo às vésperas do maior jogo da sua história recente.
+
 ## 📅 2026-07-08
 - Noruega enfrenta a Inglaterra nas quartas de final no sábado (11/07), às 18h, no Hard Rock Stadium, em Miami — vaga direta às semifinais (fonte: https://www.lance.com.br/copa-do-mundo/noruega-x-inglaterra-data-horario-e-local-do-duelo-decisivo-na-copa-do-mundo.html)
 - Chega embalada após eliminar o Brasil por 2 a 0 nas oitavas, com dois gols de Erling Haaland, que soma 7 gols na competição e divide a artilharia com Messi e Mbappé (fonte: https://www.terra.com.br/esportes/futebol/copa-2026/proximo-jogo-da-noruega-na-copa-do-mundo-2026-saiba-data-horario-e-adversario,dbc2655a10f4a2ecc837919c51b5cc81umw4xp8n.html)

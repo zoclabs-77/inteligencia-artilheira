@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-09
+- Escalação provável mantida para as quartas: Maignan; Koundé, Saliba, Upamecano e Digne; Tchouaméni, Rabiot e Olise; Dembélé, Doué e Mbappé — Doué segue na vaga de Barcola e Tchouaméni, recuperado de lesão na coxa, tende a ser titular (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/franca-e-marrocos-tem-duvidas-no-ataque-veja-provaveis-escalacoes-202607082152)
+- Coletiva de Deschamps em Boston terminou em clima tenso: jornalistas marroquinos protestaram por falta de espaço para perguntas; o técnico já estava saindo, mas voltou ao pódio e respondeu mais uma pergunta antes de ir embora (fonte: https://www.torcedores.com/noticias/2026/07/protesto-de-jornalistas-marroquinos-gera-tensao-em-coletiva-de-deschamps-antes-de-franca-x-marrocos)
+- Deschamps evitou subestimar o Marrocos, comparando-o a um adversário mais difícil que o Paraguai, citando o vice-campeonato na CAN há 4 anos e classificando o rival como um time "que gosta de posse e de atacar" (fonte: https://somosfanaticos.fans/br/copa-do-mundo/deschamps-elogia-marrocos-diminui-favoritismo-na-copa-e-destaca-fator-chave-para-a-franca)
+- **Repercussão / Próximo jogo:** França e Marrocos se enfrentam nesta quinta (09/07), 17h de Brasília, em Boston, valendo vaga na semifinal.
+
 ## 📅 2026-07-08
 - França enfrenta o Marrocos nas quartas de final nesta quinta (09/07), às 17h de Brasília, no Gillette Stadium, em Boston (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/franca-marrocos-previa-jogo-copa-mundo-quartas)
 - Escalação provável: Mike Maignan; Jules Koundé, Dayot Upamecano, William Saliba e Lucas Digne; Manu Koné e Adrien Rabiot; Ousmane Dembélé, Michael Olise e Bradley Barcola; Kylian Mbappé (fonte: https://www.lance.com.br/copa-do-mundo/franca-pode-perder-astro-do-real-madrid-por-lesao-contra-marrocos-na-copa.html)

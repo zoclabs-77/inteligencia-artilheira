@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-09
+- Escalação provável: Bono; Hakimi, Diop, Riad, Mazraoui; El Aynaoui, Bouaddi; Díaz, Ounahi, El Khannouss; Rahimi — técnico Mohamed Ouahbi deixa Ismael Saibari no banco, com Soufiane Rahimi assumindo a vaga no ataque após lesão no tendão da coxa sofrida contra o Canadá (fonte: https://www.goal.com/br/not%C3%ADcias/provavel-escalacao-do-marrocos-saibari-sera-titular-contra-a-franca/bltda3bb98284c47a64)
+- Coletiva de Deschamps na véspera do jogo terminou em tensão: jornalistas marroquinos protestaram por não terem recebido espaço para perguntas, e o técnico francês voltou ao pódio para responder mais uma pergunta antes de sair (fonte: https://www.torcedores.com/noticias/2026/07/protesto-de-jornalistas-marroquinos-gera-tensao-em-coletiva-de-deschamps-antes-de-franca-x-marrocos)
+- Deschamps evitou subestimar o Marrocos, destacando o vice-campeonato na CAN há 4 anos e classificando o adversário como um time "que gosta de posse e de atacar" (fonte: https://somosfanaticos.fans/br/copa-do-mundo/deschamps-elogia-marrocos-diminui-favoritismo-na-copa-e-destaca-fator-chave-para-a-franca)
+- **Repercussão / Próximo jogo:** Marrocos entra em campo hoje (09/07), 17h de Brasília, em Boston, como azarão diante da França, mas com moral elevada por ter sido a 1ª seleção classificada às quartas de final.
+
 ## 📅 2026-07-08
 - Marrocos enfrenta a França nas quartas de final nesta quinta (09/07), às 17h de Brasília, no Gillette Stadium, em Boston (fonte: https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/franca-marrocos-previa-jogo-copa-mundo-quartas)
 - Escalação provável: Yassine Bounou; Achraf Hakimi, Issa Diop, Halhal e Noussair Mazraoui; Ayyoub Bouaddi e Neil El Aynaoui; Brahim Díaz, Azzedine Ounahi e Bilal El Khannouss; Soufiane Rahimi (fonte: https://www.lance.com.br/copa-do-mundo/franca-pode-perder-astro-do-real-madrid-por-lesao-contra-marrocos-na-copa.html)
