@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-10
+- Marrocos foi eliminado da Copa 2026 nas quartas de final, perdendo por 2x0 para a França em Boston, sob comando do técnico Walid Regragui (fonte: https://www.metropoles.com/esportes/ao-vivo/copa-do-mundo-2026/2026-07-09/franca-vs-marrocos)
+- Torcida marroquina chegou a comemorar o pênalti perdido por Mbappé quase como um gol, mas o clima virou silêncio e lágrimas nas arquibancadas após os gols de Mbappé e Dembélé (fonte: https://es-us.noticias.yahoo.com/deportes/francia-agu%C3%B3-fiesta-marruecos-232425865.html)
+- **Repercussão / Próximo jogo:** Marrocos encerra sua campanha nas quartas de final, repetindo a fase alcançada em 2022, sem sequência na competição.
+
 ## 📅 2026-07-09
 - Escalação provável: Bono; Hakimi, Diop, Riad, Mazraoui; El Aynaoui, Bouaddi; Díaz, Ounahi, El Khannouss; Rahimi — técnico Mohamed Ouahbi deixa Ismael Saibari no banco, com Soufiane Rahimi assumindo a vaga no ataque após lesão no tendão da coxa sofrida contra o Canadá (fonte: https://www.goal.com/br/not%C3%ADcias/provavel-escalacao-do-marrocos-saibari-sera-titular-contra-a-franca/bltda3bb98284c47a64)
 - Coletiva de Deschamps na véspera do jogo terminou em tensão: jornalistas marroquinos protestaram por não terem recebido espaço para perguntas, e o técnico francês voltou ao pódio para responder mais uma pergunta antes de sair (fonte: https://www.torcedores.com/noticias/2026/07/protesto-de-jornalistas-marroquinos-gera-tensao-em-coletiva-de-deschamps-antes-de-franca-x-marrocos)

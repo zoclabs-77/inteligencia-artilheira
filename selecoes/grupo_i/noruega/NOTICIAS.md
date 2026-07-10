@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-10
+- Escalação provável divulgada para o duelo de sábado: Nyland; Ryerson, Ajer, Heggem e Wolfe; Berg, Berge e Odegaard; Sorloth, Haaland e Nusa, com Ståle Solbakken mantendo a base que eliminou o Brasil (fonte: https://www.365scores.com/pt-br/news/magazine/noruega-x-inglaterra-escalacoes-analise-copa/)
+- Técnico Ståle Solbakken elogiou Erling Haaland como "único", dizendo que "nunca houve um atleta que jogasse futebol desta forma antes" e destacando que o atacante "sabe como pode ajudar a equipe" sem precisar se exibir (fonte: https://www.vietnam.vn/pt/hlv-solbakken-khen-haaland-hay-doc-nhat-vo-nhi-thu-tuong-na-uy-noi-dieu-dac-biet)
+- Haaland soma 7 gols na competição e comanda a campanha mais longa da Noruega desde o retorno às Copas após 28 anos de ausência (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Noruega enfrenta a Inglaterra neste sábado (11/07), 18h de Brasília, no Hard Rock Stadium (Miami), pela 1ª vaga em semifinal da história da seleção.
+
 ## 📅 2026-07-09
 - Surto de gripe no elenco segue sendo monitorado às vésperas do jogo com a Inglaterra: técnico Ståle Solbakken confirmou sintomas como tosse, rouquidão e febre em parte do grupo (fonte: https://www.infomoney.com.br/esportes/noruega-tem-surto-de-gripe-apos-eliminar-brasil-e-antes-de-enfrentar-inglaterra/)
 - O atacante Jorgen Strand Larsen foi o caso mais sensível, com febre e ausência de sessões de treino, mas Solbakken afirmou que a situação "vem evoluindo positivamente" (fonte: https://www.goal.com/en-us/lists/norway-team-doctor-provides-update-on-sickness-bug-reports-as-thunderstorms-threat-looms-over-england-world-cup-quarter-final-clash/blte712c3eeb6c6ff7a)

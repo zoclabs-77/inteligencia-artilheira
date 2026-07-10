@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-10
+- França venceu o Marrocos por 2x0 em Boston e se tornou a 1ª seleção classificada às semifinais da Copa 2026 (fonte: https://exame.com/esporte/franca-vence-marrocos-por-2x0-e-avanca-para-semifinais-da-copa-do-mundo/)
+- Kylian Mbappé abriu o placar, mas desperdiçou um pênalti aos 27 min do 1º tempo defendido por Bounou; se redimiu com um golaço aos 15 min da etapa final (fonte: https://www.olympics.com/pt/noticias/copa-do-mundo-2026-franca-marrocos-resumo-estatisticas-pos-jogo)
+- Ousmane Dembélé ampliou o placar para 2x0, fechando a conta da partida (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** França avança para a semifinal e aguarda o vencedor de Espanha x Bélgica, chegando embalada por Mbappé mesmo com o pênalti perdido.
+
 ## 📅 2026-07-09
 - Escalação provável mantida para as quartas: Maignan; Koundé, Saliba, Upamecano e Digne; Tchouaméni, Rabiot e Olise; Dembélé, Doué e Mbappé — Doué segue na vaga de Barcola e Tchouaméni, recuperado de lesão na coxa, tende a ser titular (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/franca-e-marrocos-tem-duvidas-no-ataque-veja-provaveis-escalacoes-202607082152)
 - Coletiva de Deschamps em Boston terminou em clima tenso: jornalistas marroquinos protestaram por falta de espaço para perguntas; o técnico já estava saindo, mas voltou ao pódio e respondeu mais uma pergunta antes de ir embora (fonte: https://www.torcedores.com/noticias/2026/07/protesto-de-jornalistas-marroquinos-gera-tensao-em-coletiva-de-deschamps-antes-de-franca-x-marrocos)

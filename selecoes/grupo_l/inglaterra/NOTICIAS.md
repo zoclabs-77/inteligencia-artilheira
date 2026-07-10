@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-10
+- Zagueiro titular Marc Guéhi, presente em todos os jogos da Inglaterra na Copa, sofreu distensão na parte posterior da coxa na vitória sobre o México e foi reavaliado nesta sexta (10/07), com tendência de ser preservado caso não treine normalmente (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/inglaterra-pode-perder-zagueiro-titular-contra-haaland-nas-quartas-da-copa/)
+- Reece James voltou a treinar com o restante do elenco pela 1ª vez desde a lesão na coxa sofrida no empate sem gols com Gana, e pode reforçar a equipe (fonte: mesma acima)
+- Declan Rice voltou a desfalcar os treinos, em recuperação de uma virose que agravou um desconforto neural na coxa e na lombar (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Inglaterra enfrenta a Noruega neste sábado (11/07), 18h de Brasília, no Hard Rock Stadium (Miami), com Tuchel monitorando a condição física de Guéhi e a possível volta de Reece James.
+
 ## 📅 2026-07-09
 - Tuchel, em coletiva após a vitória sobre o México, já projetou o duelo com a Noruega, destacando a importância de o grupo descansar bem nos próximos dias para chegar em condições físicas ao confronto (fonte: https://br.bolavip.com/copa-do-mundo/tuchel-enaltece-vitoria-da-inglaterra-contra-o-mexico-e-projeta-duelo-diante-da-noruega-pela-copa-do-mundo)
 - Escalação provável: Pickford; Spence, Konsa, Guéhi e O'Reilly; Rice, Anderson, Saka, Gordon e Bellingham; Kane (fonte: https://www.365scores.com/pt-br/news/magazine/noruega-x-inglaterra-escalacoes-analise-copa/)
