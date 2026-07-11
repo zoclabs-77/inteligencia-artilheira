@@ -4,6 +4,11 @@
 
 ---
 
+## 📅 2026-07-11
+- Escalação provável mantida para o confronto de hoje: Nyland; Ryerson, Ajer, Heggem e Wolfe; Berg, Berge e Odegaard; Sorloth, Haaland e Nusa, sem baixas por lesão ou suspensão (fonte: https://www.band.com.br/esportes/futebol/copa-do-mundo/noticias/noruega-e-inglaterra-devem-ter-forca-maxima-veja-provaveis-escalacoes-202607101648)
+- Diferente da Inglaterra, que lida com o desfalque de Henderson (fraturado) e a suspensão de Quansah, a Noruega chega às quartas sem problemas de elenco, com o surto de gripe da semana controlado (fonte: mesma acima)
+- **Repercussão / Próximo jogo:** Noruega enfrenta a Inglaterra hoje (11/07), no Hard Rock Stadium (Miami), pelas quartas de final — 1ª vaga em semifinal de Copa da história da seleção em jogo.
+
 ## 📅 2026-07-10
 - Escalação provável divulgada para o duelo de sábado: Nyland; Ryerson, Ajer, Heggem e Wolfe; Berg, Berge e Odegaard; Sorloth, Haaland e Nusa, com Ståle Solbakken mantendo a base que eliminou o Brasil (fonte: https://www.365scores.com/pt-br/news/magazine/noruega-x-inglaterra-escalacoes-analise-copa/)
 - Técnico Ståle Solbakken elogiou Erling Haaland como "único", dizendo que "nunca houve um atleta que jogasse futebol desta forma antes" e destacando que o atacante "sabe como pode ajudar a equipe" sem precisar se exibir (fonte: https://www.vietnam.vn/pt/hlv-solbakken-khen-haaland-hay-doc-nhat-vo-nhi-thu-tuong-na-uy-noi-dieu-dac-biet)

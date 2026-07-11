@@ -4,6 +4,12 @@
 
 ---
 
+## 📅 2026-07-11
+- Jordan Henderson, 36, está fora do restante da Copa: fraturou o braço esquerdo ao pular sobre as placas publicitárias do Azteca comemorando a vitória sobre o México nas oitavas, foi levado de maca ao hospital e passará por cirurgia (fonte: https://www.terra.com.br/esportes/futebol/henderson-fratura-o-braco-passara-por-cirurgia-e-desfalca-a-inglaterra-na-reta-final-da-copa,5e5b39d918e3e95b088f12496082c1cdo6a9w5br.html)
+- Jarell Quansah foi suspenso pela FIFA por dois jogos após expulsão (revisão de VAR, entrada dura em Jesús Gallardo) na vitória sobre o México; desfalca a Inglaterra hoje contra a Noruega e também ficaria fora de uma eventual semifinal (fonte: https://www.espn.com/soccer/story/_/id/49315827/england-jarell-quansah-suspended-two-world-cup-matches-mexico-red)
+- Escalação provável para hoje resolve as dúvidas do fim de semana a favor da equipe: Pickford; Spence, Guéhi, Konsa e O'Reilly; Rice e Anderson; Saka, Bellingham e Gordon; Kane — Guéhi (coxa) e Rice (virose) aparecem confirmados como titulares (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/noruega-x-inglaterra-provaveis-escalacoes-e-onde-assistir/)
+- **Repercussão / Próximo jogo:** Inglaterra encara a Noruega hoje (11/07), no Hard Rock Stadium (Miami), pelas quartas de final, desfalcada de Henderson e Quansah mas com Guéhi e Rice liberados por Tuchel.
+
 ## 📅 2026-07-10
 - Zagueiro titular Marc Guéhi, presente em todos os jogos da Inglaterra na Copa, sofreu distensão na parte posterior da coxa na vitória sobre o México e foi reavaliado nesta sexta (10/07), com tendência de ser preservado caso não treine normalmente (fonte: https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/inglaterra-pode-perder-zagueiro-titular-contra-haaland-nas-quartas-da-copa/)
 - Reece James voltou a treinar com o restante do elenco pela 1ª vez desde a lesão na coxa sofrida no empate sem gols com Gana, e pode reforçar a equipe (fonte: mesma acima)
